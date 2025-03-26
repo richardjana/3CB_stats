@@ -1,4 +1,4 @@
-from flask import Flask, make_response
+from flask import Flask, jsonify, make_response, request
 from flask_cors import CORS, cross_origin
 import json
 
@@ -9,6 +9,9 @@ origin = '*'
 headers = ['Content-Type', 'user-name', 'x-api-key']
 
 def check_API_key(headers):
+    if (headers.get('x-api-key') is None) or (headers.get('user-name') is None):
+        return False
+
     with open('api_keys.json', 'r') as file:
         api_keys = json.load(file)
 
