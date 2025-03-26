@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Dark Depths",
+                "Meddling Mage",
+                "Maelstrom Pulse"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Dark Depths",
+                "Vampire Hexmage",
+                "Dread Fugue"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Sterni",
+            "cards": [
+                "Cruelclaw's Heist",
+                "The Tabernacle at Pendrell Vale",
+                "Oko, Thief of Crowns"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Dark Depths",
+                "Maze of Ith",
+                "Oko, Thief of Crowns"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Tidehollow Sculler",
+                "Reflector Mage"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Leyline of the Meek",
+                "Leyline of the Meek",
+                "Leyline of the Meek"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Moët",
+            "cards": [
+                "Anointed Peacekeeper",
+                "Black Lotus",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Dark Depths",
+                "Vampire Hexmage",
+                "Davriel Rogue Shadowmage"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Dark Depths",
+                "Vampire Hexmage",
+                "Reanimate"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "City of Traitors",
+                "Smuggler's Copter",
+                "Smuggler's Copter"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Dark Depths",
+                "Cruelclaw's Heist",
+                "Archmage's Charm"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                0,
+                0,
+                6,
+                0,
+                3,
+                3,
+                6,
+                1,
+                25
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                1,
+                3,
+                6,
+                0,
+                3,
+                2,
+                6,
+                1,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                3,
+                39
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                4,
+                3,
+                0,
+                3,
+                3,
+                6,
+                3,
+                6,
+                6,
+                3,
+                43
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                3,
+                0,
+                3,
+                0,
+                0,
+                0,
+                3,
+                3,
+                2,
+                3,
+                23
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                6,
+                0,
+                6,
+                0,
+                0,
+                2,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                2,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                6,
+                3,
+                3,
+                6,
+                0,
+                0,
+                4,
+                6,
+                3,
+                37
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                2,
+                3,
+                0,
+                3,
+                6,
+                0,
+                1,
+                0,
+                6,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                4,
+                4,
+                3,
+                3,
+                3,
+                6,
+                0,
+                3,
+                3,
+                6,
+                0,
+                35
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175623-neuauflage-3-cards-blind-runde-119/"
+}

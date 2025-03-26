@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Serra Ascendant",
+                "Lightning Bolt",
+                "Plateau"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Trinisphere",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Death's Shadow",
+                "Distress"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "IMP",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Desert",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Mishra's Workshop",
+                "Trinisphere",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mishras Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Chancellor of the Dross",
+                "Serra Ascendant",
+                "Cavern of Souls"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Serra Ascendant",
+                "Mox Pearl",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Elite Spellbinder"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Pact of Negation",
+                "Gideon of the Trials",
+                "Black Lotus"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                2,
+                2,
+                18
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                3,
+                16
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                3,
+                0,
+                0,
+                3,
+                2,
+                0,
+                0,
+                0,
+                0,
+                3,
+                17
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                2,
+                3,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                3,
+                16
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                2,
+                6,
+                2,
+                0,
+                6,
+                1,
+                6,
+                0,
+                0,
+                35
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                2,
+                6,
+                0,
+                6,
+                4,
+                0,
+                0,
+                6,
+                6,
+                0,
+                32
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                6,
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                2,
+                0,
+                0,
+                36
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                3,
+                3,
+                6,
+                3,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                41
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169906-neuauflage-3-cards-blind-runde-53/"
+}

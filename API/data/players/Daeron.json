@@ -1,0 +1,98 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 3
+        },
+        {
+            "card": "Alpine Moon",
+            "count": 2
+        },
+        {
+            "card": "Approach of the Second Sun",
+            "count": 2
+        },
+        {
+            "card": "Cathedral of War",
+            "count": 2
+        },
+        {
+            "card": "Inkmoth Nexus",
+            "count": 2
+        }
+    ],
+    "n_rounds_played": 10,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "GoDJi8",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Thoradin",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hug77",
+            "score": -4.8,
+            "n_matches": 10
+        },
+        {
+            "player": "Schniggi",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Michael W",
+            "score": -2.0,
+            "n_matches": 9
+        }
+    ],
+    "elo": 1666.558000670436,
+    "score_average": 44.28635253635254,
+    "score_total": 442.86352536352535,
+    "score_list": [
+        {
+            "round": 100,
+            "score": 34.523809523809526
+        },
+        {
+            "round": 101,
+            "score": 44.44444444444444
+        },
+        {
+            "round": 102,
+            "score": 52.56410256410257
+        },
+        {
+            "round": 103,
+            "score": 41.66666666666667
+        },
+        {
+            "round": 104,
+            "score": 51.515151515151516
+        },
+        {
+            "round": 116,
+            "score": 13.333333333333334
+        },
+        {
+            "round": 118,
+            "score": 70.83333333333334
+        },
+        {
+            "round": 120,
+            "score": 69.69696969696969
+        },
+        {
+            "round": 121,
+            "score": 14.285714285714285
+        },
+        {
+            "round": 125,
+            "score": 50.0
+        }
+    ]
+}

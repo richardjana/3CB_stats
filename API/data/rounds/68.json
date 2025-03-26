@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Chancellor of the Dross"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Tolarian Academy",
+                "Karn Liberated",
+                "Tezzeret, Betrayer of Flesh"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Near-Death Experience",
+                "Pact of Negation",
+                "Force of Negation"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Chancellor of the Dross"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Galvanic Blast",
+                "Galvanic Blast",
+                "Galvanic Blast"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Angel of Sanctions"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "IMP",
+            "cards": [
+                "Black Lotus",
+                "Colossus Hammer",
+                "Kor Outfitter"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Chancellor of the Dross"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                6,
+                3,
+                18
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                2,
+                34
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                1,
+                3,
+                3,
+                28
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                2,
+                6,
+                6,
+                0,
+                2,
+                2,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                4,
+                2,
+                0,
+                2,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                3,
+                2,
+                2,
+                0,
+                0,
+                13
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                3,
+                2,
+                6,
+                3,
+                6,
+                6,
+                6,
+                0,
+                38
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171423-neuauflage-3-cards-blind-runde-68/"
+}

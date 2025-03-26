@@ -1,0 +1,66 @@
+{
+    "cards": [
+        {
+            "card": "Mishra's Factory",
+            "count": 2
+        },
+        {
+            "card": "Basking Rootwalla",
+            "count": 1
+        },
+        {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Liliana of the Veil",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "the green one",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Haakon, Geißel der anderen",
+            "score": -4.5,
+            "n_matches": 2
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "thiefAaron",
+            "score": 0.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1646.7790254423564,
+    "score_average": 52.46212121212121,
+    "score_total": 104.92424242424242,
+    "score_list": [
+        {
+            "round": 1,
+            "score": 42.42424242424242
+        },
+        {
+            "round": 2,
+            "score": 62.5
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "cards": [
+        {
+            "card": "Stifle",
+            "count": 1
+        },
+        {
+            "card": "Subterranean Hangar",
+            "count": 1
+        },
+        {
+            "card": "Thousand-Faced Shadow",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        },
+        {
+            "card": "Weathered Sentinels",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 5,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Master_of_Desaster",
+            "score": -6.0,
+            "n_matches": 4
+        },
+        {
+            "player": "Kratos Aurion",
+            "score": -4.8,
+            "n_matches": 5
+        },
+        {
+            "player": "Michael W",
+            "score": -3.6,
+            "n_matches": 5
+        },
+        {
+            "player": "NumiChan",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Bongoking",
+            "score": -3.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1618.8982724711398,
+    "score_average": 34.18686868686869,
+    "score_total": 170.93434343434345,
+    "score_list": [
+        {
+            "round": 49,
+            "score": 15.0
+        },
+        {
+            "round": 50,
+            "score": 24.242424242424242
+        },
+        {
+            "round": 52,
+            "score": 42.42424242424242
+        },
+        {
+            "round": 54,
+            "score": 37.87878787878788
+        },
+        {
+            "round": 55,
+            "score": 51.38888888888889
+        }
+    ]
+}

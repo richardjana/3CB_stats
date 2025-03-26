@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Wasteland",
+                "Karakas",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Bloated Contaminator",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "As Foretold",
+                "Weatherseed Treefolk"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Orzhov Basilica",
+                "Volrath's Stronghold",
+                "Necrotic Sliver"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Rose Tyler",
+                "Pithing Needle"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Wasteland",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Dark Depths",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Emrakul, the Aeons Torn",
+                "Shelldock Isle"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Liliana of the Veil",
+                "Nether Spirit"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "lordfire",
+            "cards": [
+                "City of Traitors",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Dark Depths",
+                "Urborg, Tomb of Yawgmoth",
+                "Vampire Hexmage"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                3,
+                6,
+                0,
+                2,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                3,
+                6,
+                0,
+                39
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                3,
+                6,
+                0,
+                2,
+                6,
+                41
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                3,
+                0,
+                0,
+                4,
+                1,
+                6,
+                4,
+                33
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                1,
+                0,
+                6,
+                6,
+                4,
+                29
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                4,
+                0,
+                0,
+                6,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                1,
+                1,
+                0,
+                6,
+                0,
+                20
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173594-neuauflage-3-cards-blind-runde-93/"
+}

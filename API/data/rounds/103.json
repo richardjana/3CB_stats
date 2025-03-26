@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Pact of Negation",
+                "Garth One-Eye",
+                "Jared Carthalion"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "The Beast",
+            "cards": [
+                "Thrun, Breaker of Silence",
+                "Pact of Negation",
+                "Pact of Negation"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Lodestone Golem",
+                "Deputy of Detention",
+                "Tidehollow Sculler"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Near-Death Experience",
+                "Toxic Deluge",
+                "Pact of Negation"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Daeron",
+            "cards": [
+                "City of Traitors",
+                "Approach of the Second Sun",
+                "Approach of the Second Sun"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Living Conundrum",
+                "Assassin's Trophy",
+                "Eternal Witness"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "thiefAaron",
+            "cards": [
+                "Force of Will",
+                "Misthollow Griffin",
+                "The Scarab God"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Nicol Bolas, Dragon-God",
+                "Dryad's Revival",
+                "Lavinia, Azorius Renegade"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Silver Seraph",
+            "cards": [
+                "Chamber Sentry",
+                "Covetous Urge",
+                "Fractured Identity"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "lordfire",
+            "cards": [
+                "Meddling Mage",
+                "Anointed Peacekeeper",
+                "Kenrith, the Returned King"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "hoempes",
+            "cards": [
+                "Force of Will",
+                "Ashiok Nightmare Muse",
+                "Restless Vinestalk"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Longhorn Sharpshooter",
+                "Minsc & Boo, Timeless Heroes",
+                "Nicol Bolas, Dragon-God"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Nicol Bolas, Dragon-God",
+                "Force of Will",
+                "Vronos, Masked Inquisitor"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                3,
+                0,
+                3,
+                6,
+                3,
+                3,
+                3,
+                6,
+                3,
+                42,
+                3
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                6,
+                2,
+                6,
+                0,
+                6,
+                0,
+                3,
+                6,
+                43,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                3,
+                4,
+                0,
+                37,
+                3
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                2,
+                0,
+                0,
+                3,
+                2,
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                18,
+                0
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                3,
+                30,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                2,
+                6,
+                2,
+                6,
+                0,
+                6,
+                3,
+                3,
+                3,
+                6,
+                4,
+                47,
+                3
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                3,
+                6,
+                3,
+                15,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                0,
+                6,
+                6,
+                3,
+                3,
+                0,
+                3,
+                3,
+                6,
+                3,
+                45,
+                3
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                0,
+                3,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                45,
+                3
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                3,
+                6,
+                6,
+                3,
+                3,
+                3,
+                0,
+                0,
+                6,
+                3,
+                45,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                3,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                3
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                3,
+                1,
+                3,
+                3,
+                3,
+                3,
+                6,
+                0,
+                43,
+                6
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                3,
+                0,
+                3,
+                6,
+                6,
+                3,
+                6,
+                3,
+                3,
+                3,
+                3,
+                0,
+                39,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174444-neuauflage-3-cards-blind-runde-103/"
+}

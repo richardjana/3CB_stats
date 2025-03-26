@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Death's Shadow",
+            "count": 1
+        },
+        {
+            "card": "Sulfurous Springs",
+            "count": 1
+        },
+        {
+            "card": "Vendetta",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "The Beast",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Hasran Ogress",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Necronlord",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "thiefAaron",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Namse",
+            "score": 0.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1552.0,
+    "score_average": 27.272727272727277,
+    "score_total": 27.272727272727277,
+    "score_list": [
+        {
+            "round": 1,
+            "score": 27.272727272727277
+        }
+    ]
+}

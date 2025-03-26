@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Traitors",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "City of Traitors",
+                "Hex Parasite",
+                "Epochrasite"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "Chalice of the Void",
+                "City of Traitors",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "City of Traitors",
+                "Black Lotus",
+                "Saproling Burst"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Hickory Woodlot",
+                "Bayou Groff",
+                "Brindle Shoat"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Shelldock Isle",
+                "Lion's Eye Diamond",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Liliana of the Veil",
+                "Nether Spirit"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                2,
+                3,
+                3,
+                11
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                6,
+                3,
+                0,
+                6,
+                3,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                6,
+                3,
+                3,
+                6,
+                0,
+                2,
+                26
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                3,
+                3,
+                6,
+                2,
+                0,
+                32
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173331-neuauflage-3-cards-blind-runde-89/"
+}

@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Vraska, Relic Seeker"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lordfire",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Garruk, Cursed Huntsman"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Hagra Mauling // Hagra Broodpit",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "IMP",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Big Game Hunter",
+                "Gorgon Recluse"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Forest",
+                "Young Wolf",
+                "Berserk"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Garruk, Cursed Huntsman"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Garruk, Cursed Huntsman"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Phyrexian Revoker",
+                "Cut Down"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Hagra Mauling // Hagra Broodpit",
+                "Black Lotus",
+                "Nullhide Ferox"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Bayou",
+                "Wretched Banquet",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Garruk, Cursed Huntsman"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                1,
+                6,
+                6,
+                3,
+                3,
+                1,
+                6,
+                6,
+                3,
+                41
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                4,
+                0,
+                4,
+                6,
+                4,
+                4,
+                3,
+                4,
+                2,
+                4,
+                41
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                1,
+                0,
+                2,
+                0,
+                0,
+                3,
+                2,
+                2,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                3,
+                1,
+                6,
+                6,
+                0,
+                3,
+                1,
+                6,
+                6,
+                3,
+                41
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                3,
+                1,
+                6,
+                6,
+                3,
+                0,
+                1,
+                6,
+                6,
+                3,
+                41
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                4,
+                3,
+                3,
+                2,
+                4,
+                4,
+                0,
+                4,
+                0,
+                4,
+                34
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                1,
+                2,
+                6,
+                0,
+                0,
+                1,
+                0,
+                2,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                3,
+                1,
+                6,
+                6,
+                3,
+                3,
+                1,
+                6,
+                6,
+                0,
+                41
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173527-neuauflage-3-cards-blind-runde-92/"
+}

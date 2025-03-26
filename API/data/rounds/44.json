@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Desert",
+                "Mishra's Factory",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Anurid Scavenger",
+                "Misguided Rage"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Mountain",
+                "Wasteland",
+                "Yidaro, Wandering Monster"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "IMP",
+            "cards": [
+                "Golgari Rot Farm",
+                "Ancient Tomb",
+                "Thrun, the Last Troll"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Plains",
+                "Swords to Plowshares",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Forest",
+                "Wasteland",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Pendelhaven",
+                "Glistener Elf",
+                "Hope of Ghirapur"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Bongoking",
+            "cards": [
+                "Karakas",
+                "Cavern of Souls",
+                "Ichorclaw Myr"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "GoDJi8",
+            "cards": [
+                "Slippery Bogle",
+                "Force of Will",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Pendelhaven",
+                "Durkwood Baloth",
+                "Crashing Footfalls"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                2,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                2,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                3,
+                35
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                6,
+                3,
+                2,
+                6,
+                2,
+                39
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                2,
+                2,
+                0,
+                0,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                0,
+                32
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                2,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                2,
+                2,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                0,
+                3,
+                6,
+                2,
+                6,
+                2,
+                6,
+                0,
+                6,
+                6,
+                4,
+                43
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                2,
+                2,
+                0,
+                3,
+                0,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                3,
+                2,
+                2,
+                6,
+                6,
+                2,
+                6,
+                1,
+                6,
+                6,
+                0,
+                46
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/168725-neuauflage-3-cards-blind-runde-44/"
+}

@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Mishra's Factory",
+            "count": 1
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Haakon, Geißel der anderen",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Yet_another_Geron",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "thiefAaron",
+            "score": -3.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Hasran Ogress",
+            "score": 0.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1657.178375574677,
+    "score_average": 62.5,
+    "score_total": 62.5,
+    "score_list": [
+        {
+            "round": 2,
+            "score": 62.5
+        }
+    ]
+}

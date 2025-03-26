@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mishra's Workshop",
+                "Mana Vault",
+                "Platinum Angel"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mishra's Workshop",
+                "Wheel of Torture",
+                "Esika's Chariot"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Workshop",
+                "Lupine Prototype",
+                "Crystalline Giant"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Kataki, War's Wage"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Ancient Den",
+                "All that Glitters",
+                "Glint Hawk"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Karakas",
+                "Rhys the Redeemed",
+                "Ajani, Nacatl Pariah"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Chronomaton",
+                "Portable Hole",
+                "Cavern of Souls"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Seat of the Synod",
+                "Vedalken Certarch",
+                "Vedalken Certarch"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                2,
+                6,
+                3,
+                1,
+                24
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                3,
+                6,
+                6,
+                6,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                3,
+                6,
+                0,
+                3,
+                2,
+                2,
+                4,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                0,
+                0,
+                3,
+                0,
+                6,
+                0,
+                0,
+                11
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                6,
+                4,
+                12
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                4,
+                15
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                0,
+                0,
+                1,
+                6,
+                1,
+                1,
+                0,
+                13
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174922-neuauflage-3-cards-blind-runde-109/"
+}

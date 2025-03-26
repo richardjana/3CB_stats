@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Swamp",
+                "Troll of Khazad-dûm",
+                "Reanimate"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Wastes",
+                "Wastes",
+                "Retrofitter Foundry"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lordfire",
+            "cards": [
+                "Forest",
+                "Wasteland Viper",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "IMP",
+            "cards": [
+                "Isamaru, Hound of Konda",
+                "Plains",
+                "Path to Exile"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Plains",
+                "Swords to Plowshares",
+                "Cenn's Tactician"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Plains",
+                "Cenn's Tactician",
+                "Portable Hole"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Swamp",
+                "Reanimate",
+                "Troll of Khazad-dûm"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Snow-Covered Swamp",
+                "Icehide Golem",
+                "Dread Fugue"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Sterni",
+            "cards": [
+                "Mountain",
+                "Tin Street Dodger",
+                "Taste for Mayhem"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Plains",
+                "Cenn's Tactician",
+                "Detention Vortex"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Forest",
+                "Forest",
+                "Kazandu Tuskcaller"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Death's Shadow",
+                "Cruel Sadist",
+                "Swamp"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                4,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                0,
+                3,
+                3,
+                22
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                6,
+                0,
+                3,
+                3,
+                0,
+                0,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                1,
+                0,
+                0,
+                2,
+                0,
+                2,
+                1,
+                4,
+                0,
+                2,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                2,
+                0,
+                2,
+                2,
+                6,
+                2,
+                6,
+                2,
+                6,
+                2,
+                36
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                0,
+                2,
+                6,
+                4,
+                6,
+                2,
+                6,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                2,
+                2,
+                2,
+                0,
+                0,
+                4,
+                6,
+                2,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                4,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                3,
+                3,
+                22
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                1,
+                2,
+                1,
+                1,
+                6,
+                0,
+                6,
+                1,
+                6,
+                1,
+                34
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                2,
+                2,
+                2,
+                2,
+                6,
+                4,
+                6,
+                0,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                6,
+                6,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                3,
+                0,
+                6,
+                2,
+                0,
+                0,
+                3,
+                4,
+                0,
+                0,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172877-neuauflage-3-cards-blind-runde-83/"
+}

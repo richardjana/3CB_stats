@@ -1,0 +1,74 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 2
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 2
+        },
+        {
+            "card": "Yotian Soldier",
+            "count": 2
+        },
+        {
+            "card": "Jhoira's Timebug",
+            "count": 1
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 4,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Daeron",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -3.0,
+            "n_matches": 4
+        },
+        {
+            "player": "BlackHole",
+            "score": -1.5,
+            "n_matches": 4
+        },
+        {
+            "player": "Namse",
+            "score": 0.0,
+            "n_matches": 4
+        },
+        {
+            "player": "Silver Seraph",
+            "score": 0.0,
+            "n_matches": 4
+        }
+    ],
+    "elo": 1706.5369770890825,
+    "score_average": 51.32365319865319,
+    "score_total": 205.29461279461276,
+    "score_list": [
+        {
+            "round": 114,
+            "score": 53.70370370370371
+        },
+        {
+            "round": 117,
+            "score": 42.42424242424242
+        },
+        {
+            "round": 118,
+            "score": 45.83333333333333
+        },
+        {
+            "round": 119,
+            "score": 63.33333333333333
+        }
+    ]
+}

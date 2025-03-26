@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mishra's Workshop",
+                "Lodestone Golem",
+                "Moltensteel Dragon"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Pepega",
+            "cards": [
+                "Grove of the Burnwillows",
+                "Kavu Predator",
+                "Punishing Fire"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Cavern of souls",
+                "Vampire hexmage",
+                "Dark Depths"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Saprazzan Cove",
+                "Lighthouse Chronologist",
+                "Reality Strobe"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Haakon, Geißel der anderen",
+            "cards": [
+                "Crashing Footfalls",
+                "Crashing Footfalls",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Necronlord",
+            "cards": [
+                "Inkmoth Nexus",
+                "Slimebind",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "thiefAaron",
+            "cards": [
+                "Inkmoth Nexus",
+                "Phyrexian Revoker",
+                "Alpine Moon"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "NumiChan",
+            "cards": [
+                "Cavern of Souls",
+                "Thalia, Guardian of Thraben",
+                "Phyrexian Revoker"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "the green one",
+            "cards": [
+                "Thalia, Guardian of Thraben",
+                "Mayor of Avabruck",
+                "Cavern of Souls"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Bongoking",
+            "cards": [
+                "Flash",
+                "Worldspine Wurm",
+                "Boseiju, Who Shelters All"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Yet_another_Geron",
+            "cards": [
+                "Wasteland",
+                "Mishra's Factory",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Yaloron",
+            "cards": [
+                "Wasteland",
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Witch's Oven",
+                "Cauldron Familiar",
+                "Claim the Firstborn"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                6,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                6,
+                0,
+                60,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                0,
+                15,
+                0
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                2,
+                35,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                60,
+                6
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                21,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                0,
+                3,
+                0,
+                3,
+                0,
+                0,
+                6,
+                4,
+                40,
+                6
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                27,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                54,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                30,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                45,
+                3
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                6,
+                2,
+                6,
+                0,
+                6,
+                1,
+                6,
+                6,
+                6,
+                0,
+                0,
+                45,
+                0
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                6,
+                27,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/164230-forenliga-neuauflage-3cb-runde-2-von-5/"
+}

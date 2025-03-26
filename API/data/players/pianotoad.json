@@ -1,0 +1,66 @@
+{
+    "cards": [
+        {
+            "card": "Fury Charm",
+            "count": 1
+        },
+        {
+            "card": "Monastery Swiftspear",
+            "count": 1
+        },
+        {
+            "card": "Peat Bog",
+            "count": 1
+        },
+        {
+            "card": "Pilfer",
+            "count": 1
+        },
+        {
+            "card": "Tribute to Horobi",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Michael W",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "The green one",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "lollonator",
+            "score": -3.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1561.4035566775833,
+    "score_average": 29.6969696969697,
+    "score_total": 59.3939393939394,
+    "score_list": [
+        {
+            "round": 58,
+            "score": 6.0606060606060606
+        },
+        {
+            "round": 61,
+            "score": 53.333333333333336
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Boromir, Warden of the Tower"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Lavinia, Azorius Renegade",
+                "Force of Will",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Bongoking",
+            "cards": [
+                "Contagion",
+                "Grief",
+                "Soul Spike"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Frost Titan"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Volcanic Island",
+                "Daze",
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Wurmcoil Engine"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Imotekh the Stormlord"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Argivian Find",
+                "Tendrils of Agony"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                44
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                3,
+                0,
+                0,
+                3,
+                3,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                3,
+                6,
+                0,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                26
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173098-neuauflage-3-cards-blind-runde-86/"
+}

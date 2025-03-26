@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Pendelhaven",
+                "Crashing Footfalls",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Workshop",
+                "Adaptive Automaton",
+                "Crucible of Worlds"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Chancellor of the Spires",
+                "Force of Will",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Illusion // Reality",
+                "Thrun, the Last Troll"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Ancient Tomb",
+                "Isochron Scepter",
+                "Geth's Verdict"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Bongoking",
+            "cards": [
+                "Wasteland",
+                "Maze of Ith",
+                "Crucible of Worlds"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Dark Depths",
+                "Thespian's Stage",
+                "Crystal Vein"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Black Lotus",
+                "Primordial Hydra",
+                "Mistcutter Hydra"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                0,
+                2,
+                6,
+                6,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                2,
+                2,
+                0,
+                6,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                2,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                2,
+                0,
+                0,
+                6,
+                6,
+                0,
+                2,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                20
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/167299-neuauflage-3-cards-blind-runde-30/"
+}

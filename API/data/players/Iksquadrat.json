@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Emrakul, the Aeons Torn",
+            "count": 1
+        },
+        {
+            "card": "Lion's Eye Diamond",
+            "count": 1
+        },
+        {
+            "card": "Shelldock Isle",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Michael W",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "The Beast",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "BlackHole",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "lollonator",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1555.3297581253619,
+    "score_average": 30.0,
+    "score_total": 30.0,
+    "score_list": [
+        {
+            "round": 85,
+            "score": 30.0
+        }
+    ]
+}

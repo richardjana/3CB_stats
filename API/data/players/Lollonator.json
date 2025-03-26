@@ -1,0 +1,66 @@
+{
+    "cards": [
+        {
+            "card": "Vault Skirge",
+            "count": 2
+        },
+        {
+            "card": "Crystal Vein",
+            "count": 1
+        },
+        {
+            "card": "Damping Sphere",
+            "count": 1
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 1
+        },
+        {
+            "card": "Unmask",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Bongoking",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "thiefAaron",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "The green one",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Pepega",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hoempes",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1450.2628351372837,
+    "score_average": 12.5,
+    "score_total": 25.0,
+    "score_list": [
+        {
+            "round": 3,
+            "score": 10.0
+        },
+        {
+            "round": 5,
+            "score": 15.0
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Academy Ruins",
+                "Izzet Boilerworks",
+                "Implement of Combustion"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Lotus Bloom",
+                "Aether Vial",
+                "Gigantomancer"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Cabal Pit",
+                "Carnophage",
+                "Carnophage"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Teferi's Isle",
+                "Mana Vault",
+                "Darksteel Reactor"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Brass Man",
+                "Timberline Ridge",
+                "Battle of Wits"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Teferi's Isle",
+                "Mana Vault",
+                "Darksteel Reactor"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lordfire",
+            "cards": [
+                "Wrenn and Six",
+                "Grove of the Burnwillows",
+                "Grove of the Burnwillows"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Rainbow Vale",
+                "Sol Talisman",
+                "Copper Tablet"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Sulfuric Vortex",
+                "Karplusan Forest",
+                "Izzet Boilerworks"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Dormant Volcano",
+                "Molten Tributary",
+                "Sulfuric Vortex"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                6,
+                0,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                6,
+                50
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                2,
+                2,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                2,
+                2,
+                16
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                2,
+                0,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                2,
+                2,
+                0,
+                22
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172149-neuauflage-3-cards-blind-runde-75/"
+}

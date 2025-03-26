@@ -1,0 +1,161 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Inkmoth Nexus",
+                "Drannith Ruins"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Drannith Ruins",
+                "Thought-Knot Seer"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lordfire",
+            "cards": [
+                "Vampire of the Dire Moon",
+                "Ayara's Oathsworn",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Dryad Arbor",
+                "Blot Out"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Savannah",
+                "Animist's Might",
+                "Bushi Tenderfoot // Kenzo the Hardhearted"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Wasteland",
+                "Mox Jet",
+                "Ayara's Oathsworn"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Bitterblossom",
+                "Black Lotus",
+                "Markov Baron"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                3,
+                6,
+                3,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                2,
+                6,
+                6,
+                6,
+                23
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                3,
+                2,
+                0,
+                6,
+                2,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                3,
+                0,
+                2,
+                6,
+                0,
+                3,
+                20
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                6,
+                3,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172482-neuauflage-3-cards-blind-runde-78/"
+}

@@ -1,0 +1,70 @@
+{
+    "cards": [
+        {
+            "card": "Lurrus of the Dream-Den",
+            "count": 1
+        },
+        {
+            "card": "Pulse of the Dross",
+            "count": 1
+        },
+        {
+            "card": "Punishing Fire",
+            "count": 1
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 1
+        },
+        {
+            "card": "Urborg, Tomb of Yawgmoth",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 3,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Hasran Ogress",
+            "score": -6.0,
+            "n_matches": 3
+        },
+        {
+            "player": "The Beast",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "the green one",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Yaloron",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Haakon, Geißel der anderen",
+            "score": -4.0,
+            "n_matches": 3
+        }
+    ],
+    "elo": 1524.783568862729,
+    "score_average": 30.580808080808083,
+    "score_total": 91.74242424242425,
+    "score_list": [
+        {
+            "round": 1,
+            "score": 24.242424242424242
+        },
+        {
+            "round": 2,
+            "score": 20.833333333333336
+        },
+        {
+            "round": 3,
+            "score": 46.666666666666664
+        }
+    ]
+}

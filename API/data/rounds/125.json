@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Bitterblossom",
+                "Skrelv's Hive",
+                "Goblin Bombardment"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Kiora Bests the Sea God",
+                "Tinybones Joins Up",
+                "Starfield of Nyx"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Archon of Valor's Reach",
+                "Scurry Oak",
+                "Rosie Cotton of South Lane"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Cloudshredder Sliver",
+                "Predatory Sliver",
+                "Diffusion Sliver"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Daeron",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Blightsteel Colossus"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Masterful Replication",
+                "Force of Will",
+                "Misdirection"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Oko, Thief of Crowns",
+                "Davriel, Rogue Shadowmage",
+                "Ashiok, Nightmare Muse"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Loyal Retainers",
+                "Sibsig Icebreakers",
+                "Valgavoth, Terror Eater"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Brutal Cathar",
+                "Scalding Viper",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Sterni",
+            "cards": [
+                "Lupine Prototype",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                3,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                3,
+                3,
+                2,
+                0,
+                3,
+                0,
+                3,
+                20
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                2,
+                0,
+                37
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                6,
+                0,
+                3,
+                6,
+                3,
+                0,
+                3,
+                3,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                6,
+                2,
+                3,
+                0,
+                0,
+                2,
+                31
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                2,
+                0,
+                29
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175938-neuauflage-3-cards-blind-runde-125/"
+}

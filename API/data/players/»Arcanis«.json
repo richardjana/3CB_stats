@@ -1,0 +1,94 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 2
+        },
+        {
+            "card": "Force of Will",
+            "count": 2
+        },
+        {
+            "card": "Lurrus of the Dream-Den",
+            "count": 2
+        },
+        {
+            "card": "Snapback",
+            "count": 2
+        },
+        {
+            "card": "Chancellor of the Forge",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 9,
+    "n_wins": 2,
+    "nemesis": [
+        {
+            "player": "Vhaleru",
+            "score": -1.5,
+            "n_matches": 2
+        },
+        {
+            "player": "thiefAaron",
+            "score": -0.5,
+            "n_matches": 6
+        },
+        {
+            "player": "Hasran Ogress",
+            "score": -0.42857142857142855,
+            "n_matches": 7
+        },
+        {
+            "player": "Michael W",
+            "score": 0.0,
+            "n_matches": 9
+        },
+        {
+            "player": "NumiChan",
+            "score": 0.0,
+            "n_matches": 5
+        }
+    ],
+    "elo": 1645.4251800458273,
+    "score_average": 55.60260726927393,
+    "score_total": 500.4234654234654,
+    "score_list": [
+        {
+            "round": 11,
+            "score": 50.0
+        },
+        {
+            "round": 12,
+            "score": 92.3076923076923
+        },
+        {
+            "round": 13,
+            "score": 53.84615384615385
+        },
+        {
+            "round": 14,
+            "score": 41.66666666666667
+        },
+        {
+            "round": 15,
+            "score": 62.82051282051282
+        },
+        {
+            "round": 16,
+            "score": 27.77777777777778
+        },
+        {
+            "round": 17,
+            "score": 60.0
+        },
+        {
+            "round": 18,
+            "score": 69.69696969696969
+        },
+        {
+            "round": 19,
+            "score": 42.30769230769231
+        }
+    ]
+}

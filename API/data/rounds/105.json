@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Elemental Eruption"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "thiefAaron",
+            "cards": [
+                "Mana Crypt",
+                "Isochron Scepter",
+                "Lightning Helix"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Rhonas's Last Stand",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lordfire",
+            "cards": [
+                "Black Lotus",
+                "Chalice of the Void",
+                "Chimeric Idol"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hoempes",
+            "cards": [
+                "Black Lotus",
+                "Duress",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Elemental Eruption"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Emergency Weld",
+                "The Torment of Gollum"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+                "Oxidize",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Elemental Eruption"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Chalice of the Void",
+                "Black Lotus",
+                "Altar of Bhaal // Bone Offering"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Chalice of the Void",
+                "Gleeful Demolition",
+                "Mox Ruby"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Forth Eorlingas!"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                3,
+                3,
+                2,
+                3,
+                6,
+                2,
+                3,
+                3,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                3,
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                3,
+                3,
+                0,
+                3,
+                6,
+                0,
+                1,
+                3,
+                3,
+                28
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                6,
+                6,
+                3,
+                3,
+                0,
+                3,
+                6,
+                2,
+                3,
+                3,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                3,
+                0,
+                3,
+                0,
+                0,
+                2,
+                6,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                6,
+                6,
+                3,
+                3,
+                2,
+                3,
+                6,
+                0,
+                3,
+                3,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                3,
+                4,
+                3,
+                3,
+                3,
+                3,
+                2,
+                3,
+                0,
+                3,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                6,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                0,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                6,
+                3,
+                3,
+                3,
+                0,
+                3,
+                6,
+                0,
+                3,
+                3,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174575-neuauflage-3-cards-blind-runde-105/"
+}

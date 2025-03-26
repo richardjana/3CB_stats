@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Predator Ooze",
+            "count": 1
+        },
+        {
+            "card": "Sapphire Dragon // Psionic Pulse",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Michael W",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hug77",
+            "score": 0.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Schniggi",
+            "score": 6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "lollonator",
+            "score": 6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1724.7096889736627,
+    "score_average": 75.75757575757576,
+    "score_total": 75.75757575757576,
+    "score_list": [
+        {
+            "round": 126,
+            "score": 75.75757575757576
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Hatchery Sliver",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Anointed Peacekeeper",
+                "Force of Negation"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Commandeer",
+                "Subtlety",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Snapback",
+                "Plague Engineer"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Mutavault",
+                "City of Traitors",
+                "Retrofitter Foundry"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Daeron",
+            "cards": [
+                "Kher Keep",
+                "Rakdos Carnarium",
+                "Dragon Tempest"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Forest",
+                "Young Wolf",
+                "Emerald Charm"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Karakas",
+                "Leyline of Singularity",
+                "Chaplain of Alms"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hoempes",
+            "cards": [
+                "Swarm Shambler",
+                "Forest",
+                "Force of Negation"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Commandeer",
+                "Snapback",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "lordfire",
+            "cards": [
+                "Anointed Peacekeeper",
+                "Black Lotus",
+                "Subtlety"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                2,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                6,
+                0,
+                2,
+                0,
+                2,
+                1,
+                0,
+                0,
+                2,
+                6,
+                21
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                2,
+                0,
+                6,
+                6,
+                6,
+                2,
+                0,
+                2,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                4,
+                0,
+                0,
+                2,
+                0,
+                4,
+                0,
+                2,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                0,
+                6,
+                1,
+                0,
+                6,
+                6,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                50
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                6,
+                2,
+                2,
+                0,
+                2,
+                2,
+                0,
+                0,
+                0,
+                6,
+                22
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                2,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                32
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175495-neuauflage-3-cards-blind-runde-116/"
+}

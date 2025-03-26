@@ -1,0 +1,118 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 5
+        },
+        {
+            "card": "Karakas",
+            "count": 3
+        },
+        {
+            "card": "Lupine Prototype",
+            "count": 3
+        },
+        {
+            "card": "Cruelclaw's Heist",
+            "count": 2
+        },
+        {
+            "card": "Ashiok, Nightmare Muse",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 15,
+    "n_wins": 1,
+    "nemesis": [
+        {
+            "player": "Daeron",
+            "score": -6.0,
+            "n_matches": 3
+        },
+        {
+            "player": "IMP",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Sedris",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hug77",
+            "score": -3.4,
+            "n_matches": 15
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -1.7142857142857142,
+            "n_matches": 14
+        }
+    ],
+    "elo": 1651.308083084897,
+    "score_average": 45.29012345679011,
+    "score_total": 679.3518518518517,
+    "score_list": [
+        {
+            "round": 82,
+            "score": 62.96296296296296
+        },
+        {
+            "round": 83,
+            "score": 54.545454545454554
+        },
+        {
+            "round": 84,
+            "score": 18.18181818181818
+        },
+        {
+            "round": 94,
+            "score": 18.51851851851852
+        },
+        {
+            "round": 95,
+            "score": 72.22222222222221
+        },
+        {
+            "round": 96,
+            "score": 50.0
+        },
+        {
+            "round": 97,
+            "score": 63.63636363636363
+        },
+        {
+            "round": 99,
+            "score": 33.33333333333333
+        },
+        {
+            "round": 117,
+            "score": 21.21212121212121
+        },
+        {
+            "round": 118,
+            "score": 29.166666666666668
+        },
+        {
+            "round": 119,
+            "score": 65.0
+        },
+        {
+            "round": 120,
+            "score": 66.66666666666666
+        },
+        {
+            "round": 122,
+            "score": 27.77777777777778
+        },
+        {
+            "round": 125,
+            "score": 53.70370370370371
+        },
+        {
+            "round": 126,
+            "score": 42.42424242424242
+        }
+    ]
+}

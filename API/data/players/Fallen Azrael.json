@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Cryptolith Fragment",
+            "count": 1
+        },
+        {
+            "card": "Soulmender",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Choke",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hoempes",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "The green one",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hug77",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "The Beast",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1544.0935684648675,
+    "score_average": 21.42857142857143,
+    "score_total": 21.42857142857143,
+    "score_list": [
+        {
+            "round": 9,
+            "score": 21.42857142857143
+        }
+    ]
+}

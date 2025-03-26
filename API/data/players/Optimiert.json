@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Brazen Borrower // Petty Theft",
+            "count": 1
+        },
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Memnite",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Schniggi",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "lollonator",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Silver Seraph",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Michael W",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1516.7096889736627,
+    "score_average": 18.18181818181818,
+    "score_total": 18.18181818181818,
+    "score_list": [
+        {
+            "round": 126,
+            "score": 18.18181818181818
+        }
+    ]
+}

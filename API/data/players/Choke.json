@@ -1,0 +1,70 @@
+{
+    "cards": [
+        {
+            "card": "Punishing Fire",
+            "count": 2
+        },
+        {
+            "card": "Skyshroud Cutter",
+            "count": 2
+        },
+        {
+            "card": "Gifted Aetherborn",
+            "count": 1
+        },
+        {
+            "card": "Hooded Blightfang",
+            "count": 1
+        },
+        {
+            "card": "Subterranean Hangar",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 3,
+    "n_wins": 1,
+    "nemesis": [
+        {
+            "player": "MagicStorm",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "hoempes",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "DaCurEmi",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "P0LTERGEIST",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "BlackHole",
+            "score": -3.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1548.576869103607,
+    "score_average": 48.16849816849816,
+    "score_total": 144.50549450549448,
+    "score_list": [
+        {
+            "round": 9,
+            "score": 71.42857142857143
+        },
+        {
+            "round": 10,
+            "score": 39.743589743589745
+        },
+        {
+            "round": 11,
+            "score": 33.33333333333333
+        }
+    ]
+}

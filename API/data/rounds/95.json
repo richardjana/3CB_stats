@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Hexdrinker",
+                "Dread Fugue",
+                "Assassin's Trophy"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Sterni",
+            "cards": [
+                "Black Lotus",
+                "Ashiok, Nightmare Muse",
+                "Hexdrinker"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Dread Fugue",
+                "Lair of the Hydra",
+                "Gideon of the Trials"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Cavern of Souls",
+                "Tidehollow Sculler",
+                "Heroes' Bane"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Walking Ballista",
+                "Zur, Eternal Schemer",
+                "Leyline of Sanctity"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Unburial Rites",
+                "It that Betrays"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Hexdrinker",
+                "Dread Fugue",
+                "Vindicate"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Sleep-Cursed Faerie",
+                "Sleep-Cursed Faerie",
+                "Sleep-Cursed Faerie"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "City of Traitors",
+                "Cabal Interrogator",
+                "Alpha Deathclaw"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Hexdrinker",
+                "Hex Parasite",
+                "Pithing Needle"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                6,
+                6,
+                6,
+                3,
+                6,
+                3,
+                3,
+                39
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                6,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                3,
+                3,
+                6,
+                0,
+                3,
+                0,
+                6,
+                3,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                3,
+                3,
+                6,
+                6,
+                0,
+                3,
+                3,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                27
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173703-neuauflage-3-cards-blind-runde-95/"
+}

@@ -1,0 +1,66 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 2
+        },
+        {
+            "card": "Archon of Coronation",
+            "count": 1
+        },
+        {
+            "card": "Assemble the Rank and Vile",
+            "count": 1
+        },
+        {
+            "card": "Dark Depths",
+            "count": 1
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Master_of_Desaster",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Namse",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "The Beast",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Hoempes",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "hug77",
+            "score": -3.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1635.7273527813543,
+    "score_average": 51.482371794871796,
+    "score_total": 102.96474358974359,
+    "score_list": [
+        {
+            "round": 10,
+            "score": 60.256410256410255
+        },
+        {
+            "round": 11,
+            "score": 42.70833333333333
+        }
+    ]
+}

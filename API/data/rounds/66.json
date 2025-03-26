@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Phyrexian Fleshgorger",
+                "Boseiju, Who Endures"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lordfire",
+            "cards": [
+                "Black Lotus",
+                "Wasteland",
+                "Skystrike Officer"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Dreams of Steel and Oil",
+                "Black Lotus",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Woodcaller Automaton",
+                "Black Lotus",
+                "Cascading Cataracts"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "City of Traitors",
+                "Mishra's Foundry"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Foundry",
+                "Urborg, Tomb of Yawgmoth"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Titania's Command"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Yotian Frontliner"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Workshop",
+                "Liberator, Urza's Battlethopter",
+                "Simian Simulacrum"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                0,
+                2,
+                1,
+                18
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                3,
+                6,
+                6,
+                0,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                4,
+                0,
+                0,
+                4,
+                6,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                3,
+                1,
+                0,
+                6,
+                6,
+                2,
+                6,
+                1,
+                31
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                2,
+                6,
+                0,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                6,
+                0,
+                2,
+                16
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                1,
+                2,
+                0,
+                0,
+                0,
+                6,
+                2,
+                23
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                16
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                4,
+                0,
+                0,
+                4,
+                0,
+                2,
+                2,
+                2,
+                0,
+                14
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171231-neuauflage-3-cards-blind-runde-66/"
+}

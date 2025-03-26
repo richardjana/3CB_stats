@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Misguided Rage",
+                "Destructive Flow"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "The Beast",
+            "cards": [
+                "Old-Growth Dryads",
+                "Reverent Silence",
+                "Destructive Flow"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Hoempes",
+            "cards": [
+                "Hunted Horror",
+                "Divest",
+                "Flooded Woodlands"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Soldier of the Pantheon",
+                "Cartouche of Solidarity",
+                "Destructive Flow"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "NumiChan",
+            "cards": [
+                "Lurrus of the Dream-Den",
+                "Murderous Rider",
+                "Destructive Flow"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "the green one",
+            "cards": [
+                "Vampire Hexmage",
+                "Dark Depths",
+                "Destructive Flow"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Cavern of souls",
+                "Scourge of the Skyclaves",
+                "Reckless Assault"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "thiefAaron",
+            "cards": [
+                "Dryad Arbor",
+                "Slippery Bogle",
+                "Martyrs' Tomb"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Bongoking",
+            "cards": [
+                "Dark Depths",
+                "Vampire Hexmage",
+                "Destructive Flow"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Wurmcoil Engine",
+                "Reckless Assault"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                6,
+                2,
+                0,
+                6,
+                2,
+                0,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                4,
+                3,
+                3,
+                2,
+                2,
+                3,
+                1,
+                24
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                2,
+                0,
+                2,
+                27
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                3,
+                6,
+                6,
+                0,
+                6,
+                2,
+                2,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                0,
+                0,
+                2,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                3,
+                6,
+                6,
+                2,
+                6,
+                2,
+                0,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                4,
+                6,
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/164912-neuauflage-3-cards-blind-runde-7/"
+}

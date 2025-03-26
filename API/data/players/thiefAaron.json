@@ -1,0 +1,166 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 5
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 4
+        },
+        {
+            "card": "Dark Depths",
+            "count": 3
+        },
+        {
+            "card": "Force of Will",
+            "count": 3
+        },
+        {
+            "card": "Karakas",
+            "count": 3
+        }
+    ],
+    "n_rounds_played": 27,
+    "n_wins": 3,
+    "nemesis": [
+        {
+            "player": "MagicStorm",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Choke",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Thoradin",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Haakon, Geißel der anderen",
+            "score": -3.75,
+            "n_matches": 4
+        },
+        {
+            "player": "the green one",
+            "score": -3.0,
+            "n_matches": 6
+        }
+    ],
+    "elo": 1640.6553453095073,
+    "score_average": 45.054971605897535,
+    "score_total": 1216.4842333592335,
+    "score_list": [
+        {
+            "round": 1,
+            "score": 39.3939393939394
+        },
+        {
+            "round": 2,
+            "score": 55.55555555555556
+        },
+        {
+            "round": 3,
+            "score": 53.333333333333336
+        },
+        {
+            "round": 4,
+            "score": 53.70370370370371
+        },
+        {
+            "round": 5,
+            "score": 83.33333333333334
+        },
+        {
+            "round": 6,
+            "score": 16.666666666666664
+        },
+        {
+            "round": 7,
+            "score": 37.03703703703704
+        },
+        {
+            "round": 11,
+            "score": 23.958333333333336
+        },
+        {
+            "round": 12,
+            "score": 7.6923076923076925
+        },
+        {
+            "round": 13,
+            "score": 39.743589743589745
+        },
+        {
+            "round": 15,
+            "score": 80.76923076923076
+        },
+        {
+            "round": 17,
+            "score": 55.55555555555556
+        },
+        {
+            "round": 19,
+            "score": 39.743589743589745
+        },
+        {
+            "round": 22,
+            "score": 56.06060606060607
+        },
+        {
+            "round": 25,
+            "score": 72.72727272727272
+        },
+        {
+            "round": 26,
+            "score": 18.333333333333336
+        },
+        {
+            "round": 31,
+            "score": 44.44444444444444
+        },
+        {
+            "round": 34,
+            "score": 27.77777777777778
+        },
+        {
+            "round": 35,
+            "score": 58.97435897435898
+        },
+        {
+            "round": 38,
+            "score": 25.0
+        },
+        {
+            "round": 41,
+            "score": 79.48717948717949
+        },
+        {
+            "round": 42,
+            "score": 54.545454545454554
+        },
+        {
+            "round": 100,
+            "score": 33.33333333333333
+        },
+        {
+            "round": 102,
+            "score": 56.41025641025641
+        },
+        {
+            "round": 103,
+            "score": 20.833333333333336
+        },
+        {
+            "round": 105,
+            "score": 18.18181818181818
+        },
+        {
+            "round": 111,
+            "score": 63.88888888888889
+        }
+    ]
+}

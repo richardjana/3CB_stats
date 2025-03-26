@@ -1,0 +1,54 @@
+{
+    "cards": [
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Memnite",
+            "count": 1
+        },
+        {
+            "card": "Snapback",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "lollonator",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Michael W",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "P0LTERGEIST",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hoempes",
+            "score": 0.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1704.7317843143385,
+    "score_average": 66.66666666666666,
+    "score_total": 66.66666666666666,
+    "score_list": [
+        {
+            "round": 100,
+            "score": 66.66666666666666
+        }
+    ]
+}

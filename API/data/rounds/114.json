@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of the Void",
+                "City of Traitors",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Dark Ritual",
+                "Karn Liberated"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Wasteland",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Exhume",
+                "Iona, Shield of Emeria"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Moët",
+            "cards": [
+                "Black Lotus",
+                "Dark Ritual",
+                "Cruel Reality"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Factory",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Dark Depths",
+                "Black Lotus",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Argivian Find",
+                "Elemental Eruption"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Anointed Peacekeeper",
+                "Anointed Peacekeeper",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "City of Traitors",
+                "Lupine Prototype",
+                "Soulless Jailer"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                2,
+                6,
+                6,
+                2,
+                0,
+                6,
+                1,
+                2,
+                31
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                3,
+                2,
+                6,
+                1,
+                3,
+                0,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                0,
+                0,
+                6,
+                0,
+                2,
+                1,
+                6,
+                6,
+                4,
+                27
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                6,
+                3,
+                0,
+                6,
+                6,
+                0,
+                3,
+                3,
+                29
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                2,
+                6,
+                0,
+                0,
+                1,
+                6,
+                6,
+                4,
+                27
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                4,
+                4,
+                3,
+                0,
+                4,
+                0,
+                0,
+                3,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                3,
+                0,
+                3,
+                6,
+                0,
+                6,
+                0,
+                3,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                4,
+                6,
+                0,
+                3,
+                3,
+                0,
+                3,
+                3,
+                0,
+                4,
+                26
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                3,
+                1,
+                3,
+                3,
+                1,
+                0,
+                3,
+                1,
+                0,
+                17
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175403-neuauflage-3-cards-blind-runde-114/"
+}

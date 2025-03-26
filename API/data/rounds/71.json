@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Traitors",
+                "Lupine Prototype",
+                "Phyrexian Revoker"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Leyline of Anticipation",
+                "Elite Spellbinder",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Garruk, Apex Predator"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Leyline of Anticipation",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Ashiok, Nightmare Muse",
+                "Black Lotus",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lordfire",
+            "cards": [
+                "City of Traitors",
+                "Phyrexian Revoker",
+                "Kaya, Ghost Assassin"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "City of Traitors",
+                "Phyrexian Revoker",
+                "Hangarback Walker"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Grist, the Hunger Tide",
+                "Cavern of Souls",
+                "Swarmyard"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Dovin, Hand of Control",
+                "City of Traitors",
+                "Kaya, Ghost Assassin"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                4,
+                6,
+                6,
+                6,
+                3,
+                31
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                2,
+                6,
+                6,
+                6,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                3,
+                15
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                2,
+                6,
+                6,
+                6,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                1,
+                2,
+                0,
+                2,
+                0,
+                0,
+                1,
+                6,
+                3,
+                15
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                4,
+                22
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                4,
+                6,
+                0,
+                6,
+                3,
+                25
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                3,
+                0,
+                3,
+                1,
+                3,
+                3,
+                0,
+                16
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171715-neuauflage-3-cards-blind-runde-71/"
+}

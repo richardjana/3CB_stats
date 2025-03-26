@@ -1,0 +1,413 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Sandstone Needle",
+                "Pardic Dragon",
+                "Wild Magic Surge"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lordfire",
+            "cards": [
+                "Ancient Tomb",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Sunken Citadel",
+                "Treetop Village",
+                "Pick Your Poison"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Path to Exile"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Mishra's Factory",
+                "Mox Jet",
+                "Nezumi Shortfang // Stabwhisker the Odious"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hoempes",
+            "cards": [
+                "Leyline of the Guildpact",
+                "Scion of Draco",
+                "Ancient Tomb"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Silver Seraph",
+            "cards": [
+                "Crystal Vein",
+                "Anvil of Bogardan",
+                "Nether Spirit"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "thiefAaron",
+            "cards": [
+                "Swamp",
+                "Dark Ritual",
+                "Rotting Regisaur"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Forest",
+                "Nature's Claim",
+                "Swarm Shambler"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Bottomless Vault",
+                "Smallpox",
+                "Nether Spirit"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Ancient Tomb",
+                "Isochron Scepter",
+                "Lightning Helix"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Lethal",
+            "cards": [
+                "Ancient Tomb",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Daeron",
+            "cards": [
+                "Volcanic Island",
+                "Alpine Moon",
+                "Sleep-Cursed Faerie"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Pick Your Poison",
+                "Pick Your Poison",
+                "Dryad Arbor"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                1,
+                2,
+                2,
+                3,
+                2,
+                3,
+                6,
+                6,
+                6,
+                6,
+                1,
+                44,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                4,
+                0,
+                6,
+                6,
+                3,
+                3,
+                2,
+                2,
+                4,
+                6,
+                6,
+                2,
+                45,
+                1,
+                0
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                3,
+                6,
+                3,
+                0,
+                0,
+                0,
+                6,
+                0,
+                28,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                2,
+                0,
+                2,
+                6,
+                6,
+                2,
+                0,
+                0,
+                33,
+                1,
+                6
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                3,
+                3,
+                2,
+                0,
+                0,
+                4,
+                3,
+                0,
+                6,
+                0,
+                3,
+                35,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                3,
+                0,
+                6,
+                6,
+                0,
+                3,
+                3,
+                3,
+                0,
+                6,
+                3,
+                38,
+                3,
+                0
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                2,
+                3,
+                2,
+                1,
+                3,
+                0,
+                4,
+                1,
+                2,
+                3,
+                2,
+                29,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                2,
+                6,
+                0,
+                3,
+                3,
+                1,
+                0,
+                6,
+                3,
+                6,
+                2,
+                44,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                1,
+                6,
+                0,
+                6,
+                3,
+                4,
+                0,
+                0,
+                0,
+                6,
+                1,
+                39,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                0,
+                6,
+                2,
+                3,
+                6,
+                0,
+                0,
+                0,
+                31,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                24,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                4,
+                2,
+                6,
+                6,
+                3,
+                3,
+                2,
+                2,
+                4,
+                6,
+                6,
+                0,
+                45,
+                1,
+                0
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                6,
+                4,
+                2,
+                4,
+                0,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                4,
+                41,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                2,
+                6,
+                3,
+                0,
+                0,
+                0,
+                3,
+                6,
+                32,
+                6,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174374-neuauflage-3-cards-blind-runde-102/"
+}

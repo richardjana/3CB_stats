@@ -1,0 +1,413 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Maze of Ith",
+                "Inkmoth Nexus",
+                "Worldknit"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "The green one",
+            "cards": [
+                "Phyrexian Dreadnought",
+                "Brago's Favor",
+                "Phyrexian Dreadnought"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Trinisphere",
+                "Crystalline Giant",
+                "Power Play"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "DaCurEmi",
+            "cards": [
+                "Feudkiller's Verdict",
+                "Double Stroke",
+                "Feudkiller's Verdict"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Bongoking",
+            "cards": [
+                "Nether Spirit",
+                "Brago's Favor",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Phyrexian Dreadnought",
+                "Brago's Favor",
+                "Phyrexian Dreadnought"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Karn Liberated",
+                "Brago's Favor",
+                "Karn Liberated"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Choke",
+            "cards": [
+                "Punishing Fire",
+                "Double Stroke",
+                "Punishing Fire"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "NumiChan",
+            "cards": [
+                "Force of Will",
+                "Natural Unity",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Hoempes",
+            "cards": [
+                "Black Lotus",
+                "Liliana of the Veil",
+                "Power Play"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "hug77",
+            "cards": [
+                "Memnite",
+                "Muzzio's Preparations",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "lollonator",
+            "cards": [
+                "Phyrexian Walker",
+                "Phyrexian Walker",
+                "Weight Advantage"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "MagicStorm",
+            "cards": [
+                "Dark Depths",
+                "Assemble the Rank and Vile",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Thalia, Guardian of Thraben",
+                "Mayor of Avabruck",
+                "Hymn of the Wilds"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                2,
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                6,
+                54,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                0,
+                6,
+                21,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                3,
+                6,
+                6,
+                63,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                1,
+                2,
+                4,
+                6,
+                0,
+                0,
+                0,
+                2,
+                20,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                6,
+                0,
+                4,
+                0,
+                6,
+                3,
+                2,
+                0,
+                6,
+                0,
+                0,
+                32,
+                1,
+                2
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                6,
+                30,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                2,
+                0,
+                1,
+                3,
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                1,
+                20,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                0,
+                6,
+                6,
+                6,
+                3,
+                31,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                48,
+                6,
+                0
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                6,
+                3,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                2,
+                39,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                42,
+                6,
+                0
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                4,
+                3,
+                6,
+                2,
+                6,
+                0,
+                29,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                2,
+                6,
+                0,
+                6,
+                4,
+                6,
+                6,
+                6,
+                0,
+                2,
+                0,
+                6,
+                47,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                0,
+                3,
+                0,
+                3,
+                2,
+                0,
+                3,
+                6,
+                6,
+                0,
+                6,
+                6,
+                38,
+                3,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165213-neuauflage-3-cards-blind-runde-10/"
+}

@@ -1,0 +1,118 @@
+{
+    "cards": [
+        {
+            "card": "City of Traitors",
+            "count": 4
+        },
+        {
+            "card": "Black Lotus",
+            "count": 3
+        },
+        {
+            "card": "Cavern of souls",
+            "count": 3
+        },
+        {
+            "card": "Dark Depths",
+            "count": 2
+        },
+        {
+            "card": "Lupine Prototype",
+            "count": 2
+        }
+    ],
+    "n_rounds_played": 15,
+    "n_wins": 1,
+    "nemesis": [
+        {
+            "player": "Yet_another_Geron",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "MagicStorm",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Namse",
+            "score": -2.4,
+            "n_matches": 15
+        },
+        {
+            "player": "Hoempes",
+            "score": -1.0,
+            "n_matches": 9
+        },
+        {
+            "player": "BlackHole",
+            "score": -0.8571428571428571,
+            "n_matches": 7
+        }
+    ],
+    "elo": 1548.38472588744,
+    "score_average": 50.70890529223862,
+    "score_total": 760.6335793835793,
+    "score_list": [
+        {
+            "round": 1,
+            "score": 53.03030303030303
+        },
+        {
+            "round": 2,
+            "score": 48.61111111111111
+        },
+        {
+            "round": 3,
+            "score": 83.33333333333334
+        },
+        {
+            "round": 4,
+            "score": 44.44444444444444
+        },
+        {
+            "round": 5,
+            "score": 61.66666666666667
+        },
+        {
+            "round": 7,
+            "score": 25.925925925925924
+        },
+        {
+            "round": 8,
+            "score": 66.66666666666666
+        },
+        {
+            "round": 10,
+            "score": 48.717948717948715
+        },
+        {
+            "round": 11,
+            "score": 56.25
+        },
+        {
+            "round": 12,
+            "score": 35.8974358974359
+        },
+        {
+            "round": 13,
+            "score": 58.97435897435898
+        },
+        {
+            "round": 14,
+            "score": 40.0
+        },
+        {
+            "round": 15,
+            "score": 67.94871794871794
+        },
+        {
+            "round": 16,
+            "score": 40.27777777777777
+        },
+        {
+            "round": 17,
+            "score": 28.888888888888893
+        }
+    ]
+}

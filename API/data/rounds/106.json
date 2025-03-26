@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Swamp",
+                "Brain Pry",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Mishra's Workshop",
+                "Lodestone Golem",
+                "Akroan Horse"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hoempes",
+            "cards": [
+                "City of Traitors",
+                "Grim Monolith",
+                "Leveler"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Forest",
+                "Mayor of Avabruck",
+                "Mayor of Avabruck"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of the Guildpact",
+                "Scion of Draco",
+                "Cavern of Souls"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mishra's Workshop",
+                "Lodestone Golem",
+                "Eater of Days"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Mishra's Workshop",
+                "Grim Monolith",
+                "Platinum Angel"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lordfire",
+            "cards": [
+                "Mishra's Workshop",
+                "Lodestone Golem",
+                "Smokestack"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Dryad Arbor",
+                "Myr Superion",
+                "Myr Superion"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Michael W",
+            "cards": [
+                "City of Traitors",
+                "Urza's Saga",
+                "Power Conduit"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Ensnaring Bridge",
+                "City of Traitors",
+                "Barbed Wire"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                0,
+                3,
+                0,
+                6,
+                1,
+                3,
+                3,
+                4,
+                26
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                3,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                6,
+                1,
+                0,
+                2,
+                4,
+                1,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                3,
+                6,
+                0,
+                0,
+                3,
+                0,
+                1,
+                3,
+                6,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                0,
+                6,
+                0,
+                0,
+                2,
+                2,
+                3,
+                3,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                4,
+                3,
+                6,
+                0,
+                2,
+                2,
+                6,
+                3,
+                0,
+                38
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                2,
+                2,
+                0,
+                2,
+                6,
+                6,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                2,
+                2,
+                4,
+                2,
+                2,
+                2,
+                0,
+                4,
+                1,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                6,
+                1,
+                3,
+                3,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                4,
+                0,
+                3,
+                3,
+                0,
+                4,
+                6,
+                0,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                1,
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                2,
+                6,
+                6,
+                0,
+                47
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174652-neuauflage-3-cards-blind-runde-106/"
+}

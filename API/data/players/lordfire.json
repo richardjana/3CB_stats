@@ -1,0 +1,206 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 16
+        },
+        {
+            "card": "Anointed Peacekeeper",
+            "count": 5
+        },
+        {
+            "card": "Lupine Prototype",
+            "count": 5
+        },
+        {
+            "card": "City of Traitors",
+            "count": 4
+        },
+        {
+            "card": "Wasteland",
+            "count": 3
+        }
+    ],
+    "n_rounds_played": 37,
+    "n_wins": 6,
+    "nemesis": [
+        {
+            "player": "GoDJi8",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Thoradin",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Silver Seraph",
+            "score": -2.4705882352941178,
+            "n_matches": 17
+        },
+        {
+            "player": "thiefAaron",
+            "score": -1.2,
+            "n_matches": 5
+        },
+        {
+            "player": "P0LTERGEIST",
+            "score": -1.1666666666666667,
+            "n_matches": 36
+        }
+    ],
+    "elo": 1629.3354161159305,
+    "score_average": 47.8507541007541,
+    "score_total": 1770.4779017279018,
+    "score_list": [
+        {
+            "round": 62,
+            "score": 63.33333333333333
+        },
+        {
+            "round": 63,
+            "score": 90.0
+        },
+        {
+            "round": 64,
+            "score": 73.33333333333334
+        },
+        {
+            "round": 65,
+            "score": 36.66666666666667
+        },
+        {
+            "round": 66,
+            "score": 75.0
+        },
+        {
+            "round": 67,
+            "score": 42.59259259259259
+        },
+        {
+            "round": 69,
+            "score": 66.66666666666666
+        },
+        {
+            "round": 71,
+            "score": 45.83333333333333
+        },
+        {
+            "round": 73,
+            "score": 20.370370370370374
+        },
+        {
+            "round": 74,
+            "score": 14.583333333333334
+        },
+        {
+            "round": 75,
+            "score": 66.66666666666666
+        },
+        {
+            "round": 76,
+            "score": 70.37037037037037
+        },
+        {
+            "round": 77,
+            "score": 51.85185185185185
+        },
+        {
+            "round": 78,
+            "score": 63.88888888888889
+        },
+        {
+            "round": 79,
+            "score": 62.5
+        },
+        {
+            "round": 81,
+            "score": 20.833333333333336
+        },
+        {
+            "round": 82,
+            "score": 61.11111111111111
+        },
+        {
+            "round": 83,
+            "score": 18.18181818181818
+        },
+        {
+            "round": 84,
+            "score": 78.7878787878788
+        },
+        {
+            "round": 87,
+            "score": 30.0
+        },
+        {
+            "round": 90,
+            "score": 15.0
+        },
+        {
+            "round": 91,
+            "score": 84.84848484848484
+        },
+        {
+            "round": 92,
+            "score": 68.33333333333333
+        },
+        {
+            "round": 93,
+            "score": 16.666666666666664
+        },
+        {
+            "round": 96,
+            "score": 50.0
+        },
+        {
+            "round": 97,
+            "score": 9.09090909090909
+        },
+        {
+            "round": 100,
+            "score": 34.523809523809526
+        },
+        {
+            "round": 101,
+            "score": 12.5
+        },
+        {
+            "round": 102,
+            "score": 57.6923076923077
+        },
+        {
+            "round": 103,
+            "score": 62.5
+        },
+        {
+            "round": 104,
+            "score": 50.0
+        },
+        {
+            "round": 105,
+            "score": 45.45454545454545
+        },
+        {
+            "round": 106,
+            "score": 41.66666666666667
+        },
+        {
+            "round": 108,
+            "score": 53.333333333333336
+        },
+        {
+            "round": 110,
+            "score": 35.18518518518518
+        },
+        {
+            "round": 111,
+            "score": 27.77777777777778
+        },
+        {
+            "round": 116,
+            "score": 53.333333333333336
+        }
+    ]
+}

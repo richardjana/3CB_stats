@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Anurid Scavenger",
+                "Misguided Rage"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Tale's End",
+                "Black Lotus",
+                "Phyrexian Dreadnought"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Urza's Saga",
+                "Sol Ring",
+                "Power Conduit"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Ancient Tomb",
+                "Isochron Scepter",
+                "Lightning Helix"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Misguided Rage",
+                "Black Lotus",
+                "Anurid Scavenger"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Workshop",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lordfire",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "Ajani Vengeant"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Anointed Peacekeeper",
+                "Brutal Cathar"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Workshop",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "lollonator",
+            "cards": [
+                "Island",
+                "Judge's Familiar",
+                "Judge's Familiar"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Chancellor of the Forge",
+                "Chancellor of the Forge",
+                "Leyline of the Meek"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                4,
+                3,
+                3,
+                0,
+                1,
+                3,
+                6,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                2,
+                0,
+                6,
+                3,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                14
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                3,
+                4,
+                0,
+                3,
+                0,
+                1,
+                3,
+                6,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                3,
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                6,
+                6,
+                6,
+                4,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                56
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                3,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/170837-neuauflage-3-cards-blind-runde-62/"
+}

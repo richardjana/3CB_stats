@@ -1,0 +1,126 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 4
+        },
+        {
+            "card": "Lurrus of the Dream-Den",
+            "count": 2
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Lion's Eye Diamond",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 17,
+    "n_wins": 2,
+    "nemesis": [
+        {
+            "player": "Hasran Ogress",
+            "score": -6.0,
+            "n_matches": 4
+        },
+        {
+            "player": "»Arcanis«",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Schniggi",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Sterni",
+            "score": -4.0,
+            "n_matches": 3
+        },
+        {
+            "player": "Daeron",
+            "score": -3.857142857142857,
+            "n_matches": 7
+        }
+    ],
+    "elo": 1492.7079343048583,
+    "score_average": 38.2191093220505,
+    "score_total": 649.7248584748585,
+    "score_list": [
+        {
+            "round": 3,
+            "score": 46.666666666666664
+        },
+        {
+            "round": 4,
+            "score": 33.33333333333333
+        },
+        {
+            "round": 8,
+            "score": 31.25
+        },
+        {
+            "round": 9,
+            "score": 71.42857142857143
+        },
+        {
+            "round": 13,
+            "score": 48.717948717948715
+        },
+        {
+            "round": 100,
+            "score": 29.761904761904763
+        },
+        {
+            "round": 102,
+            "score": 48.717948717948715
+        },
+        {
+            "round": 103,
+            "score": 12.5
+        },
+        {
+            "round": 104,
+            "score": 50.0
+        },
+        {
+            "round": 105,
+            "score": 50.0
+        },
+        {
+            "round": 106,
+            "score": 28.333333333333332
+        },
+        {
+            "round": 111,
+            "score": 12.5
+        },
+        {
+            "round": 112,
+            "score": 26.666666666666668
+        },
+        {
+            "round": 116,
+            "score": 83.33333333333334
+        },
+        {
+            "round": 117,
+            "score": 37.87878787878788
+        },
+        {
+            "round": 118,
+            "score": 25.0
+        },
+        {
+            "round": 120,
+            "score": 13.636363636363638
+        }
+    ]
+}

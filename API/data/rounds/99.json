@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Misdirection",
+                "Crashing Footfalls",
+                "Forest"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "BlackHole",
+            "cards": [
+                "Unburial Rites",
+                "Iona, Shield of Emeria",
+                "Plains"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Unburial Rites",
+                "Serra's Emissary",
+                "Plains"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Minsc & Boo, Timeless Heroes",
+                "Mental Misstep",
+                "Forest"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Funeral Charm",
+                "Rimebound Dead",
+                "Snow-Covered Swamp"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Anointed Peacekeeper",
+                "Brutal Cathar",
+                "Plains"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Pick your Poison",
+                "Dismember",
+                "Forest"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Karn Liberated",
+                "Wastes"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Sterni",
+            "cards": [
+                "Crashing Footfalls",
+                "Pick your Poison",
+                "Forest"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Karn Liberated",
+                "Swamp"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                50
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                4,
+                3,
+                6,
+                6,
+                0,
+                6,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                3,
+                6,
+                0,
+                3,
+                0,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                1,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                3,
+                0,
+                0,
+                0,
+                2,
+                3,
+                1,
+                3,
+                15
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                3,
+                0,
+                3,
+                6,
+                6,
+                0,
+                6,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                4,
+                0,
+                6,
+                0,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                3,
+                0,
+                3,
+                6,
+                6,
+                3,
+                6,
+                0,
+                33
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174025-neuauflage-3-cards-blind-runde-99/"
+}

@@ -1,0 +1,82 @@
+{
+    "cards": [
+        {
+            "card": "Archon of Valor's Reach",
+            "count": 1
+        },
+        {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Callidus Assassin",
+            "count": 1
+        },
+        {
+            "card": "Tidehollow Sculler",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 6,
+    "n_wins": 2,
+    "nemesis": [
+        {
+            "player": "Sedris",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "P0LTERGEIST",
+            "score": 0.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Sterni",
+            "score": 1.5,
+            "n_matches": 4
+        },
+        {
+            "player": "Silver Seraph",
+            "score": 2.0,
+            "n_matches": 6
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": 2.4,
+            "n_matches": 5
+        }
+    ],
+    "elo": 1861.4744735717554,
+    "score_average": 74.11616161616162,
+    "score_total": 444.6969696969697,
+    "score_list": [
+        {
+            "round": 120,
+            "score": 66.66666666666666
+        },
+        {
+            "round": 122,
+            "score": 77.77777777777779
+        },
+        {
+            "round": 123,
+            "score": 87.5
+        },
+        {
+            "round": 124,
+            "score": 54.166666666666664
+        },
+        {
+            "round": 125,
+            "score": 88.88888888888889
+        },
+        {
+            "round": 126,
+            "score": 69.69696969696969
+        }
+    ]
+}

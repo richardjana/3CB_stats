@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Island",
+                "Phantasmal Bear",
+                "Daze"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Irrigation Ditch",
+                "Nightshade Peddler",
+                "Icatian Javelineers"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "IMP",
+            "cards": [
+                "Halimar Wavewatch",
+                "Island",
+                "Island"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "GoDJi8",
+            "cards": [
+                "Island",
+                "Force Spike",
+                "Viscerid Deepwalker"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Myr Servitor",
+                "Myr Servitor"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Lotus Petal",
+                "Ancient Tomb",
+                "Shady Traveler"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Kalli",
+            "cards": [
+                "Swamp",
+                "Lotus Petal",
+                "Burglar Rat"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Pendelhaven",
+                "Glistener Elf",
+                "Forced Adaptation"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Plains",
+                "Loyal Pegasus",
+                "Loyal Pegasus"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "BlackHole",
+            "cards": [
+                "Ancient Tomb",
+                "Arcbound Stinger",
+                "Ichorclaw Myr"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Durkwood Baloth",
+                "Durkwood Baloth",
+                "Forest"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Bongoking",
+            "cards": [
+                "Saprazzan Skerry",
+                "Blighted Agent",
+                "Unstable Mutation"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "The green one",
+            "cards": [
+                "Ancient Tomb",
+                "Ichorclaw Myr",
+                "Ichorclaw Myr"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                1,
+                2,
+                3,
+                6,
+                1,
+                6,
+                6,
+                0,
+                2,
+                45,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                1,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                55,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                2,
+                0,
+                7,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                4,
+                6,
+                4,
+                0,
+                2,
+                1,
+                6,
+                1,
+                4,
+                3,
+                0,
+                4,
+                36,
+                1
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                4,
+                2,
+                2,
+                0,
+                0,
+                6,
+                2,
+                0,
+                2,
+                0,
+                4,
+                24,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                0,
+                6,
+                4,
+                6,
+                0,
+                3,
+                0,
+                1,
+                6,
+                6,
+                3,
+                44,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                15,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                0,
+                6,
+                4,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                58,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                1,
+                6,
+                4,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                29,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                2,
+                3,
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                22,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                2,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                35,
+                3
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                2,
+                0,
+                6,
+                1,
+                1,
+                3,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                43,
+                6
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                0,
+                6,
+                4,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                3,
+                0,
+                28,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/168620-neuauflage-3-cards-blind-runde-43/"
+}

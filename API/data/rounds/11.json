@@ -1,0 +1,551 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Shelldock Isle",
+                "Lion's Eye Diamond",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Runed Halo",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Transcendence",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Irrigation Ditch",
+                "Stern Dismissal",
+                "Old Growth Dryads"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "NumiChan",
+            "cards": [
+                "Black Lotus",
+                "Lurrus of the Dream-Den",
+                "Runed Halo"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Ratchet Bomb",
+                "Lupine Prototype",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "»Arcanis«",
+            "cards": [
+                "Remote Farm",
+                "Runed Halo",
+                "War Priest of Thune"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Black Lotus",
+                "Dryad Arbor",
+                "Ali from Cairo"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Transcendence",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "MagicStorm",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Archon of Coronation"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Choke",
+            "cards": [
+                "Skyshroud Cutter",
+                "Skyshroud Cutter",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Transcendence"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Bongoking",
+            "cards": [
+                "Maze of Ith",
+                "City of Traitors",
+                "Sundial of the Infinite"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "Hoempes",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Ulamog, the Infinite Gyre",
+                "Shelldock Isle"
+            ]
+        },
+        {
+            "index": 15,
+            "player": "thiefAaron",
+            "cards": [
+                "Karakas",
+                "Mishra's Factory",
+                "Circle of Protection: Red"
+            ]
+        },
+        {
+            "index": 16,
+            "player": "BlackHole",
+            "cards": [
+                "Savannah",
+                "Swords to Plowshares",
+                "Loam Lion"
+            ]
+        },
+        {
+            "index": 17,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Chronatog",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                90,
+                6,
+                3,
+                3,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                2,
+                4,
+                2,
+                2,
+                0,
+                2,
+                2,
+                2,
+                3,
+                2,
+                33,
+                2,
+                0,
+                2,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                2,
+                0,
+                3,
+                2,
+                0,
+                0,
+                2,
+                2,
+                2,
+                6,
+                2,
+                33,
+                2,
+                0,
+                2,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                1,
+                3,
+                0,
+                0,
+                0,
+                1,
+                1,
+                3,
+                3,
+                1,
+                3,
+                18,
+                1,
+                0,
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                2,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                0,
+                0,
+                2,
+                36,
+                2,
+                0,
+                6,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                2,
+                6,
+                6,
+                2,
+                0,
+                2,
+                6,
+                6,
+                0,
+                2,
+                6,
+                54,
+                2,
+                0,
+                6,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                6,
+                4,
+                2,
+                2,
+                0,
+                2,
+                6,
+                2,
+                2,
+                6,
+                48,
+                2,
+                0,
+                4,
+                2,
+                2
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                2,
+                2,
+                4,
+                2,
+                0,
+                2,
+                0,
+                2,
+                2,
+                6,
+                2,
+                32,
+                2,
+                0,
+                6,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                2,
+                2,
+                3,
+                2,
+                0,
+                0,
+                2,
+                0,
+                2,
+                6,
+                2,
+                33,
+                2,
+                0,
+                2,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                2,
+                3,
+                6,
+                6,
+                2,
+                2,
+                2,
+                0,
+                6,
+                2,
+                41,
+                2,
+                0,
+                6,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                3,
+                0,
+                4,
+                6,
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                32,
+                6,
+                0,
+                6,
+                3,
+                0
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                2,
+                2,
+                3,
+                2,
+                0,
+                0,
+                2,
+                2,
+                2,
+                6,
+                0,
+                33,
+                2,
+                0,
+                2,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                2,
+                2,
+                4,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                0,
+                2,
+                32,
+                0,
+                0,
+                2,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                84,
+                6,
+                0,
+                3,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 15,
+            "values": [
+                3,
+                2,
+                2,
+                4,
+                0,
+                2,
+                1,
+                0,
+                2,
+                0,
+                0,
+                2,
+                23,
+                2,
+                3,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 16,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                2,
+                2,
+                6,
+                0,
+                6,
+                3,
+                0,
+                37,
+                0,
+                6,
+                6,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 17,
+            "values": [
+                0,
+                2,
+                2,
+                6,
+                2,
+                0,
+                2,
+                6,
+                2,
+                6,
+                6,
+                2,
+                50,
+                2,
+                0,
+                6,
+                6,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165322-forenliga-3-cards-blind-runde-11/"
+}

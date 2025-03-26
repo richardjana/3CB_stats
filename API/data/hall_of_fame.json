@@ -1,0 +1,1121 @@
+{
+    "table": [
+        {
+            "player": "Namse",
+            "score_mean": "54.97",
+            "score_sum": "6541.76",
+            "rounds_played": 119,
+            "wins": 23,
+            "elo": "1699.20"
+        },
+        {
+            "player": "Schniggi",
+            "score_mean": "74.12",
+            "score_sum": "444.70",
+            "rounds_played": 6,
+            "wins": 2,
+            "elo": "1861.47"
+        },
+        {
+            "player": "lollonator",
+            "score_mean": "36.90",
+            "score_sum": "3948.38",
+            "rounds_played": 107,
+            "wins": 0,
+            "elo": "1438.86"
+        },
+        {
+            "player": "Silver Seraph",
+            "score_mean": "57.58",
+            "score_sum": "2073.02",
+            "rounds_played": 36,
+            "wins": 7,
+            "elo": "1686.49"
+        },
+        {
+            "player": "Michael W",
+            "score_mean": "49.06",
+            "score_sum": "5151.41",
+            "rounds_played": 105,
+            "wins": 12,
+            "elo": "1765.54"
+        },
+        {
+            "player": "The Beast",
+            "score_mean": "50.21",
+            "score_sum": "5422.26",
+            "rounds_played": 108,
+            "wins": 12,
+            "elo": "1544.54"
+        },
+        {
+            "player": "Sterni",
+            "score_mean": "45.29",
+            "score_sum": "679.35",
+            "rounds_played": 15,
+            "wins": 1,
+            "elo": "1651.31"
+        },
+        {
+            "player": "Optimiert",
+            "score_mean": "18.18",
+            "score_sum": "18.18",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1516.71"
+        },
+        {
+            "player": "hug77",
+            "score_mean": "58.78",
+            "score_sum": "6759.88",
+            "rounds_played": 115,
+            "wins": 22,
+            "elo": "1798.00"
+        },
+        {
+            "player": "BlackHole",
+            "score_mean": "38.48",
+            "score_sum": "3924.99",
+            "rounds_played": 102,
+            "wins": 5,
+            "elo": "1476.83"
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score_mean": "50.76",
+            "score_sum": "5532.78",
+            "rounds_played": 109,
+            "wins": 10,
+            "elo": "1730.49"
+        },
+        {
+            "player": "Sedris",
+            "score_mean": "75.76",
+            "score_sum": "75.76",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1724.71"
+        },
+        {
+            "player": "NumiChan",
+            "score_mean": "40.18",
+            "score_sum": "1205.52",
+            "rounds_played": 30,
+            "wins": 3,
+            "elo": "1681.89"
+        },
+        {
+            "player": "Hoempes",
+            "score_mean": "45.01",
+            "score_sum": "855.22",
+            "rounds_played": 19,
+            "wins": 2,
+            "elo": "1553.90"
+        },
+        {
+            "player": "the green one",
+            "score_mean": "50.84",
+            "score_sum": "457.58",
+            "rounds_played": 9,
+            "wins": 2,
+            "elo": "1606.23"
+        },
+        {
+            "player": "»Arcanis«",
+            "score_mean": "55.60",
+            "score_sum": "500.42",
+            "rounds_played": 9,
+            "wins": 2,
+            "elo": "1645.43"
+        },
+        {
+            "player": "P0LTERGEIST",
+            "score_mean": "53.22",
+            "score_sum": "4789.67",
+            "rounds_played": 90,
+            "wins": 15,
+            "elo": "1658.64"
+        },
+        {
+            "player": "Kratos Aurion",
+            "score_mean": "36.93",
+            "score_sum": "1440.27",
+            "rounds_played": 39,
+            "wins": 3,
+            "elo": "1561.78"
+        },
+        {
+            "player": "IMP",
+            "score_mean": "39.96",
+            "score_sum": "1358.77",
+            "rounds_played": 34,
+            "wins": 3,
+            "elo": "1382.87"
+        },
+        {
+            "player": "GoDJi8",
+            "score_mean": "36.16",
+            "score_sum": "289.31",
+            "rounds_played": 8,
+            "wins": 0,
+            "elo": "1603.86"
+        },
+        {
+            "player": "Kalli",
+            "score_mean": "20.83",
+            "score_sum": "20.83",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1507.28"
+        },
+        {
+            "player": "Bongoking",
+            "score_mean": "46.71",
+            "score_sum": "1821.63",
+            "rounds_played": 39,
+            "wins": 3,
+            "elo": "1455.45"
+        },
+        {
+            "player": "The green one",
+            "score_mean": "35.83",
+            "score_sum": "1755.77",
+            "rounds_played": 49,
+            "wins": 2,
+            "elo": "1465.77"
+        },
+        {
+            "player": "lordfire",
+            "score_mean": "47.85",
+            "score_sum": "1770.48",
+            "rounds_played": 37,
+            "wins": 6,
+            "elo": "1629.34"
+        },
+        {
+            "player": "SoulCollector",
+            "score_mean": "34.19",
+            "score_sum": "170.93",
+            "rounds_played": 5,
+            "wins": 0,
+            "elo": "1618.90"
+        },
+        {
+            "player": "Vhaleru",
+            "score_mean": "31.23",
+            "score_sum": "124.92",
+            "rounds_played": 4,
+            "wins": 0,
+            "elo": "1469.70"
+        },
+        {
+            "player": "Hasran Ogress",
+            "score_mean": "50.71",
+            "score_sum": "760.63",
+            "rounds_played": 15,
+            "wins": 1,
+            "elo": "1548.38"
+        },
+        {
+            "player": "thiefAaron",
+            "score_mean": "45.05",
+            "score_sum": "1216.48",
+            "rounds_played": 27,
+            "wins": 3,
+            "elo": "1640.66"
+        },
+        {
+            "player": "hoempes",
+            "score_mean": "38.22",
+            "score_sum": "649.72",
+            "rounds_played": 17,
+            "wins": 2,
+            "elo": "1492.71"
+        },
+        {
+            "player": "QKey",
+            "score_mean": "43.42",
+            "score_sum": "217.09",
+            "rounds_played": 5,
+            "wins": 0,
+            "elo": "1625.72"
+        },
+        {
+            "player": "Daeron",
+            "score_mean": "44.29",
+            "score_sum": "442.86",
+            "rounds_played": 10,
+            "wins": 0,
+            "elo": "1666.56"
+        },
+        {
+            "player": "Moët",
+            "score_mean": "51.32",
+            "score_sum": "205.29",
+            "rounds_played": 4,
+            "wins": 0,
+            "elo": "1706.54"
+        },
+        {
+            "player": "DaCurEmi",
+            "score_mean": "25.64",
+            "score_sum": "25.64",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1534.78"
+        },
+        {
+            "player": "Choke",
+            "score_mean": "48.17",
+            "score_sum": "144.51",
+            "rounds_played": 3,
+            "wins": 1,
+            "elo": "1548.58"
+        },
+        {
+            "player": "MagicStorm",
+            "score_mean": "51.48",
+            "score_sum": "102.96",
+            "rounds_played": 2,
+            "wins": 0,
+            "elo": "1635.73"
+        },
+        {
+            "player": "Lethal",
+            "score_mean": "57.69",
+            "score_sum": "57.69",
+            "rounds_played": 1,
+            "wins": 1,
+            "elo": "1687.23"
+        },
+        {
+            "player": "Iksquadrat",
+            "score_mean": "30.00",
+            "score_sum": "30.00",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1555.33"
+        },
+        {
+            "player": "Lollonator",
+            "score_mean": "12.50",
+            "score_sum": "25.00",
+            "rounds_played": 2,
+            "wins": 0,
+            "elo": "1450.26"
+        },
+        {
+            "player": "Thoradin",
+            "score_mean": "66.67",
+            "score_sum": "66.67",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1704.73"
+        },
+        {
+            "player": "Haakon, Geißel der anderen",
+            "score_mean": "58.72",
+            "score_sum": "234.88",
+            "rounds_played": 4,
+            "wins": 1,
+            "elo": "1692.78"
+        },
+        {
+            "player": "Pepega",
+            "score_mean": "30.58",
+            "score_sum": "91.74",
+            "rounds_played": 3,
+            "wins": 0,
+            "elo": "1524.78"
+        },
+        {
+            "player": "Necronlord",
+            "score_mean": "27.46",
+            "score_sum": "54.92",
+            "rounds_played": 2,
+            "wins": 0,
+            "elo": "1488.61"
+        },
+        {
+            "player": "Yet_another_Geron",
+            "score_mean": "52.46",
+            "score_sum": "104.92",
+            "rounds_played": 2,
+            "wins": 0,
+            "elo": "1646.78"
+        },
+        {
+            "player": "Yaloron",
+            "score_mean": "62.50",
+            "score_sum": "62.50",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1657.18"
+        },
+        {
+            "player": "Fallen Azrael",
+            "score_mean": "21.43",
+            "score_sum": "21.43",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1544.09"
+        },
+        {
+            "player": "pianotoad",
+            "score_mean": "29.70",
+            "score_sum": "59.39",
+            "rounds_played": 2,
+            "wins": 0,
+            "elo": "1561.40"
+        },
+        {
+            "player": "TimS",
+            "score_mean": "27.27",
+            "score_sum": "27.27",
+            "rounds_played": 1,
+            "wins": 0,
+            "elo": "1552.00"
+        }
+    ],
+    "rounds": [
+        {
+            "round": 126,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 125,
+            "winner": [
+                "Schniggi"
+            ]
+        },
+        {
+            "round": 124,
+            "winner": [
+                "Michael W",
+                "Namse",
+                "Silver Seraph",
+                "The Beast"
+            ]
+        },
+        {
+            "round": 123,
+            "winner": [
+                "Schniggi"
+            ]
+        },
+        {
+            "round": 122,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 121,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 120,
+            "winner": [
+                "Silver Seraph"
+            ]
+        },
+        {
+            "round": 119,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 118,
+            "winner": [
+                "Silver Seraph"
+            ]
+        },
+        {
+            "round": 117,
+            "winner": [
+                "Master_of_Desaster",
+                "The Beast"
+            ]
+        },
+        {
+            "round": 116,
+            "winner": [
+                "hoempes"
+            ]
+        },
+        {
+            "round": 115,
+            "winner": [
+                "hug77",
+                "Namse"
+            ]
+        },
+        {
+            "round": 114,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 113,
+            "winner": [
+                "P0LTERGEIST",
+                "Silver Seraph"
+            ]
+        },
+        {
+            "round": 112,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 111,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 110,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 109,
+            "winner": [
+                "Silver Seraph"
+            ]
+        },
+        {
+            "round": 108,
+            "winner": [
+                "Silver Seraph"
+            ]
+        },
+        {
+            "round": 106,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 105,
+            "winner": [
+                "hug77",
+                "Master_of_Desaster",
+                "Namse"
+            ]
+        },
+        {
+            "round": 104,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 103,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 102,
+            "winner": [
+                "Lethal",
+                "lordfire"
+            ]
+        },
+        {
+            "round": 101,
+            "winner": [
+                "BlackHole"
+            ]
+        },
+        {
+            "round": 100,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 99,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 98,
+            "winner": [
+                "BlackHole"
+            ]
+        },
+        {
+            "round": 97,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 96,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 95,
+            "winner": [
+                "Namse",
+                "Sterni"
+            ]
+        },
+        {
+            "round": 94,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 93,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 92,
+            "winner": [
+                "hug77",
+                "lordfire",
+                "Michael W",
+                "P0LTERGEIST",
+                "Silver Seraph"
+            ]
+        },
+        {
+            "round": 91,
+            "winner": [
+                "lordfire",
+                "Michael W"
+            ]
+        },
+        {
+            "round": 90,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 89,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 88,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 87,
+            "winner": [
+                "Kratos Aurion"
+            ]
+        },
+        {
+            "round": 86,
+            "winner": [
+                "Bongoking",
+                "hug77",
+                "IMP"
+            ]
+        },
+        {
+            "round": 85,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 84,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 83,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 82,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 81,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 79,
+            "winner": [
+                "BlackHole"
+            ]
+        },
+        {
+            "round": 78,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 77,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 76,
+            "winner": [
+                "lordfire"
+            ]
+        },
+        {
+            "round": 75,
+            "winner": [
+                "Kratos Aurion"
+            ]
+        },
+        {
+            "round": 74,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 73,
+            "winner": [
+                "Namse",
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 72,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 71,
+            "winner": [
+                "Kratos Aurion",
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 70,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 69,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 68,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 67,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 66,
+            "winner": [
+                "lordfire"
+            ]
+        },
+        {
+            "round": 65,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 64,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 63,
+            "winner": [
+                "lordfire"
+            ]
+        },
+        {
+            "round": 62,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 61,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 60,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 59,
+            "winner": [
+                "IMP"
+            ]
+        },
+        {
+            "round": 58,
+            "winner": [
+                "The green one"
+            ]
+        },
+        {
+            "round": 57,
+            "winner": [
+                "BlackHole"
+            ]
+        },
+        {
+            "round": 55,
+            "winner": [
+                "NumiChan"
+            ]
+        },
+        {
+            "round": 54,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 53,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 52,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 51,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 50,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 49,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 47,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 46,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 44,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 43,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 42,
+            "winner": [
+                "IMP"
+            ]
+        },
+        {
+            "round": 41,
+            "winner": [
+                "The Beast",
+                "thiefAaron"
+            ]
+        },
+        {
+            "round": 40,
+            "winner": [
+                "NumiChan"
+            ]
+        },
+        {
+            "round": 38,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 37,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 36,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 35,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 34,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 33,
+            "winner": [
+                "Michael W"
+            ]
+        },
+        {
+            "round": 32,
+            "winner": [
+                "Bongoking"
+            ]
+        },
+        {
+            "round": 31,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 30,
+            "winner": [
+                "Master_of_Desaster"
+            ]
+        },
+        {
+            "round": 29,
+            "winner": [
+                "The green one"
+            ]
+        },
+        {
+            "round": 27,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 26,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 25,
+            "winner": [
+                "thiefAaron"
+            ]
+        },
+        {
+            "round": 24,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 23,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 22,
+            "winner": [
+                "Hoempes"
+            ]
+        },
+        {
+            "round": 21,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 20,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 19,
+            "winner": [
+                "BlackHole"
+            ]
+        },
+        {
+            "round": 18,
+            "winner": [
+                "»Arcanis«"
+            ]
+        },
+        {
+            "round": 17,
+            "winner": [
+                "NumiChan"
+            ]
+        },
+        {
+            "round": 16,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 15,
+            "winner": [
+                "thiefAaron"
+            ]
+        },
+        {
+            "round": 14,
+            "winner": [
+                "P0LTERGEIST"
+            ]
+        },
+        {
+            "round": 13,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 12,
+            "winner": [
+                "»Arcanis«",
+                "Namse"
+            ]
+        },
+        {
+            "round": 11,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 10,
+            "winner": [
+                "The Beast"
+            ]
+        },
+        {
+            "round": 9,
+            "winner": [
+                "Choke",
+                "hoempes",
+                "hug77"
+            ]
+        },
+        {
+            "round": 8,
+            "winner": [
+                "hug77"
+            ]
+        },
+        {
+            "round": 7,
+            "winner": [
+                "Bongoking",
+                "the green one"
+            ]
+        },
+        {
+            "round": 6,
+            "winner": [
+                "the green one"
+            ]
+        },
+        {
+            "round": 5,
+            "winner": [
+                "Hoempes"
+            ]
+        },
+        {
+            "round": 4,
+            "winner": [
+                "Namse"
+            ]
+        },
+        {
+            "round": 3,
+            "winner": [
+                "Hasran Ogress"
+            ]
+        },
+        {
+            "round": 2,
+            "winner": [
+                "Haakon, Geißel der anderen",
+                "Namse"
+            ]
+        },
+        {
+            "round": 1,
+            "winner": [
+                "Namse"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 2
+        },
+        {
+            "card": "Chandra, Flame's Fury",
+            "count": 1
+        },
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Inkmoth Nexus",
+            "count": 1
+        },
+        {
+            "card": "Slimebind",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Haakon, Geißel der anderen",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "NumiChan",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "The Beast",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "the green one",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1488.6054222167938,
+    "score_average": 27.46212121212121,
+    "score_total": 54.92424242424242,
+    "score_list": [
+        {
+            "round": 1,
+            "score": 25.757575757575758
+        },
+        {
+            "round": 2,
+            "score": 29.166666666666668
+        }
+    ]
+}

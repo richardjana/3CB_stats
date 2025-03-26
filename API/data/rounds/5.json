@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Inkmoth Nexus",
+                "Phyrexian Revoker",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Hoempes",
+            "cards": [
+                "Serra Ascendant",
+                "Serra Ascendant",
+                "Plains"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Lollonator",
+            "cards": [
+                "Vault Skirge",
+                "Vault Skirge",
+                "Unmask"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Bongoking",
+            "cards": [
+                "Inkmoth Nexus",
+                "Inkmoth Nexus",
+                "Quicksand"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Vryn Wingmare"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "NumiChan",
+            "cards": [
+                "Inkmoth Nexus",
+                "Force of Will",
+                "Vizzerdrix"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The green one",
+            "cards": [
+                "Dryad Arbor",
+                "Memnite",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Khalni Garden",
+                "Khalni Garden",
+                "Chatter of the Squirrel"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "thiefAaron",
+            "cards": [
+                "Inkmoth Nexus",
+                "Thespian's Stage",
+                "Dark Depths"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Serra Ascendant",
+                "Cavern of souls",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Dark Depths",
+                "Thespian's Stage",
+                "Wasteland"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                3,
+                2,
+                4,
+                51
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                2,
+                2,
+                0,
+                0,
+                0,
+                3,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                3,
+                0,
+                2,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                2,
+                3,
+                0,
+                3,
+                32
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                3,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                0,
+                6,
+                2,
+                50
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                2,
+                3,
+                2,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                37
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                1,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                2,
+                6,
+                0,
+                48
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/164636-forenliga-neuauflage-3cb-runde-5-von-5/"
+}

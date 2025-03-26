@@ -1,0 +1,90 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 3
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 2
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 2
+        },
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Wandering Archaic // Explore the Vastlands",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 8,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "P0LTERGEIST",
+            "score": -6.0,
+            "n_matches": 3
+        },
+        {
+            "player": "hoempes",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Thoradin",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "The Beast",
+            "score": -5.571428571428571,
+            "n_matches": 7
+        },
+        {
+            "player": "hug77",
+            "score": -3.75,
+            "n_matches": 8
+        }
+    ],
+    "elo": 1603.8628202634934,
+    "score_average": 36.16331585081585,
+    "score_total": 289.3065268065268,
+    "score_list": [
+        {
+            "round": 35,
+            "score": 30.76923076923077
+        },
+        {
+            "round": 38,
+            "score": 41.66666666666667
+        },
+        {
+            "round": 40,
+            "score": 20.833333333333336
+        },
+        {
+            "round": 41,
+            "score": 38.46153846153846
+        },
+        {
+            "round": 42,
+            "score": 34.848484848484844
+        },
+        {
+            "round": 43,
+            "score": 50.0
+        },
+        {
+            "round": 44,
+            "score": 22.727272727272727
+        },
+        {
+            "round": 100,
+            "score": 50.0
+        }
+    ]
+}

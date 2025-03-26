@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Urborg, Tomb of Yawgmoth",
+                "Gifted Aetherborn"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Wasteland",
+                "Mishra's Factory",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Boseiju, Who Endures",
+                "Kiora, the Crashing Wave"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Great Furnace",
+                "Kuldotha Rebirth"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Mishra's Workshop",
+                "Lupine Prototype",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "IMP",
+            "cards": [
+                "Wasteland",
+                "Myr Servitor",
+                "Myr Servitor"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Wasteland",
+                "Sheltered Valley"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Wasteland",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lordfire",
+            "cards": [
+                "Elspeth, Sun's Champion",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mishra's Factory",
+                "Mishra's Factory",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Chancellor of the Forge"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                9
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                3,
+                2,
+                6,
+                6,
+                0,
+                6,
+                0,
+                41
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                3,
+                0,
+                3,
+                0,
+                0,
+                0,
+                6,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                54
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                21
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/170942-neuauflage-3-cards-blind-runde-63/"
+}

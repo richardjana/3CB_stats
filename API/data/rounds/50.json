@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Force of Will",
+                "Progenitus",
+                "Meddling Mage"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "SoulCollector",
+            "cards": [
+                "Smallpox",
+                "Basking Rootwalla",
+                "Blazing Rootwalla"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "IMP",
+            "cards": [
+                "Pact of Negation",
+                "Kiki-Jiki, Mirror Breaker",
+                "Deceiver Exarch"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "NumiChan",
+            "cards": [
+                "Misthollow Griffin",
+                "Force of Will",
+                "Helix Pinnacle"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Ulamog, the Infinite Gyre",
+                "Time Vault",
+                "Voltaic Key"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Unburial Rites",
+                "Iona, Shield of Emeria"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Force of Will",
+                "Misthollow Griffin",
+                "Apocalypse"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Piracy Charm",
+                "Force of Will",
+                "Ant Queen"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Ceremonious Rejection",
+                "Island",
+                "Ferropede"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Meddling Mage",
+                "Meddling Mage",
+                "Nicol Bolas, Dragon God"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Bongoking",
+            "cards": [
+                "Time Vault",
+                "Manifold Key",
+                "Thrun, the Last Troll"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "hug77",
+            "cards": [
+                "Smallpox",
+                "Ulamog, the Infinite Gyre",
+                "Sneak Attack"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                6,
+                3,
+                6,
+                0,
+                47
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                6,
+                6,
+                0,
+                0,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                0,
+                6,
+                0,
+                3,
+                6,
+                41
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                2,
+                0,
+                2,
+                2,
+                0,
+                0,
+                2,
+                6,
+                0,
+                2,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                38
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                57
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                48
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169396-neuauflage-3-cards-blind-runde-50/"
+}

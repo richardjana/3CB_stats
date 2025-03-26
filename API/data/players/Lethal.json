@@ -1,0 +1,50 @@
+{
+    "cards": [
+        {
+            "card": "Lupine Prototype",
+            "count": 2
+        },
+        {
+            "card": "Ancient Tomb",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 1,
+    "nemesis": [
+        {
+            "player": "P0LTERGEIST",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Daeron",
+            "score": -3.0,
+            "n_matches": 1
+        },
+        {
+            "player": "lordfire",
+            "score": 0.0,
+            "n_matches": 1
+        },
+        {
+            "player": "BlackHole",
+            "score": 0.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hoempes",
+            "score": 0.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1687.2341161532067,
+    "score_average": 57.6923076923077,
+    "score_total": 57.6923076923077,
+    "score_list": [
+        {
+            "round": 102,
+            "score": 57.6923076923077
+        }
+    ]
+}

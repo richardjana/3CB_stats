@@ -1,0 +1,194 @@
+{
+    "cards": [
+        {
+            "card": "Black Lotus",
+            "count": 10
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 3
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 2
+        },
+        {
+            "card": "Island",
+            "count": 2
+        },
+        {
+            "card": "Wurmcoil Engine",
+            "count": 2
+        }
+    ],
+    "n_rounds_played": 34,
+    "n_wins": 3,
+    "nemesis": [
+        {
+            "player": "Silver Seraph",
+            "score": -6.0,
+            "n_matches": 5
+        },
+        {
+            "player": "thiefAaron",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Kalli",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Iksquadrat",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Daeron",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1382.8706132950513,
+    "score_average": 39.9637494858083,
+    "score_total": 1358.7674825174822,
+    "score_list": [
+        {
+            "round": 40,
+            "score": 44.44444444444444
+        },
+        {
+            "round": 41,
+            "score": 12.820512820512823
+        },
+        {
+            "round": 42,
+            "score": 72.72727272727272
+        },
+        {
+            "round": 43,
+            "score": 9.722222222222223
+        },
+        {
+            "round": 44,
+            "score": 57.57575757575758
+        },
+        {
+            "round": 46,
+            "score": 75.0
+        },
+        {
+            "round": 47,
+            "score": 21.666666666666668
+        },
+        {
+            "round": 49,
+            "score": 63.33333333333333
+        },
+        {
+            "round": 50,
+            "score": 40.909090909090914
+        },
+        {
+            "round": 51,
+            "score": 20.0
+        },
+        {
+            "round": 52,
+            "score": 28.78787878787879
+        },
+        {
+            "round": 53,
+            "score": 43.333333333333336
+        },
+        {
+            "round": 54,
+            "score": 0.0
+        },
+        {
+            "round": 55,
+            "score": 11.11111111111111
+        },
+        {
+            "round": 57,
+            "score": 48.333333333333336
+        },
+        {
+            "round": 58,
+            "score": 57.57575757575758
+        },
+        {
+            "round": 59,
+            "score": 81.66666666666667
+        },
+        {
+            "round": 60,
+            "score": 33.33333333333333
+        },
+        {
+            "round": 61,
+            "score": 54.99999999999999
+        },
+        {
+            "round": 62,
+            "score": 58.333333333333336
+        },
+        {
+            "round": 63,
+            "score": 48.333333333333336
+        },
+        {
+            "round": 64,
+            "score": 31.666666666666664
+        },
+        {
+            "round": 68,
+            "score": 27.083333333333332
+        },
+        {
+            "round": 69,
+            "score": 51.85185185185185
+        },
+        {
+            "round": 83,
+            "score": 54.545454545454554
+        },
+        {
+            "round": 84,
+            "score": 74.24242424242424
+        },
+        {
+            "round": 85,
+            "score": 10.0
+        },
+        {
+            "round": 86,
+            "score": 81.4814814814815
+        },
+        {
+            "round": 88,
+            "score": 54.166666666666664
+        },
+        {
+            "round": 90,
+            "score": 31.666666666666664
+        },
+        {
+            "round": 92,
+            "score": 16.666666666666664
+        },
+        {
+            "round": 101,
+            "score": 34.72222222222223
+        },
+        {
+            "round": 108,
+            "score": 6.666666666666667
+        },
+        {
+            "round": 112,
+            "score": 0.0
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Shadrix Silverquill"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Shadrix Silverquill"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Bongoking",
+            "cards": [
+                "Black Lotus",
+                "Elite Spellbinder",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Hoempes",
+            "cards": [
+                "Black Lotus",
+                "Lurrus of the Dream-Den",
+                "Elite Spellbinder"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Detention Vortex"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Bottomless Vault",
+                "Professor Onyx"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Wasteland",
+                "Swamp",
+                "Valentin, Dean of the Vein // Lisette, Dean of the Root"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Shadrix Silverquill"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "NumiChan",
+            "cards": [
+                "Eater of Days",
+                "Strixhaven Stadium",
+                "Mishra's Workshop"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Geothermal Crevice",
+                "Hapatra, Vizier of Poisons",
+                "Witherbloom Command"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "thiefAaron",
+            "cards": [
+                "Elite Spellbinder",
+                "Black Lotus",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Multiple Choice",
+                "Saprazzan Cove",
+                "Archmage's Charm"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                0,
+                0,
+                6,
+                3,
+                6,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                0,
+                0,
+                6,
+                3,
+                6,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                3,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                2,
+                2,
+                40
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                3,
+                3,
+                0,
+                6,
+                4,
+                6,
+                3,
+                6,
+                6,
+                0,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                0,
+                2,
+                4,
+                6,
+                6,
+                6,
+                0,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                6,
+                1,
+                2,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                2,
+                41
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                25
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                2,
+                0,
+                2,
+                48
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                14
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166766-neuauflage-3-cards-blind-runde-25/"
+}

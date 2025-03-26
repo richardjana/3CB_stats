@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Maze of Ith",
+                "Galewind Moose",
+                "Kitnap"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "The Beast",
+            "cards": [
+                "Cruelclaw's Heist",
+                "Maha, Its Feathers Night",
+                "Swamp"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Cruelclaw's Heist",
+                "Season of the Burrow"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Stormchaser's Talent",
+                "Snapback",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lordfire",
+            "cards": [
+                "Mishra's Workshop",
+                "Phyrexian Dreadnought",
+                "Torpor Orb"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Fell",
+                "Barkform Harvester",
+                "Long River's Pull"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "thiefAaron",
+            "cards": [
+                "Season of the Burrow",
+                "Stormchaser's Talent",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hoempes",
+            "cards": [
+                "Valley Floodcaller",
+                "Retraction Helix",
+                "Mox Sapphire"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Cruelclaw's Heist",
+                "Season of the Burrow",
+                "Leyline of Sanctity"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Michael W",
+            "cards": [
+                "Cruelclaw's Heist",
+                "Feed the Cycle",
+                "Maha, Its Feathers Night"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Cruelclaw's Heist"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "hug77",
+            "cards": [
+                "Cruelclaw's Heist",
+                "Tender Wildguide",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "The green one",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Urborg, Tomb of Yawgmoth",
+                "Hunted Horror"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                0,
+                2,
+                6,
+                2,
+                0,
+                6,
+                0,
+                0,
+                2,
+                0,
+                22,
+                2
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                3,
+                6,
+                3,
+                2,
+                6,
+                6,
+                0,
+                2,
+                0,
+                3,
+                39,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                2,
+                6,
+                1,
+                6,
+                0,
+                3,
+                47,
+                2
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                22,
+                2
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                6,
+                3,
+                2,
+                3,
+                20,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                2,
+                0,
+                6,
+                6,
+                0,
+                1,
+                6,
+                1,
+                3,
+                2,
+                0,
+                31,
+                2
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                2,
+                6,
+                6,
+                4,
+                0,
+                6,
+                2,
+                0,
+                6,
+                6,
+                46,
+                2
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                4,
+                6,
+                0,
+                4,
+                2,
+                6,
+                0,
+                6,
+                6,
+                6,
+                53,
+                1
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                2,
+                0,
+                6,
+                3,
+                3,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                34,
+                2
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                6,
+                6,
+                0,
+                2,
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                38,
+                2
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                3,
+                3,
+                6,
+                3,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                41,
+                2
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                2,
+                0,
+                2,
+                2,
+                6,
+                2,
+                2,
+                0,
+                4,
+                2,
+                2,
+                2,
+                26,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175109-neuauflage-3-cards-blind-runde-111/"
+}

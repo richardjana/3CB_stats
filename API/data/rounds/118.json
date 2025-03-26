@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Gideon of the Trials",
+                "Pact of Negation"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Daeron",
+            "cards": [
+                "Mental Misstep",
+                "Force of Will",
+                "Pact of Negation"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hoempes",
+            "cards": [
+                "Emrakul, the Aeons Torn",
+                "Shelldock Isle",
+                "Lion's Eye Diamond"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Timecrafting"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Sterni",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Timecrafting"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Mishra's Workshop",
+                "Torpor Orb",
+                "Phyrexian Dreadnought"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Moët",
+            "cards": [
+                "Jhoira's Timebug",
+                "Ensnaring Bridge",
+                "Mishra's Workshop"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Silver Seraph",
+            "cards": [
+                "Karakas",
+                "Curse of Silence",
+                "Angel's Grace"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Karakas",
+                "Curse of Silence",
+                "Pact of Negation"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "BlackHole",
+            "cards": [
+                "Tropical Island",
+                "Daze",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Mountain",
+                "Shivan Sand-Mage",
+                "Pyroblast"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Gideon of the Trials",
+                "Pact of Negation"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Island",
+                "Into the Flood Maw",
+                "Stifle"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                1,
+                6,
+                6,
+                6,
+                3,
+                61,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                6,
+                0,
+                51,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                18,
+                3
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                21,
+                0
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                3,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                21,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                6,
+                0,
+                2,
+                3,
+                3,
+                3,
+                6,
+                3,
+                38,
+                3
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                2,
+                0,
+                0,
+                1,
+                6,
+                6,
+                0,
+                33,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                0,
+                4,
+                6,
+                6,
+                4,
+                63,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                6,
+                3,
+                4,
+                1,
+                0,
+                6,
+                6,
+                0,
+                47,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                18,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                12,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                1,
+                6,
+                6,
+                6,
+                0,
+                61,
+                6
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                0,
+                3,
+                6,
+                6,
+                3,
+                6,
+                0,
+                0,
+                3,
+                0,
+                0,
+                27,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175569-neuauflage-3-cards-blind-runde-118/"
+}

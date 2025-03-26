@@ -1,0 +1,74 @@
+{
+    "cards": [
+        {
+            "card": "Mishra's Factory",
+            "count": 6
+        },
+        {
+            "card": "Mirari's Wake",
+            "count": 1
+        },
+        {
+            "card": "Preacher",
+            "count": 1
+        },
+        {
+            "card": "Progenitus",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        }
+    ],
+    "n_rounds_played": 4,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Michael W",
+            "score": -6.0,
+            "n_matches": 4
+        },
+        {
+            "player": "Hoempes",
+            "score": -4.5,
+            "n_matches": 4
+        },
+        {
+            "player": "The Beast",
+            "score": -3.75,
+            "n_matches": 4
+        },
+        {
+            "player": "Namse",
+            "score": -3.0,
+            "n_matches": 4
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -3.0,
+            "n_matches": 3
+        }
+    ],
+    "elo": 1469.700878908915,
+    "score_average": 31.231060606060602,
+    "score_total": 124.92424242424241,
+    "score_list": [
+        {
+            "round": 16,
+            "score": 45.83333333333333
+        },
+        {
+            "round": 17,
+            "score": 53.333333333333336
+        },
+        {
+            "round": 22,
+            "score": 25.757575757575758
+        },
+        {
+            "round": 23,
+            "score": 0.0
+        }
+    ]
+}

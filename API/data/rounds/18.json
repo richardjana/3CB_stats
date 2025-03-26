@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Snapback",
+                "Memnite",
+                "Elspeth, Knight Errant Emblem"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Mercadian Bazaar",
+                "Chandra, Awakened Inferno",
+                "Rowan Kenrith Emblem"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "NumiChan",
+            "cards": [
+                "Yavimaya Hollow",
+                "Helix Pinnacle",
+                "Serra the Benevolent Emblem"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Isochron Scepter",
+                "Lightning Helix",
+                "Will Kenrith Emblem"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Shelldock Isle",
+                "Ulamog, the Infinite Gyre",
+                "Elspeth, Knight Errant Emblem"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Invisible Stalker",
+                "Pithing Needle",
+                "Serra the Benevolent Emblem"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Hoempes",
+            "cards": [
+                "Ensnaring Bridge",
+                "Scalding Tongs",
+                "Elspeth, Knight Errant Emblem"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Magus of the Moon",
+                "Thalia, Guardian of Thraben",
+                "Daretti, Scrap Savant Emblem"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Shelldock Isle",
+                "Emrakul, the Aeons Torn",
+                "Elspeth, Knight Errant Emblem"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "the green one",
+            "cards": [
+                "Stronghold Gambit",
+                "Emrakul, the Aeons Torn",
+                "Will Kenrith Emblem"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "»Arcanis«",
+            "cards": [
+                "Island",
+                "Chancellor of the Forge",
+                "Will Kenrith Emblem"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Pyrite Spellbomb",
+                "Pyrite Spellbomb",
+                "Daretti, Scrap Savant Emblem"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                2,
+                6,
+                6,
+                6,
+                4,
+                6,
+                6,
+                6,
+                2,
+                0,
+                44
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                6,
+                2,
+                0,
+                0,
+                2,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                2,
+                6,
+                6,
+                0,
+                2,
+                3,
+                6,
+                0,
+                0,
+                6,
+                37
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                1,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                1,
+                6,
+                6,
+                0,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                2,
+                6,
+                6,
+                3,
+                4,
+                0,
+                6,
+                4,
+                0,
+                3,
+                40
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                1,
+                0,
+                0,
+                0,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                0,
+                2,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                46
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                6,
+                0,
+                27
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166126-forenliga-3-cards-blind-runde-18/"
+}

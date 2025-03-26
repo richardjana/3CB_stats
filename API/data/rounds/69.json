@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Lurrus of the Dream-Den",
+                "Phyrexian Snowcrusher"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Plains",
+                "Master Splicer",
+                "Master Splicer"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Frost Titan",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Replicating Ring",
+                "Rimefeather Owl"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Chalice of Life",
+                "Chalice of Life"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lordfire",
+            "cards": [
+                "Black Lotus",
+                "Frost Titan",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Dryad Arbor",
+                "Black Lotus",
+                "Blood on the Snow"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Arlinn, Voice of the Pack",
+                "Black Lotus",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Leyline of Anticipation",
+                "Elite Spellbinder"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                4,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                4,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                2,
+                6,
+                6,
+                2,
+                2,
+                6,
+                0,
+                36
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                2,
+                0,
+                6,
+                0,
+                2,
+                6,
+                2,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                2,
+                2,
+                6,
+                6,
+                0,
+                2,
+                6,
+                0,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                2,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                1,
+                1,
+                0,
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                42
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171513-neuauflage-3-cards-blind-runde-69/"
+}
