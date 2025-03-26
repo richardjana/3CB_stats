@@ -1,0 +1,47 @@
+.info-hover-container {
+  position: relative;
+  display: inline-block;
+}
+
+.info-icon {
+  width: 1.0em;  /* Smaller circle size */
+  height: 1.0em;  /* Keep circle proportional to font size */
+  font-size: 14px;  /* Smaller font size for the "i" */
+  line-height: 1.0;  /* Keep the "i" centered vertically */
+  border-radius: 50%;  /* Circular shape */
+  background-color: #aaa;  /* Lighter grey background */
+  color: white;  /* White "i" text */
+  font-weight: bold;  /* Bold "i" */
+  font-family: 'Comic Sans MS', 'Cursive', sans-serif;  /* Handwritten feel */
+  font-style: italic;  /* Italicized font for a handwritten effect */
+  display: inline-flex;
+  justify-content: center;  /* Center the "i" horizontally */
+  align-items: center;  /* Center the "i" vertically */
+  cursor: pointer;
+  padding: 0;  /* No extra padding around the circle */
+  margin: 0;  /* No margin */
+  text-align: center;  /* Ensures the "i" is centered */
+  vertical-align: super;  /* Raise the circle to the top like an exponent */
+}
+
+.info-text {
+  visibility: hidden;
+  width: 200px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position above the icon */
+  left: 50%;
+  margin-left: -100px; /* Center */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.info-hover-container:hover .info-text {
+  visibility: visible;
+  opacity: 1;
+}

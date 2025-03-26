@@ -1,0 +1,88 @@
+.header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.header .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .logo h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.header nav {
+  flex: 1;
+}
+
+.header .nav-list {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.header .nav-item {
+  margin: 0 15px;
+  position: relative;
+  display: flex; /* Align text and icon horizontally */
+  align-items: center; /* Vertically center the icon next to the text */
+}
+
+.header .nav-item i {
+  font-size: 14px; /* Optional: Adjust icon size */
+  transition: transform 0.3s ease; /* Smooth transition for rotation */
+}
+
+.header .link {
+  display: block;
+  white-space: nowrap;
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 8px 16px;
+}
+
+.header .link:hover {
+  color: #aaa; /* Slightly different shade for hover */
+}
+
+/* Dropdown menu styles */
+.header .dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #444;
+  padding: 0;
+  list-style: none;
+  margin: 0;
+  width: auto;
+  max-width: 250px; /* Optional: set max width */
+  max-height: 300px; /* Optional: set max height for scrolling */
+  overflow-y: auto;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  z-index: 100;
+}
+
+.header .dropdown-item {
+  padding: 0px 16px;
+  text-align: left;
+}
+
+/* Rotate the dropdown icon when the menu is open */
+.rotate {
+  transform: rotate(90deg);
+  transition: transform 0.3s ease;
+}
+
+.header .dropdown-icon {
+  margin-left: 5px;
+  transition: transform 0.3s ease;
+}
