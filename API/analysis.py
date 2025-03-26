@@ -44,7 +44,7 @@ def most_played_cards(df: pd.DataFrame, n_cards: int =5) -> Dict[str, List[Dict[
 
 def load_data() -> pd.DataFrame:
     data_cumu = pd.DataFrame()
-    for file in glob.glob('../data/raw/round_*.csv'):
+    for file in glob.glob('data/raw/round_*.csv'):
         data = pd.read_csv(file, sep=';')
         add_derivates_to_round(data)
         data_cumu = pd.concat([data_cumu, data])
@@ -147,7 +147,7 @@ if __name__ == '__main__':
     all_players_sorted = all_players.tolist()
     all_players_sorted.sort(key = lambda p: re.sub(r'[^a-zA-Z0-9]', '', p).lower())
     round_numbers_sorted = sorted(data['round'].unique().tolist(), key = lambda x: -x)
-    with open('../data/players_rounds_lists.json', 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
+    with open('data/players_rounds_lists.json', 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
         json.dump({'player_names': all_players_sorted, 'round_numbers': round_numbers_sorted}, file, ensure_ascii=False, indent=4)
 
     ### prepare hall of fame data ###
@@ -166,7 +166,7 @@ if __name__ == '__main__':
                      } for r, w in zip(round_winners_df.index.to_numpy(dtype=int).tolist(), round_winners_df.to_list())]
     round_winners.sort(key = lambda x: -x['round'])
 
-    with open('../data/hall_of_fame.json', 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
+    with open('data/hall_of_fame.json', 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
         json.dump({'table': table_data, 'rounds': round_winners}, file, ensure_ascii=False, indent=4)
 
     ### prepare player data ###
@@ -180,11 +180,11 @@ if __name__ == '__main__':
                        'score_total': scores[player]['total'],
                        'score_list': scores[player]['list']}
 
-        with open(f"../data/players/{player}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
+        with open(f"data/players/{player}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
             json.dump(player_data, file, ensure_ascii=False, indent=4)
 
     ### prepare round data ###
-    with open('../data/urls.json') as file:
+    with open('data/urls.json') as file:
         urls = json.load(file)
 
     for round in data['round'].unique():
@@ -203,5 +203,5 @@ if __name__ == '__main__':
         #json['banned_cards'] =
         #json['deadline'] =
 
-        with open(f"../data/rounds/{round}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
+        with open(f"data/rounds/{round}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
             json.dump(round_data, file, ensure_ascii=False, indent=4)

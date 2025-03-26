@@ -129,7 +129,7 @@ def find_data_in_round(url, round_number):
         data = fix_player_name_typos(data)
 
         # sort the results before saving? should be able to reconstruct who won against whom!
-        data.to_csv(f"../data/raw/round_{round_number}.csv", index=False, sep=';')
+        data.to_csv(f"data/raw/round_{round_number}.csv", index=False, sep=';')
         return True
     except:
         print(f"No results found in {url}")
@@ -143,7 +143,7 @@ def scrape_banned_list(url='https://www.mtg-forum.de/topic/71910-cb-bannedliste/
     ban_list = {'regular': [c.text for c in card_lists[0].find_all('a', class_=re.compile('cardlink*'))]}
     ban_list['introducing'] = [c.text for c in card_lists[1].find_all('a', class_=re.compile('cardlink*'))]
 
-    with open('../data/banned_list.json', 'w', encoding='utf-8') as file:
+    with open('data/banned_list.json', 'w', encoding='utf-8') as file:
         json.dump(ban_list, file, ensure_ascii=False, indent=4)
 
 # find all rounds threads URLs
@@ -153,7 +153,7 @@ for page_num in range(1, 7):
     rounds.update(find_rounds_in_page(url))
 
 # links to all threads
-with open('../data/urls.json', 'w', encoding='utf-8') as file:
+with open('data/urls.json', 'w', encoding='utf-8') as file:
     json.dump(rounds, file, ensure_ascii=False, indent=4)
 
 # banned list

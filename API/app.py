@@ -24,7 +24,7 @@ def hall_of_fame():
         return jsonify({"error": "Unauthorized access"}), 401
 
     try:
-        with open('../data/hall_of_fame.json', 'r') as file:
+        with open('data/hall_of_fame.json', 'r') as file:
             return json.load(file)
     except:
         return make_response('An error occurred.', 404)
@@ -36,7 +36,7 @@ def banned_list():
         return jsonify({"error": "Unauthorized access"}), 401
 
     try:
-        with open('../data/banned_list.json', 'r') as file:
+        with open('data/banned_list.json', 'r') as file:
             return json.load(file)
     except:
         return make_response('An error occurred.', 404)
@@ -48,7 +48,7 @@ def players_rounds_lists():
         return jsonify({"error": "Unauthorized access"}), 401
 
     try:
-        with open('../data/players_rounds_lists.json', 'r') as file:
+        with open('data/players_rounds_lists.json', 'r') as file:
             return json.load(file)
     except:
         return make_response('An error occurred.', 404)
@@ -60,7 +60,7 @@ def round(number):
         return jsonify({"error": "Unauthorized access"}), 401
 
     try:
-        with open(f"../data/rounds/{number}.json", 'r') as file:
+        with open(f"data/rounds/{number}.json", 'r') as file:
             return json.load(file)
     except:
         return make_response('Invalid round number.', 404)
@@ -73,7 +73,7 @@ def player_stats(player):
 
     # TODO: Plot % (Punkteverteilung insgesamt als transparenes Violin Plot hinterlegt?)
     try:
-        with open(f"../data/players/{player}.json", 'r') as file:
+        with open(f"data/players/{player}.json", 'r') as file:
             return json.load(file)
     except:
         return make_response('Player not found.', 404)
