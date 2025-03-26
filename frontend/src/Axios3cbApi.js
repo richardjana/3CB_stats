@@ -11,7 +11,12 @@ const use3cbApi = (endpoint) => {
     const fetchData = async () => {
       setIsLoading(true);
       try {
-        const response = await axios.get(`${baseUrl}${endpoint}`);
+        const response = await axios.get(`${baseUrl}${endpoint}`, {
+          headers: {
+            'user-name': process.env.REACT_APP_3CB_USER_NAME,
+            'x-api-key': process.env.REACT_APP_3CB_API_KEY
+          }
+        });
         setData(response.data);
         setIsLoading(false);
       } catch (error) {
