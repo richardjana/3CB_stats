@@ -16,6 +16,9 @@ const BannedList = () => {
       }
     }, [data]);
 
+    if (errorMessage) return <div>Error: {errorMessage}</div>;
+    if (!errorMessage && isLoading) return <div>Loading...</div>;
+
     return (
         <div>
             <h1>Verbotene Decks</h1>

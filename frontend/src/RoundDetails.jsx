@@ -22,11 +22,11 @@ const RoundDetails = () => {
     }
   }, [data]);
 
+  if (errorMessage) return <div>Error: {errorMessage}</div>;
+  if (!errorMessage && isLoading) return <div>Loading...</div>;
+
   return (
     <div>
-      {errorMessage && <h2>{errorMessage}</h2>}
-      {!errorMessage && isLoading && <h2>Loading data...</h2>}
-      {!errorMessage && !isLoading && (
         <div>
           <h2> Round: {number} </h2>
           <table className='decks'>
@@ -74,7 +74,6 @@ const RoundDetails = () => {
               </tbody>
           </table>
         </div>
-      )}
     </div>
   );
 };

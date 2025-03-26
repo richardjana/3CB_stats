@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router';
-import useParams from 'react-router-dom';
 
 import use3cbApi from './Axios3cbApi';
 import TableContainer from './TableContainer';
@@ -27,11 +26,11 @@ const HallOfFame = () => {
     {Header: 'Total score', accessor: 'score_sum'}
   ];
 
+  if (errorMessage) return <div>Error: {errorMessage}</div>;
+  if (!errorMessage && isLoading) return <div>Loading...</div>;
+
   return (
     <div>
-    {errorMessage && <h2>{errorMessage}</h2>}
-    {!errorMessage && isLoading && <h2>Loading data</h2>}
-    {!errorMessage && !isLoading && (
       <div>
         <h2>Hall of Fame</h2>
         <h3>Details</h3>
@@ -50,7 +49,6 @@ const HallOfFame = () => {
           </tbody>
           </table>
       </div>
-    )}
   </div>);
 }
 

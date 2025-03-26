@@ -36,11 +36,11 @@ const PlayerStats = () => {
     }
   }, [data]);
 
+  if (errorMessage) return <div>Error: {errorMessage}</div>;
+  if (!errorMessage && isLoading) return <div>Loading...</div>;
+
   return (
     <div>
-    {errorMessage && <h2>{errorMessage}</h2>}
-    {!errorMessage && isLoading && <h2>Loading data</h2>}
-    {!errorMessage && !isLoading && (
       <div>
         <h2> Player: {name} </h2>
         <div className='player_stats'>
@@ -69,7 +69,6 @@ const PlayerStats = () => {
             <p>{`Score: ${formatFloat(nemesis['score'])}`}</p>
         </div>
       </div>
-    )}
   </div>);
 }
 
