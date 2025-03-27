@@ -50,10 +50,17 @@ def check_results(res):
                      ('01', '04'), ('04', '01'),
                      ('02', '02'), ('03', '03')}
 
-    I, J = np.triu_indices(res.shape[0], k=1)
-    is_valid = [(res[i, j], res[j, i]) in valid_results for i, j in zip(I, J)]
+    #I, J = np.triu_indices(res.shape[0], k=1)
+    #is_valid = [(res[i, j], res[j, i]) in valid_results for i, j in zip(I, J)]
 
-    return np.all(is_valid)
+    is_valid = True
+    for i in range(res.shape[0]):
+        for j in range(i+1, res.shape[1]):
+            if (res[i,j], res[j,i]) not in valid_results:
+                print(f"{i+1} {j+1}: {res[i,j]}-{res[j,i]}")
+                is_valid = False
+
+    return is_valid # np.all(is_valid)
 
 def check_card_name(cardName):
     # check if the given card name exists, otherwise flag a problem
