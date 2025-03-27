@@ -41,17 +41,13 @@ def fix_player_name_typos(df):
     return df
 
 def check_results(res):
-    # should be square
-    if res.shape[0] != res.shape[1]:
+    if res.shape[0] != res.shape[1]: # should be square
         return False
 
     # check if results table is consistent; possible results: 6-0, 4-1, 3-3, ...
     valid_results = {('00', '06'), ('06', '00'),
                      ('01', '04'), ('04', '01'),
                      ('02', '02'), ('03', '03')}
-
-    #I, J = np.triu_indices(res.shape[0], k=1)
-    #is_valid = [(res[i, j], res[j, i]) in valid_results for i, j in zip(I, J)]
 
     is_valid = True
     for i in range(res.shape[0]):
@@ -60,7 +56,7 @@ def check_results(res):
                 print(f"{i+1} {j+1}: {res[i,j]}-{res[j,i]}")
                 is_valid = False
 
-    return is_valid # np.all(is_valid)
+    return is_valid
 
 def check_card_name(cardName):
     # check if the given card name exists, otherwise flag a problem
@@ -76,13 +72,9 @@ def check_card_name(cardName):
         return False
 
 def find_data_in_round(url, round_number):
-    # round 18: emblem included as card, instead of the actual first card
-    # round 28: "super lotus" makes it so many decks only have 2 real cards
-    # round 39: 2-4 cards per deck!
     # round 45: formatting messed by illegal deck
     # round 48: deck lines in span, not div; missing line breaks
     # round 56: ???
-    # round 80: fake cards again
     # round 107: illegal deck -> <strike> tags around deck and in tables (maybe can ignore those, as I use the text anyway?)
 
     response = requests.get(url)
