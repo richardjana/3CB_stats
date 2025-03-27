@@ -132,11 +132,11 @@ def find_data_in_round(url, round_number):
             for j in range(decks.shape[1]):
                 card_name = check_card_name(decks[i, j])
                 if card_name:
-                    print(card_name)
                     decks[i, j] = card_name
                 else:
                     print(f"Problem with card {decks[i, j]}")
 
+        for i in range(3): # might need to go further in some cases
             data_dict[f"card_{i+1}"] = decks[:, i]
         results = np.array(results)
         if not check_results(results):
