@@ -96,10 +96,10 @@ def compute_Elo_scores(df: pd.DataFrame) -> List[Dict[str, float]]:
     # but that is kind of inconvenient for plotting ...
 
     def expected_score(rating_opponent, rating_player):
-        return 1 / (1 + 10**((rating_opponent-rating_player)/400))
+        return 1 / (1 + 10**((rating_opponent-rating_player)/512))
 
     start_Elo = 1600
-    update_factor = 32
+    update_factor = 8
 
     # initialize list with start_Elo for all players in data "state before the first round"
     Elo = [{player: start_Elo for player in df['player'].unique()}]
