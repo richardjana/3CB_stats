@@ -1,7 +1,7 @@
 player;card_1;card_2;card_3;result_0;result_1;result_2;result_3;result_4;result_5;result_6;result_7;result_8;result_9;result_10;result_11;result_12;result_13;round
 Namse;Wasteland;Crashing Footfalls;Mox Emerald;00;00;06;03;00;00;03;06;06;06;00;00;00;06;15
 Hasran Ogress;Chancellor of the Tangle;Master of the Feast;Aether Vial;06;00;03;00;00;01;06;06;03;06;06;04;06;06;15
-Hoempes;Savannah;Old-Growth Dryads;Path to Exile;00;03;00;01;06;00;03;02;00;00;06;00;00;00;15
+hoempes;Savannah;Old-Growth Dryads;Path to Exile;00;03;00;01;06;00;03;02;00;00;06;00;00;00;15
 Bongoking;Crystal Vein;Mana Vault;Thought-Knot Seer;03;06;04;00;00;00;03;06;03;03;06;03;03;06;15
 BlackHole;Force of Negation;Snapback;Memnite;06;06;00;06;00;00;06;00;00;06;00;00;00;02;15
 thiefAaron;Forest;Crashing Footfalls;Crashing Footfalls;06;04;06;06;06;00;03;06;06;06;00;02;06;06;15
@@ -9,7 +9,7 @@ Michael W;Crystal Vein;Mana Vault;Lodestone Golem;03;00;03;03;00;03;00;00;03;03;
 lollonator;Wasteland;Quicksand;Vault Skirge;00;00;02;00;06;00;06;00;06;00;06;00;00;00;15
 The Beast;Tropical Island;Daze;Hexdrinker;00;03;06;03;06;00;03;00;00;03;06;00;00;06;15
 hug77;Wasteland;Mox Jet;Bitterblossom;00;00;06;03;00;00;03;06;03;00;00;00;00;03;15
-the green one;Island;Slither Blade;Sigil of Sleep;06;00;00;00;06;06;00;00;00;06;00;00;06;00;15
+The green one;Island;Slither Blade;Sigil of Sleep;06;00;00;00;06;06;00;00;00;06;00;00;06;00;15
 Master_of_Desaster;Forest;Crashing Footfalls;Durkwood Baloth;06;01;06;03;06;02;03;06;06;06;06;00;04;06;15
 »Arcanis«;Forest;Old-Growth Dryads;Crashing Footfalls;06;00;06;03;06;00;03;06;06;06;00;01;00;06;15
 P0LTERGEIST;Cauldron Familiar;Witch's Oven;Swamp;00;00;06;00;02;00;03;06;00;03;06;00;00;00;15
