@@ -124,8 +124,8 @@ def find_data_in_round(url, round_number):
             d = []
 
             for element in BeautifulSoup(str(div).split(' - ')[-1], 'html.parser').descendants:
-                if isinstance(element, str) and element.strip(', '):
-                    d.append(element.strip(', '))
+                if isinstance(element, str) and element.strip(', ()').strip():
+                    d.append(element.strip(', ()').strip())
 
             decks += [d] # can be 2 or 4
 
@@ -135,19 +135,21 @@ def find_data_in_round(url, round_number):
                 results += [[s for s in line.split('|')[1:-1] if s != '']] # placement of '|' not always the same
 
         data_dict = {'player': player_names}
-        decks = np.array(decks).astype('U256') # to accomodate arbitrary length strings
 
-        # check / fix all card names
-        for i in range(decks.shape[0]):
-            for j in range(decks.shape[1]):
-                card_name = check_card_name(decks[i, j])
-                if card_name:
-                    decks[i, j] = card_name
-                else:
-                    print(f"Problem with card {decks[i, j]}")
+        max_n_cards =  max(len(d) for d in decks)
+        for j in range(max_n_cards):
+            data_dict[f"card_{j+1}"] = []
+            for i in range(len(decks)):
+                try: # check / fix all card names
+                    card_name = check_card_name(decks[i][j])
+                    if card_name:
+                        data_dict[f"card_{j+1}"] += [card_name]
+                    else:
+                        data_dict[f"card_{j+1}"] += [decks[i][j]]
+                        print(f"Problem with card {decks[i][j]}")
+                except:
+                    data_dict[f"card_{j+1}"] += [None]
 
-        for i in range(3): # might need to go further in some cases
-            data_dict[f"card_{i+1}"] = decks[:, i]
         results = np.array(results)
         if not check_results(results):
             print(f"Problem with results in round {round_number}")
