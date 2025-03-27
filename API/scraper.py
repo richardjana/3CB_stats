@@ -120,11 +120,14 @@ def find_data_in_round(url, round_number):
     results = []
     try:
         for div in deck_lines:
-            player_names += [div.text[5:].split('-')[0].strip()]
+            player_names += [div.text[4:].split(' - ')[0].strip()]
             d = []
-            for card in div.find_all('a'):
-                d += [card.text]
-            decks += [d[-3:]]
+
+            for element in BeautifulSoup(str(div).split(' - ')[-1], 'html.parser').descendants:
+                if isinstance(element, str) and element.strip(', '):
+                    d.append(element.strip(', '))
+
+            decks += [d] # can be 2 or 4
 
         for line in table_lines:
             if line.split('|')[0] != 'xx': # skip the table header
