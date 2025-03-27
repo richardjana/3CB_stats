@@ -1,6 +1,46 @@
 {
     "cards": [
         {
+            "card": "Abrupt Decay",
+            "count": 1
+        },
+        {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Chalice of Life // Chalice of Death",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Counterflux",
+            "count": 1
+        },
+        {
+            "card": "Ensnaring Bridge",
+            "count": 1
+        },
+        {
+            "card": "Kiora Bests the Sea God",
+            "count": 1
+        },
+        {
+            "card": "Lavinia, Azorius Renegade",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 1
+        },
+        {
+            "card": "Pithing Needle",
+            "count": 1
+        },
+        {
             "card": "Retrofitter Foundry",
             "count": 1
         },
@@ -25,11 +65,6 @@
     "n_wins": 0,
     "nemesis": [
         {
-            "player": "the green one",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "GoDJi8",
             "score": -3.0,
             "n_matches": 2
@@ -38,6 +73,11 @@
             "player": "P0LTERGEIST",
             "score": -3.0,
             "n_matches": 2
+        },
+        {
+            "player": "The green one",
+            "score": -2.4,
+            "n_matches": 5
         },
         {
             "player": "thiefAaron",
@@ -50,7 +90,7 @@
             "n_matches": 4
         }
     ],
-    "elo": 1625.720758260242,
+    "elo": 1616.9779322282318,
     "score_average": 43.41737891737891,
     "score_total": 217.08689458689457,
     "score_list": [

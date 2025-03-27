@@ -2,7 +2,11 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 8
+            "count": 10
+        },
+        {
+            "card": "Thalia, Guardian of Thraben",
+            "count": 5
         },
         {
             "card": "Glistener Elf",
@@ -13,17 +17,450 @@
             "count": 4
         },
         {
+            "card": "Mishra's Workshop",
+            "count": 4
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 4
+        },
+        {
+            "card": "Urborg, Tomb of Yawgmoth",
+            "count": 4
+        },
+        {
+            "card": "City of Traitors",
+            "count": 3
+        },
+        {
             "card": "Curse of Silence",
+            "count": 3
+        },
+        {
+            "card": "Dryad Arbor",
             "count": 3
         },
         {
             "card": "Ensnaring Bridge",
             "count": 3
+        },
+        {
+            "card": "Ichorclaw Myr",
+            "count": 3
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 3
+        },
+        {
+            "card": "Mistcutter Hydra",
+            "count": 3
+        },
+        {
+            "card": "Sanctum of Stone Fangs",
+            "count": 3
+        },
+        {
+            "card": "Vault Skirge",
+            "count": 3
+        },
+        {
+            "card": "Wasteland",
+            "count": 3
+        },
+        {
+            "card": "Archmage's Charm",
+            "count": 2
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 2
+        },
+        {
+            "card": "Darksteel Reactor",
+            "count": 2
+        },
+        {
+            "card": "Death's Shadow",
+            "count": 2
+        },
+        {
+            "card": "Forest",
+            "count": 2
+        },
+        {
+            "card": "Hexdrinker",
+            "count": 2
+        },
+        {
+            "card": "Hunted Horror",
+            "count": 2
+        },
+        {
+            "card": "Island",
+            "count": 2
+        },
+        {
+            "card": "Karakas",
+            "count": 2
+        },
+        {
+            "card": "Mayor of Avabruck // Howlpack Alpha",
+            "count": 2
+        },
+        {
+            "card": "Meddling Mage",
+            "count": 2
+        },
+        {
+            "card": "Peat Bog",
+            "count": 2
+        },
+        {
+            "card": "Pendelhaven",
+            "count": 2
+        },
+        {
+            "card": "Phyrexian Dreadnought",
+            "count": 2
+        },
+        {
+            "card": "Plains",
+            "count": 2
+        },
+        {
+            "card": "Shield Sphere",
+            "count": 2
+        },
+        {
+            "card": "Toolcraft Exemplar",
+            "count": 2
+        },
+        {
+            "card": "Acidic Slime",
+            "count": 1
+        },
+        {
+            "card": "Ali from Cairo",
+            "count": 1
+        },
+        {
+            "card": "Ancient Tomb",
+            "count": 1
+        },
+        {
+            "card": "Angrath's Rampage",
+            "count": 1
+        },
+        {
+            "card": "Arcbound Mouser",
+            "count": 1
+        },
+        {
+            "card": "Assault Formation",
+            "count": 1
+        },
+        {
+            "card": "Bitterblossom",
+            "count": 1
+        },
+        {
+            "card": "Blazing Archon",
+            "count": 1
+        },
+        {
+            "card": "Bounty Agent",
+            "count": 1
+        },
+        {
+            "card": "Brago's Favor",
+            "count": 1
+        },
+        {
+            "card": "Cavern of Souls",
+            "count": 1
+        },
+        {
+            "card": "Ceremonious Rejection",
+            "count": 1
+        },
+        {
+            "card": "Chalice of Life // Chalice of Death",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Annex",
+            "count": 1
+        },
+        {
+            "card": "Chromatic Orrery",
+            "count": 1
+        },
+        {
+            "card": "Collector Ouphe",
+            "count": 1
+        },
+        {
+            "card": "Dark Depths",
+            "count": 1
+        },
+        {
+            "card": "Davriel, Rogue Shadowmage",
+            "count": 1
+        },
+        {
+            "card": "Destructive Flow",
+            "count": 1
+        },
+        {
+            "card": "Domri Rade Emblem",
+            "count": 1
+        },
+        {
+            "card": "Dwarven Thaumaturgist",
+            "count": 1
+        },
+        {
+            "card": "Elephant Grass",
+            "count": 1
+        },
+        {
+            "card": "Elite Spellbinder",
+            "count": 1
+        },
+        {
+            "card": "Emrakul, the Aeons Torn",
+            "count": 1
+        },
+        {
+            "card": "Ferropede",
+            "count": 1
+        },
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Fountain of Cho",
+            "count": 1
+        },
+        {
+            "card": "Frilled Mystic",
+            "count": 1
+        },
+        {
+            "card": "Geothermal Crevice",
+            "count": 1
+        },
+        {
+            "card": "Gideon of the Trials",
+            "count": 1
+        },
+        {
+            "card": "Goblin Guide",
+            "count": 1
+        },
+        {
+            "card": "Grafted Wargear",
+            "count": 1
+        },
+        {
+            "card": "Hapatra, Vizier of Poisons",
+            "count": 1
+        },
+        {
+            "card": "Hollow Trees",
+            "count": 1
+        },
+        {
+            "card": "Hope of Ghirapur",
+            "count": 1
+        },
+        {
+            "card": "Inkmoth Nexus",
+            "count": 1
+        },
+        {
+            "card": "Jinxed Choker",
+            "count": 1
+        },
+        {
+            "card": "Journey to Nowhere",
+            "count": 1
+        },
+        {
+            "card": "Leonin Squire",
+            "count": 1
+        },
+        {
+            "card": "Lightning Bolt",
+            "count": 1
+        },
+        {
+            "card": "Lost Jitte",
+            "count": 1
+        },
+        {
+            "card": "Lupine Prototype",
+            "count": 1
+        },
+        {
+            "card": "Meekstone",
+            "count": 1
+        },
+        {
+            "card": "Mercadian Bazaar",
+            "count": 1
+        },
+        {
+            "card": "Mox Pearl",
+            "count": 1
+        },
+        {
+            "card": "Neglected Heirloom // Ashmouth Blade",
+            "count": 1
+        },
+        {
+            "card": "Nyxathid",
+            "count": 1
+        },
+        {
+            "card": "Nyxborn Behemoth",
+            "count": 1
+        },
+        {
+            "card": "Oran-Rief, the Vastwood",
+            "count": 1
+        },
+        {
+            "card": "Pact of Negation",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Revoker",
+            "count": 1
+        },
+        {
+            "card": "Plague Stinger",
+            "count": 1
+        },
+        {
+            "card": "Price of Betrayal",
+            "count": 1
+        },
+        {
+            "card": "Primordial Hydra",
+            "count": 1
+        },
+        {
+            "card": "Roiling Vortex",
+            "count": 1
+        },
+        {
+            "card": "Rustvale Bridge",
+            "count": 1
+        },
+        {
+            "card": "Sanctum of Tranquil Light",
+            "count": 1
+        },
+        {
+            "card": "Serra Ascendant",
+            "count": 1
+        },
+        {
+            "card": "Shining Shoal",
+            "count": 1
+        },
+        {
+            "card": "Sigil of Sleep",
+            "count": 1
+        },
+        {
+            "card": "Slippery Bogle",
+            "count": 1
+        },
+        {
+            "card": "Slither Blade",
+            "count": 1
+        },
+        {
+            "card": "Snapcaster Mage",
+            "count": 1
+        },
+        {
+            "card": "Snuff Out",
+            "count": 1
+        },
+        {
+            "card": "Soulless Jailer",
+            "count": 1
+        },
+        {
+            "card": "Spelljack",
+            "count": 1
+        },
+        {
+            "card": "Stronghold Gambit",
+            "count": 1
+        },
+        {
+            "card": "Sublime Epiphany",
+            "count": 1
+        },
+        {
+            "card": "Super Lotus",
+            "count": 1
+        },
+        {
+            "card": "Surrak Dragonclaw",
+            "count": 1
+        },
+        {
+            "card": "Swamp",
+            "count": 1
+        },
+        {
+            "card": "Tanglepool Bridge",
+            "count": 1
+        },
+        {
+            "card": "The Kami War",
+            "count": 1
+        },
+        {
+            "card": "Tidehollow Sculler",
+            "count": 1
+        },
+        {
+            "card": "Twitching Doll",
+            "count": 1
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 1
+        },
+        {
+            "card": "Will Kenrith Emblem",
+            "count": 1
+        },
+        {
+            "card": "Witherbloom Command",
+            "count": 1
+        },
+        {
+            "card": "Zabaz, the Glimmerwasp",
+            "count": 1
         }
     ],
-    "n_rounds_played": 49,
-    "n_wins": 2,
+    "n_rounds_played": 59,
+    "n_wins": 4,
     "nemesis": [
+        {
+            "player": "Yaloron",
+            "score": -6.0,
+            "n_matches": 1
+        },
         {
             "player": "Silver Seraph",
             "score": -4.0,
@@ -35,25 +472,24 @@
             "n_matches": 3
         },
         {
-            "player": "hoempes",
-            "score": -3.0,
-            "n_matches": 6
-        },
-        {
-            "player": "»Arcanis«",
-            "score": -3.0,
-            "n_matches": 5
-        },
-        {
             "player": "MagicStorm",
             "score": -3.0,
             "n_matches": 2
+        },
+        {
+            "player": "Hasran Ogress",
+            "score": -2.5714285714285716,
+            "n_matches": 14
         }
     ],
-    "elo": 1465.769330389763,
-    "score_average": 35.83210062801899,
-    "score_total": 1755.7729307729307,
+    "elo": 1457.9944687320885,
+    "score_average": 37.88172593257339,
+    "score_total": 2235.02183002183,
     "score_list": [
+        {
+            "round": 2,
+            "score": 75.0
+        },
         {
             "round": 3,
             "score": 35.0
@@ -65,6 +501,18 @@
         {
             "round": 5,
             "score": 53.333333333333336
+        },
+        {
+            "round": 6,
+            "score": 87.5
+        },
+        {
+            "round": 7,
+            "score": 79.62962962962963
+        },
+        {
+            "round": 8,
+            "score": 12.5
         },
         {
             "round": 9,
@@ -87,12 +535,28 @@
             "score": 52.56410256410257
         },
         {
+            "round": 14,
+            "score": 33.33333333333333
+        },
+        {
+            "round": 15,
+            "score": 38.46153846153846
+        },
+        {
             "round": 16,
             "score": 41.66666666666667
         },
         {
             "round": 17,
             "score": 26.666666666666668
+        },
+        {
+            "round": 18,
+            "score": 46.96969696969697
+        },
+        {
+            "round": 19,
+            "score": 39.743589743589745
         },
         {
             "round": 20,
@@ -127,6 +591,10 @@
             "score": 16.666666666666664
         },
         {
+            "round": 28,
+            "score": 21.666666666666668
+        },
+        {
             "round": 29,
             "score": 74.24242424242424
         },
@@ -145,6 +613,10 @@
         {
             "round": 33,
             "score": 27.083333333333332
+        },
+        {
+            "round": 34,
+            "score": 44.44444444444444
         },
         {
             "round": 35,

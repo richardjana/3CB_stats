@@ -9,6 +9,14 @@
             "count": 2
         },
         {
+            "card": "Double Stroke",
+            "count": 1
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 1
+        },
+        {
             "card": "Gifted Aetherborn",
             "count": 1
         },
@@ -30,11 +38,6 @@
             "n_matches": 2
         },
         {
-            "player": "hoempes",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "DaCurEmi",
             "score": -6.0,
             "n_matches": 1
@@ -45,12 +48,17 @@
             "n_matches": 1
         },
         {
+            "player": "Hoempes",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
             "player": "BlackHole",
             "score": -3.0,
             "n_matches": 2
         }
     ],
-    "elo": 1548.576869103607,
+    "elo": 1541.548289526022,
     "score_average": 48.16849816849816,
     "score_total": 144.50549450549448,
     "score_list": [

@@ -1,6 +1,10 @@
 {
     "cards": [
         {
+            "card": "Dwarven Ruins",
+            "count": 1
+        },
+        {
             "card": "Fury Charm",
             "count": 1
         },
@@ -17,7 +21,7 @@
             "count": 1
         },
         {
-            "card": "Tribute to Horobi",
+            "card": "Tribute to Horobi // Echo of Death's Wail",
             "count": 1
         }
     ],
@@ -50,7 +54,7 @@
             "n_matches": 2
         }
     ],
-    "elo": 1561.4035566775833,
+    "elo": 1556.9722447911695,
     "score_average": 29.6969696969697,
     "score_total": 59.3939393939394,
     "score_list": [

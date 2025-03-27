@@ -83,7 +83,7 @@
         },
         {
             "index": 10,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Black Lotus",
                 "Liliana of the Veil",
@@ -122,7 +122,7 @@
             "player": "Hasran Ogress",
             "cards": [
                 "Thalia, Guardian of Thraben",
-                "Mayor of Avabruck",
+                "Mayor of Avabruck // Howlpack Alpha",
                 "Hymn of the Wilds"
             ]
         }

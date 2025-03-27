@@ -22,8 +22,8 @@
             "index": 3,
             "player": "Hasran Ogress",
             "cards": [
-                "Cavern of souls",
-                "Vampire hexmage",
+                "Cavern of Souls",
+                "Vampire Hexmage",
                 "Dark Depths"
             ]
         },
@@ -74,10 +74,10 @@
         },
         {
             "index": 9,
-            "player": "the green one",
+            "player": "The green one",
             "cards": [
                 "Thalia, Guardian of Thraben",
-                "Mayor of Avabruck",
+                "Mayor of Avabruck // Howlpack Alpha",
                 "Cavern of Souls"
             ]
         },

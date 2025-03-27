@@ -17,7 +17,131 @@
             "count": 2
         },
         {
+            "card": "Aclazotz, Deepest Betrayal // Temple of the Dead",
+            "count": 1
+        },
+        {
             "card": "Ashiok, Nightmare Muse",
+            "count": 1
+        },
+        {
+            "card": "Boromir, Warden of the Tower",
+            "count": 1
+        },
+        {
+            "card": "Bottomless Vault",
+            "count": 1
+        },
+        {
+            "card": "Cenn's Tactician",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 1
+        },
+        {
+            "card": "Davriel, Rogue Shadowmage",
+            "count": 1
+        },
+        {
+            "card": "Elvish Archivist",
+            "count": 1
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Forgotten Monument",
+            "count": 1
+        },
+        {
+            "card": "Gingerbrute",
+            "count": 1
+        },
+        {
+            "card": "Havenwood Battleground",
+            "count": 1
+        },
+        {
+            "card": "Hexdrinker",
+            "count": 1
+        },
+        {
+            "card": "Minsc & Boo, Timeless heroes",
+            "count": 1
+        },
+        {
+            "card": "Mountain",
+            "count": 1
+        },
+        {
+            "card": "Murderous Rider // Swift End",
+            "count": 1
+        },
+        {
+            "card": "Oko, Thief of Crowns",
+            "count": 1
+        },
+        {
+            "card": "Pick Your Poison",
+            "count": 1
+        },
+        {
+            "card": "Portable Hole",
+            "count": 1
+        },
+        {
+            "card": "Saheeli, the Sun's Brilliance",
+            "count": 1
+        },
+        {
+            "card": "Sorin, Lord of Innistrad",
+            "count": 1
+        },
+        {
+            "card": "Spirit Link",
+            "count": 1
+        },
+        {
+            "card": "Sword of Feast and Famine",
+            "count": 1
+        },
+        {
+            "card": "Taste for Mayhem",
+            "count": 1
+        },
+        {
+            "card": "Teething Wurmlet",
+            "count": 1
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 1
+        },
+        {
+            "card": "Time Stop",
+            "count": 1
+        },
+        {
+            "card": "Timecrafting",
+            "count": 1
+        },
+        {
+            "card": "Tin Street Dodger",
+            "count": 1
+        },
+        {
+            "card": "Tithing Blade // Consuming Sepulcher",
+            "count": 1
+        },
+        {
+            "card": "White Knight",
             "count": 1
         }
     ],
@@ -50,7 +174,7 @@
             "n_matches": 14
         }
     ],
-    "elo": 1651.308083084897,
+    "elo": 1645.101763549304,
     "score_average": 45.29012345679011,
     "score_total": 679.3518518518517,
     "score_list": [

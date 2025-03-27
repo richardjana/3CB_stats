@@ -13,12 +13,324 @@
             "count": 3
         },
         {
+            "card": "Crashing Footfalls",
+            "count": 2
+        },
+        {
             "card": "Dread Fugue",
             "count": 2
         },
         {
             "card": "Karakas",
             "count": 2
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 2
+        },
+        {
+            "card": "Tribute to Horobi // Echo of Death's Wail",
+            "count": 2
+        },
+        {
+            "card": "An Offer You Can't Refuse",
+            "count": 1
+        },
+        {
+            "card": "Angel's Grace",
+            "count": 1
+        },
+        {
+            "card": "Anointed Peacekeeper",
+            "count": 1
+        },
+        {
+            "card": "Anvil of Bogardan",
+            "count": 1
+        },
+        {
+            "card": "Basri, Tomorrow's Champion",
+            "count": 1
+        },
+        {
+            "card": "Captivating Cave",
+            "count": 1
+        },
+        {
+            "card": "Chain of Vapor",
+            "count": 1
+        },
+        {
+            "card": "Chamber Sentry",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Collector Ouphe",
+            "count": 1
+        },
+        {
+            "card": "Covetous Urge",
+            "count": 1
+        },
+        {
+            "card": "Cruelclaw's Heist",
+            "count": 1
+        },
+        {
+            "card": "Crystal Vein",
+            "count": 1
+        },
+        {
+            "card": "Curse of Silence",
+            "count": 1
+        },
+        {
+            "card": "Dark Depths",
+            "count": 1
+        },
+        {
+            "card": "Dark Ritual",
+            "count": 1
+        },
+        {
+            "card": "Deep-Cavern Bat",
+            "count": 1
+        },
+        {
+            "card": "Demonic Covenant",
+            "count": 1
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 1
+        },
+        {
+            "card": "Eater of Days",
+            "count": 1
+        },
+        {
+            "card": "Ego Drain",
+            "count": 1
+        },
+        {
+            "card": "Elite Spellbinder",
+            "count": 1
+        },
+        {
+            "card": "Elspeth, Sun's Champion",
+            "count": 1
+        },
+        {
+            "card": "Esika's Chariot",
+            "count": 1
+        },
+        {
+            "card": "Force of Negation",
+            "count": 1
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Fountain of Cho",
+            "count": 1
+        },
+        {
+            "card": "Fractured Identity",
+            "count": 1
+        },
+        {
+            "card": "Frost Titan",
+            "count": 1
+        },
+        {
+            "card": "Garruk, Cursed Huntsman",
+            "count": 1
+        },
+        {
+            "card": "Gatekeeper of Malakir",
+            "count": 1
+        },
+        {
+            "card": "Gideon of the Trials",
+            "count": 1
+        },
+        {
+            "card": "Karn Liberated",
+            "count": 1
+        },
+        {
+            "card": "Lair of the Hydra",
+            "count": 1
+        },
+        {
+            "card": "Leyline of the Guildpact",
+            "count": 1
+        },
+        {
+            "card": "Leyline of the Void",
+            "count": 1
+        },
+        {
+            "card": "Liliana of the Veil",
+            "count": 1
+        },
+        {
+            "card": "Lion's Eye Diamond",
+            "count": 1
+        },
+        {
+            "card": "Lodestone Golem",
+            "count": 1
+        },
+        {
+            "card": "Lurrus of the Dream-Den",
+            "count": 1
+        },
+        {
+            "card": "Masterful Replication",
+            "count": 1
+        },
+        {
+            "card": "Maze of Ith",
+            "count": 1
+        },
+        {
+            "card": "Mental Misstep",
+            "count": 1
+        },
+        {
+            "card": "Minsc & Boo, Timeless Heroes",
+            "count": 1
+        },
+        {
+            "card": "Mischievous Pup",
+            "count": 1
+        },
+        {
+            "card": "Misdirection",
+            "count": 1
+        },
+        {
+            "card": "Nether Spirit",
+            "count": 1
+        },
+        {
+            "card": "Overlord of the Mistmoors",
+            "count": 1
+        },
+        {
+            "card": "Peat Bog",
+            "count": 1
+        },
+        {
+            "card": "Pendelhaven",
+            "count": 1
+        },
+        {
+            "card": "Phantasmal Image",
+            "count": 1
+        },
+        {
+            "card": "Pithing Needle",
+            "count": 1
+        },
+        {
+            "card": "Preacher",
+            "count": 1
+        },
+        {
+            "card": "Realm-Cloaked Giant // Cast Off",
+            "count": 1
+        },
+        {
+            "card": "Rhonas's Last Stand",
+            "count": 1
+        },
+        {
+            "card": "Rose Tyler",
+            "count": 1
+        },
+        {
+            "card": "Saprazzan Skerry",
+            "count": 1
+        },
+        {
+            "card": "Scion of Draco",
+            "count": 1
+        },
+        {
+            "card": "Season of the Burrow",
+            "count": 1
+        },
+        {
+            "card": "Shelldock Isle",
+            "count": 1
+        },
+        {
+            "card": "Shepherd of the Flock // Usher to Safety",
+            "count": 1
+        },
+        {
+            "card": "Snapback",
+            "count": 1
+        },
+        {
+            "card": "Spell Queller",
+            "count": 1
+        },
+        {
+            "card": "Summary Dismissal",
+            "count": 1
+        },
+        {
+            "card": "The Modern Age",
+            "count": 1
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 1
+        },
+        {
+            "card": "Tolarian Academy",
+            "count": 1
+        },
+        {
+            "card": "Ulamog, the Infinite Gyre",
+            "count": 1
+        },
+        {
+            "card": "Urza's Saga",
+            "count": 1
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 1
+        },
+        {
+            "card": "Volatile Fault",
+            "count": 1
+        },
+        {
+            "card": "Vraska, Relic Seeker",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        },
+        {
+            "card": "Watcher of Hours",
+            "count": 1
+        },
+        {
+            "card": "Wheel of Torture",
+            "count": 1
         }
     ],
     "n_rounds_played": 36,
@@ -50,7 +362,7 @@
             "n_matches": 36
         }
     ],
-    "elo": 1686.4860192489714,
+    "elo": 1680.1519224630224,
     "score_average": 57.583906576962136,
     "score_total": 2073.020636770637,
     "score_list": [

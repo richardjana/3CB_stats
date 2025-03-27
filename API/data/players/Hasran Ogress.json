@@ -9,21 +9,134 @@
             "count": 3
         },
         {
-            "card": "Cavern of souls",
+            "card": "Cavern of Souls",
             "count": 3
+        },
+        {
+            "card": "Aether Vial",
+            "count": 2
         },
         {
             "card": "Dark Depths",
             "count": 2
         },
         {
+            "card": "Leyline of Anticipation",
+            "count": 2
+        },
+        {
             "card": "Lupine Prototype",
             "count": 2
+        },
+        {
+            "card": "Thalia, Guardian of Thraben",
+            "count": 2
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 2
+        },
+        {
+            "card": "Chancellor of the Annex",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Tangle",
+            "count": 1
+        },
+        {
+            "card": "Court of Grace",
+            "count": 1
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 1
+        },
+        {
+            "card": "Ensnaring Bridge",
+            "count": 1
+        },
+        {
+            "card": "Hymn of the Wilds",
+            "count": 1
+        },
+        {
+            "card": "Hypnotic Sprite // Mesmeric Glare",
+            "count": 1
+        },
+        {
+            "card": "Karakas",
+            "count": 1
+        },
+        {
+            "card": "Lurrus of the Dream-Den",
+            "count": 1
+        },
+        {
+            "card": "Mana Crypt",
+            "count": 1
+        },
+        {
+            "card": "Mangara of Corondor",
+            "count": 1
+        },
+        {
+            "card": "Master of the Feast",
+            "count": 1
+        },
+        {
+            "card": "Mayor of Avabruck // Howlpack Alpha",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Soulgorger",
+            "count": 1
+        },
+        {
+            "card": "Ratchet Bomb",
+            "count": 1
+        },
+        {
+            "card": "Reckless Assault",
+            "count": 1
+        },
+        {
+            "card": "Scourge of the Skyclaves",
+            "count": 1
+        },
+        {
+            "card": "Serra Ascendant",
+            "count": 1
+        },
+        {
+            "card": "Thespian's Stage",
+            "count": 1
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 1
+        },
+        {
+            "card": "Walking Ballista",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
         }
     ],
     "n_rounds_played": 15,
     "n_wins": 1,
     "nemesis": [
+        {
+            "player": "Hoempes",
+            "score": -4.5,
+            "n_matches": 2
+        },
         {
             "player": "Yet_another_Geron",
             "score": -3.0,
@@ -40,17 +153,12 @@
             "n_matches": 15
         },
         {
-            "player": "Hoempes",
-            "score": -1.0,
-            "n_matches": 9
-        },
-        {
             "player": "BlackHole",
             "score": -0.8571428571428571,
             "n_matches": 7
         }
     ],
-    "elo": 1548.38472588744,
+    "elo": 1537.7032058346533,
     "score_average": 50.70890529223862,
     "score_total": 760.6335793835793,
     "score_list": [

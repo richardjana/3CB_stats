@@ -9,6 +9,10 @@
             "count": 8
         },
         {
+            "card": "Force of Will",
+            "count": 8
+        },
+        {
             "card": "Leyline of Anticipation",
             "count": 8
         },
@@ -18,11 +22,691 @@
         },
         {
             "card": "Mishra's Workshop",
-            "count": 7
+            "count": 8
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 6
+        },
+        {
+            "card": "Karakas",
+            "count": 6
+        },
+        {
+            "card": "Scalding Tongs",
+            "count": 6
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 6
+        },
+        {
+            "card": "Argivian Find",
+            "count": 4
+        },
+        {
+            "card": "Chancellor of the Forge",
+            "count": 4
+        },
+        {
+            "card": "City of Traitors",
+            "count": 4
+        },
+        {
+            "card": "Dark Depths",
+            "count": 4
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 4
+        },
+        {
+            "card": "Ensnaring Bridge",
+            "count": 4
+        },
+        {
+            "card": "Leyline of Singularity",
+            "count": 4
+        },
+        {
+            "card": "Wasteland",
+            "count": 4
+        },
+        {
+            "card": "Cenn's Tactician",
+            "count": 3
+        },
+        {
+            "card": "Drop of Honey",
+            "count": 3
+        },
+        {
+            "card": "Emrakul, the Aeons Torn",
+            "count": 3
+        },
+        {
+            "card": "Forest",
+            "count": 3
+        },
+        {
+            "card": "Meddling Mage",
+            "count": 3
+        },
+        {
+            "card": "Ashiok, Nightmare Muse",
+            "count": 2
+        },
+        {
+            "card": "Counterspell",
+            "count": 2
+        },
+        {
+            "card": "Detention Vortex",
+            "count": 2
+        },
+        {
+            "card": "Durkwood Baloth",
+            "count": 2
+        },
+        {
+            "card": "Elemental Eruption",
+            "count": 2
+        },
+        {
+            "card": "Elite Spellbinder",
+            "count": 2
+        },
+        {
+            "card": "Island",
+            "count": 2
+        },
+        {
+            "card": "Karn Liberated",
+            "count": 2
+        },
+        {
+            "card": "Leonin Squire",
+            "count": 2
+        },
+        {
+            "card": "Loyal Pegasus",
+            "count": 2
+        },
+        {
+            "card": "Mayor of Avabruck // Howlpack Alpha",
+            "count": 2
+        },
+        {
+            "card": "Misthollow Griffin",
+            "count": 2
+        },
+        {
+            "card": "Nicol Bolas, Dragon-God",
+            "count": 2
+        },
+        {
+            "card": "Pendelhaven",
+            "count": 2
+        },
+        {
+            "card": "Plains",
+            "count": 2
+        },
+        {
+            "card": "Saprazzan Cove",
+            "count": 2
+        },
+        {
+            "card": "Searing Touch",
+            "count": 2
+        },
+        {
+            "card": "Smuggler's Copter",
+            "count": 2
+        },
+        {
+            "card": "Snapback",
+            "count": 2
+        },
+        {
+            "card": "Subterranean Hangar",
+            "count": 2
+        },
+        {
+            "card": "Subtlety",
+            "count": 2
+        },
+        {
+            "card": "Tendrils of Agony",
+            "count": 2
+        },
+        {
+            "card": "Thespian's Stage",
+            "count": 2
+        },
+        {
+            "card": "Urborg, Tomb of Yawgmoth",
+            "count": 2
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 2
+        },
+        {
+            "card": "Vedalken Certarch",
+            "count": 2
+        },
+        {
+            "card": "3/3-Token mit Lifelink",
+            "count": 1
+        },
+        {
+            "card": "Acidic Slime",
+            "count": 1
+        },
+        {
+            "card": "Aether Vial",
+            "count": 1
+        },
+        {
+            "card": "Aetherflux Reservoir",
+            "count": 1
+        },
+        {
+            "card": "Aeve, Progenitor Ooze",
+            "count": 1
+        },
+        {
+            "card": "Alpha Deathclaw",
+            "count": 1
+        },
+        {
+            "card": "Ancient Tomb",
+            "count": 1
+        },
+        {
+            "card": "Anurid Scavenger",
+            "count": 1
+        },
+        {
+            "card": "Aphemia, the Cacophony",
+            "count": 1
+        },
+        {
+            "card": "Arlinn Kord // Arlinn, Embraced by the Moon",
+            "count": 1
+        },
+        {
+            "card": "Barrage of Expendables",
+            "count": 1
+        },
+        {
+            "card": "Blightsteel Colossus",
+            "count": 1
+        },
+        {
+            "card": "Blood on the Snow",
+            "count": 1
+        },
+        {
+            "card": "Boomerang",
+            "count": 1
+        },
+        {
+            "card": "Bottomless Vault",
+            "count": 1
+        },
+        {
+            "card": "Brushland",
+            "count": 1
+        },
+        {
+            "card": "Brutal Cathar // Moonrage Brute",
+            "count": 1
+        },
+        {
+            "card": "Cabal Interrogator",
+            "count": 1
+        },
+        {
+            "card": "Capsize",
+            "count": 1
+        },
+        {
+            "card": "Carnage Tyrant",
+            "count": 1
+        },
+        {
+            "card": "Cauldron Familiar",
+            "count": 1
+        },
+        {
+            "card": "Cavernous Maw",
+            "count": 1
+        },
+        {
+            "card": "Chain of Vapor",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Annex",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Spires",
+            "count": 1
+        },
+        {
+            "card": "Chromatic Orrery",
+            "count": 1
+        },
+        {
+            "card": "Chronatog",
+            "count": 1
+        },
+        {
+            "card": "City of Brass",
+            "count": 1
+        },
+        {
+            "card": "Claim the Firstborn",
+            "count": 1
+        },
+        {
+            "card": "Collector Ouphe",
+            "count": 1
+        },
+        {
+            "card": "Commandeer",
+            "count": 1
+        },
+        {
+            "card": "Copper Tablet",
+            "count": 1
+        },
+        {
+            "card": "Cruelclaw's Heist",
+            "count": 1
+        },
+        {
+            "card": "Cryptic Command",
+            "count": 1
+        },
+        {
+            "card": "Curse of Silence",
+            "count": 1
+        },
+        {
+            "card": "Daru Spiritualist",
+            "count": 1
+        },
+        {
+            "card": "Davriel, Rogue Shadowmage",
+            "count": 1
+        },
+        {
+            "card": "Demonfire",
+            "count": 1
+        },
+        {
+            "card": "Diabolic Edict",
+            "count": 1
+        },
+        {
+            "card": "Dovin, Hand of Control",
+            "count": 1
+        },
+        {
+            "card": "Drannith Ruins",
+            "count": 1
+        },
+        {
+            "card": "Dwarven Hold",
+            "count": 1
+        },
+        {
+            "card": "Elspeth, Knight-Errant Emblem",
+            "count": 1
+        },
+        {
+            "card": "Empty the Warrens",
+            "count": 1
+        },
+        {
+            "card": "Foil",
+            "count": 1
+        },
+        {
+            "card": "Fountain of Cho",
+            "count": 1
+        },
+        {
+            "card": "Gaea's Cradle",
+            "count": 1
+        },
+        {
+            "card": "Garruk, Primal Hunter",
+            "count": 1
+        },
+        {
+            "card": "Geothermal Crevice",
+            "count": 1
+        },
+        {
+            "card": "Gideon of the Trials",
+            "count": 1
+        },
+        {
+            "card": "Gilded Lotus",
+            "count": 1
+        },
+        {
+            "card": "Glowrider",
+            "count": 1
+        },
+        {
+            "card": "Grand Arbiter Augustin IV",
+            "count": 1
+        },
+        {
+            "card": "Grapeshot",
+            "count": 1
+        },
+        {
+            "card": "Hagra Mauling // Hagra Broodpit",
+            "count": 1
+        },
+        {
+            "card": "Hedge Maze",
+            "count": 1
+        },
+        {
+            "card": "Helix Pinnacle",
+            "count": 1
+        },
+        {
+            "card": "Hexdrinker",
+            "count": 1
+        },
+        {
+            "card": "Hollow Trees",
+            "count": 1
+        },
+        {
+            "card": "Hushwood Verge",
+            "count": 1
+        },
+        {
+            "card": "Illusions of Grandeur",
+            "count": 1
+        },
+        {
+            "card": "Into the Flood Maw",
+            "count": 1
+        },
+        {
+            "card": "Invisible Stalker",
+            "count": 1
+        },
+        {
+            "card": "Isamaru, Hound of Konda",
+            "count": 1
+        },
+        {
+            "card": "Isochron Scepter",
+            "count": 1
+        },
+        {
+            "card": "Kaldra Compleat",
+            "count": 1
+        },
+        {
+            "card": "Kiora Bests the Sea God",
+            "count": 1
+        },
+        {
+            "card": "Lampad of Death's Vigil",
+            "count": 1
+        },
+        {
+            "card": "Leyline of Punishment",
+            "count": 1
+        },
+        {
+            "card": "Lightning Helix",
+            "count": 1
+        },
+        {
+            "card": "Liliana of the Veil",
+            "count": 1
+        },
+        {
+            "card": "Lion's Eye Diamond",
+            "count": 1
+        },
+        {
+            "card": "Mana Short",
+            "count": 1
+        },
+        {
+            "card": "Mangara of Corondor",
+            "count": 1
+        },
+        {
+            "card": "Maze of Ith",
+            "count": 1
+        },
+        {
+            "card": "Meteor Golem",
+            "count": 1
+        },
+        {
+            "card": "Misguided Rage",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Foundry",
+            "count": 1
+        },
+        {
+            "card": "Momentum Breaker",
+            "count": 1
+        },
+        {
+            "card": "Mono Land",
+            "count": 1
+        },
+        {
+            "card": "Mountain",
+            "count": 1
+        },
+        {
+            "card": "Mox Jet",
+            "count": 1
+        },
+        {
+            "card": "Murderous Rider // Swift End",
+            "count": 1
+        },
+        {
+            "card": "Nether Spirit",
+            "count": 1
+        },
+        {
+            "card": "Nomads en-Kor",
+            "count": 1
+        },
+        {
+            "card": "Nullhide Ferox",
+            "count": 1
+        },
+        {
+            "card": "Oath of Druids",
+            "count": 1
+        },
+        {
+            "card": "Oko, Thief of Crowns",
+            "count": 1
+        },
+        {
+            "card": "Oran-Rief, the Vastwood",
+            "count": 1
+        },
+        {
+            "card": "Pact of Negation",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Revoker",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Soulgorger",
+            "count": 1
+        },
+        {
+            "card": "Pithing Needle",
+            "count": 1
+        },
+        {
+            "card": "Prison Realm",
+            "count": 1
+        },
+        {
+            "card": "Rainbow Vale",
+            "count": 1
+        },
+        {
+            "card": "Ratchet Bomb",
+            "count": 1
+        },
+        {
+            "card": "Reinforced Bulwark",
+            "count": 1
+        },
+        {
+            "card": "Rushwood Grove",
+            "count": 1
+        },
+        {
+            "card": "Sanctum of Stone Fangs",
+            "count": 1
+        },
+        {
+            "card": "Scholar of the Ages",
+            "count": 1
+        },
+        {
+            "card": "Seat of the Synod",
+            "count": 1
+        },
+        {
+            "card": "Shadrix Silverquill",
+            "count": 1
+        },
+        {
+            "card": "Shelldock Isle",
+            "count": 1
+        },
+        {
+            "card": "Sheltered Valley",
+            "count": 1
+        },
+        {
+            "card": "Shrieking Drake",
+            "count": 1
+        },
+        {
+            "card": "Skylasher",
+            "count": 1
+        },
+        {
+            "card": "Sneak Attack",
+            "count": 1
+        },
+        {
+            "card": "Sol Talisman",
+            "count": 1
+        },
+        {
+            "card": "Solemnity",
+            "count": 1
+        },
+        {
+            "card": "Spellscorn Coven // Take It Back",
+            "count": 1
+        },
+        {
+            "card": "Stifle",
+            "count": 1
+        },
+        {
+            "card": "Storm Herd",
+            "count": 1
+        },
+        {
+            "card": "Swamp",
+            "count": 1
+        },
+        {
+            "card": "Taste for Mayhem",
+            "count": 1
+        },
+        {
+            "card": "Thalia, Guardian of Thraben",
+            "count": 1
+        },
+        {
+            "card": "The Balrog, Durin's Bane",
+            "count": 1
+        },
+        {
+            "card": "The Long Reach of Night",
+            "count": 1
+        },
+        {
+            "card": "Thought-Knot Seer",
+            "count": 1
+        },
+        {
+            "card": "Time Stop",
+            "count": 1
+        },
+        {
+            "card": "Trinisphere",
+            "count": 1
+        },
+        {
+            "card": "Troll Ascetic",
+            "count": 1
+        },
+        {
+            "card": "Ulamog, the Infinite Gyre",
+            "count": 1
+        },
+        {
+            "card": "Vampire of the Dire Moon",
+            "count": 1
+        },
+        {
+            "card": "Vindicate",
+            "count": 1
+        },
+        {
+            "card": "Volatile Fault",
+            "count": 1
+        },
+        {
+            "card": "Vronos, Masked Inquisitor",
+            "count": 1
+        },
+        {
+            "card": "Witch's Oven",
+            "count": 1
         }
     ],
-    "n_rounds_played": 109,
-    "n_wins": 10,
+    "n_rounds_played": 111,
+    "n_wins": 11,
     "nemesis": [
         {
             "player": "Fallen Azrael",
@@ -50,9 +734,9 @@
             "n_matches": 1
         }
     ],
-    "elo": 1730.4885769587725,
-    "score_average": 50.75945333972857,
-    "score_total": 5532.780414030414,
+    "elo": 1724.2475318910301,
+    "score_average": 50.66235274568607,
+    "score_total": 5623.521154771154,
     "score_list": [
         {
             "round": 1,
@@ -149,6 +833,10 @@
         {
             "round": 27,
             "score": 33.33333333333333
+        },
+        {
+            "round": 28,
+            "score": 66.66666666666666
         },
         {
             "round": 29,
@@ -325,6 +1013,10 @@
         {
             "round": 79,
             "score": 41.66666666666667
+        },
+        {
+            "round": 80,
+            "score": 24.074074074074073
         },
         {
             "round": 81,

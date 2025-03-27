@@ -4,99 +4,99 @@
             "index": 1,
             "player": "Namse",
             "cards": [
-                "Wasteland",
-                "Plains",
-                "Isamaru, Hound of Konda"
+                "Leyline of Anticipation",
+                "Super Lotus",
+                "Grief"
             ]
         },
         {
             "index": 2,
-            "player": "Master_of_Desaster",
+            "player": "Michael W",
             "cards": [
-                "Urborg, Tomb of Yawgmoth",
-                "The Tabernacle at Pendrell Vale",
-                "Aphemia, the Cacophony"
+                "Super Lotus",
+                "Black Lotus",
+                "Ugin, the Spirit Dragon"
             ]
         },
         {
             "index": 3,
-            "player": "BlackHole",
+            "player": "hug77",
             "cards": [
-                "Jeweled Lotus",
-                "Lion's Eye Diamond",
-                "Iona, Shield of Emeria"
+                "Leyline of Anticipation",
+                "Super Lotus",
+                "Entomber Exarch"
             ]
         },
         {
             "index": 4,
-            "player": "thiefAaron",
+            "player": "BlackHole",
             "cards": [
-                "Saprazzan Cove",
-                "Fierce Guardianship",
-                "Dragonlord Silumgar"
+                "Super Lotus",
+                "Noxious Revival",
+                "Shifting Ceratops"
             ]
         },
         {
             "index": 5,
-            "player": "Michael W",
+            "player": "hoempes",
             "cards": [
-                "Cavern of Souls",
-                "Rampaging Ferocidon",
-                "Ashling the Pilgrim"
+                "Force of Will",
+                "Dryad Arbor",
+                "Slippery Bogle"
             ]
         },
         {
             "index": 6,
-            "player": "The Beast",
+            "player": "The green one",
             "cards": [
-                "Rushwood Grove",
-                "Beast Within",
-                "Thrun, the Last Troll"
+                "Super Lotus",
+                "Thalia, Guardian of Thraben",
+                "Elite Spellbinder"
             ]
         },
         {
             "index": 7,
-            "player": "hug77",
+            "player": "The Beast",
             "cards": [
-                "Snapback",
-                "Black Lotus",
-                "Kira, Great Glass-Spinner"
+                "Leyline of Anticipation",
+                "Voidstone Gargoyle",
+                "Super Lotus"
             ]
         },
         {
             "index": 8,
-            "player": "P0LTERGEIST",
+            "player": "lollonator",
             "cards": [
-                "Ensnaring Bridge",
-                "Scalding Tongs",
-                "Hope of Ghirapur"
+                "Force of Will",
+                "Slippery Bogle",
+                "Dryad Arbor"
             ]
         },
         {
             "index": 9,
-            "player": "lollonator",
+            "player": "Master_of_Desaster",
             "cards": [
-                "Wasteland",
-                "Detention Vortex",
-                "Isamaru, Hound of Konda"
+                "Force of Will",
+                "Snapback",
+                "Dryad Arbor"
             ]
         },
         {
             "index": 10,
-            "player": "The green one",
+            "player": "NumiChan",
             "cards": [
-                "Wasteland",
-                "Bounty Agent",
-                "Thalia, Guardian of Thraben"
+                "Leyline of Anticipation",
+                "Super Lotus",
+                "Elite Spellbinder"
             ]
         },
         {
             "index": 11,
-            "player": "NumiChan",
+            "player": "P0LTERGEIST",
             "cards": [
-                "Mox Pearl",
-                "Leyline of Anticipation",
-                "Grand Arbiter Augustin IV"
+                "Super Lotus",
+                "Noxious Revival",
+                "Thrun, the Last Troll"
             ]
         }
     ],
@@ -105,189 +105,189 @@
             "index": 1,
             "values": [
                 0,
-                2,
                 6,
                 6,
+                0,
+                0,
                 6,
-                2,
-                2,
-                2,
-                2,
                 2,
                 0,
-                30
+                0,
+                2,
+                6,
+                28
             ]
         },
         {
             "index": 2,
             "values": [
-                2,
                 0,
-                6,
-                6,
-                6,
+                0,
                 0,
                 2,
-                2,
-                2,
-                2,
                 0,
-                28
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                11
             ]
         },
         {
             "index": 3,
             "values": [
                 0,
-                0,
-                0,
-                4,
-                6,
                 6,
                 0,
                 0,
-                6,
-                3,
                 0,
-                25
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                12
             ]
         },
         {
             "index": 4,
             "values": [
+                6,
+                2,
+                6,
                 0,
-                0,
+                6,
                 1,
+                0,
+                6,
+                6,
                 0,
                 2,
-                1,
-                0,
-                0,
-                0,
-                1,
-                6,
-                11
+                35
             ]
         },
         {
             "index": 5,
             "values": [
-                0,
-                0,
-                0,
-                2,
-                0,
-                2,
+                6,
+                6,
                 6,
                 0,
                 0,
+                6,
+                6,
+                2,
+                2,
+                6,
                 0,
-                0,
-                10
+                40
             ]
         },
         {
             "index": 6,
             "values": [
-                2,
-                6,
+                0,
+                3,
                 0,
                 4,
-                2,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0,
                 6,
-                0,
-                6,
-                0,
-                6,
-                32
+                13
             ]
         },
         {
             "index": 7,
             "values": [
                 2,
-                2,
                 6,
+                6,
+                6,
+                0,
                 6,
                 0,
                 0,
                 0,
                 2,
                 6,
-                6,
-                6,
-                36
+                34
             ]
         },
         {
             "index": 8,
             "values": [
-                2,
-                2,
                 6,
                 6,
                 6,
-                6,
-                2,
                 0,
                 2,
-                3,
+                6,
+                6,
                 0,
-                35
+                2,
+                6,
+                0,
+                40
             ]
         },
         {
             "index": 9,
             "values": [
-                2,
-                2,
-                0,
+                6,
                 6,
                 6,
                 0,
-                0,
+                2,
+                6,
+                6,
                 2,
                 0,
-                0,
                 6,
-                24
+                0,
+                40
             ]
         },
         {
             "index": 10,
             "values": [
                 2,
-                2,
-                3,
-                4,
+                6,
                 6,
                 6,
                 0,
-                3,
                 6,
-                0,
                 2,
+                0,
+                0,
+                0,
+                6,
                 34
             ]
         },
         {
             "index": 11,
             "values": [
-                6,
-                6,
-                6,
-                0,
-                6,
                 0,
                 0,
                 6,
-                0,
                 2,
+                6,
                 0,
-                32
+                0,
+                6,
+                6,
+                0,
+                0,
+                26
             ]
         }
     ],
-    "link": "https://www.mtg-forum.de/topic/166851-neuauflage-3-cards-blind-runde-26/"
+    "link": "https://www.mtg-forum.de/topic/167061-neuauflage-3-cards-blind-runde-28/"
 }

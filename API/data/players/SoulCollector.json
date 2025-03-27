@@ -1,6 +1,46 @@
 {
     "cards": [
         {
+            "card": "Basking Rootwalla",
+            "count": 1
+        },
+        {
+            "card": "Blazing Rootwalla",
+            "count": 1
+        },
+        {
+            "card": "Cruel Reality",
+            "count": 1
+        },
+        {
+            "card": "Ensoul Artifact",
+            "count": 1
+        },
+        {
+            "card": "Feed the Swarm",
+            "count": 1
+        },
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Hall of Storm Giants",
+            "count": 1
+        },
+        {
+            "card": "Island",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 1
+        },
+        {
+            "card": "Smallpox",
+            "count": 1
+        },
+        {
             "card": "Stifle",
             "count": 1
         },
@@ -50,7 +90,7 @@
             "n_matches": 2
         }
     ],
-    "elo": 1618.8982724711398,
+    "elo": 1612.2140827219307,
     "score_average": 34.18686868686869,
     "score_total": 170.93434343434345,
     "score_list": [

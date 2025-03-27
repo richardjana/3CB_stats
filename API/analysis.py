@@ -32,12 +32,9 @@ def most_played_cards(df: pd.DataFrame, n_cards: int =5) -> Dict[str, List[Dict[
     for player, player_data in df.groupby('player'):
         all_cards = player_data.loc[:, player_data.columns.str.startswith('card_')]
 
-        # is there a more pandas way to do this?
-        cards, counts = np.unique(all_cards, return_counts=True)
+        unique_cards = all_cards.stack().dropna().value_counts()
 
-        cards = cards[np.argsort(counts)[::-1]][:n_cards]
-        counts = np.sort(counts)[::-1][:n_cards]
-        mp_cards[player] = [{'card': c, 'count': n} for c, n in zip(cards, counts.tolist())]
+        mp_cards[player] = [{'card': c, 'count': int(n)} for c, n in zip(unique_cards.index, unique_cards.values)]
         mp_cards[player].sort(key = lambda cc: (-cc['count'], cc['card']))
 
     return mp_cards
@@ -141,7 +138,7 @@ if __name__ == '__main__':
     Elo = compute_Elo_scores(data)
     scores = get_scores(data)
     rounds_played_won = count_rounds(data)
-    most_played_cards = most_played_cards(data)
+    mp_cards = most_played_cards(data)
 
     ### prepare list of all players and round numbers ###
     all_players_sorted = all_players.tolist()
@@ -171,7 +168,7 @@ if __name__ == '__main__':
 
     ### prepare player data ###
     for player in all_players:
-        player_data = {'cards': most_played_cards[player],
+        player_data = {'cards': mp_cards[player],
                        'n_rounds_played': rounds_played_won[player]['played'],
                        'n_wins': rounds_played_won[player]['won'],
                        'nemesis': find_nemesis(data, player, 5),
@@ -192,7 +189,7 @@ if __name__ == '__main__':
 
         players = data_df['player'].to_list()
         deck_list = data_df.loc[:, data_df.columns.str.startswith('card_')].to_numpy().tolist()
-        round_data = {'decks': [{'index': i+1, 'player': p, 'cards': d} for i, (p, d) in enumerate(zip(players, deck_list))]}
+        round_data = {'decks': [{'index': i+1, 'player': p, 'cards': [c for c in d if isinstance(c, str)]} for i, (p, d) in enumerate(zip(players, deck_list))]}
 
         results_list = data_df.loc[:, data_df.columns.str.startswith(('result_', 'sum'))].dropna(how='any', axis=1).to_numpy(dtype=int).tolist()
         round_data['results'] = [{'index': i+1, 'values': l} for i, l in enumerate(results_list)]

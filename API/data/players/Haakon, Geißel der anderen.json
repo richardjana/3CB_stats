@@ -9,6 +9,26 @@
             "count": 2
         },
         {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Liliana of the Veil",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Factory",
+            "count": 1
+        },
+        {
+            "card": "Nether Spirit",
+            "count": 1
+        },
+        {
             "card": "Phyrexian Revoker",
             "count": 1
         },
@@ -25,14 +45,14 @@
     "n_wins": 1,
     "nemesis": [
         {
-            "player": "the green one",
+            "player": "BlackHole",
             "score": -6.0,
             "n_matches": 1
         },
         {
-            "player": "BlackHole",
-            "score": -6.0,
-            "n_matches": 1
+            "player": "The green one",
+            "score": -2.0,
+            "n_matches": 3
         },
         {
             "player": "Namse",
@@ -50,7 +70,7 @@
             "n_matches": 4
         }
     ],
-    "elo": 1692.7764264397201,
+    "elo": 1694.6733592105,
     "score_average": 58.72053872053872,
     "score_total": 234.88215488215488,
     "score_list": [

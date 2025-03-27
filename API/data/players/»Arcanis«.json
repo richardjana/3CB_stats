@@ -19,11 +19,92 @@
         {
             "card": "Chancellor of the Forge",
             "count": 1
+        },
+        {
+            "card": "Chimeric Idol",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 1
+        },
+        {
+            "card": "Foil",
+            "count": 1
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Hypnotic Sprite // Mesmeric Glare",
+            "count": 1
+        },
+        {
+            "card": "Island",
+            "count": 1
+        },
+        {
+            "card": "Liliana of the Veil",
+            "count": 1
+        },
+        {
+            "card": "Lux Cannon",
+            "count": 1
+        },
+        {
+            "card": "Memnite",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 1
+        },
+        {
+            "card": "Old-Growth Dryads",
+            "count": 1
+        },
+        {
+            "card": "Remote Farm",
+            "count": 1
+        },
+        {
+            "card": "Runed Halo",
+            "count": 1
+        },
+        {
+            "card": "The Rack",
+            "count": 1
+        },
+        {
+            "card": "War Priest of Thune",
+            "count": 1
+        },
+        {
+            "card": "Warping Wail",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        },
+        {
+            "card": "Will Kenrith Emblem",
+            "count": 1
         }
     ],
     "n_rounds_played": 9,
     "n_wins": 2,
     "nemesis": [
+        {
+            "player": "Hoempes",
+            "score": -3.0,
+            "n_matches": 2
+        },
         {
             "player": "Vhaleru",
             "score": -1.5,
@@ -43,14 +124,9 @@
             "player": "Michael W",
             "score": 0.0,
             "n_matches": 9
-        },
-        {
-            "player": "NumiChan",
-            "score": 0.0,
-            "n_matches": 5
         }
     ],
-    "elo": 1645.4251800458273,
+    "elo": 1632.1215437885007,
     "score_average": 55.60260726927393,
     "score_total": 500.4234654234654,
     "score_list": [

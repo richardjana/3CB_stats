@@ -11,7 +11,7 @@
         },
         {
             "index": 2,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Serra Ascendant",
                 "Serra Ascendant",
@@ -20,7 +20,7 @@
         },
         {
             "index": 3,
-            "player": "Lollonator",
+            "player": "lollonator",
             "cards": [
                 "Vault Skirge",
                 "Vault Skirge",
@@ -86,7 +86,7 @@
             "player": "Hasran Ogress",
             "cards": [
                 "Serra Ascendant",
-                "Cavern of souls",
+                "Cavern of Souls",
                 "The Tabernacle at Pendrell Vale"
             ]
         },

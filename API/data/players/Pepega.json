@@ -1,6 +1,22 @@
 {
     "cards": [
         {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Grove of the Burnwillows",
+            "count": 1
+        },
+        {
+            "card": "Hunted Horror",
+            "count": 1
+        },
+        {
+            "card": "Kavu Predator",
+            "count": 1
+        },
+        {
             "card": "Lurrus of the Dream-Den",
             "count": 1
         },
@@ -35,11 +51,6 @@
             "n_matches": 1
         },
         {
-            "player": "the green one",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "Yaloron",
             "score": -6.0,
             "n_matches": 1
@@ -48,9 +59,14 @@
             "player": "Haakon, Geißel der anderen",
             "score": -4.0,
             "n_matches": 3
+        },
+        {
+            "player": "Bongoking",
+            "score": -4.0,
+            "n_matches": 3
         }
     ],
-    "elo": 1524.783568862729,
+    "elo": 1528.2387784067541,
     "score_average": 30.580808080808083,
     "score_total": 91.74242424242425,
     "score_list": [

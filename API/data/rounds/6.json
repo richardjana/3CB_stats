@@ -11,7 +11,7 @@
         },
         {
             "index": 2,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Meddling Mage",
                 "Assassin's Trophy",
@@ -24,7 +24,7 @@
             "cards": [
                 "Black Lotus",
                 "Black Lotus",
-                "Nicol Bolas Dragon God"
+                "Nicol Bolas, Dragon-God"
             ]
         },
         {
@@ -56,11 +56,11 @@
         },
         {
             "index": 7,
-            "player": "the green one",
+            "player": "The green one",
             "cards": [
                 "City of Traitors",
                 "Tidehollow Sculler",
-                "Mayor of Avabruck"
+                "Mayor of Avabruck // Howlpack Alpha"
             ]
         },
         {

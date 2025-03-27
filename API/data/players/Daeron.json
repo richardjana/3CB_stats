@@ -19,6 +19,82 @@
         {
             "card": "Inkmoth Nexus",
             "count": 2
+        },
+        {
+            "card": "Aetherflux Reservoir",
+            "count": 1
+        },
+        {
+            "card": "Bitterblossom",
+            "count": 1
+        },
+        {
+            "card": "Blightsteel Colossus",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Dragon Tempest",
+            "count": 1
+        },
+        {
+            "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Kabira Crossroads",
+            "count": 1
+        },
+        {
+            "card": "Karakas",
+            "count": 1
+        },
+        {
+            "card": "Kher Keep",
+            "count": 1
+        },
+        {
+            "card": "Kumano Faces Kakkazan // Etching of Kumano",
+            "count": 1
+        },
+        {
+            "card": "Mental Misstep",
+            "count": 1
+        },
+        {
+            "card": "Mountain",
+            "count": 1
+        },
+        {
+            "card": "Pact of Negation",
+            "count": 1
+        },
+        {
+            "card": "Rakdos Carnarium",
+            "count": 1
+        },
+        {
+            "card": "Sleep-Cursed Faerie",
+            "count": 1
+        },
+        {
+            "card": "Stoic Sphinx",
+            "count": 1
+        },
+        {
+            "card": "Time Stop",
+            "count": 1
+        },
+        {
+            "card": "Volcanic Island",
+            "count": 1
+        },
+        {
+            "card": "Warping Wail",
+            "count": 1
         }
     ],
     "n_rounds_played": 10,
@@ -50,7 +126,7 @@
             "n_matches": 9
         }
     ],
-    "elo": 1666.558000670436,
+    "elo": 1659.5081480286385,
     "score_average": 44.28635253635254,
     "score_total": 442.86352536352535,
     "score_list": [

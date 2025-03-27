@@ -65,7 +65,7 @@
         },
         {
             "index": 8,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Black Lotus",
                 "Lurrus of the Dream-Den",
@@ -141,7 +141,7 @@
             "cards": [
                 "Black Lotus",
                 "Lurrus of the Dream-Den",
-                "Hypnotic Sprite"
+                "Hypnotic Sprite // Mesmeric Glare"
             ]
         }
     ],

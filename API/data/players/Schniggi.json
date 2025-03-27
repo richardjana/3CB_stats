@@ -1,6 +1,10 @@
 {
     "cards": [
         {
+            "card": "Anointed Peacekeeper",
+            "count": 1
+        },
+        {
             "card": "Archon of Valor's Reach",
             "count": 1
         },
@@ -10,6 +14,54 @@
         },
         {
             "card": "Callidus Assassin",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Disruptor Flute",
+            "count": 1
+        },
+        {
+            "card": "Epochrasite",
+            "count": 1
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 1
+        },
+        {
+            "card": "Minsc & Boo, Timeless Heroes",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Factory",
+            "count": 1
+        },
+        {
+            "card": "Riverpyre Verge",
+            "count": 1
+        },
+        {
+            "card": "Rosie Cotton of South Lane",
+            "count": 1
+        },
+        {
+            "card": "Scurry Oak",
+            "count": 1
+        },
+        {
+            "card": "Sink into Stupor // Soporific Springs",
+            "count": 1
+        },
+        {
+            "card": "Summary Dismissal",
+            "count": 1
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
             "count": 1
         },
         {
@@ -50,7 +102,7 @@
             "n_matches": 5
         }
     ],
-    "elo": 1861.4744735717554,
+    "elo": 1855.4092879322013,
     "score_average": 74.11616161616162,
     "score_total": 444.6969696969697,
     "score_list": [

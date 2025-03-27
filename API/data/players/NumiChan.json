@@ -10,18 +10,226 @@
         },
         {
             "card": "Dryad Arbor",
-            "count": 6
+            "count": 7
         },
         {
             "card": "Leyline of Anticipation",
-            "count": 6
+            "count": 7
         },
         {
             "card": "Lurrus of the Dream-Den",
             "count": 3
+        },
+        {
+            "card": "Slippery Bogle",
+            "count": 3
+        },
+        {
+            "card": "City of Traitors",
+            "count": 2
+        },
+        {
+            "card": "Helix Pinnacle",
+            "count": 2
+        },
+        {
+            "card": "Misthollow Griffin",
+            "count": 2
+        },
+        {
+            "card": "Mox Pearl",
+            "count": 2
+        },
+        {
+            "card": "Phyrexian Revoker",
+            "count": 2
+        },
+        {
+            "card": "Snapback",
+            "count": 2
+        },
+        {
+            "card": "Archmage's Charm",
+            "count": 1
+        },
+        {
+            "card": "Argivian Find",
+            "count": 1
+        },
+        {
+            "card": "Brutal Cathar // Moonrage Brute",
+            "count": 1
+        },
+        {
+            "card": "Cavern of Souls",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Annex",
+            "count": 1
+        },
+        {
+            "card": "Chromanticore",
+            "count": 1
+        },
+        {
+            "card": "Chromatic Orrery",
+            "count": 1
+        },
+        {
+            "card": "Court of Grace",
+            "count": 1
+        },
+        {
+            "card": "Dark Depths",
+            "count": 1
+        },
+        {
+            "card": "Demonfire",
+            "count": 1
+        },
+        {
+            "card": "Destructive Flow",
+            "count": 1
+        },
+        {
+            "card": "Eater of Days",
+            "count": 1
+        },
+        {
+            "card": "Eldrazi Mimic",
+            "count": 1
+        },
+        {
+            "card": "Elite Spellbinder",
+            "count": 1
+        },
+        {
+            "card": "Grand Arbiter Augustin IV",
+            "count": 1
+        },
+        {
+            "card": "Inkmoth Nexus",
+            "count": 1
+        },
+        {
+            "card": "Liliana's Specter",
+            "count": 1
+        },
+        {
+            "card": "Magus of the Moon",
+            "count": 1
+        },
+        {
+            "card": "Meddling Mage",
+            "count": 1
+        },
+        {
+            "card": "Memnite",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 1
+        },
+        {
+            "card": "Mox Sapphire",
+            "count": 1
+        },
+        {
+            "card": "Murderous Rider // Swift End",
+            "count": 1
+        },
+        {
+            "card": "Natural Unity",
+            "count": 1
+        },
+        {
+            "card": "Nevermore",
+            "count": 1
+        },
+        {
+            "card": "Okiba Reckoner Raid",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Dreadnought",
+            "count": 1
+        },
+        {
+            "card": "Ratchet Bomb",
+            "count": 1
+        },
+        {
+            "card": "Ravenous Squirrel",
+            "count": 1
+        },
+        {
+            "card": "Runed Halo",
+            "count": 1
+        },
+        {
+            "card": "Sanctum of Stone Fangs",
+            "count": 1
+        },
+        {
+            "card": "Serra the Benevolent Emblem",
+            "count": 1
+        },
+        {
+            "card": "Shield Sphere",
+            "count": 1
+        },
+        {
+            "card": "Simian Spirit Guide",
+            "count": 1
+        },
+        {
+            "card": "Solemnity",
+            "count": 1
+        },
+        {
+            "card": "Strixhaven Stadium",
+            "count": 1
+        },
+        {
+            "card": "Super Lotus",
+            "count": 1
+        },
+        {
+            "card": "Thalia, Guardian of Thraben",
+            "count": 1
+        },
+        {
+            "card": "Urborg, Tomb of Yawgmoth",
+            "count": 1
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 1
+        },
+        {
+            "card": "Vizzerdrix",
+            "count": 1
+        },
+        {
+            "card": "Vryn Wingmare",
+            "count": 1
+        },
+        {
+            "card": "Wasteland",
+            "count": 1
+        },
+        {
+            "card": "Wipe Away",
+            "count": 1
+        },
+        {
+            "card": "Yavimaya Hollow",
+            "count": 1
         }
     ],
-    "n_rounds_played": 30,
+    "n_rounds_played": 31,
     "n_wins": 3,
     "nemesis": [
         {
@@ -45,14 +253,14 @@
             "n_matches": 1
         },
         {
-            "player": "Haakon, Geißel der anderen",
-            "score": -3.0,
-            "n_matches": 4
+            "player": "Hoempes",
+            "score": -6.0,
+            "n_matches": 1
         }
     ],
-    "elo": 1681.8897691226646,
-    "score_average": 40.18395493395494,
-    "score_total": 1205.518648018648,
+    "elo": 1674.8378064459132,
+    "score_average": 40.71565531242952,
+    "score_total": 1262.185314685315,
     "score_list": [
         {
             "round": 1,
@@ -133,6 +341,10 @@
         {
             "round": 27,
             "score": 43.75
+        },
+        {
+            "round": 28,
+            "score": 56.666666666666664
         },
         {
             "round": 29,

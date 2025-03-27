@@ -20,7 +20,7 @@
         },
         {
             "index": 3,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Savannah",
                 "Old-Growth Dryads",
@@ -92,7 +92,7 @@
         },
         {
             "index": 11,
-            "player": "the green one",
+            "player": "The green one",
             "cards": [
                 "Island",
                 "Slither Blade",

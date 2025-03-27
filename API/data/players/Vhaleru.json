@@ -5,6 +5,14 @@
             "count": 6
         },
         {
+            "card": "Black Lotus",
+            "count": 1
+        },
+        {
+            "card": "Mana Leak",
+            "count": 1
+        },
+        {
             "card": "Mirari's Wake",
             "count": 1
         },
@@ -31,8 +39,13 @@
         },
         {
             "player": "Hoempes",
-            "score": -4.5,
-            "n_matches": 4
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hoempes",
+            "score": -4.0,
+            "n_matches": 3
         },
         {
             "player": "The Beast",
@@ -43,14 +56,9 @@
             "player": "Namse",
             "score": -3.0,
             "n_matches": 4
-        },
-        {
-            "player": "Master_of_Desaster",
-            "score": -3.0,
-            "n_matches": 3
         }
     ],
-    "elo": 1469.700878908915,
+    "elo": 1459.3076258328842,
     "score_average": 31.231060606060602,
     "score_total": 124.92424242424241,
     "score_list": [

@@ -2,7 +2,7 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 36
+            "count": 38
         },
         {
             "card": "Iona, Shield of Emeria",
@@ -19,9 +19,733 @@
         {
             "card": "Unburial Rites",
             "count": 5
+        },
+        {
+            "card": "Exhume",
+            "count": 4
+        },
+        {
+            "card": "Foil",
+            "count": 4
+        },
+        {
+            "card": "Island",
+            "count": 4
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 4
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 4
+        },
+        {
+            "card": "Peat Bog",
+            "count": 4
+        },
+        {
+            "card": "Chancellor of the Forge",
+            "count": 3
+        },
+        {
+            "card": "Daze",
+            "count": 3
+        },
+        {
+            "card": "Distress",
+            "count": 3
+        },
+        {
+            "card": "Force of Will",
+            "count": 3
+        },
+        {
+            "card": "Fountain of Cho",
+            "count": 3
+        },
+        {
+            "card": "Leyline of the Meek",
+            "count": 3
+        },
+        {
+            "card": "Magus of the Moon",
+            "count": 3
+        },
+        {
+            "card": "Memnite",
+            "count": 3
+        },
+        {
+            "card": "Mishra's Factory",
+            "count": 3
+        },
+        {
+            "card": "Nezumi Shortfang // Stabwhisker the Odious",
+            "count": 3
+        },
+        {
+            "card": "Old-Growth Dryads",
+            "count": 3
+        },
+        {
+            "card": "Snapback",
+            "count": 3
+        },
+        {
+            "card": "Ancient Tomb",
+            "count": 2
+        },
+        {
+            "card": "Crashing Footfalls",
+            "count": 2
+        },
+        {
+            "card": "Dark Depths",
+            "count": 2
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 2
+        },
+        {
+            "card": "Emrakul, the Aeons Torn",
+            "count": 2
+        },
+        {
+            "card": "Emrakul, the Promised End",
+            "count": 2
+        },
+        {
+            "card": "Ensnaring Bridge",
+            "count": 2
+        },
+        {
+            "card": "Force of Negation",
+            "count": 2
+        },
+        {
+            "card": "Force of Vigor",
+            "count": 2
+        },
+        {
+            "card": "Hickory Woodlot",
+            "count": 2
+        },
+        {
+            "card": "It That Betrays",
+            "count": 2
+        },
+        {
+            "card": "Karakas",
+            "count": 2
+        },
+        {
+            "card": "Lupine Prototype",
+            "count": 2
+        },
+        {
+            "card": "Mana Crypt",
+            "count": 2
+        },
+        {
+            "card": "Maze of Ith",
+            "count": 2
+        },
+        {
+            "card": "Near-Death Experience",
+            "count": 2
+        },
+        {
+            "card": "Pact of Negation",
+            "count": 2
+        },
+        {
+            "card": "Phyrexian Dreadnought",
+            "count": 2
+        },
+        {
+            "card": "Plains",
+            "count": 2
+        },
+        {
+            "card": "Predatory Sliver",
+            "count": 2
+        },
+        {
+            "card": "Savannah",
+            "count": 2
+        },
+        {
+            "card": "Tempting Wurm",
+            "count": 2
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 2
+        },
+        {
+            "card": "Tropical Island",
+            "count": 2
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 2
+        },
+        {
+            "card": "3/3-Token mit Lifelink",
+            "count": 1
+        },
+        {
+            "card": "All That Glitters",
+            "count": 1
+        },
+        {
+            "card": "Ancient Den",
+            "count": 1
+        },
+        {
+            "card": "Animist's Might",
+            "count": 1
+        },
+        {
+            "card": "Anurid Scavenger",
+            "count": 1
+        },
+        {
+            "card": "Approach of the Second Sun",
+            "count": 1
+        },
+        {
+            "card": "Arcbound Stinger",
+            "count": 1
+        },
+        {
+            "card": "Assassin's Trophy",
+            "count": 1
+        },
+        {
+            "card": "Baneful Omen",
+            "count": 1
+        },
+        {
+            "card": "Barkform Harvester",
+            "count": 1
+        },
+        {
+            "card": "Battle of Wits",
+            "count": 1
+        },
+        {
+            "card": "Bayou Groff",
+            "count": 1
+        },
+        {
+            "card": "Beacon of Immortality",
+            "count": 1
+        },
+        {
+            "card": "Bonescythe Sliver",
+            "count": 1
+        },
+        {
+            "card": "Boromir, Warden of the Tower",
+            "count": 1
+        },
+        {
+            "card": "Boros Garrison",
+            "count": 1
+        },
+        {
+            "card": "Brago's Favor",
+            "count": 1
+        },
+        {
+            "card": "Brass Man",
+            "count": 1
+        },
+        {
+            "card": "Brindle Shoat",
+            "count": 1
+        },
+        {
+            "card": "Bushi Tenderfoot // Kenzo the Hardhearted",
+            "count": 1
+        },
+        {
+            "card": "Chalice of Life // Chalice of Death",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Annex",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Dross",
+            "count": 1
+        },
+        {
+            "card": "Charix, the Raging Isle",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Cloudshredder Sliver",
+            "count": 1
+        },
+        {
+            "card": "Collective Brutality",
+            "count": 1
+        },
+        {
+            "card": "Collector Ouphe",
+            "count": 1
+        },
+        {
+            "card": "Council's Judgment",
+            "count": 1
+        },
+        {
+            "card": "Crystalline Sliver",
+            "count": 1
+        },
+        {
+            "card": "Cut Down",
+            "count": 1
+        },
+        {
+            "card": "Daretti, Scrap Savant Emblem",
+            "count": 1
+        },
+        {
+            "card": "Death's Shadow",
+            "count": 1
+        },
+        {
+            "card": "Desert",
+            "count": 1
+        },
+        {
+            "card": "Diffusion Sliver",
+            "count": 1
+        },
+        {
+            "card": "Disenchant",
+            "count": 1
+        },
+        {
+            "card": "Dread Fugue",
+            "count": 1
+        },
+        {
+            "card": "Dread Return",
+            "count": 1
+        },
+        {
+            "card": "Eater of Days",
+            "count": 1
+        },
+        {
+            "card": "Elvish Piper",
+            "count": 1
+        },
+        {
+            "card": "Enter the Infinite",
+            "count": 1
+        },
+        {
+            "card": "Ethereal Armor",
+            "count": 1
+        },
+        {
+            "card": "Evolved Sleeper",
+            "count": 1
+        },
+        {
+            "card": "Felidar Sovereign",
+            "count": 1
+        },
+        {
+            "card": "Fell",
+            "count": 1
+        },
+        {
+            "card": "Fist of Suns",
+            "count": 1
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Forgotten Monument",
+            "count": 1
+        },
+        {
+            "card": "Gaddock Teeg",
+            "count": 1
+        },
+        {
+            "card": "Galerider Sliver",
+            "count": 1
+        },
+        {
+            "card": "Garruk, Apex Predator",
+            "count": 1
+        },
+        {
+            "card": "Gideon Blackblade",
+            "count": 1
+        },
+        {
+            "card": "Gideon of the Trials",
+            "count": 1
+        },
+        {
+            "card": "Gigantosaurus",
+            "count": 1
+        },
+        {
+            "card": "Glint Hawk",
+            "count": 1
+        },
+        {
+            "card": "Greater Harvester",
+            "count": 1
+        },
+        {
+            "card": "Grim Monolith",
+            "count": 1
+        },
+        {
+            "card": "Hall of Heliod's Generosity",
+            "count": 1
+        },
+        {
+            "card": "Hypergenesis",
+            "count": 1
+        },
+        {
+            "card": "Icehide Golem",
+            "count": 1
+        },
+        {
+            "card": "Ichorclaw Myr",
+            "count": 1
+        },
+        {
+            "card": "Imotekh the Stormlord",
+            "count": 1
+        },
+        {
+            "card": "Infernal Grasp",
+            "count": 1
+        },
+        {
+            "card": "Inkmoth Nexus",
+            "count": 1
+        },
+        {
+            "card": "Inventors' Fair",
+            "count": 1
+        },
+        {
+            "card": "Isochron Scepter",
+            "count": 1
+        },
+        {
+            "card": "Jeweled Lotus",
+            "count": 1
+        },
+        {
+            "card": "Kargan Dragonlord",
+            "count": 1
+        },
+        {
+            "card": "Kaya, Spirits' Justice",
+            "count": 1
+        },
+        {
+            "card": "Last Word",
+            "count": 1
+        },
+        {
+            "card": "Leonin Squire",
+            "count": 1
+        },
+        {
+            "card": "Leyline of Sanctity",
+            "count": 1
+        },
+        {
+            "card": "Lightning Helix",
+            "count": 1
+        },
+        {
+            "card": "Liliana's Triumph",
+            "count": 1
+        },
+        {
+            "card": "Liliana, the Necromancer",
+            "count": 1
+        },
+        {
+            "card": "Loam Lion",
+            "count": 1
+        },
+        {
+            "card": "Long River's Pull",
+            "count": 1
+        },
+        {
+            "card": "Mahamoti Djinn",
+            "count": 1
+        },
+        {
+            "card": "Megantic Sliver",
+            "count": 1
+        },
+        {
+            "card": "Mental Misstep",
+            "count": 1
+        },
+        {
+            "card": "Miasmic Mummy",
+            "count": 1
+        },
+        {
+            "card": "Misdirection",
+            "count": 1
+        },
+        {
+            "card": "Mishra's Foundry",
+            "count": 1
+        },
+        {
+            "card": "Mother of Runes",
+            "count": 1
+        },
+        {
+            "card": "Mountain",
+            "count": 1
+        },
+        {
+            "card": "Mox Jet",
+            "count": 1
+        },
+        {
+            "card": "Mutavault",
+            "count": 1
+        },
+        {
+            "card": "Necrotic Sliver",
+            "count": 1
+        },
+        {
+            "card": "Nourishing Shoal",
+            "count": 1
+        },
+        {
+            "card": "Noxious Revival",
+            "count": 1
+        },
+        {
+            "card": "Orzhov Basilica",
+            "count": 1
+        },
+        {
+            "card": "Oxidize",
+            "count": 1
+        },
+        {
+            "card": "Palani's Hatcher",
+            "count": 1
+        },
+        {
+            "card": "Phyrexia's Core",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Revoker",
+            "count": 1
+        },
+        {
+            "card": "Pithing Needle",
+            "count": 1
+        },
+        {
+            "card": "Plague Engineer",
+            "count": 1
+        },
+        {
+            "card": "Platinum Angel",
+            "count": 1
+        },
+        {
+            "card": "Platinum Emperion",
+            "count": 1
+        },
+        {
+            "card": "Pristine Angel",
+            "count": 1
+        },
+        {
+            "card": "Prodigal Sorcerer",
+            "count": 1
+        },
+        {
+            "card": "Progenitus",
+            "count": 1
+        },
+        {
+            "card": "Replicating Ring",
+            "count": 1
+        },
+        {
+            "card": "Rimefeather Owl",
+            "count": 1
+        },
+        {
+            "card": "Rip Apart",
+            "count": 1
+        },
+        {
+            "card": "Ripclaw Wrangler",
+            "count": 1
+        },
+        {
+            "card": "Rushwood Grove",
+            "count": 1
+        },
+        {
+            "card": "Sanctum Prelate",
+            "count": 1
+        },
+        {
+            "card": "Scalding Tongs",
+            "count": 1
+        },
+        {
+            "card": "Seal of Fire",
+            "count": 1
+        },
+        {
+            "card": "Shelob, Child of Ungoliant",
+            "count": 1
+        },
+        {
+            "card": "Shifting Ceratops",
+            "count": 1
+        },
+        {
+            "card": "Skrelv's Hive",
+            "count": 1
+        },
+        {
+            "card": "Snow-Covered Swamp",
+            "count": 1
+        },
+        {
+            "card": "Sorin Markov",
+            "count": 1
+        },
+        {
+            "card": "Subterranean Hangar",
+            "count": 1
+        },
+        {
+            "card": "Super Lotus",
+            "count": 1
+        },
+        {
+            "card": "Swamp",
+            "count": 1
+        },
+        {
+            "card": "Swords to Plowshares",
+            "count": 1
+        },
+        {
+            "card": "Tales of Master Seshiro",
+            "count": 1
+        },
+        {
+            "card": "Tempered Sliver",
+            "count": 1
+        },
+        {
+            "card": "Tethered Griffin",
+            "count": 1
+        },
+        {
+            "card": "Thalia, Guardian of Thraben",
+            "count": 1
+        },
+        {
+            "card": "The Book of Exalted Deeds",
+            "count": 1
+        },
+        {
+            "card": "The Elderspell",
+            "count": 1
+        },
+        {
+            "card": "Timberline Ridge",
+            "count": 1
+        },
+        {
+            "card": "Tinder Farm",
+            "count": 1
+        },
+        {
+            "card": "Toxic Deluge",
+            "count": 1
+        },
+        {
+            "card": "Tribute to Horobi",
+            "count": 1
+        },
+        {
+            "card": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+            "count": 1
+        },
+        {
+            "card": "Underground Sea",
+            "count": 1
+        },
+        {
+            "card": "Unstoppable Slasher",
+            "count": 1
+        },
+        {
+            "card": "Urborg, Tomb of Yawgmoth",
+            "count": 1
+        },
+        {
+            "card": "Valentin, Dean of the Vein // Lisette, Dean of the Root",
+            "count": 1
+        },
+        {
+            "card": "Vengeful Reaper",
+            "count": 1
+        },
+        {
+            "card": "Volrath's Stronghold",
+            "count": 1
+        },
+        {
+            "card": "Wilson, Refined Grizzly",
+            "count": 1
+        },
+        {
+            "card": "Yavimaya Hollow",
+            "count": 1
         }
     ],
-    "n_rounds_played": 102,
+    "n_rounds_played": 104,
     "n_wins": 5,
     "nemesis": [
         {
@@ -46,13 +770,13 @@
         },
         {
             "player": "Namse",
-            "score": -3.3823529411764706,
-            "n_matches": 102
+            "score": -3.201923076923077,
+            "n_matches": 104
         }
     ],
-    "elo": 1476.8318034723914,
-    "score_average": 38.48032482223658,
-    "score_total": 3924.9931318681315,
+    "elo": 1470.5762269011318,
+    "score_average": 39.01346672380326,
+    "score_total": 4057.400539275539,
     "score_list": [
         {
             "round": 4,
@@ -105,6 +829,10 @@
         {
             "round": 26,
             "score": 41.66666666666667
+        },
+        {
+            "round": 28,
+            "score": 58.333333333333336
         },
         {
             "round": 29,
@@ -281,6 +1009,10 @@
         {
             "round": 79,
             "score": 100.0
+        },
+        {
+            "round": 80,
+            "score": 74.07407407407408
         },
         {
             "round": 81,

@@ -13,6 +13,22 @@
             "count": 2
         },
         {
+            "card": "Anointed Peacekeeper",
+            "count": 1
+        },
+        {
+            "card": "Cruel Reality",
+            "count": 1
+        },
+        {
+            "card": "Dark Ritual",
+            "count": 1
+        },
+        {
+            "card": "Ensnaring Bridge",
+            "count": 1
+        },
+        {
             "card": "Jhoira's Timebug",
             "count": 1
         },
@@ -50,7 +66,7 @@
             "n_matches": 4
         }
     ],
-    "elo": 1706.5369770890825,
+    "elo": 1699.6500377352322,
     "score_average": 51.32365319865319,
     "score_total": 205.29461279461276,
     "score_list": [

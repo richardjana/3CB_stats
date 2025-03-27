@@ -4,15 +4,17 @@
             "index": 1,
             "player": "Namse",
             "cards": [
+                "Force of Negation",
                 "Snapback",
                 "Memnite",
-                "Elspeth, Knight Errant Emblem"
+                "Elspeth, Knight-Errant Emblem"
             ]
         },
         {
             "index": 2,
             "player": "Michael W",
             "cards": [
+                "Wasteland",
                 "Mercadian Bazaar",
                 "Chandra, Awakened Inferno",
                 "Rowan Kenrith Emblem"
@@ -22,6 +24,7 @@
             "index": 3,
             "player": "NumiChan",
             "cards": [
+                "Dryad Arbor",
                 "Yavimaya Hollow",
                 "Helix Pinnacle",
                 "Serra the Benevolent Emblem"
@@ -31,6 +34,7 @@
             "index": 4,
             "player": "lollonator",
             "cards": [
+                "City of Traitors",
                 "Isochron Scepter",
                 "Lightning Helix",
                 "Will Kenrith Emblem"
@@ -40,15 +44,17 @@
             "index": 5,
             "player": "Master_of_Desaster",
             "cards": [
+                "Lion's Eye Diamond",
                 "Shelldock Isle",
                 "Ulamog, the Infinite Gyre",
-                "Elspeth, Knight Errant Emblem"
+                "Elspeth, Knight-Errant Emblem"
             ]
         },
         {
             "index": 6,
             "player": "The Beast",
             "cards": [
+                "Black Lotus",
                 "Invisible Stalker",
                 "Pithing Needle",
                 "Serra the Benevolent Emblem"
@@ -56,17 +62,19 @@
         },
         {
             "index": 7,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
+                "Mishra's Workshop",
                 "Ensnaring Bridge",
                 "Scalding Tongs",
-                "Elspeth, Knight Errant Emblem"
+                "Elspeth, Knight-Errant Emblem"
             ]
         },
         {
             "index": 8,
             "player": "BlackHole",
             "cards": [
+                "Black Lotus",
                 "Magus of the Moon",
                 "Thalia, Guardian of Thraben",
                 "Daretti, Scrap Savant Emblem"
@@ -76,15 +84,17 @@
             "index": 9,
             "player": "hug77",
             "cards": [
+                "Lion's Eye Diamond",
                 "Shelldock Isle",
                 "Emrakul, the Aeons Torn",
-                "Elspeth, Knight Errant Emblem"
+                "Elspeth, Knight-Errant Emblem"
             ]
         },
         {
             "index": 10,
-            "player": "the green one",
+            "player": "The green one",
             "cards": [
+                "Black Lotus",
                 "Stronghold Gambit",
                 "Emrakul, the Aeons Torn",
                 "Will Kenrith Emblem"
@@ -94,6 +104,7 @@
             "index": 11,
             "player": "»Arcanis«",
             "cards": [
+                "Foil",
                 "Island",
                 "Chancellor of the Forge",
                 "Will Kenrith Emblem"
@@ -103,6 +114,7 @@
             "index": 12,
             "player": "P0LTERGEIST",
             "cards": [
+                "Volcanic Island",
                 "Pyrite Spellbomb",
                 "Pyrite Spellbomb",
                 "Daretti, Scrap Savant Emblem"

@@ -51,7 +51,7 @@
             "cards": [
                 "Maze of Ith",
                 "Black Lotus",
-                "Davriel Rogue Shadowmage"
+                "Davriel, Rogue Shadowmage"
             ]
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "index": 10,
-            "player": "Lollonator",
+            "player": "lollonator",
             "cards": [
                 "Crystal Vein",
                 "Damping Sphere",

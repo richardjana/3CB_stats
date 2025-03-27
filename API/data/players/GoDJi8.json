@@ -13,7 +13,67 @@
             "count": 2
         },
         {
+            "card": "Archmage's Charm",
+            "count": 1
+        },
+        {
+            "card": "Chromatic Orrery",
+            "count": 1
+        },
+        {
+            "card": "City of Traitors",
+            "count": 1
+        },
+        {
+            "card": "Dryad Arbor",
+            "count": 1
+        },
+        {
+            "card": "Emrakul, the Aeons Torn",
+            "count": 1
+        },
+        {
+            "card": "Force Spike",
+            "count": 1
+        },
+        {
             "card": "Force of Will",
+            "count": 1
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Garth One-Eye",
+            "count": 1
+        },
+        {
+            "card": "Island",
+            "count": 1
+        },
+        {
+            "card": "Pact of Negation",
+            "count": 1
+        },
+        {
+            "card": "Reality Smasher",
+            "count": 1
+        },
+        {
+            "card": "Slippery Bogle",
+            "count": 1
+        },
+        {
+            "card": "Thalia, Guardian of Thraben",
+            "count": 1
+        },
+        {
+            "card": "Viscerid Deepwalker",
+            "count": 1
+        },
+        {
+            "card": "Vryn Wingmare",
             "count": 1
         },
         {
@@ -50,7 +110,7 @@
             "n_matches": 8
         }
     ],
-    "elo": 1603.8628202634934,
+    "elo": 1595.3436009746938,
     "score_average": 36.16331585081585,
     "score_total": 289.3065268065268,
     "score_list": [

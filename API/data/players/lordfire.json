@@ -6,7 +6,7 @@
         },
         {
             "card": "Anointed Peacekeeper",
-            "count": 5
+            "count": 6
         },
         {
             "card": "Lupine Prototype",
@@ -17,11 +17,295 @@
             "count": 4
         },
         {
+            "card": "Mishra's Workshop",
+            "count": 3
+        },
+        {
+            "card": "Old-Growth Dryads",
+            "count": 3
+        },
+        {
             "card": "Wasteland",
             "count": 3
+        },
+        {
+            "card": "Grove of the Burnwillows",
+            "count": 2
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 2
+        },
+        {
+            "card": "Phyrexian Dreadnought",
+            "count": 2
+        },
+        {
+            "card": "Rushwood Grove",
+            "count": 2
+        },
+        {
+            "card": "Skrelv's Hive",
+            "count": 2
+        },
+        {
+            "card": "Aetherflux Reservoir",
+            "count": 1
+        },
+        {
+            "card": "Ajani Vengeant",
+            "count": 1
+        },
+        {
+            "card": "Ancient Tomb",
+            "count": 1
+        },
+        {
+            "card": "Annul",
+            "count": 1
+        },
+        {
+            "card": "Artifact Mutation",
+            "count": 1
+        },
+        {
+            "card": "Ayara's Oathsworn",
+            "count": 1
+        },
+        {
+            "card": "Cathedral of War",
+            "count": 1
+        },
+        {
+            "card": "Chalice of the Void",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Annex",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Dross",
+            "count": 1
+        },
+        {
+            "card": "Chancellor of the Forge",
+            "count": 1
+        },
+        {
+            "card": "Chimeric Idol",
+            "count": 1
+        },
+        {
+            "card": "Collector Ouphe",
+            "count": 1
+        },
+        {
+            "card": "Court of Grace",
+            "count": 1
+        },
+        {
+            "card": "Divest",
+            "count": 1
+        },
+        {
+            "card": "Elspeth, Sun's Champion",
+            "count": 1
+        },
+        {
+            "card": "Elvish Spirit Guide",
+            "count": 1
+        },
+        {
+            "card": "Exsanguinator Cavalry",
+            "count": 1
+        },
+        {
+            "card": "Faith's Fetters",
+            "count": 1
+        },
+        {
+            "card": "Forest",
+            "count": 1
+        },
+        {
+            "card": "Frost Titan",
+            "count": 1
+        },
+        {
+            "card": "Garruk, Apex Predator",
+            "count": 1
+        },
+        {
+            "card": "Garruk, Cursed Huntsman",
+            "count": 1
+        },
+        {
+            "card": "Hushbringer",
+            "count": 1
+        },
+        {
+            "card": "Inkmoth Nexus",
+            "count": 1
+        },
+        {
+            "card": "Kabira Crossroads",
+            "count": 1
+        },
+        {
+            "card": "Kaldra Compleat",
+            "count": 1
+        },
+        {
+            "card": "Kaya, Ghost Assassin",
+            "count": 1
+        },
+        {
+            "card": "Kenrith, the Returned King",
+            "count": 1
+        },
+        {
+            "card": "Leaf Arrow",
+            "count": 1
+        },
+        {
+            "card": "Leonin Squire",
+            "count": 1
+        },
+        {
+            "card": "Lightning Greaves",
+            "count": 1
+        },
+        {
+            "card": "Lodestone Golem",
+            "count": 1
+        },
+        {
+            "card": "Meddling Mage",
+            "count": 1
+        },
+        {
+            "card": "Meteor Golem",
+            "count": 1
+        },
+        {
+            "card": "Mono Land",
+            "count": 1
+        },
+        {
+            "card": "Nullhide Ferox",
+            "count": 1
+        },
+        {
+            "card": "Paradox Zone",
+            "count": 1
+        },
+        {
+            "card": "Pendelhaven",
+            "count": 1
+        },
+        {
+            "card": "Phyrexian Revoker",
+            "count": 1
+        },
+        {
+            "card": "Plains",
+            "count": 1
+        },
+        {
+            "card": "Ranger's Guile",
+            "count": 1
+        },
+        {
+            "card": "Remote Farm",
+            "count": 1
+        },
+        {
+            "card": "Rhonas's Last Stand",
+            "count": 1
+        },
+        {
+            "card": "Samwise the Stouthearted",
+            "count": 1
+        },
+        {
+            "card": "Skyclave Apparition",
+            "count": 1
+        },
+        {
+            "card": "Skylasher",
+            "count": 1
+        },
+        {
+            "card": "Skystrike Officer",
+            "count": 1
+        },
+        {
+            "card": "Smokestack",
+            "count": 1
+        },
+        {
+            "card": "Sorin, Imperious Bloodlord",
+            "count": 1
+        },
+        {
+            "card": "Sphere of Resistance",
+            "count": 1
+        },
+        {
+            "card": "Subtlety",
+            "count": 1
+        },
+        {
+            "card": "Swamp",
+            "count": 1
+        },
+        {
+            "card": "The Tabernacle at Pendrell Vale",
+            "count": 1
+        },
+        {
+            "card": "Thorn of Amethyst",
+            "count": 1
+        },
+        {
+            "card": "Torpor Orb",
+            "count": 1
+        },
+        {
+            "card": "Treetop Village",
+            "count": 1
+        },
+        {
+            "card": "Trygon Predator",
+            "count": 1
+        },
+        {
+            "card": "Vampire of the Dire Moon",
+            "count": 1
+        },
+        {
+            "card": "Vein Ripper",
+            "count": 1
+        },
+        {
+            "card": "Wasteland Viper",
+            "count": 1
+        },
+        {
+            "card": "Windborn Muse",
+            "count": 1
+        },
+        {
+            "card": "Wrenn and Six",
+            "count": 1
+        },
+        {
+            "card": "Yavimaya, Cradle of Growth",
+            "count": 1
         }
     ],
-    "n_rounds_played": 37,
+    "n_rounds_played": 38,
     "n_wins": 6,
     "nemesis": [
         {
@@ -40,19 +324,19 @@
             "n_matches": 17
         },
         {
+            "player": "P0LTERGEIST",
+            "score": -1.2972972972972974,
+            "n_matches": 37
+        },
+        {
             "player": "thiefAaron",
             "score": -1.2,
             "n_matches": 5
-        },
-        {
-            "player": "P0LTERGEIST",
-            "score": -1.1666666666666667,
-            "n_matches": 36
         }
     ],
-    "elo": 1629.3354161159305,
-    "score_average": 47.8507541007541,
-    "score_total": 1770.4779017279018,
+    "elo": 1621.1492328708548,
+    "score_average": 47.809847316426264,
+    "score_total": 1816.774198024198,
     "score_list": [
         {
             "round": 62,
@@ -113,6 +397,10 @@
         {
             "round": 79,
             "score": 62.5
+        },
+        {
+            "round": 80,
+            "score": 46.2962962962963
         },
         {
             "round": 81,

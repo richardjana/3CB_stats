@@ -11,7 +11,7 @@
         },
         {
             "index": 2,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Black Lotus",
                 "Threads of Disloyalty",
@@ -92,7 +92,7 @@
         },
         {
             "index": 11,
-            "player": "the green one",
+            "player": "The green one",
             "cards": [
                 "Leyline of Anticipation",
                 "Black Lotus",

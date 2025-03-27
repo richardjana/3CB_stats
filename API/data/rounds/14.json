@@ -20,7 +20,7 @@
         },
         {
             "index": 3,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Force of Will",
                 "Misthollow Griffin",
@@ -47,7 +47,7 @@
         },
         {
             "index": 6,
-            "player": "the green one",
+            "player": "The green one",
             "cards": [
                 "Urborg, Tomb of Yawgmoth",
                 "The Tabernacle at Pendrell Vale",

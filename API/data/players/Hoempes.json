@@ -1,134 +1,70 @@
 {
     "cards": [
         {
-            "card": "Black Lotus",
-            "count": 4
+            "card": "Dark Depths",
+            "count": 1
         },
         {
-            "card": "Lurrus of the Dream-Den",
-            "count": 2
+            "card": "Lion's Eye Diamond",
+            "count": 1
         },
         {
-            "card": "Scalding Tongs",
-            "count": 2
+            "card": "Shelldock Isle",
+            "count": 1
         },
         {
-            "card": "Serra Ascendant",
-            "count": 2
+            "card": "Ulamog, the Infinite Gyre",
+            "count": 1
         },
         {
-            "card": "Sneak Attack",
-            "count": 2
+            "card": "Urborg, Tomb of Yawgmoth",
+            "count": 1
+        },
+        {
+            "card": "Vampire Hexmage",
+            "count": 1
         }
     ],
-    "n_rounds_played": 19,
-    "n_wins": 2,
+    "n_rounds_played": 2,
+    "n_wins": 0,
     "nemesis": [
         {
-            "player": "»Arcanis«",
-            "score": -1.875,
-            "n_matches": 8
-        },
-        {
-            "player": "hug77",
-            "score": -1.5789473684210527,
-            "n_matches": 19
+            "player": "BlackHole",
+            "score": -6.0,
+            "n_matches": 2
         },
         {
             "player": "Namse",
-            "score": -1.4210526315789473,
-            "n_matches": 19
+            "score": -3.0,
+            "n_matches": 2
         },
         {
-            "player": "BlackHole",
-            "score": -1.3636363636363635,
-            "n_matches": 11
+            "player": "lollonator",
+            "score": 0.0,
+            "n_matches": 2
+        },
+        {
+            "player": "The green one",
+            "score": 0.0,
+            "n_matches": 2
         },
         {
             "player": "P0LTERGEIST",
-            "score": -1.2857142857142858,
-            "n_matches": 14
+            "score": 0.0,
+            "n_matches": 2
         }
     ],
-    "elo": 1553.8993884817774,
-    "score_average": 45.011501656238494,
-    "score_total": 855.2185314685314,
+    "elo": 1648.3671460074358,
+    "score_average": 59.02777777777778,
+    "score_total": 118.05555555555556,
     "score_list": [
-        {
-            "round": 5,
-            "score": 85.0
-        },
-        {
-            "round": 6,
-            "score": 64.58333333333334
-        },
-        {
-            "round": 7,
-            "score": 44.44444444444444
-        },
-        {
-            "round": 10,
-            "score": 50.0
-        },
         {
             "round": 11,
             "score": 87.5
         },
         {
-            "round": 12,
-            "score": 26.923076923076923
-        },
-        {
-            "round": 14,
-            "score": 33.33333333333333
-        },
-        {
-            "round": 15,
-            "score": 26.923076923076923
-        },
-        {
             "round": 16,
             "score": 30.555555555555554
-        },
-        {
-            "round": 17,
-            "score": 13.333333333333334
-        },
-        {
-            "round": 18,
-            "score": 33.33333333333333
-        },
-        {
-            "round": 19,
-            "score": 39.743589743589745
-        },
-        {
-            "round": 20,
-            "score": 27.083333333333332
-        },
-        {
-            "round": 21,
-            "score": 40.0
-        },
-        {
-            "round": 22,
-            "score": 87.87878787878788
-        },
-        {
-            "round": 23,
-            "score": 47.91666666666667
-        },
-        {
-            "round": 24,
-            "score": 33.33333333333333
-        },
-        {
-            "round": 25,
-            "score": 69.69696969696969
-        },
-        {
-            "round": 29,
-            "score": 13.636363636363638
         }
     ]
 }
