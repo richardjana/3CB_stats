@@ -4,6 +4,8 @@ const CardHover = ({ cardName }) => {
   const [cardImage, setCardImage] = useState(null);
   const [isHovered, setIsHovered] = useState(false);
 
+  cardName = cardName.replace(/&/g, ''); // protect the API URL
+
   const getCardImageFromLocalStorage = (cardName) => {
     const storedImage = localStorage.getItem(`cardImage_${cardName}`);
     return storedImage ? storedImage : null;
