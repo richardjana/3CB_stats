@@ -55,6 +55,19 @@ def check_results(res):
 
     return np.all(is_valid)
 
+def check_card_name(cardName):
+    # check if the given card name exists, otherwise flag a problem
+    # try to get a response from scryfall API
+    response = requests.get(f"https://api.scryfall.com/cards/named?exact={cardName}")
+    response_dict = json.loads(response.text)
+
+    if response_dict['object'] == 'card': # found something
+        # some card names with typos still find the card, so return the correct card name
+        # e.g. "Lions Eye Diamond" does find "Lion's Eye Diamond"
+        return response_dict['name']
+    elif response_dict['object'] == 'error': # not a valid card name
+        return False
+
 def find_data_in_round(url, round_number):
     # round 18: emblem included as card, instead of the actual first card
     # round 28: "super lotus" makes it so many decks only have 2 real cards
@@ -112,8 +125,18 @@ def find_data_in_round(url, round_number):
                 results += [[s for s in line.split('|')[1:-1] if s != '']] # placement of '|' not always the same
 
         data_dict = {'player': player_names}
-        decks = np.array(decks)
-        for i in range(3):
+        decks = np.array(decks).astype('U256') # to accomodate arbitrary length strings
+
+        # check / fix all card names
+        for i in range(decks.shape[0]):
+            for j in range(decks.shape[1]):
+                card_name = check_card_name(decks[i, j])
+                if card_name:
+                    print(card_name)
+                    decks[i, j] = card_name
+                else:
+                    print(f"Problem with card {decks[i, j]}")
+
             data_dict[f"card_{i+1}"] = decks[:, i]
         results = np.array(results)
         if not check_results(results):
