@@ -57,7 +57,7 @@ const PlayerStats = () => {
                   <tbody>
                     {mpCards.map((c, index) => (<tr key={index}>
                                                   <td><CardHover cardName={c.card} /></td>
-                                                  <td>{c.count}</td>
+                                                  <td>{c.count} ({formatFloat(c['%'])}%)</td>
                                                 </tr>))}
                   </tbody>
               </table>
