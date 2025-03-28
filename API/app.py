@@ -78,5 +78,17 @@ def player_stats(player):
     except:
         return make_response('Player not found.', 404)
 
+@app.route('/popular_cards')
+@cross_origin(origin=origin, headers=headers)
+def popular_cards():
+    if not check_API_key(request.headers):
+        return jsonify({"error": "Unauthorized access"}), 401
+
+    try:
+        with open('data/popular_cards.json', 'r') as file:
+            return json.load(file)
+    except:
+        return make_response('An error occurred.', 404)
+
 if __name__ == '__main__':
     app.run()

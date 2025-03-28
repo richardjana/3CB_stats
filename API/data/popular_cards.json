@@ -1,0 +1,252 @@
+[
+    {
+        "card": "Black Lotus",
+        "count": 365,
+        "%": 9.16855061542326
+    },
+    {
+        "card": "Wasteland",
+        "count": 86,
+        "%": 2.160261240894248
+    },
+    {
+        "card": "Force of Will",
+        "count": 77,
+        "%": 1.9341873901029891
+    },
+    {
+        "card": "City of Traitors",
+        "count": 76,
+        "%": 1.9090680733484051
+    },
+    {
+        "card": "Mishra's Workshop",
+        "count": 74,
+        "%": 1.8588294398392362
+    },
+    {
+        "card": "Leyline of Anticipation",
+        "count": 70,
+        "%": 1.7583521728208995
+    },
+    {
+        "card": "The Tabernacle at Pendrell Vale",
+        "count": 65,
+        "%": 1.6327555890479777
+    },
+    {
+        "card": "Karakas",
+        "count": 60,
+        "%": 1.5071590052750565
+    },
+    {
+        "card": "Mishra's Factory",
+        "count": 58,
+        "%": 1.456920371765888
+    },
+    {
+        "card": "Snapback",
+        "count": 40,
+        "%": 1.004772670183371
+    },
+    {
+        "card": "Crashing Footfalls",
+        "count": 39,
+        "%": 0.9796533534287867
+    },
+    {
+        "card": "Dark Depths",
+        "count": 36,
+        "%": 0.9042954031650339
+    },
+    {
+        "card": "Dryad Arbor",
+        "count": 35,
+        "%": 0.8791760864104498
+    },
+    {
+        "card": "Chancellor of the Forge",
+        "count": 34,
+        "%": 0.8540567696558653
+    },
+    {
+        "card": "Forest",
+        "count": 33,
+        "%": 0.8289374529012812
+    },
+    {
+        "card": "Anointed Peacekeeper",
+        "count": 31,
+        "%": 0.7786988193921126
+    },
+    {
+        "card": "Ensnaring Bridge",
+        "count": 31,
+        "%": 0.7786988193921126
+    },
+    {
+        "card": "Inkmoth Nexus",
+        "count": 31,
+        "%": 0.7786988193921126
+    },
+    {
+        "card": "Lupine Prototype",
+        "count": 30,
+        "%": 0.7535795026375283
+    },
+    {
+        "card": "Cavern of Souls",
+        "count": 29,
+        "%": 0.728460185882944
+    },
+    {
+        "card": "Memnite",
+        "count": 26,
+        "%": 0.6531022356191912
+    },
+    {
+        "card": "Lion's Eye Diamond",
+        "count": 25,
+        "%": 0.6279829188646069
+    },
+    {
+        "card": "Meddling Mage",
+        "count": 25,
+        "%": 0.6279829188646069
+    },
+    {
+        "card": "Emrakul, the Aeons Torn",
+        "count": 23,
+        "%": 0.5777442853554383
+    },
+    {
+        "card": "Maze of Ith",
+        "count": 23,
+        "%": 0.5777442853554383
+    },
+    {
+        "card": "Swamp",
+        "count": 22,
+        "%": 0.5526249686008541
+    },
+    {
+        "card": "Plains",
+        "count": 20,
+        "%": 0.5023863350916855
+    },
+    {
+        "card": "Urborg, Tomb of Yawgmoth",
+        "count": 20,
+        "%": 0.5023863350916855
+    },
+    {
+        "card": "Vampire Hexmage",
+        "count": 20,
+        "%": 0.5023863350916855
+    },
+    {
+        "card": "Chancellor of the Annex",
+        "count": 19,
+        "%": 0.4772670183371013
+    },
+    {
+        "card": "Lurrus of the Dream-Den",
+        "count": 19,
+        "%": 0.4772670183371013
+    },
+    {
+        "card": "Old-Growth Dryads",
+        "count": 19,
+        "%": 0.4772670183371013
+    },
+    {
+        "card": "Scalding Tongs",
+        "count": 19,
+        "%": 0.4772670183371013
+    },
+    {
+        "card": "Bitterblossom",
+        "count": 18,
+        "%": 0.45214770158251694
+    },
+    {
+        "card": "Island",
+        "count": 18,
+        "%": 0.45214770158251694
+    },
+    {
+        "card": "Thalia, Guardian of Thraben",
+        "count": 18,
+        "%": 0.45214770158251694
+    },
+    {
+        "card": "Mountain",
+        "count": 17,
+        "%": 0.42702838482793265
+    },
+    {
+        "card": "Pact of Negation",
+        "count": 17,
+        "%": 0.42702838482793265
+    },
+    {
+        "card": "Shelldock Isle",
+        "count": 17,
+        "%": 0.42702838482793265
+    },
+    {
+        "card": "Chancellor of the Dross",
+        "count": 15,
+        "%": 0.37678975131876413
+    },
+    {
+        "card": "Peat Bog",
+        "count": 15,
+        "%": 0.37678975131876413
+    },
+    {
+        "card": "Isamaru, Hound of Konda",
+        "count": 14,
+        "%": 0.35167043456417985
+    },
+    {
+        "card": "Isochron Scepter",
+        "count": 14,
+        "%": 0.35167043456417985
+    },
+    {
+        "card": "Elite Spellbinder",
+        "count": 13,
+        "%": 0.3265511178095956
+    },
+    {
+        "card": "Liliana of the Veil",
+        "count": 13,
+        "%": 0.3265511178095956
+    },
+    {
+        "card": "Phyrexian Revoker",
+        "count": 13,
+        "%": 0.3265511178095956
+    },
+    {
+        "card": "Pithing Needle",
+        "count": 13,
+        "%": 0.3265511178095956
+    },
+    {
+        "card": "Tidehollow Sculler",
+        "count": 13,
+        "%": 0.3265511178095956
+    },
+    {
+        "card": "Ulamog, the Infinite Gyre",
+        "count": 13,
+        "%": 0.3265511178095956
+    },
+    {
+        "card": "Curse of Silence",
+        "count": 12,
+        "%": 0.30143180105501133
+    }
+]

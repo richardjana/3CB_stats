@@ -69,6 +69,7 @@ const Header = () => {
             </li>
 
             <li className='nav-item'><Link to='/bannedlist' className='link'>Bannedlist</Link></li>
+            <li className='nav-item'><Link to='/popularcards' className='link'>Oft gespielte Karten</Link></li>
             <li className='nav-item'><Link to='/apidocumentation' className='link'>API</Link></li>
 
           </ul>

@@ -10,6 +10,7 @@ import Header from './Header';
 import { InfoHoverProvider } from './InfoHoverContext';
 import LandingPage from './LandingPage';
 import PlayerStats from './PlayerStats';
+import PopularCards from './PopularCards';
 import RoundDetails from './RoundDetails';
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path='/halloffame' element={<HallOfFame />} />
           <Route path='/player/:name' element={<PlayerStats />} />
           <Route path='/round/:number' element={<RoundDetails />} />
+          <Route path='/popularcards' element={<PopularCards />} />
           <Route path='/apidocumentation' element={<ApiDocumentation />} />
         </Routes>
         <Footer />

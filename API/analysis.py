@@ -196,6 +196,9 @@ if __name__ == '__main__':
     rounds_played_won = count_rounds(data)
     mp_cards = most_played_cards(data)
 
+    with open('data/popular_cards.json', 'w', encoding='utf-8') as file:
+        json.dump(mp_cards['overall'][:50], file, ensure_ascii=False, indent=4)
+
     ### prepare list of all players and round numbers ###
     all_players_sorted = all_players.tolist()
     all_players_sorted.sort(key = lambda p: re.sub(r'[^a-zA-Z0-9]', '', p).lower())
