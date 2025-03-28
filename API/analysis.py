@@ -19,7 +19,11 @@ from typing import Dict, List, Tuple, Union
 
 # calculate derivatives per round (sum of points, % of max points, place)
 def add_derivates_to_round(df: pd.DataFrame) -> None:
-    # to aplly this to the whole of all data, use groupby 'round'?
+    """ Add derivative columns to history DataFrame.
+    Args:
+        df (pandas DataFrame): Full round history.
+    """
+    # to apply this to the whole of all data, use groupby 'round'?
     df['sum'] = df.loc[:,df.columns.str.startswith('result_')].sum(axis=1)
     df['%'] = df['sum'] / (sum(df.columns.str.startswith('result_'))-1) / 6 * 100
 
@@ -27,8 +31,20 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     # not accounting for the tie breaker. rule since when? round 30?
 
 # calculate global derivates (most played card per player)
-def most_played_cards(df: pd.DataFrame, n_cards: int =5) -> Dict[str, List[Dict[str, int]]]:
-    mp_cards = {}
+def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, int]]]:
+    """ Find the most-played cards for all players and overall from a pandas
+        DataFrame.
+    Args:
+        df (pandas DataFrame): History of rounds played, with 'player' and
+            'card_*' columns.
+    Return:
+        Dictionary with a list of popular cards for each player and overall.
+    """
+
+    unique_cards = df.loc[:, df.columns.str.startswith('card_')].stack().dropna().value_counts()
+    mp_cards = {'overall': [{'card': c, 'count': int(n)} for c, n in zip(unique_cards.index, unique_cards.values)]}
+    mp_cards['overall'].sort(key = lambda cc: (-cc['count'], cc['card']))
+
     for player, player_data in df.groupby('player'):
         all_cards = player_data.loc[:, player_data.columns.str.startswith('card_')]
 
@@ -40,6 +56,9 @@ def most_played_cards(df: pd.DataFrame, n_cards: int =5) -> Dict[str, List[Dict[
     return mp_cards
 
 def load_data() -> pd.DataFrame:
+    """ Load full raw dataset from the individual csv files to a single pandas
+        DataFrame.
+    """
     data_cumu = pd.DataFrame()
     for file in glob.glob('data/raw/round_*.csv'):
         data = pd.read_csv(file, sep=';')
@@ -50,6 +69,16 @@ def load_data() -> pd.DataFrame:
 
 # find the strongest opponents for a player (top n)
 def find_nemesis(df: pd.DataFrame, player: str, n: int =5) -> List[Dict[str, Union[str, float, int]]]:
+    """
+    Args:
+        df (pandas DataFrame): Full match history; 'round', 'player' and
+            'result_*' columns.
+        player (string): Name of the player.
+        n (int): Number of opponents to be returned.
+    Return:
+        Sorted list of opponents, each as a dictionary with name of the opponent,
+        aggregate score and number of matches played.
+    """
     data_dict: Dict[str, NDArray[np.int_]] = {}
     for round_data in df.groupby('round', group_keys=False):
         player_names = round_data[1]['player'].to_list()
@@ -77,7 +106,14 @@ def find_nemesis(df: pd.DataFrame, player: str, n: int =5) -> List[Dict[str, Uni
     return data[:n]
 
 def get_scores(df: pd.DataFrame) -> Dict[str, Dict[str, Union[float, List[Dict[int, float]]]]]:
-    # for each player: average, total and list of scores
+    """ From pandas DataFrame with the complete history, compute scores for
+        every player in terms of % of the possible points in every round.
+    Args:
+        Pandas DataFrame with 'player', 'round' and '%' columns.
+    Return:
+        Dictionary of player names, for each a dictionary with the average,
+        total and list of scores.
+    """
 
     # aggregated score => a more pandas way to do this?
     #datagroup = data.groupby('player')['%'].agg(['mean', 'sum'])
@@ -92,10 +128,23 @@ def get_scores(df: pd.DataFrame) -> Dict[str, Dict[str, Union[float, List[Dict[i
     return scores
 
 def compute_Elo_scores(df: pd.DataFrame) -> List[Dict[str, float]]:
-    # returns a list of the Elo scores for all players after each round
-    # but that is kind of inconvenient for plotting ...
+    """ Compute Elo ratings for all players, based on history from a pandas
+        DataFrame.
+    Args:
+        Pandas DataFrame with 'player', 'round' and 'result_*' columns.
+    Return:
+        List of dictionaries with Elo scores for every player for all rounds
+        (chronological) .
+    """
 
-    def expected_score(rating_opponent, rating_player):
+    def expected_score(rating_opponent: float, rating_player: float) -> float:
+        """ Expected score, given the ratings of the opponents, to be compared
+            with the actual result of the match.
+        Args:
+            Elo ratings of the two opponents of a match. (both float)
+        Return:
+            Expected result of the match. (float)
+        """
         return 1 / (1 + 10**((rating_opponent-rating_player)/512))
 
     start_Elo = 1600
@@ -124,6 +173,13 @@ def compute_Elo_scores(df: pd.DataFrame) -> List[Dict[str, float]]:
     return Elo
 
 def count_rounds(df: pd.DataFrame) -> Dict[str, Dict[str, int]]:
+    """ From a history DataFrame, extract the numbers of rounds each player has played / won.
+    Args:
+        df (pandas DataFrame): 'player' and 'place' columns.
+    Return:
+        Dictionary, for each player a dictionary with number of rounds played
+        and number of rounds won.
+    """
     rounds_played_won = {}
     for player, player_data in data[['player', 'place']].groupby('player'):
         rounds_played_won[player] = {'played': len(player_data),
@@ -168,7 +224,7 @@ if __name__ == '__main__':
 
     ### prepare player data ###
     for player in all_players:
-        player_data = {'cards': mp_cards[player],
+        player_data = {'cards': mp_cards[player][:5],
                        'n_rounds_played': rounds_played_won[player]['played'],
                        'n_wins': rounds_played_won[player]['won'],
                        'nemesis': find_nemesis(data, player, 5),
