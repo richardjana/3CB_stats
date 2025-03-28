@@ -31,7 +31,7 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     # not accounting for the tie breaker. rule since when? round 30?
 
 # calculate global derivates (most played card per player)
-def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, int]]]:
+def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, float]]]]:
     """ Find the most-played cards for all players and overall from a pandas
         DataFrame.
     Args:
@@ -42,7 +42,7 @@ def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, int]]]:
     """
 
     unique_cards = df.loc[:, df.columns.str.startswith('card_')].stack().dropna().value_counts()
-    mp_cards = {'overall': [{'card': c, 'count': int(n)} for c, n in zip(unique_cards.index, unique_cards.values)]}
+    mp_cards = {'overall': [{'card': c, 'count': int(n), '%': n/sum(unique_cards.values)*100} for c, n in zip(unique_cards.index, unique_cards.values)]}
     mp_cards['overall'].sort(key = lambda cc: (-cc['count'], cc['card']))
 
     for player, player_data in df.groupby('player'):
@@ -50,7 +50,7 @@ def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, int]]]:
 
         unique_cards = all_cards.stack().dropna().value_counts()
 
-        mp_cards[player] = [{'card': c, 'count': int(n)} for c, n in zip(unique_cards.index, unique_cards.values)]
+        mp_cards[player] = [{'card': c, 'count': int(n), '%': n/sum(unique_cards.values)*100} for c, n in zip(unique_cards.index, unique_cards.values)]
         mp_cards[player].sort(key = lambda cc: (-cc['count'], cc['card']))
 
     return mp_cards

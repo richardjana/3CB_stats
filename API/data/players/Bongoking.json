@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 10
+            "count": 10,
+            "%": 8.547008547008547
         },
         {
             "card": "Maze of Ith",
-            "count": 8
+            "count": 8,
+            "%": 6.837606837606838
         },
         {
             "card": "City of Traitors",
-            "count": 3
+            "count": 3,
+            "%": 2.564102564102564
         },
         {
             "card": "Karakas",
-            "count": 3
+            "count": 3,
+            "%": 2.564102564102564
         },
         {
             "card": "Meddling Mage",
-            "count": 3
+            "count": 3,
+            "%": 2.564102564102564
         }
     ],
     "n_rounds_played": 39,

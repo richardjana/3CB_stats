@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Anointed Peacekeeper",
-            "count": 1
+            "count": 1,
+            "%": 5.555555555555555
         },
         {
             "card": "Archon of Valor's Reach",
-            "count": 1
+            "count": 1,
+            "%": 5.555555555555555
         },
         {
             "card": "Black Lotus",
-            "count": 1
+            "count": 1,
+            "%": 5.555555555555555
         },
         {
             "card": "Callidus Assassin",
-            "count": 1
+            "count": 1,
+            "%": 5.555555555555555
         },
         {
             "card": "City of Traitors",
-            "count": 1
+            "count": 1,
+            "%": 5.555555555555555
         }
     ],
     "n_rounds_played": 6,

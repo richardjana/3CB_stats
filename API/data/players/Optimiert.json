@@ -2,15 +2,18 @@
     "cards": [
         {
             "card": "Brazen Borrower // Petty Theft",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Force of Will",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Memnite",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         }
     ],
     "n_rounds_played": 1,

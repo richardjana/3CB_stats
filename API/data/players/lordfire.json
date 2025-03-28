@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 16
+            "count": 16,
+            "%": 14.035087719298245
         },
         {
             "card": "Anointed Peacekeeper",
-            "count": 6
+            "count": 6,
+            "%": 5.263157894736842
         },
         {
             "card": "Lupine Prototype",
-            "count": 5
+            "count": 5,
+            "%": 4.385964912280701
         },
         {
             "card": "City of Traitors",
-            "count": 4
+            "count": 4,
+            "%": 3.508771929824561
         },
         {
             "card": "Mishra's Workshop",
-            "count": 3
+            "count": 3,
+            "%": 2.631578947368421
         }
     ],
     "n_rounds_played": 38,

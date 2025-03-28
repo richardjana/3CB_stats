@@ -2,15 +2,18 @@
     "cards": [
         {
             "card": "Mishra's Factory",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Wasteland",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         }
     ],
     "n_rounds_played": 1,

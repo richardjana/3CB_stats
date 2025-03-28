@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Mishra's Factory",
-            "count": 2
+            "count": 2,
+            "%": 33.33333333333333
         },
         {
             "card": "Basking Rootwalla",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Black Lotus",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Liliana of the Veil",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Wasteland",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         }
     ],
     "n_rounds_played": 2,

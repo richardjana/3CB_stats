@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 19
+            "count": 19,
+            "%": 15.833333333333332
         },
         {
             "card": "Force of Will",
-            "count": 4
+            "count": 4,
+            "%": 3.3333333333333335
         },
         {
             "card": "Wasteland",
-            "count": 4
+            "count": 4,
+            "%": 3.3333333333333335
         },
         {
             "card": "Forest",
-            "count": 3
+            "count": 3,
+            "%": 2.5
         },
         {
             "card": "Leyline of Anticipation",
-            "count": 3
+            "count": 3,
+            "%": 2.5
         }
     ],
     "n_rounds_played": 40,

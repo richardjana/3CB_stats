@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 34
+            "count": 34,
+            "%": 9.340659340659341
         },
         {
             "card": "City of Traitors",
-            "count": 10
+            "count": 10,
+            "%": 2.7472527472527473
         },
         {
             "card": "Crashing Footfalls",
-            "count": 9
+            "count": 9,
+            "%": 2.4725274725274726
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
-            "count": 9
+            "count": 9,
+            "%": 2.4725274725274726
         },
         {
             "card": "Wasteland",
-            "count": 9
+            "count": 9,
+            "%": 2.4725274725274726
         }
     ],
     "n_rounds_played": 121,

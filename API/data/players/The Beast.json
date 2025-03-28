@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 19
+            "count": 19,
+            "%": 5.740181268882175
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
-            "count": 12
+            "count": 12,
+            "%": 3.625377643504532
         },
         {
             "card": "Mishra's Factory",
-            "count": 10
+            "count": 10,
+            "%": 3.0211480362537766
         },
         {
             "card": "Mishra's Workshop",
-            "count": 9
+            "count": 9,
+            "%": 2.719033232628399
         },
         {
             "card": "City of Traitors",
-            "count": 7
+            "count": 7,
+            "%": 2.1148036253776437
         }
     ],
     "n_rounds_played": 110,

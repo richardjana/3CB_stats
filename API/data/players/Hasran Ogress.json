@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "City of Traitors",
-            "count": 4
+            "count": 4,
+            "%": 8.88888888888889
         },
         {
             "card": "Black Lotus",
-            "count": 3
+            "count": 3,
+            "%": 6.666666666666667
         },
         {
             "card": "Cavern of Souls",
-            "count": 3
+            "count": 3,
+            "%": 6.666666666666667
         },
         {
             "card": "Aether Vial",
-            "count": 2
+            "count": 2,
+            "%": 4.444444444444445
         },
         {
             "card": "Dark Depths",
-            "count": 2
+            "count": 2,
+            "%": 4.444444444444445
         }
     ],
     "n_rounds_played": 15,

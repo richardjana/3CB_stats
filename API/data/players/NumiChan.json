@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 9
+            "count": 9,
+            "%": 9.574468085106384
         },
         {
             "card": "Force of Will",
-            "count": 8
+            "count": 8,
+            "%": 8.51063829787234
         },
         {
             "card": "Dryad Arbor",
-            "count": 7
+            "count": 7,
+            "%": 7.446808510638298
         },
         {
             "card": "Leyline of Anticipation",
-            "count": 7
+            "count": 7,
+            "%": 7.446808510638298
         },
         {
             "card": "Lurrus of the Dream-Den",
-            "count": 3
+            "count": 3,
+            "%": 3.1914893617021276
         }
     ],
     "n_rounds_played": 31,

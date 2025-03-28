@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 10
+            "count": 10,
+            "%": 5.617977528089887
         },
         {
             "card": "Thalia, Guardian of Thraben",
-            "count": 5
+            "count": 5,
+            "%": 2.8089887640449436
         },
         {
             "card": "Glistener Elf",
-            "count": 4
+            "count": 4,
+            "%": 2.247191011235955
         },
         {
             "card": "Memnite",
-            "count": 4
+            "count": 4,
+            "%": 2.247191011235955
         },
         {
             "card": "Mishra's Workshop",
-            "count": 4
+            "count": 4,
+            "%": 2.247191011235955
         }
     ],
     "n_rounds_played": 59,

@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 38
+            "count": 38,
+            "%": 12.140575079872203
         },
         {
             "card": "Iona, Shield of Emeria",
-            "count": 9
+            "count": 9,
+            "%": 2.8753993610223643
         },
         {
             "card": "Lion's Eye Diamond",
-            "count": 7
+            "count": 7,
+            "%": 2.2364217252396164
         },
         {
             "card": "Wasteland",
-            "count": 6
+            "count": 6,
+            "%": 1.9169329073482428
         },
         {
             "card": "Unburial Rites",
-            "count": 5
+            "count": 5,
+            "%": 1.5974440894568689
         }
     ],
     "n_rounds_played": 104,

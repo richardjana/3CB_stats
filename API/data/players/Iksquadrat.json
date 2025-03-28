@@ -2,15 +2,18 @@
     "cards": [
         {
             "card": "Emrakul, the Aeons Torn",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Lion's Eye Diamond",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Shelldock Isle",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         }
     ],
     "n_rounds_played": 1,

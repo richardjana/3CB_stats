@@ -2,15 +2,18 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Cryptolith Fragment // Aurora of Emrakul",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         },
         {
             "card": "Soulmender",
-            "count": 1
+            "count": 1,
+            "%": 33.33333333333333
         }
     ],
     "n_rounds_played": 1,

@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Karakas",
-            "count": 15
+            "count": 15,
+            "%": 4.491017964071856
         },
         {
             "card": "Wasteland",
-            "count": 14
+            "count": 14,
+            "%": 4.191616766467066
         },
         {
             "card": "Black Lotus",
-            "count": 12
+            "count": 12,
+            "%": 3.592814371257485
         },
         {
             "card": "Force of Will",
-            "count": 11
+            "count": 11,
+            "%": 3.293413173652695
         },
         {
             "card": "Isamaru, Hound of Konda",
-            "count": 11
+            "count": 11,
+            "%": 3.293413173652695
         }
     ],
     "n_rounds_played": 111,

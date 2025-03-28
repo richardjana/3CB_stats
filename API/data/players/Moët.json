@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 2
+            "count": 2,
+            "%": 16.666666666666664
         },
         {
             "card": "Mishra's Workshop",
-            "count": 2
+            "count": 2,
+            "%": 16.666666666666664
         },
         {
             "card": "Yotian Soldier",
-            "count": 2
+            "count": 2,
+            "%": 16.666666666666664
         },
         {
             "card": "Anointed Peacekeeper",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "Cruel Reality",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         }
     ],
     "n_rounds_played": 4,

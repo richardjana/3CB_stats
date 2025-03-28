@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 1
+            "count": 1,
+            "%": 11.11111111111111
         },
         {
             "card": "Grove of the Burnwillows",
-            "count": 1
+            "count": 1,
+            "%": 11.11111111111111
         },
         {
             "card": "Hunted Horror",
-            "count": 1
+            "count": 1,
+            "%": 11.11111111111111
         },
         {
             "card": "Kavu Predator",
-            "count": 1
+            "count": 1,
+            "%": 11.11111111111111
         },
         {
             "card": "Lurrus of the Dream-Den",
-            "count": 1
+            "count": 1,
+            "%": 11.11111111111111
         }
     ],
     "n_rounds_played": 3,

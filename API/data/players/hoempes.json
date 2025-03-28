@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 8
+            "count": 8,
+            "%": 7.547169811320755
         },
         {
             "card": "Force of Will",
-            "count": 4
+            "count": 4,
+            "%": 3.7735849056603774
         },
         {
             "card": "Lurrus of the Dream-Den",
-            "count": 4
+            "count": 4,
+            "%": 3.7735849056603774
         },
         {
             "card": "Emrakul, the Aeons Torn",
-            "count": 3
+            "count": 3,
+            "%": 2.8301886792452833
         },
         {
             "card": "Mishra's Workshop",
-            "count": 3
+            "count": 3,
+            "%": 2.8301886792452833
         }
     ],
     "n_rounds_played": 35,

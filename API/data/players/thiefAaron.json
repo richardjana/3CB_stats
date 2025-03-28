@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 5
+            "count": 5,
+            "%": 6.172839506172839
         },
         {
             "card": "Crashing Footfalls",
-            "count": 4
+            "count": 4,
+            "%": 4.938271604938271
         },
         {
             "card": "Dark Depths",
-            "count": 3
+            "count": 3,
+            "%": 3.7037037037037033
         },
         {
             "card": "Force of Will",
-            "count": 3
+            "count": 3,
+            "%": 3.7037037037037033
         },
         {
             "card": "Karakas",
-            "count": 3
+            "count": 3,
+            "%": 3.7037037037037033
         }
     ],
     "n_rounds_played": 27,

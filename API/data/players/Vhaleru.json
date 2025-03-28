@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Mishra's Factory",
-            "count": 6
+            "count": 6,
+            "%": 50.0
         },
         {
             "card": "Black Lotus",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "Mana Leak",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "Mirari's Wake",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "Preacher",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         }
     ],
     "n_rounds_played": 4,

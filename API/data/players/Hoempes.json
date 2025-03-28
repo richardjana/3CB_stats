@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Dark Depths",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Lion's Eye Diamond",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Shelldock Isle",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Ulamog, the Infinite Gyre",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Urborg, Tomb of Yawgmoth",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         }
     ],
     "n_rounds_played": 2,

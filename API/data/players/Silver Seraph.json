@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 17
+            "count": 17,
+            "%": 15.74074074074074
         },
         {
             "card": "Force of Will",
-            "count": 3
+            "count": 3,
+            "%": 2.7777777777777777
         },
         {
             "card": "Leyline of Anticipation",
-            "count": 3
+            "count": 3,
+            "%": 2.7777777777777777
         },
         {
             "card": "Crashing Footfalls",
-            "count": 2
+            "count": 2,
+            "%": 1.8518518518518516
         },
         {
             "card": "Dread Fugue",
-            "count": 2
+            "count": 2,
+            "%": 1.8518518518518516
         }
     ],
     "n_rounds_played": 36,

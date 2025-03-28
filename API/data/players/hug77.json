@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 35
+            "count": 35,
+            "%": 9.943181818181818
         },
         {
             "card": "Leyline of Anticipation",
-            "count": 11
+            "count": 11,
+            "%": 3.125
         },
         {
             "card": "Lion's Eye Diamond",
-            "count": 10
+            "count": 10,
+            "%": 2.840909090909091
         },
         {
             "card": "Shelldock Isle",
-            "count": 10
+            "count": 10,
+            "%": 2.840909090909091
         },
         {
             "card": "Wasteland",
-            "count": 10
+            "count": 10,
+            "%": 2.840909090909091
         }
     ],
     "n_rounds_played": 117,

@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Crashing Footfalls",
-            "count": 2
+            "count": 2,
+            "%": 16.666666666666664
         },
         {
             "card": "Wasteland",
-            "count": 2
+            "count": 2,
+            "%": 16.666666666666664
         },
         {
             "card": "Black Lotus",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "City of Traitors",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "Liliana of the Veil",
-            "count": 1
+            "count": 1,
+            "%": 8.333333333333332
         }
     ],
     "n_rounds_played": 4,

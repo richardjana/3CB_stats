@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Basking Rootwalla",
-            "count": 1
+            "count": 1,
+            "%": 6.666666666666667
         },
         {
             "card": "Blazing Rootwalla",
-            "count": 1
+            "count": 1,
+            "%": 6.666666666666667
         },
         {
             "card": "Cruel Reality",
-            "count": 1
+            "count": 1,
+            "%": 6.666666666666667
         },
         {
             "card": "Ensoul Artifact",
-            "count": 1
+            "count": 1,
+            "%": 6.666666666666667
         },
         {
             "card": "Feed the Swarm",
-            "count": 1
+            "count": 1,
+            "%": 6.666666666666667
         }
     ],
     "n_rounds_played": 5,

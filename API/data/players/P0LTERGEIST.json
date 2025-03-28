@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 22
+            "count": 22,
+            "%": 7.9422382671480145
         },
         {
             "card": "Chancellor of the Forge",
-            "count": 7
+            "count": 7,
+            "%": 2.527075812274368
         },
         {
             "card": "Karakas",
-            "count": 7
+            "count": 7,
+            "%": 2.527075812274368
         },
         {
             "card": "Mishra's Factory",
-            "count": 7
+            "count": 7,
+            "%": 2.527075812274368
         },
         {
             "card": "City of Traitors",
-            "count": 5
+            "count": 5,
+            "%": 1.8050541516245486
         }
     ],
     "n_rounds_played": 92,

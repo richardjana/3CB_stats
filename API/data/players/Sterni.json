@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 5
+            "count": 5,
+            "%": 11.11111111111111
         },
         {
             "card": "Karakas",
-            "count": 3
+            "count": 3,
+            "%": 6.666666666666667
         },
         {
             "card": "Lupine Prototype",
-            "count": 3
+            "count": 3,
+            "%": 6.666666666666667
         },
         {
             "card": "Cruelclaw's Heist",
-            "count": 2
+            "count": 2,
+            "%": 4.444444444444445
         },
         {
             "card": "Aclazotz, Deepest Betrayal // Temple of the Dead",
-            "count": 1
+            "count": 1,
+            "%": 2.2222222222222223
         }
     ],
     "n_rounds_played": 15,

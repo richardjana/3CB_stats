@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 2
+            "count": 2,
+            "%": 33.33333333333333
         },
         {
             "card": "Archon of Coronation",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Assemble the Rank and Vile",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Dark Depths",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Vampire Hexmage",
-            "count": 1
+            "count": 1,
+            "%": 16.666666666666664
         }
     ],
     "n_rounds_played": 2,

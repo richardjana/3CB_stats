@@ -2,23 +2,28 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 10
+            "count": 10,
+            "%": 9.803921568627452
         },
         {
             "card": "Mishra's Workshop",
-            "count": 3
+            "count": 3,
+            "%": 2.941176470588235
         },
         {
             "card": "Bitterblossom",
-            "count": 2
+            "count": 2,
+            "%": 1.9607843137254901
         },
         {
             "card": "Cavern of Souls",
-            "count": 2
+            "count": 2,
+            "%": 1.9607843137254901
         },
         {
             "card": "Crashing Footfalls",
-            "count": 2
+            "count": 2,
+            "%": 1.9607843137254901
         }
     ],
     "n_rounds_played": 34,
