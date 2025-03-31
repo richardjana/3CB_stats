@@ -3,27 +3,27 @@
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 12.5
+            "%": 12.0
         },
         {
             "card": "Crashing Footfalls",
             "count": 2,
-            "%": 8.333333333333332
+            "%": 8.0
         },
         {
             "card": "Leyline of Anticipation",
             "count": 2,
-            "%": 8.333333333333332
+            "%": 8.0
         },
         {
             "card": "Archmage's Charm",
             "count": 1,
-            "%": 4.166666666666666
+            "%": 4.0
         },
         {
             "card": "Chromatic Orrery",
             "count": 1,
-            "%": 4.166666666666666
+            "%": 4.0
         }
     ],
     "n_rounds_played": 8,
@@ -55,7 +55,7 @@
             "n_matches": 8
         }
     ],
-    "elo": 1553.1859640951552,
+    "elo": 1553.9758696562676,
     "score_average": 36.16331585081585,
     "score_total": 289.3065268065268,
     "score_list": [

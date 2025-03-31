@@ -41,7 +41,7 @@
             "player": "lollonator",
             "cards": [
                 "Swamp",
-                "Okiba Reckoner Raid",
+                "Okiba Reckoner Raid // Nezumi Road Captain",
                 "Funeral Charm"
             ]
         },
@@ -49,7 +49,7 @@
             "index": 6,
             "player": "BlackHole",
             "cards": [
-                "Tribute to Horobi",
+                "Tribute to Horobi // Echo of Death's Wail",
                 "Distress",
                 "Peat Bog"
             ]
@@ -67,7 +67,7 @@
             "index": 8,
             "player": "The Beast",
             "cards": [
-                "The Long Reach of Night",
+                "The Long Reach of Night // Animus of Night's Reach",
                 "Black Lotus",
                 "Cathedral of War"
             ]
@@ -87,7 +87,7 @@
             "cards": [
                 "Black Lotus",
                 "Phyrexian Revoker",
-                "The Restoration of Eiganjo"
+                "The Restoration of Eiganjo // Architect of Restoration"
             ]
         },
         {
@@ -96,7 +96,7 @@
             "cards": [
                 "Black Lotus",
                 "Dryad Arbor",
-                "The Long Reach of Night"
+                "The Long Reach of Night // Animus of Night's Reach"
             ]
         }
     ],
@@ -277,7 +277,7 @@
                 6,
                 0,
                 6,
-                6,
+                0,
                 0,
                 0,
                 0,
@@ -285,7 +285,7 @@
                 0,
                 0,
                 0,
-                20
+                14
             ]
         }
     ],

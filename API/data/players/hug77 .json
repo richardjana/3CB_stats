@@ -1,0 +1,75 @@
+{
+    "cards": [
+        {
+            "card": " Black Lotus",
+            "count": 3,
+            "%": 30.0
+        },
+        {
+            "card": " Brudiclad, Telchor Engineer",
+            "count": 1,
+            "%": 10.0
+        },
+        {
+            "card": " Dread Fugue",
+            "count": 1,
+            "%": 10.0
+        },
+        {
+            "card": " Force of Will",
+            "count": 1,
+            "%": 10.0
+        },
+        {
+            "card": " Leyline of Anticipation",
+            "count": 1,
+            "%": 10.0
+        }
+    ],
+    "n_rounds_played": 3,
+    "n_wins": 1,
+    "nemesis": [
+        {
+            "player": "The Beast ",
+            "score": -4.0,
+            "n_matches": 3
+        },
+        {
+            "player": "Namse ",
+            "score": 0.0,
+            "n_matches": 3
+        },
+        {
+            "player": "BlackHole ",
+            "score": 0.0,
+            "n_matches": 3
+        },
+        {
+            "player": "lollonator ",
+            "score": 2.0,
+            "n_matches": 3
+        },
+        {
+            "player": "Master_of_Desaster ",
+            "score": 4.0,
+            "n_matches": 3
+        }
+    ],
+    "elo": 1659.076566230476,
+    "score_average": 75.77160493827161,
+    "score_total": 227.3148148148148,
+    "score_list": [
+        {
+            "round": 39,
+            "score": 66.66666666666666
+        },
+        {
+            "round": 48,
+            "score": 81.4814814814815
+        },
+        {
+            "round": 56,
+            "score": 79.16666666666666
+        }
+    ]
+}

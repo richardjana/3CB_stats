@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 16,
-            "%": 14.035087719298245
+            "%": 13.675213675213676
         },
         {
             "card": "Anointed Peacekeeper",
             "count": 6,
-            "%": 5.263157894736842
+            "%": 5.128205128205128
         },
         {
             "card": "Lupine Prototype",
             "count": 5,
-            "%": 4.385964912280701
+            "%": 4.273504273504273
         },
         {
             "card": "City of Traitors",
             "count": 4,
-            "%": 3.508771929824561
+            "%": 3.418803418803419
         },
         {
             "card": "Mishra's Workshop",
             "count": 3,
-            "%": 2.631578947368421
+            "%": 2.564102564102564
         }
     ],
-    "n_rounds_played": 38,
+    "n_rounds_played": 39,
     "n_wins": 6,
     "nemesis": [
         {
@@ -41,13 +41,13 @@
         },
         {
             "player": "Silver Seraph",
-            "score": -2.4705882352941178,
-            "n_matches": 17
+            "score": -2.3333333333333335,
+            "n_matches": 18
         },
         {
             "player": "P0LTERGEIST",
-            "score": -1.2972972972972974,
-            "n_matches": 37
+            "score": -1.263157894736842,
+            "n_matches": 38
         },
         {
             "player": "thiefAaron",
@@ -55,9 +55,9 @@
             "n_matches": 5
         }
     ],
-    "elo": 1600.9204562391003,
-    "score_average": 47.809847316426264,
-    "score_total": 1816.774198024198,
+    "elo": 1605.0400522765,
+    "score_average": 48.09867364354544,
+    "score_total": 1875.848272098272,
     "score_list": [
         {
             "round": 62,
@@ -73,7 +73,7 @@
         },
         {
             "round": 65,
-            "score": 36.66666666666667
+            "score": 40.74074074074075
         },
         {
             "round": 66,
@@ -194,6 +194,10 @@
         {
             "round": 106,
             "score": 41.66666666666667
+        },
+        {
+            "round": 107,
+            "score": 54.99999999999999
         },
         {
             "round": 108,

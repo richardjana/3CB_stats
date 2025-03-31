@@ -1,0 +1,75 @@
+{
+    "cards": [
+        {
+            "card": " Old-Growth Dryads ",
+            "count": 2,
+            "%": 22.22222222222222
+        },
+        {
+            "card": " Forest",
+            "count": 1,
+            "%": 11.11111111111111
+        },
+        {
+            "card": " Go-Shintai of Boundless Vigor",
+            "count": 1,
+            "%": 11.11111111111111
+        },
+        {
+            "card": " Iona, Shield of Emeria",
+            "count": 1,
+            "%": 11.11111111111111
+        },
+        {
+            "card": " Lion's Eye Diamond",
+            "count": 1,
+            "%": 11.11111111111111
+        }
+    ],
+    "n_rounds_played": 3,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "thiefAaron ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "IMP ",
+            "score": -4.0,
+            "n_matches": 3
+        },
+        {
+            "player": "Kratos Aurion ",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "P0LTERGEIST ",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Master_of_Desaster ",
+            "score": -2.0,
+            "n_matches": 3
+        }
+    ],
+    "elo": 1606.4060482915586,
+    "score_average": 48.91975308641975,
+    "score_total": 146.75925925925927,
+    "score_list": [
+        {
+            "round": 39,
+            "score": 44.44444444444444
+        },
+        {
+            "round": 48,
+            "score": 31.48148148148148
+        },
+        {
+            "round": 56,
+            "score": 70.83333333333334
+        }
+    ]
+}

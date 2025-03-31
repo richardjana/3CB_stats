@@ -3,37 +3,32 @@
         {
             "card": "Black Lotus",
             "count": 27,
-            "%": 8.385093167701864
+            "%": 8.256880733944955
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 11,
-            "%": 3.4161490683229814
+            "%": 3.3639143730886847
         },
         {
             "card": "City of Traitors",
             "count": 10,
-            "%": 3.1055900621118013
+            "%": 3.058103975535168
         },
         {
             "card": "Mishra's Factory",
             "count": 9,
-            "%": 2.7950310559006213
+            "%": 2.7522935779816518
         },
         {
             "card": "Wasteland",
             "count": 8,
-            "%": 2.484472049689441
+            "%": 2.4464831804281344
         }
     ],
-    "n_rounds_played": 107,
-    "n_wins": 13,
+    "n_rounds_played": 108,
+    "n_wins": 14,
     "nemesis": [
-        {
-            "player": "Hoempes",
-            "score": -6.0,
-            "n_matches": 2
-        },
         {
             "player": "Lethal",
             "score": -6.0,
@@ -53,11 +48,16 @@
             "player": "Schniggi",
             "score": -3.0,
             "n_matches": 6
+        },
+        {
+            "player": "Moët",
+            "score": -3.0,
+            "n_matches": 4
         }
     ],
-    "elo": 1671.4952822772248,
-    "score_average": 49.076847131753674,
-    "score_total": 5251.222643097643,
+    "elo": 1674.0382119538997,
+    "score_average": 49.22771308766679,
+    "score_total": 5316.593013468014,
     "score_list": [
         {
             "round": 10,
@@ -257,7 +257,7 @@
         },
         {
             "round": 65,
-            "score": 18.333333333333336
+            "score": 20.370370370370374
         },
         {
             "round": 66,
@@ -420,6 +420,10 @@
             "score": 48.333333333333336
         },
         {
+            "round": 107,
+            "score": 71.66666666666667
+        },
+        {
             "round": 108,
             "score": 31.666666666666664
         },
@@ -457,7 +461,7 @@
         },
         {
             "round": 118,
-            "score": 29.166666666666668
+            "score": 20.833333333333336
         },
         {
             "round": 119,

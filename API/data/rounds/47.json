@@ -4,51 +4,57 @@
             "index": 1,
             "player": "Namse",
             "cards": [
+                "Black Lotus",
                 "Soltari Visionary",
                 "Wasteland",
-                "Okiba Reckoner Raid"
+                "Okiba Reckoner Raid // Nezumi Road Captain"
             ]
         },
         {
             "index": 2,
             "player": "NumiChan",
             "cards": [
+                "Leyline of Anticipation",
                 "Black Lotus",
                 "Nevermore",
-                "Okiba Reckoner Raid"
+                "Okiba Reckoner Raid // Nezumi Road Captain"
             ]
         },
         {
             "index": 3,
             "player": "IMP",
             "cards": [
+                "Maze of Ith",
                 "Infernal Grasp",
                 "Urborg, Tomb of Yawgmoth",
-                "Okiba Reckoner Raid"
+                "Okiba Reckoner Raid // Nezumi Road Captain"
             ]
         },
         {
             "index": 4,
             "player": "Michael W",
             "cards": [
+                "Mishra's Workshop",
                 "Ensnaring Bridge",
                 "Power Conduit",
-                "Okiba Reckoner Raid"
+                "Okiba Reckoner Raid // Nezumi Road Captain"
             ]
         },
         {
             "index": 5,
             "player": "The Beast",
             "cards": [
+                "Daze",
                 "Underground Sea",
                 "Mishra's Factory",
-                "Tribute to Horobi"
+                "Tribute to Horobi // Echo of Death's Wail"
             ]
         },
         {
             "index": 6,
             "player": "hug77",
             "cards": [
+                "Brazen Borrower // Petty Theft",
                 "Saprazzan Cove",
                 "Maze of Ith",
                 "Kiora Bests the Sea God"
@@ -58,33 +64,37 @@
             "index": 7,
             "player": "BlackHole",
             "cards": [
+                "Rushwood Grove",
                 "Dryad Arbor",
                 "Force of Vigor",
-                "Tales of Master Seshiro"
+                "Tales of Master Seshiro // Seshiro's Living Legacy"
             ]
         },
         {
             "index": 8,
             "player": "The green one",
             "cards": [
+                "Black Lotus",
                 "Nyxathid",
                 "Shining Shoal",
-                "The Kami War"
+                "The Kami War // O-Kagachi Made Manifest"
             ]
         },
         {
             "index": 9,
             "player": "P0LTERGEIST",
             "cards": [
+                "Mishra's Workshop",
                 "Ensnaring Bridge",
                 "Scalding Tongs",
-                "Okiba Reckoner Raid"
+                "Okiba Reckoner Raid // Nezumi Road Captain"
             ]
         },
         {
             "index": 10,
             "player": "Master_of_Desaster",
             "cards": [
+                "Karakas",
                 "Black Lotus",
                 "Black Lotus",
                 "Kiora Bests the Sea God"
@@ -94,9 +104,10 @@
             "index": 11,
             "player": "lollonator",
             "cards": [
+                "Misdirection",
                 "Snapback",
                 "Memnite",
-                "Okiba Reckoner Raid"
+                "Okiba Reckoner Raid // Nezumi Road Captain"
             ]
         }
     ],
@@ -147,9 +158,9 @@
                 2,
                 2,
                 0,
+                0,
                 2,
-                2,
-                13
+                11
             ]
         },
         {

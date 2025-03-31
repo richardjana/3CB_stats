@@ -1,0 +1,71 @@
+{
+    "cards": [
+        {
+            "card": " Inkmoth Nexus",
+            "count": 2,
+            "%": 33.33333333333333
+        },
+        {
+            "card": " Dread Fugue",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Oko, Thief of Crowns",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Walking Ballista",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Wasteland",
+            "count": 1,
+            "%": 16.666666666666664
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 1,
+    "nemesis": [
+        {
+            "player": "hug77 ",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Namse ",
+            "score": 0.0,
+            "n_matches": 2
+        },
+        {
+            "player": "IMP ",
+            "score": 0.0,
+            "n_matches": 2
+        },
+        {
+            "player": "lollonator ",
+            "score": 3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Kratos Aurion ",
+            "score": 3.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1639.2885266114304,
+    "score_average": 71.2962962962963,
+    "score_total": 142.5925925925926,
+    "score_list": [
+        {
+            "round": 48,
+            "score": 59.25925925925925
+        },
+        {
+            "round": 56,
+            "score": 83.33333333333334
+        }
+    ]
+}

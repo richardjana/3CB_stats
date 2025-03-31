@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 19,
-            "%": 5.740181268882175
+            "%": 5.654761904761905
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 12,
-            "%": 3.625377643504532
+            "%": 3.571428571428571
         },
         {
             "card": "Mishra's Factory",
             "count": 10,
-            "%": 3.0211480362537766
+            "%": 2.976190476190476
         },
         {
             "card": "Mishra's Workshop",
             "count": 9,
-            "%": 2.719033232628399
+            "%": 2.6785714285714284
         },
         {
             "card": "City of Traitors",
             "count": 7,
-            "%": 2.1148036253776437
+            "%": 2.083333333333333
         }
     ],
-    "n_rounds_played": 110,
+    "n_rounds_played": 111,
     "n_wins": 12,
     "nemesis": [
         {
@@ -50,14 +50,14 @@
             "n_matches": 1
         },
         {
-            "player": "Hoempes",
-            "score": -4.5,
-            "n_matches": 2
+            "player": "Schniggi",
+            "score": -4.0,
+            "n_matches": 6
         }
     ],
-    "elo": 1598.6643724922167,
-    "score_average": 49.89256387551843,
-    "score_total": 5488.182026307027,
+    "elo": 1602.203388984078,
+    "score_average": 50.04034524867859,
+    "score_total": 5554.478322603323,
     "score_list": [
         {
             "round": 1,
@@ -273,7 +273,7 @@
         },
         {
             "round": 65,
-            "score": 26.666666666666668
+            "score": 29.629629629629626
         },
         {
             "round": 66,
@@ -430,6 +430,10 @@
         {
             "round": 106,
             "score": 41.66666666666667
+        },
+        {
+            "round": 107,
+            "score": 63.33333333333333
         },
         {
             "round": 108,

@@ -65,7 +65,7 @@
         },
         {
             "index": 8,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Urborg, Tomb of Yawgmoth",
                 "Vampire Hexmage",
@@ -323,8 +323,8 @@
                 6,
                 6,
                 0,
-                2,
-                33,
+                0,
+                31,
                 0
             ]
         },

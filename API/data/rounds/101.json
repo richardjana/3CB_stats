@@ -14,7 +14,7 @@
             "player": "Silver Seraph",
             "cards": [
                 "Black Lotus",
-                "The Modern Age",
+                "The Modern Age // Vector Glider",
                 "Chain of Vapor"
             ]
         },
@@ -51,7 +51,7 @@
             "cards": [
                 "Shelldock Isle",
                 "Lion's Eye Diamond",
-                "Emrakul, the AEons Torn"
+                "Emrakul, the Aeons Torn"
             ]
         },
         {
@@ -338,12 +338,12 @@
                 0,
                 0,
                 2,
+                0,
+                0,
                 6,
                 0,
-                6,
                 0,
-                0,
-                26,
+                20,
                 6
             ]
         },

@@ -30,11 +30,6 @@
     "n_wins": 2,
     "nemesis": [
         {
-            "player": "Hoempes",
-            "score": -3.0,
-            "n_matches": 2
-        },
-        {
             "player": "Vhaleru",
             "score": -1.5,
             "n_matches": 2
@@ -53,9 +48,14 @@
             "player": "Michael W",
             "score": 0.0,
             "n_matches": 9
+        },
+        {
+            "player": "NumiChan",
+            "score": 0.0,
+            "n_matches": 5
         }
     ],
-    "elo": 1656.3752637919056,
+    "elo": 1657.7838487267595,
     "score_average": 55.60260726927393,
     "score_total": 500.4234654234654,
     "score_list": [

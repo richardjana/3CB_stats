@@ -35,14 +35,9 @@
             "n_matches": 4
         },
         {
-            "player": "Hoempes",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "hoempes",
-            "score": -4.0,
-            "n_matches": 3
+            "score": -4.5,
+            "n_matches": 4
         },
         {
             "player": "The Beast",
@@ -53,15 +48,20 @@
             "player": "Namse",
             "score": -3.0,
             "n_matches": 4
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": -3.0,
+            "n_matches": 3
         }
     ],
-    "elo": 1558.6952878650884,
-    "score_average": 31.231060606060602,
-    "score_total": 124.92424242424241,
+    "elo": 1557.6591891705823,
+    "score_average": 30.53661616161616,
+    "score_total": 122.14646464646464,
     "score_list": [
         {
             "round": 16,
-            "score": 45.83333333333333
+            "score": 43.05555555555556
         },
         {
             "round": 17,

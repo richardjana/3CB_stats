@@ -30,11 +30,6 @@
     "n_wins": 0,
     "nemesis": [
         {
-            "player": "Hoempes",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "Master_of_Desaster",
             "score": -6.0,
             "n_matches": 1
@@ -50,12 +45,17 @@
             "n_matches": 2
         },
         {
+            "player": "hoempes",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
             "player": "hug77",
             "score": -3.0,
             "n_matches": 2
         }
     ],
-    "elo": 1613.0931552763366,
+    "elo": 1613.3654621025032,
     "score_average": 51.482371794871796,
     "score_total": 102.96474358974359,
     "score_list": [

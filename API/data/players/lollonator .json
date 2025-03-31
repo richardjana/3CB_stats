@@ -1,0 +1,75 @@
+{
+    "cards": [
+        {
+            "card": " Court Homunculus",
+            "count": 2,
+            "%": 20.0
+        },
+        {
+            "card": " Ancient Den",
+            "count": 1,
+            "%": 10.0
+        },
+        {
+            "card": " Cavern of Souls",
+            "count": 1,
+            "%": 10.0
+        },
+        {
+            "card": " Force of Will",
+            "count": 1,
+            "%": 10.0
+        },
+        {
+            "card": " Lavinia, Azorius Renegade",
+            "count": 1,
+            "%": 10.0
+        }
+    ],
+    "n_rounds_played": 3,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "The Beast ",
+            "score": -6.0,
+            "n_matches": 3
+        },
+        {
+            "player": "NumiChan ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "BlackHole ",
+            "score": -4.0,
+            "n_matches": 3
+        },
+        {
+            "player": "P0LTERGEIST ",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Namse ",
+            "score": -2.0,
+            "n_matches": 3
+        }
+    ],
+    "elo": 1584.267891297194,
+    "score_average": 38.73456790123457,
+    "score_total": 116.20370370370371,
+    "score_list": [
+        {
+            "round": 39,
+            "score": 44.44444444444444
+        },
+        {
+            "round": 48,
+            "score": 9.25925925925926
+        },
+        {
+            "round": 56,
+            "score": 62.5
+        }
+    ]
+}

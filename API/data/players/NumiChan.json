@@ -3,27 +3,27 @@
         {
             "card": "Black Lotus",
             "count": 9,
-            "%": 9.574468085106384
+            "%": 9.375
         },
         {
             "card": "Force of Will",
+            "count": 9,
+            "%": 9.375
+        },
+        {
+            "card": "Leyline of Anticipation",
             "count": 8,
-            "%": 8.51063829787234
+            "%": 8.333333333333332
         },
         {
             "card": "Dryad Arbor",
             "count": 7,
-            "%": 7.446808510638298
-        },
-        {
-            "card": "Leyline of Anticipation",
-            "count": 7,
-            "%": 7.446808510638298
+            "%": 7.291666666666667
         },
         {
             "card": "Lurrus of the Dream-Den",
             "count": 3,
-            "%": 3.1914893617021276
+            "%": 3.125
         }
     ],
     "n_rounds_played": 31,
@@ -50,12 +50,12 @@
             "n_matches": 1
         },
         {
-            "player": "Hoempes",
-            "score": -6.0,
-            "n_matches": 1
+            "player": "Haakon, Geißel der anderen",
+            "score": -3.0,
+            "n_matches": 4
         }
     ],
-    "elo": 1565.8161517879082,
+    "elo": 1567.2082883283078,
     "score_average": 40.71565531242952,
     "score_total": 1262.185314685315,
     "score_list": [

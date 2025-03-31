@@ -30,11 +30,6 @@
     "n_wins": 1,
     "nemesis": [
         {
-            "player": "Hoempes",
-            "score": -4.5,
-            "n_matches": 2
-        },
-        {
             "player": "Yet_another_Geron",
             "score": -3.0,
             "n_matches": 2
@@ -53,9 +48,14 @@
             "player": "BlackHole",
             "score": -0.8571428571428571,
             "n_matches": 7
+        },
+        {
+            "player": "The Beast",
+            "score": -0.75,
+            "n_matches": 12
         }
     ],
-    "elo": 1615.9770789376248,
+    "elo": 1619.887708371157,
     "score_average": 50.70890529223862,
     "score_total": 760.6335793835793,
     "score_list": [

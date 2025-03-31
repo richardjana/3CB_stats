@@ -1,0 +1,57 @@
+{
+    "cards": [
+        {
+            "card": " Boseiju, Who Endures",
+            "count": 1,
+            "%": 33.33333333333333
+        },
+        {
+            "card": " Helix Pinnacle",
+            "count": 1,
+            "%": 33.33333333333333
+        },
+        {
+            "card": " Mire in Misery",
+            "count": 1,
+            "%": 33.33333333333333
+        }
+    ],
+    "n_rounds_played": 1,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "Namse ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Michael W ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "BlackHole ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "hug77 ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "The Beast ",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1575.9997378250857,
+    "score_average": 25.0,
+    "score_total": 25.0,
+    "score_list": [
+        {
+            "round": 56,
+            "score": 25.0
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "cards": [
+        {
+            "card": " Commandeer",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Inkmoth Nexus",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Koma, Cosmos Serpent",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Maze of Ith",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Void Rend",
+            "count": 1,
+            "%": 16.666666666666664
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "hug77 ",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "NumiChan ",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
+            "player": "Namse ",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "lollonator ",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Michael W ",
+            "score": -3.0,
+            "n_matches": 2
+        }
+    ],
+    "elo": 1571.7552219766642,
+    "score_average": 33.33333333333333,
+    "score_total": 66.66666666666666,
+    "score_list": [
+        {
+            "round": 48,
+            "score": 50.0
+        },
+        {
+            "round": 56,
+            "score": 16.666666666666664
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "cards": [
+        {
+            "card": " Angrath's Rampage",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Helix Pinnacle",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Inkmoth Nexus",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Kaya's Guile",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": " Minicreepers ",
+            "count": 1,
+            "%": 16.666666666666664
+        }
+    ],
+    "n_rounds_played": 2,
+    "n_wins": 0,
+    "nemesis": [
+        {
+            "player": "The Beast ",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "BlackHole ",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "hug77 ",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "lollonator ",
+            "score": -6.0,
+            "n_matches": 2
+        },
+        {
+            "player": "thiefAaron ",
+            "score": -6.0,
+            "n_matches": 1
+        }
+    ],
+    "elo": 1555.262989613414,
+    "score_average": 20.13888888888889,
+    "score_total": 40.27777777777778,
+    "score_list": [
+        {
+            "round": 39,
+            "score": 11.11111111111111
+        },
+        {
+            "round": 56,
+            "score": 29.166666666666668
+        }
+    ]
+}

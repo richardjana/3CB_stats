@@ -4,6 +4,7 @@
             "index": 1,
             "player": "Namse",
             "cards": [
+                "Hypnotic Sprite // Mesmeric Glare",
                 "Spell Queller",
                 "Assassin's Trophy",
                 "Chromatic Orrery"
@@ -13,6 +14,7 @@
             "index": 2,
             "player": "NumiChan",
             "cards": [
+                "Force of Will",
                 "Wipe Away",
                 "Misthollow Griffin",
                 "Chromatic Orrery"
@@ -22,6 +24,7 @@
             "index": 3,
             "player": "IMP",
             "cards": [
+                "Force of Will",
                 "Force of Vigor",
                 "Progenitus",
                 "Kiora Bests the Sea God"
@@ -31,6 +34,7 @@
             "index": 4,
             "player": "Kratos Aurion",
             "cards": [
+                "Hammerheim",
                 "Ricochet Trap",
                 "Mishra's Factory",
                 "Dismiss into Dream"
@@ -40,6 +44,7 @@
             "index": 5,
             "player": "GoDJi8",
             "cards": [
+                "Filigree Sages",
                 "Pact of Negation",
                 "Emrakul, the Aeons Torn",
                 "Chromatic Orrery"
@@ -49,6 +54,7 @@
             "index": 6,
             "player": "BlackHole",
             "cards": [
+                "Bazaar of Baghdad",
                 "Subterranean Hangar",
                 "Emrakul, the Aeons Torn",
                 "Baneful Omen"
@@ -58,6 +64,7 @@
             "index": 7,
             "player": "Michael W",
             "cards": [
+                "Aura Mutation",
                 "Artifact Mutation",
                 "Counterflux",
                 "Chromatic Orrery"
@@ -67,6 +74,7 @@
             "index": 8,
             "player": "lollonator",
             "cards": [
+                "Force of Will",
                 "Commandeer",
                 "Snapback",
                 "Summoning Station"
@@ -76,6 +84,7 @@
             "index": 9,
             "player": "The Beast",
             "cards": [
+                "Brazen Borrower // Petty Theft",
                 "Krosan Grip",
                 "Selesnya Charm",
                 "Chromatic Orrery"
@@ -85,6 +94,7 @@
             "index": 10,
             "player": "hug77",
             "cards": [
+                "Brazen Borrower // Petty Theft",
                 "Dualcaster Mage",
                 "Pact of Negation",
                 "Chromatic Orrery"
@@ -94,6 +104,7 @@
             "index": 11,
             "player": "Bongoking",
             "cards": [
+                "Krosan Grip",
                 "Surrak Dragonclaw",
                 "Funeral Charm",
                 "Chromatic Orrery"
@@ -103,6 +114,7 @@
             "index": 12,
             "player": "Master_of_Desaster",
             "cards": [
+                "Leyline of Anticipation",
                 "Acidic Slime",
                 "Pact of Negation",
                 "Chromatic Orrery"
@@ -112,6 +124,7 @@
             "index": 13,
             "player": "The green one",
             "cards": [
+                "Pact of Negation",
                 "Pact of Negation",
                 "Acidic Slime",
                 "Chromatic Orrery"
@@ -353,7 +366,7 @@
                 0,
                 0,
                 4,
-                0,
+                2,
                 6,
                 6,
                 2,
@@ -362,7 +375,7 @@
                 0,
                 0,
                 0,
-                20,
+                22,
                 0
             ]
         }

@@ -33,7 +33,7 @@
             "cards": [
                 "Irrigation Ditch",
                 "Stern Dismissal",
-                "Old Growth Dryads"
+                "Old-Growth Dryads"
             ]
         },
         {
@@ -119,7 +119,7 @@
         },
         {
             "index": 14,
-            "player": "Hoempes",
+            "player": "hoempes",
             "cards": [
                 "Lion's Eye Diamond",
                 "Ulamog, the Infinite Gyre",
@@ -485,14 +485,14 @@
                 2,
                 4,
                 0,
-                2,
+                0,
                 1,
                 0,
                 2,
                 0,
                 0,
                 2,
-                23,
+                21,
                 2,
                 3,
                 0,

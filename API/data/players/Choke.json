@@ -45,17 +45,17 @@
             "n_matches": 1
         },
         {
-            "player": "Hoempes",
-            "score": -6.0,
-            "n_matches": 1
+            "player": "BlackHole",
+            "score": -3.0,
+            "n_matches": 2
         },
         {
-            "player": "BlackHole",
+            "player": "Michael W",
             "score": -3.0,
             "n_matches": 2
         }
     ],
-    "elo": 1586.1275475907478,
+    "elo": 1586.399674115914,
     "score_average": 48.16849816849816,
     "score_total": 144.50549450549448,
     "score_list": [

@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 8,
-            "%": 7.547169811320755
+            "%": 7.142857142857142
         },
         {
             "card": "Force of Will",
             "count": 4,
-            "%": 3.7735849056603774
+            "%": 3.571428571428571
         },
         {
             "card": "Lurrus of the Dream-Den",
             "count": 4,
-            "%": 3.7735849056603774
+            "%": 3.571428571428571
         },
         {
             "card": "Emrakul, the Aeons Torn",
             "count": 3,
-            "%": 2.8301886792452833
+            "%": 2.6785714285714284
         },
         {
             "card": "Mishra's Workshop",
             "count": 3,
-            "%": 2.8301886792452833
+            "%": 2.6785714285714284
         }
     ],
-    "n_rounds_played": 35,
+    "n_rounds_played": 37,
     "n_wins": 5,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 3
         },
         {
-            "player": "»Arcanis«",
-            "score": -3.857142857142857,
-            "n_matches": 7
-        },
-        {
             "player": "Daeron",
             "score": -3.857142857142857,
             "n_matches": 7
         },
         {
             "player": "P0LTERGEIST",
-            "score": -2.5384615384615383,
-            "n_matches": 26
+            "score": -2.357142857142857,
+            "n_matches": 28
+        },
+        {
+            "player": "»Arcanis«",
+            "score": -2.3333333333333335,
+            "n_matches": 9
         }
     ],
-    "elo": 1524.5676268138266,
-    "score_average": 41.53012860155717,
-    "score_total": 1453.554501054501,
+    "elo": 1526.8555921354098,
+    "score_average": 42.588560088560094,
+    "score_total": 1575.7767232767235,
     "score_list": [
         {
             "round": 3,
@@ -92,6 +92,10 @@
             "score": 50.0
         },
         {
+            "round": 11,
+            "score": 87.5
+        },
+        {
             "round": 12,
             "score": 26.923076923076923
         },
@@ -106,6 +110,10 @@
         {
             "round": 15,
             "score": 26.923076923076923
+        },
+        {
+            "round": 16,
+            "score": 30.555555555555554
         },
         {
             "round": 17,
@@ -193,7 +201,7 @@
         },
         {
             "round": 118,
-            "score": 25.0
+            "score": 29.166666666666668
         },
         {
             "round": 120,
