@@ -25,6 +25,9 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     """
     # to apply this to the whole of all data, use groupby 'round'?
     df['sum'] = df.loc[:,df.columns.str.startswith('result_')].sum(axis=1)
+    if 'bonus' in df.columns: # e.g. round 65
+        df['sum'] = df['sum'] + df['bonus']
+
     df['%'] = df['sum'] / (sum(df.columns.str.startswith('result_'))-1) / 6 * 100
 
     df['place'] = df['sum'].map(lambda s: sum(df['sum']>s)+1)
@@ -55,6 +58,34 @@ def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, f
 
     return mp_cards
 
+def validate_results(df: pd.DataFrame) -> bool:
+    """Validate the results columns in a Dataframe containing one or multiple rounds.
+    Args:
+        df (pd.DataFrame): _description_
+    Returns:
+        bool: Is / are the results table(s) consistent?
+    """
+    # possible results: 6-0, 4-1, 3-3, ...
+    valid_results = {(0, 6), (6, 0),
+                     (1, 4), (4, 1),
+                     (2, 2), (3, 3)}
+
+    is_valid = True
+    for round_number, round_data in df.groupby('round'):
+        res_table = round_data.loc[:, round_data.columns.str.startswith('result_')].to_numpy()
+
+        if res_table.shape[0] != res_table.shape[1]: # should be square
+            print(f"Error in results ({round_number}): not square.")
+            return False
+
+        for i in range(res_table.shape[0]):
+            for j in range(i+1, res_table.shape[1]):
+                if (res_table[i,j], res_table[j,i]) not in valid_results:
+                    print(f"Error in results ({round_number}): {i+1} {j+1}: {res_table[i,j]}-{res_table[j,i]}")
+                    is_valid = False
+
+    return is_valid
+
 def load_data() -> pd.DataFrame:
     """ Load full raw dataset from the individual csv files to a single pandas
         DataFrame.
@@ -62,8 +93,9 @@ def load_data() -> pd.DataFrame:
     data_cumu = pd.DataFrame()
     for file in glob.glob('data/raw/round_*.csv'):
         data = pd.read_csv(file, sep=';')
-        add_derivates_to_round(data)
-        data_cumu = pd.concat([data_cumu, data])
+        if validate_results(data):
+            add_derivates_to_round(data)
+            data_cumu = pd.concat([data_cumu, data])
 
     return data_cumu
 
