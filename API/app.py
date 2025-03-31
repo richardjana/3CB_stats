@@ -1,12 +1,20 @@
 from flask import Flask, jsonify, make_response, request
 from flask_cors import cross_origin
 import json
+import logging
 
 app = Flask(__name__)
 
 # CORS settings
 ORIGIN = '*'
 header_keys = ['Content-Type', 'user-name', 'x-api-key']
+
+# logger settings
+handler = logging.FileHandler('app.log')
+handler.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+handler.setFormatter(formatter)
+app.logger.addHandler(handler)
 
 def check_api_key(headers):
     """Try to autheticate the user with their API key.
