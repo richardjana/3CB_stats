@@ -54,7 +54,7 @@ const TableContainer = ({ columns, data }) => {
                 const { key, ...restCellProps } = cell.getCellProps();
                 if (cell.column.Header === 'Name') {
                   return (
-                    <td key={key} {...restCellProps}>
+                    <td key={key} {...restCellProps} style={{ textAlign: 'left' }}>
                         <Link to={`/player/${cell.value}`}>
                           {cell.render("Cell")}
                         </Link>
@@ -62,7 +62,7 @@ const TableContainer = ({ columns, data }) => {
                   );
                 }
                 return (
-                  <td key={key} {...restCellProps}>
+                  <td key={key} {...restCellProps} style={{ textAlign: 'right' }}>
                     {cell.render("Cell")}
                   </td>
                 );
