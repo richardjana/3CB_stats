@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import axios from 'axios';
 
 const use3cbApi = (endpoint) => {
-  const baseUrl = 'http://127.0.0.1:5000/'; // Define the base URL here
+  const baseUrl = 'https://threecb-stats.onrender.com/';
   const [data, setData] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [errorMessage, setErrorMessage] = useState('');
