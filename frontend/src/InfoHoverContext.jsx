@@ -6,9 +6,8 @@ const InfoHoverContext = createContext();
 // Create a provider component
 export const InfoHoverProvider = ({ children }) => {
   const infoTexts = {
-    elo: "Elo score, starting value 1600, etc.",
-    score: "% der möglichen Punkte in jeder Runde - durchschnittlich oder in Summe",
-    anotherTooltip: "This is some other tooltip text.",
+    elo: "Elo-Zahl (<Link to={https://de.wikipedia.org/wiki/Elo-Zahl}>Wikipedia</Link>)",
+    score: "als % der möglichen Punkte in je Runde",
   };
 
   return (
