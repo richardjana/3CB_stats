@@ -41,17 +41,17 @@ const PlayerStats = () => {
   return (
     <div>
       <div>
-        <h2> Player: {name} </h2>
+        <h2> Spieler: {name} </h2>
         <div className='player_stats'>
             <h3>Stats</h3>
-            <p>{`Rounds played: ${roundsPlayed}`}</p>
-            <p>{`Rounds won: ${roundsWon}`}</p>
-            <p>{`Total score: ${formatFloat(scoreTotal)}`}</p>
-            <p>{`Average score: ${formatFloat(scoreAverage)}`}</p>
+            <p>{`Gespielte Runden: ${roundsPlayed}`}</p>
+            <p>{`Siege: ${roundsWon}`}</p>
+            <p>{`Punkte (Summe): ${formatFloat(scoreTotal)}`}</p>
+            <p>{`Punkte (Mittel): ${formatFloat(scoreAverage)}`}</p>
             <div>Elo <InfoHover type='elo' />: {formatFloat(elo)}</div>
         </div>
         <div className='mp_cards'>
-            <h3>Most-played cards</h3>
+            <h3>Meistgespielte Karten</h3>
               <table className='mp_cards_table'>
                   <tbody>
                     {mpCards.map((c, index) => (<tr key={index}>
@@ -64,8 +64,8 @@ const PlayerStats = () => {
         <div className='nemesis'>
             <h3>Nemesis</h3>
             <p>Nemesis: <Link to={`/player/${nemesis['player']}`}>{nemesis['player']}</Link></p>
-            <p>{`Times played: ${nemesis['n_matches']}`}</p>
-            <p>{`Score: ${formatFloat(nemesis['score'])}`}</p>
+            <p>{`Begegnungen: ${nemesis['n_matches']}`}</p>
+            <p>{`Punkte: ${formatFloat(nemesis['score'])}`}</p>
         </div>
         <div className='elo-chart'>
           <h3>Elo <InfoHover type='elo' /></h3>

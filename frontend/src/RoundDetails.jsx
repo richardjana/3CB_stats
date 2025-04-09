@@ -28,13 +28,13 @@ const RoundDetails = () => {
   return (
     <div>
         <div>
-          <h2> Round: {number} </h2>
+          <h2> Runde: {number} </h2>
           <table className='decks'>
             <thead>
               <tr>
                 <th>Index</th>
-                <th>Player</th>
-                <th>Cards</th>
+                <th>Spieler</th>
+                <th>Deck</th>
               </tr>
             </thead>
             <tbody>

@@ -19,11 +19,11 @@ const HallOfFame = () => {
 
   const columns = [
     {Header: 'Name', accessor: 'player'},
-    {Header: 'Rounds played', accessor: 'rounds_played'},
-    {Header: 'Wins', accessor: 'wins'},
+    {Header: 'Gespielte Runden', accessor: 'rounds_played'},
+    {Header: 'Siege', accessor: 'wins'},
     {Header: 'Elo', accessor: 'elo', infoHover: 'elo'},
-    {Header: 'Mean score', accessor: 'score_mean'},
-    {Header: 'Total score', accessor: 'score_sum'}
+    {Header: 'Punkte (Mittel)', accessor: 'score_mean', infoHover: 'score'},
+    {Header: 'Punkte (Summe)', accessor: 'score_sum', infoHover: 'score'}
   ];
 
   if (errorMessage) return <div>Error: {errorMessage}</div>;
@@ -33,9 +33,8 @@ const HallOfFame = () => {
     <div>
       <div>
         <h2>Hall of Fame</h2>
-        <h3>Details</h3>
           <TableContainer columns={columns} data={tableData} />
-        <h3>Rounds</h3>
+        <h3>Sieger aller Runden</h3>
           <table className='round_winners'>
           <tbody>
             {roundWinners.map(r => <tr key={r.round}>

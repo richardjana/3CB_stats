@@ -1,23 +1,23 @@
 import React from 'react';
 import { Link } from 'react-router';
 
+// https://www.postman.com/api-platform/api-documentation/
+
 const ApiDocumentation = () => {
 
   return (
     <div>
-        <p>
-            Regeln: ...
-        </p>
-        <p>
-            <Link to="https://www.mtg-forum.de/forum/194-card-blind-turniere/">3CB im MtG-Forum</Link>
-        </p>
         <div>
-            <p>
-                3CB Historie:&nbsp;
-                <Link to="https://www.mtgsalvation.com/articles/16458-three-card-blind-a-whole-different-format-part-1">1</Link>,&nbsp;
-                <Link to="https://www.mtgsalvation.com/articles/16452-three-card-blind-a-whole-different-format-part-2">2</Link>,&nbsp;
-                <Link to="https://www.mtgsalvation.com/articles/16423-three-card-blind-a-whole-different-format-part-3">3</Link>
-            </p>
+            <h2>API key</h2>
+            <p>API keys können individuell angefragt werden: private Nachricht an <i>hug77</i> im <Link to='https://www.mtg-forum.de'>MtG-Forum</Link></p>.
+            {/*<p>Zur Authentifizierung müssen im header der Anfrage <i>'user-name'</i> aund <i>'x-api-key'</i> angegeben werden.</p>*/}
+            <p>Weitere Details kommen ... bestimmt bald.</p>
+        </div>
+        <div>
+            <h2></h2>
+        </div>
+        <div>
+            <h2>Endpunkte</h2>
         </div>
     </div>
   );
