@@ -266,7 +266,7 @@ if __name__ == '__main__':
                        'elo': Elo[-1][player],
                        'score_average': scores[player]['average'],
                        'score_total': scores[player]['total'],
-                       'score_list': scores[player]['list']}
+                       'elo_list': [e[player] for e in Elo]}
 
         with open(f"data/players/{player}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
             json.dump(player_data, file, ensure_ascii=False, indent=4)

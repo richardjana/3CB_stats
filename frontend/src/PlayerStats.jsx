@@ -17,7 +17,7 @@ const PlayerStats = () => {
   const [roundsWon, setRoundsWon] = useState(0);
   const [scoreAverage, setScoreAverage] = useState(0);
   const [scoreTotal, setScoreTotal] = useState(0);
-  const [scoreList, setScoreList] = useState([]);
+  const [eloList, setEloList] = useState([]);
   const [elo, setElo] = useState(0);
   const [nemesis, setNemesis] = useState([]);
 
@@ -30,7 +30,7 @@ const PlayerStats = () => {
       setRoundsWon(data.n_wins);
       setScoreAverage(data.score_average);
       setScoreTotal(data.score_total);
-      setScoreList(data.score_list);
+      setEloList(data.elo_list);
       setElo(data.elo);
       setNemesis(data.nemesis[0]);
     }
