@@ -13,8 +13,8 @@ All information on the current 3CB league:
 * includes scripts for scraping new rounds and processing the data
 
 
-
-* properly log all API requests with user_name:
-    app.logger.info('%s failed to log in', user.username)
-    (https://flask.palletsprojects.com/en/stable/logging/)
-* save card data from scryfall in local storage
+* for each player (or hall of fame as well): plot showing some metric vs. time (probably Elo or choice)
+* scrape additional information somehow? (rules, notes, deadlines, etc.)
+* update requirements files (especially the python one)
+* test replacing pandas with polars: 1) test the speed 2) implement tests beforehand to ensure correctness
+* implement tests: assert for python (is there a more proper way for this?); proper testing library for react

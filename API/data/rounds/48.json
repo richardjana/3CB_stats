@@ -2,92 +2,92 @@
     "decks": [
         {
             "index": 1,
-            "player": "Namse ",
+            "player": "Namse",
             "cards": [
-                " Black Lotus",
-                " Black Lotus",
-                " Brudiclad, Telchor Engineer"
+                "Black Lotus",
+                "Black Lotus",
+                "Brudiclad, Telchor Engineer"
             ]
         },
         {
             "index": 2,
-            "player": "IMP ",
+            "player": "IMP",
             "cards": [
-                " Black Lotus",
-                " Black Lotus",
-                " Wurmcoil Engine"
+                "Black Lotus",
+                "Black Lotus",
+                "Wurmcoil Engine"
             ]
         },
         {
             "index": 3,
-            "player": "lollonator ",
+            "player": "lollonator",
             "cards": [
-                " Ancient Den",
-                " Court Homunculus",
-                " Court Homunculus"
+                "Ancient Den",
+                "Court Homunculus",
+                "Court Homunculus"
             ]
         },
         {
             "index": 4,
-            "player": "Kratos Aurion ",
+            "player": "Kratos Aurion",
             "cards": [
-                " Wasteland",
-                " Inkmoth Nexus",
-                " Maze of Ith"
+                "Wasteland",
+                "Inkmoth Nexus",
+                "Maze of Ith"
             ]
         },
         {
             "index": 5,
-            "player": "Michael W ",
+            "player": "Michael W",
             "cards": [
-                " Oko, Thief of Crowns",
-                " Teferi's Isle",
-                " Pendelhaven"
+                "Oko, Thief of Crowns",
+                "Teferi's Isle",
+                "Pendelhaven"
             ]
         },
         {
             "index": 6,
-            "player": "The Beast ",
+            "player": "The Beast",
             "cards": [
-                " The Tabernacle at Pendrell Vale",
-                " Golgari Rot Farm",
-                " Treetop Village"
+                "The Tabernacle at Pendrell Vale",
+                "Golgari Rot Farm",
+                "Treetop Village"
             ]
         },
         {
             "index": 7,
-            "player": "BlackHole ",
+            "player": "BlackHole",
             "cards": [
-                " Yavimaya Hollow",
-                " Yavimaya, Cradle of Growth",
-                " Go-Shintai of Boundless Vigor"
+                "Yavimaya Hollow",
+                "Yavimaya, Cradle of Growth",
+                "Go-Shintai of Boundless Vigor"
             ]
         },
         {
             "index": 8,
-            "player": "hug77 ",
+            "player": "hug77",
             "cards": [
-                " Black Lotus",
-                " Black Lotus",
-                " Brudiclad, Telchor Engineer"
+                "Black Lotus",
+                "Black Lotus",
+                "Brudiclad, Telchor Engineer"
             ]
         },
         {
             "index": 9,
-            "player": "P0LTERGEIST ",
+            "player": "P0LTERGEIST",
             "cards": [
-                " Inkmoth Nexus",
-                " Inkmoth Nexus",
-                " Wasteland"
+                "Inkmoth Nexus",
+                "Inkmoth Nexus",
+                "Wasteland"
             ]
         },
         {
             "index": 10,
-            "player": "Master_of_Desaster ",
+            "player": "Master_of_Desaster",
             "cards": [
-                " Subterranean Hangar",
-                " Maze of Ith",
-                " Blackbloom Rogue // Blackbloom Bog"
+                "Subterranean Hangar",
+                "Maze of Ith",
+                "Blackbloom Rogue // Blackbloom Bog"
             ]
         }
     ],

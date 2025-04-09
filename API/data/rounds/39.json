@@ -2,96 +2,96 @@
     "decks": [
         {
             "index": 1,
-            "player": "Namse ",
+            "player": "Namse",
             "cards": [
-                " Chancellor of the Dross",
-                " Chancellor of the Dross",
-                " Subterranean Hangar"
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Subterranean Hangar"
             ]
         },
         {
             "index": 2,
-            "player": "IMP ",
+            "player": "IMP",
             "cards": [
-                " Ensnaring Bridge",
-                " Mishra's Workshop",
-                " Strixhaven Stadium",
-                " Thermal Navigator"
+                "Ensnaring Bridge",
+                "Mishra's Workshop",
+                "Strixhaven Stadium",
+                "Thermal Navigator"
             ]
         },
         {
             "index": 3,
-            "player": "The Beast ",
+            "player": "The Beast",
             "cards": [
-                " Chancellor of the Dross",
-                " Chancellor of the Dross",
-                " Black Lotus",
-                " Sorin, Imperious Bloodlord"
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Black Lotus",
+                "Sorin, Imperious Bloodlord"
             ]
         },
         {
             "index": 4,
-            "player": "Michael W ",
+            "player": "Michael W",
             "cards": [
-                " Death's Shadow",
-                " Death's Shadow",
-                " Cavern of Souls",
-                " Not of this World"
+                "Death's Shadow",
+                "Death's Shadow",
+                "Cavern of Souls",
+                "Not of this World"
             ]
         },
         {
             "index": 5,
-            "player": "BlackHole ",
+            "player": "BlackHole",
             "cards": [
-                " Forest",
-                " Old-Growth Dryads ",
-                " Old-Growth Dryads "
+                "Forest",
+                "Old-Growth Dryads",
+                "Old-Growth Dryads"
             ]
         },
         {
             "index": 6,
-            "player": "hug77 ",
+            "player": "hug77",
             "cards": [
-                " Force of Will",
-                " Leyline of Anticipation",
-                " Black Lotus",
-                " Magus of the Moon"
+                "Force of Will",
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Magus of the Moon"
             ]
         },
         {
             "index": 7,
-            "player": "lollonator ",
+            "player": "lollonator",
             "cards": [
-                " Wasteland",
-                " Force of Will",
-                " Snapback",
-                " Memnite"
+                "Wasteland",
+                "Force of Will",
+                "Snapback",
+                "Memnite"
             ]
         },
         {
             "index": 8,
-            "player": "thiefAaron ",
+            "player": "thiefAaron",
             "cards": [
-                " Cavern of Souls",
-                " Serra Ascendant"
+                "Cavern of Souls",
+                "Serra Ascendant"
             ]
         },
         {
             "index": 9,
-            "player": "Master_of_Desaster ",
+            "player": "Master_of_Desaster",
             "cards": [
-                " Leyline of Singularity",
-                " Karakas",
-                " Chaplain of Alms"
+                "Leyline of Singularity",
+                "Karakas",
+                "Chaplain of Alms"
             ]
         },
         {
             "index": 10,
-            "player": "The green one ",
+            "player": "The green one",
             "cards": [
-                " Minicreepers ",
-                " Inkmoth Nexus",
-                " Mishra's Factory"
+                "Minicreepers",
+                "Inkmoth Nexus",
+                "Mishra's Factory"
             ]
         }
     ],

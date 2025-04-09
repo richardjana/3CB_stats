@@ -2,119 +2,119 @@
     "decks": [
         {
             "index": 1,
-            "player": "Namse ",
+            "player": "Namse",
             "cards": [
-                " Omnath, Locus of Mana",
-                " Humiliate",
-                " Vindicate"
+                "Omnath, Locus of Mana",
+                "Humiliate",
+                "Vindicate"
             ]
         },
         {
             "index": 2,
-            "player": "SoulCollector ",
+            "player": "SoulCollector",
             "cards": [
-                " Helix Pinnacle",
-                " Mire in Misery",
-                " Boseiju, Who Endures"
+                "Helix Pinnacle",
+                "Mire in Misery",
+                "Boseiju, Who Endures"
             ]
         },
         {
             "index": 3,
-            "player": "Michael W ",
+            "player": "Michael W",
             "cards": [
-                " Erratic Portal",
-                " Rishadan Cutpurse",
-                " Walking Ballista"
+                "Erratic Portal",
+                "Rishadan Cutpurse",
+                "Walking Ballista"
             ]
         },
         {
             "index": 4,
-            "player": "Kratos Aurion ",
+            "player": "Kratos Aurion",
             "cards": [
-                " Void Rend",
-                " Koma, Cosmos Serpent",
-                " Commandeer"
+                "Void Rend",
+                "Koma, Cosmos Serpent",
+                "Commandeer"
             ]
         },
         {
             "index": 5,
-            "player": "BlackHole ",
+            "player": "BlackHole",
             "cards": [
-                " Lion's Eye Diamond",
-                " Unburial Rites",
-                " Iona, Shield of Emeria"
+                "Lion's Eye Diamond",
+                "Unburial Rites",
+                "Iona, Shield of Emeria"
             ]
         },
         {
             "index": 6,
-            "player": "lollonator ",
+            "player": "lollonator",
             "cards": [
-                " Cavern of Souls",
-                " Tidehollow Sculler",
-                " Lavinia, Azorius Renegade"
+                "Cavern of Souls",
+                "Tidehollow Sculler",
+                "Lavinia, Azorius Renegade"
             ]
         },
         {
             "index": 7,
-            "player": "hug77 ",
+            "player": "hug77",
             "cards": [
-                " Dread Fugue",
-                " Ulamog, the Infinite Gyre",
-                " Sneak Attack"
+                "Dread Fugue",
+                "Ulamog, the Infinite Gyre",
+                "Sneak Attack"
             ]
         },
         {
             "index": 8,
-            "player": "The Beast ",
+            "player": "The Beast",
             "cards": [
-                " Hexdrinker",
-                " Grief",
-                " Assassin's Trophy"
+                "Hexdrinker",
+                "Grief",
+                "Assassin's Trophy"
             ]
         },
         {
             "index": 9,
-            "player": "IMP ",
+            "player": "IMP",
             "cards": [
-                " Helix Pinnacle",
-                " Maze of Ith",
-                " Hexdrinker"
+                "Helix Pinnacle",
+                "Maze of Ith",
+                "Hexdrinker"
             ]
         },
         {
             "index": 10,
-            "player": "NumiChan ",
+            "player": "NumiChan",
             "cards": [
-                " Omnath, Locus of Mana",
-                " Lightning Greaves",
-                " Leyline of Sanctity"
+                "Omnath, Locus of Mana",
+                "Lightning Greaves",
+                "Leyline of Sanctity"
             ]
         },
         {
             "index": 11,
-            "player": "Master_of_Desaster ",
+            "player": "Master_of_Desaster",
             "cards": [
-                " Castigate",
-                " Merciless Eviction",
-                " Fanning the Flames"
+                "Castigate",
+                "Merciless Eviction",
+                "Fanning the Flames"
             ]
         },
         {
             "index": 12,
-            "player": "P0LTERGEIST ",
+            "player": "P0LTERGEIST",
             "cards": [
-                " Walking Ballista",
-                " Oko, Thief of Crowns",
-                " Dread Fugue"
+                "Walking Ballista",
+                "Oko, Thief of Crowns",
+                "Dread Fugue"
             ]
         },
         {
             "index": 13,
-            "player": "The green one ",
+            "player": "The green one",
             "cards": [
-                " Helix Pinnacle",
-                " Angrath's Rampage",
-                " Kaya's Guile"
+                "Helix Pinnacle",
+                "Angrath's Rampage",
+                "Kaya's Guile"
             ]
         }
     ],

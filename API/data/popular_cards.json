@@ -1,18 +1,23 @@
 [
     {
         "card": "Black Lotus",
-        "count": 368,
-        "%": 8.822824262766723
+        "count": 376,
+        "%": 9.014624790218173
     },
     {
         "card": "Wasteland",
-        "count": 86,
-        "%": 2.0618556701030926
+        "count": 89,
+        "%": 2.1337808678973866
     },
     {
         "card": "Force of Will",
-        "count": 80,
-        "%": 1.9180052745145049
+        "count": 82,
+        "%": 1.9659554063773677
+    },
+    {
+        "card": "Mishra's Workshop",
+        "count": 77,
+        "%": 1.846080076720211
     },
     {
         "card": "City of Traitors",
@@ -20,34 +25,29 @@
         "%": 1.8221050107887795
     },
     {
-        "card": "Mishra's Workshop",
-        "count": 76,
-        "%": 1.8221050107887795
-    },
-    {
         "card": "Leyline of Anticipation",
-        "count": 72,
-        "%": 1.7262047470630544
+        "count": 73,
+        "%": 1.7501798129944857
     },
     {
         "card": "The Tabernacle at Pendrell Vale",
-        "count": 65,
-        "%": 1.5583792855430352
+        "count": 66,
+        "%": 1.5823543514744667
     },
     {
         "card": "Karakas",
-        "count": 62,
-        "%": 1.4864540877487413
+        "count": 63,
+        "%": 1.5104291536801726
     },
     {
         "card": "Mishra's Factory",
-        "count": 58,
-        "%": 1.390553824023016
+        "count": 59,
+        "%": 1.4145288899544475
     },
     {
         "card": "Snapback",
-        "count": 40,
-        "%": 0.9590026372572524
+        "count": 41,
+        "%": 0.9829777031886838
     },
     {
         "card": "Crashing Footfalls",
@@ -65,27 +65,32 @@
         "%": 0.8391273076000958
     },
     {
+        "card": "Inkmoth Nexus",
+        "count": 35,
+        "%": 0.8391273076000958
+    },
+    {
         "card": "Chancellor of the Forge",
         "count": 34,
         "%": 0.8151522416686646
     },
     {
         "card": "Forest",
-        "count": 33,
-        "%": 0.7911771757372333
+        "count": 34,
+        "%": 0.8151522416686646
     },
     {
-        "card": "Anointed Peacekeeper",
-        "count": 31,
-        "%": 0.7432270438743707
+        "card": "Cavern of Souls",
+        "count": 32,
+        "%": 0.767202109805802
     },
     {
         "card": "Ensnaring Bridge",
-        "count": 31,
-        "%": 0.7432270438743707
+        "count": 32,
+        "%": 0.767202109805802
     },
     {
-        "card": "Inkmoth Nexus",
+        "card": "Anointed Peacekeeper",
         "count": 31,
         "%": 0.7432270438743707
     },
@@ -95,19 +100,19 @@
         "%": 0.7192519779429393
     },
     {
-        "card": "Cavern of Souls",
-        "count": 29,
-        "%": 0.695276912011508
+        "card": "Maze of Ith",
+        "count": 27,
+        "%": 0.6473267801486454
     },
     {
         "card": "Memnite",
-        "count": 26,
-        "%": 0.6233517142172141
+        "count": 27,
+        "%": 0.6473267801486454
     },
     {
         "card": "Lion's Eye Diamond",
-        "count": 25,
-        "%": 0.5993766482857827
+        "count": 26,
+        "%": 0.6233517142172141
     },
     {
         "card": "Meddling Mage",
@@ -120,19 +125,14 @@
         "%": 0.5754015823543515
     },
     {
-        "card": "Maze of Ith",
-        "count": 24,
-        "%": 0.5754015823543515
+        "card": "Old-Growth Dryads",
+        "count": 22,
+        "%": 0.5274514504914889
     },
     {
         "card": "Swamp",
         "count": 22,
         "%": 0.5274514504914889
-    },
-    {
-        "card": "Old-Growth Dryads",
-        "count": 20,
-        "%": 0.4795013186286262
     },
     {
         "card": "Plains",
@@ -151,6 +151,11 @@
     },
     {
         "card": "Chancellor of the Annex",
+        "count": 19,
+        "%": 0.4555262526971949
+    },
+    {
+        "card": "Chancellor of the Dross",
         "count": 19,
         "%": 0.4555262526971949
     },
@@ -195,11 +200,6 @@
         "%": 0.4075761208343323
     },
     {
-        "card": "Chancellor of the Dross",
-        "count": 15,
-        "%": 0.35962598897146963
-    },
-    {
         "card": "Peat Bog",
         "count": 15,
         "%": 0.35962598897146963
@@ -211,6 +211,16 @@
     },
     {
         "card": "Isochron Scepter",
+        "count": 14,
+        "%": 0.3356509230400384
+    },
+    {
+        "card": "Tidehollow Sculler",
+        "count": 14,
+        "%": 0.3356509230400384
+    },
+    {
+        "card": "Ulamog, the Infinite Gyre",
         "count": 14,
         "%": 0.3356509230400384
     },
@@ -235,18 +245,8 @@
         "%": 0.31167585710860707
     },
     {
-        "card": "Tidehollow Sculler",
+        "card": "Serra Ascendant",
         "count": 13,
         "%": 0.31167585710860707
-    },
-    {
-        "card": "Ulamog, the Infinite Gyre",
-        "count": 13,
-        "%": 0.31167585710860707
-    },
-    {
-        "card": "Curse of Silence",
-        "count": 12,
-        "%": 0.28770079117717573
     }
 ]

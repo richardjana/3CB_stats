@@ -1,6 +1,4 @@
-import Chart from 'chart.js/auto';
 import React, { useEffect, useState } from 'react';
-import { Bar, Line } from 'react-chartjs-2';
 import { Link } from 'react-router';
 import { useParams } from 'react-router-dom';
 
@@ -8,6 +6,7 @@ import use3cbApi from './Axios3cbApi';
 import CardHover from './CardHover';
 import formatFloat from './utilities/formatFloat';
 import InfoHover from './InfoHover';
+import LineChart from './LineChart';
 
 const PlayerStats = () => {
   const {name} = useParams()
@@ -67,6 +66,10 @@ const PlayerStats = () => {
             <p>Nemesis: <Link to={`/player/${nemesis['player']}`}>{nemesis['player']}</Link></p>
             <p>{`Times played: ${nemesis['n_matches']}`}</p>
             <p>{`Score: ${formatFloat(nemesis['score'])}`}</p>
+        </div>
+        <div className='elo-chart'>
+          <h3>Elo <InfoHover type='elo' /></h3>
+          <LineChart data={eloList} />
         </div>
       </div>
   </div>);
