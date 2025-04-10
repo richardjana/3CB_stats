@@ -26,6 +26,20 @@ const LineChart = ({ data }) => {
         display: false,
       },
     },
+    scales: {
+      x: {
+        title: {
+          display: true,
+          text: 'Runde'
+        }
+      },
+      y: {
+        title: {
+          display: true,
+          text: 'Elo-Zahl'
+        }
+      },
+    },
   };
 
   return <Line data={chartData} options={options} />;
