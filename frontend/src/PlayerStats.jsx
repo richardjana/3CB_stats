@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router';
 import { useParams } from 'react-router-dom';
 
-import use3cbApi from './Axios3cbApi';
 import CardHover from './CardHover';
 import formatFloat from './utilities/formatFloat';
 import InfoHover from './InfoHover';
@@ -20,20 +19,26 @@ const PlayerStats = () => {
   const [elo, setElo] = useState(0);
   const [nemesis, setNemesis] = useState([]);
 
-  const { data, isLoading, errorMessage } = use3cbApi(`playerstats/${name}`);
-
   useEffect(() => {
-    if (data) {
-      setMpCards(data.cards);
-      setRoundsPlayed(data.n_rounds_played);
-      setRoundsWon(data.n_wins);
-      setScoreAverage(data.score_average);
-      setScoreTotal(data.score_total);
-      setEloList(data.elo_list);
-      setElo(data.elo);
-      setNemesis(data.nemesis[0]);
-    }
-  }, [data]);
+    const loadData = async () => {
+      try {
+        const data = await import(`./data/players/${name}.json`);
+
+        setMpCards(data.cards);
+        setRoundsPlayed(data.n_rounds_played);
+        setRoundsWon(data.n_wins);
+        setScoreAverage(data.score_average);
+        setScoreTotal(data.score_total);
+        setEloList(data.elo_list);
+        setElo(data.elo);
+        setNemesis(data.nemesis[0]);
+      } catch (err) {
+        console.error('Player data not found:', err);
+      }
+    };
+
+    loadData();
+  }, [name]);
 
   if (errorMessage) return <div>Error: {errorMessage}</div>;
   if (!errorMessage && isLoading) return <div>Loading...</div>;
