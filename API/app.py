@@ -1,7 +1,10 @@
-from flask import Flask, jsonify, make_response, request
-from flask_cors import cross_origin
+from io import BytesIO
 import json
 import logging
+
+from flask import Flask, jsonify, make_response, request, send_file
+from flask_cors import cross_origin
+from PIL import Image, ImageDraw, ImageFont
 
 app = Flask(__name__)
 
@@ -155,6 +158,57 @@ def popular_cards():
     except FileNotFoundError:
         app.logger.warning('Get popular cards list failed!')
         return make_response('An error occurred.', 404)
+
+@app.route('/badge/<player>')
+@cross_origin(origin=ORIGIN, headers='Content-Type')
+def badge(player: str):
+    """ Create a badge to use on social media for the player.
+    Args:
+        player (str): Name of the player.
+    Returns:
+        (file): Badge image.
+    """
+    with open('data/players_rounds_lists.json', 'r', encoding='utf-8') as file:
+        player_list = json.load(file)['player_names']
+
+    if player not in player_list:
+        return make_response('Player does not exist', 404)
+
+    image = Image.new('RGB', (300, 150), color='white')
+    draw = ImageDraw.Draw(image)
+
+    # Load a font (make sure to have a .ttf file in your directory or use a default one)
+    try:
+        font = ImageFont.truetype('arial.ttf', 16)
+    except IOError:
+        font = ImageFont.load_default()
+
+    # Draw badge information
+    draw.text((10, 10), f"Badge: {player}", font=font, fill="black")
+    draw.text((10, 40), f"some other text", font=font, fill="black")
+
+    # Optionally, add a badge image if you have a specific one
+    # badge_image = Image.open(requests.get(badge['image_url'], stream=True).raw)
+    # image.paste(badge_image, (180, 50))
+
+    # Convert image to byte stream and return as response
+    byte_io = BytesIO()
+    image.save(byte_io, 'PNG')
+    byte_io.seek(0)
+
+    return send_file(byte_io, mimetype='image/png')
+
+@app.route('/badge_embedding/<player>')
+@cross_origin(origin=ORIGIN, headers='Content-Type')
+def badge_embedding(player: str):
+    """ Provide embedding HTML code for the badge.
+    Args:
+        player (str): Name of the player.
+    Returns:
+        (responce): The HTML embedding code.
+    """
+    embed_code = f'<img src="{request.host_url}badge/{player}" alt="3CB_stats info badge">'
+    return jsonify({'embed_code': embed_code}), 200
 
 if __name__ == '__main__':
     app.run()
