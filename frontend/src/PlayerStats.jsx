@@ -20,6 +20,8 @@ const PlayerStats = () => {
   const [nemesis, setNemesis] = useState([]);
 
   useEffect(() => {
+    if (!name) return;
+    
     const loadData = async () => {
       try {
         const data = await import(`./data/players/${name}.json`);
