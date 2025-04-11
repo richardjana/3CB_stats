@@ -40,9 +40,6 @@ const PlayerStats = () => {
     loadData();
   }, [name]);
 
-  if (errorMessage) return <div>Error: {errorMessage}</div>;
-  if (!errorMessage && isLoading) return <div>Loading...</div>;
-
   return (
     <div>
       <div>
