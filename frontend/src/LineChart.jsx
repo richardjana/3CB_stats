@@ -36,12 +36,14 @@ const LineChart = ({ data }) => {
       x: {
         title: {
           display: true,
+          type: 'linear',
           text: 'Runde',
         },
       },
       y: {
         title: {
           display: true,
+          type: 'linear',
           text: 'Elo-Zahl',
         },
       },
