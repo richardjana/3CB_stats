@@ -230,12 +230,16 @@ if __name__ == '__main__':
 
     with open('data/popular_cards.json', 'w', encoding='utf-8') as file:
         json.dump(mp_cards['overall'][:50], file, ensure_ascii=False, indent=4)
+    with open('../frontend/src/data/popular_cards.json', 'w', encoding='utf-8') as file:
+        json.dump(mp_cards['overall'][:50], file, ensure_ascii=False, indent=4)
 
     ### prepare list of all players and round numbers ###
     all_players_sorted = all_players.tolist()
     all_players_sorted.sort(key = lambda p: re.sub(r'[^a-zA-Z0-9]', '', p).lower())
     round_numbers_sorted = sorted(data['round'].unique().tolist(), key = lambda x: -x)
     with open('data/players_rounds_lists.json', 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
+        json.dump({'player_names': all_players_sorted, 'round_numbers': round_numbers_sorted}, file, ensure_ascii=False, indent=4)
+    with open('../frontend/src/data/players_rounds_lists.json', 'w', encoding='utf-8') as file:
         json.dump({'player_names': all_players_sorted, 'round_numbers': round_numbers_sorted}, file, ensure_ascii=False, indent=4)
 
     ### prepare hall of fame data ###
@@ -256,6 +260,8 @@ if __name__ == '__main__':
 
     with open('data/hall_of_fame.json', 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
         json.dump({'table': table_data, 'rounds': round_winners}, file, ensure_ascii=False, indent=4)
+    with open('../frontend/src/data/hall_of_fame.json', 'w', encoding='utf-8') as file:
+        json.dump({'table': table_data, 'rounds': round_winners}, file, ensure_ascii=False, indent=4)
 
     ### prepare player data ###
     for player in all_players:
@@ -270,9 +276,13 @@ if __name__ == '__main__':
 
         with open(f"data/players/{player}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
             json.dump(player_data, file, ensure_ascii=False, indent=4)
+        with open(f"../frontend/src/data/players/{player}.json", 'w', encoding='utf-8') as file:
+            json.dump(player_data, file, ensure_ascii=False, indent=4)
 
     ### prepare round data ###
     with open('data/urls.json') as file:
+        urls = json.load(file)
+    with open('../frontend/src/data/urls.json') as file:
         urls = json.load(file)
 
     for round in data['round'].unique():
@@ -292,4 +302,6 @@ if __name__ == '__main__':
         #json['deadline'] =
 
         with open(f"data/rounds/{round}.json", 'w', encoding='utf-8') as file: # possibly also with pandas.DataFrame.to_json (?)
+            json.dump(round_data, file, ensure_ascii=False, indent=4)
+        with open(f"../frontend/src/data/rounds/{round}.json", 'w', encoding='utf-8') as file:
             json.dump(round_data, file, ensure_ascii=False, indent=4)
