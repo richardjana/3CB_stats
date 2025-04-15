@@ -14,8 +14,8 @@ const use3cbApi = (endpoint) => {
         const response = await axios.get(`${baseUrl}${endpoint}`, {
           headers: {
             'user-name': process.env.REACT_APP_3CB_USER_NAME,
-            'x-api-key': process.env.REACT_APP_3CB_API_KEY
-          }
+            'x-api-key': process.env.REACT_APP_3CB_API_KEY,
+          },
         });
         setData(response.data);
         setIsLoading(false);
@@ -26,7 +26,6 @@ const use3cbApi = (endpoint) => {
     };
 
     fetchData(); // Fetch data once when the component mounts or when `endpoint` changes
-
   }, [endpoint]); // Dependency array with `endpoint` ensures it fetches only when the endpoint changes
 
   return { data, isLoading, errorMessage };

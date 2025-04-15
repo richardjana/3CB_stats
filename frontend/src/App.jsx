@@ -17,19 +17,19 @@ function App() {
   return (
     <div className="wrapper">
       <InfoHoverProvider>
-      <BrowserRouter>
-        <Header />
-        <Routes>
-          <Route path='/' element={<LandingPage />} />
-          <Route path='/bannedlist' element={<BannedList />} />
-          <Route path='/halloffame' element={<HallOfFame />} />
-          <Route path='/player/:name' element={<PlayerStats />} />
-          <Route path='/round/:number' element={<RoundDetails />} />
-          <Route path='/popularcards' element={<PopularCards />} />
-          <Route path='/apidocumentation' element={<ApiDocumentation />} />
-        </Routes>
-        <Footer />
-      </BrowserRouter>
+        <BrowserRouter>
+          <Header />
+          <Routes>
+            <Route path="/" element={<LandingPage />} />
+            <Route path="/bannedlist" element={<BannedList />} />
+            <Route path="/halloffame" element={<HallOfFame />} />
+            <Route path="/player/:name" element={<PlayerStats />} />
+            <Route path="/round/:number" element={<RoundDetails />} />
+            <Route path="/popularcards" element={<PopularCards />} />
+            <Route path="/apidocumentation" element={<ApiDocumentation />} />
+          </Routes>
+          <Footer />
+        </BrowserRouter>
       </InfoHoverProvider>
     </div>
   );

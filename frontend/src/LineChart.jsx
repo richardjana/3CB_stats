@@ -1,6 +1,12 @@
 import React from 'react';
 import { Line } from 'react-chartjs-2';
-import { Chart as ChartJS, LinearScale, PointElement, LineElement, Tooltip } from 'chart.js';
+import {
+  Chart as ChartJS,
+  LinearScale,
+  PointElement,
+  LineElement,
+  Tooltip,
+} from 'chart.js';
 
 // Register chart elements with Chart.js
 ChartJS.register(LinearScale, PointElement, LineElement, Tooltip);
@@ -30,14 +36,14 @@ const LineChart = ({ data }) => {
       x: {
         title: {
           display: true,
-          text: 'Runde'
-        }
+          text: 'Runde',
+        },
       },
       y: {
         title: {
           display: true,
-          text: 'Elo-Zahl'
-        }
+          text: 'Elo-Zahl',
+        },
       },
     },
   };

@@ -6,14 +6,11 @@ const Footer = () => {
   return (
     <footer style={footerStyle}>
       <div style={containerStyle}>
+        <p style={textStyle}>&copy; {currentYear} Richard Jana.</p>
+        <p style={textStyle}>Card images taken from Scryfall.com</p>
         <p style={textStyle}>
-          &copy; {currentYear} Richard Jana.
-        </p>
-        <p style={textStyle}>
-          Card images taken from Scryfall.com
-        </p>
-        <p style={textStyle}>
-          Magic: The Gathering, including card images and mana symbols, is copyright Wizards of the Coast, LLC.
+          Magic: The Gathering, including card images and mana symbols, is
+          copyright Wizards of the Coast, LLC.
         </p>
       </div>
     </footer>

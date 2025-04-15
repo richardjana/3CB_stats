@@ -16,8 +16,11 @@ const CardHover = ({ cardName }) => {
   };
 
   const fetchCardImage = async () => {
-    try { // Fetch card data using the Scryfall API
-      const response = await fetch(`https://api.scryfall.com/cards/named?exact=${cardName}`);
+    try {
+      // Fetch card data using the Scryfall API
+      const response = await fetch(
+        `https://api.scryfall.com/cards/named?exact=${cardName}`
+      );
       const data = await response.json();
 
       // Check for multiple prints, get the oldest one
@@ -26,17 +29,24 @@ const CardHover = ({ cardName }) => {
         const printData = await printResponse.json();
 
         // Get the last (oldest) print from the array of card prints
-        const oldestPrint = printData.data[printData.data.length-1];
+        const oldestPrint = printData.data[printData.data.length - 1];
         setCardImage(oldestPrint?.image_uris?.normal || null);
-      } else { // no prints are available: fallback to the normal image from the main card
+        saveCardImageToLocalStorage(
+          cardName,
+          oldestPrint?.image_uris?.normal || null
+        );
+      } else {
+        // no prints are available: fallback to the normal image from the main card
         setCardImage(data?.image_uris?.normal || null);
+        saveCardImageToLocalStorage(cardName, data?.image_uris?.normal || null);
       }
     } catch (error) {
-      console.error("Error fetching card data:", error);
+      console.error('Error fetching card data:', error);
     }
   };
 
-  useEffect(() => { // try to get image from local storage first
+  useEffect(() => {
+    // try to get image from local storage first
     const storedImage = getCardImageFromLocalStorage(cardName);
     if (storedImage) {
       setCardImage(storedImage);
@@ -45,8 +55,9 @@ const CardHover = ({ cardName }) => {
 
   const handleMouseEnter = () => {
     setIsHovered(true);
-    if (!cardImage) { // if not already loaded,
-        fetchCardImage(); // fetch the image
+    if (!cardImage) {
+      // if not already loaded,
+      fetchCardImage(); // fetch the image
     }
   };
 
