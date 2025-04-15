@@ -15,7 +15,7 @@ const RoundDetails = () => {
       
       const loadData = async () => {
         try {
-          const data = await import(`./data/round/${number}.json`);
+          const data = await import(`./data/rounds/${number}.json`);
   
           setDecks(data.decks);
           setResults(data.results);
