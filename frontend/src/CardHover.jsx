@@ -50,15 +50,13 @@ const CardHover = ({ cardName }) => {
     const storedImage = getCardImageFromLocalStorage(cardName);
     if (storedImage) {
       setCardImage(storedImage);
+    } else {
+      fetchCardImage(); // Fetch if not found in localStorage
     }
   }, [cardName]);
 
   const handleMouseEnter = () => {
     setIsHovered(true);
-    if (!cardImage) {
-      // if not already loaded,
-      fetchCardImage(); // fetch the image
-    }
   };
 
   const handleMouseLeave = () => {
