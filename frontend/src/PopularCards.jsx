@@ -11,7 +11,7 @@ const PopularCards = () => {
       try {
         const data = await import(`./data/popular_cards.json`);
 
-        setMpCards(data);
+        setMpCards(data.default || data);
       } catch (err) {
         console.error('Popular cards data not found:', err);
       }
