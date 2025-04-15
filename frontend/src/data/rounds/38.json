@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Bongoking",
+            "cards": [
+                "Black Lotus",
+                "Patron Wizard",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "QKey",
+            "cards": [
+                "Black Lotus",
+                "Salvage Scout",
+                "Kiora Bests the Sea God"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "City of Traitors",
+                "Sphere of Resistance",
+                "Retrofitter Foundry"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "NumiChan",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Vryn Wingmare"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "thiefAaron",
+            "cards": [
+                "Mox Jet",
+                "Dark Ritual",
+                "Grave Titan"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Maze of Ith",
+                "Wasteland",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Dark Depths",
+                "Yavimaya, Cradle of Growth"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "GoDJi8",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Thalia, Guardian of Thraben"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "Storm Herd"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "The green one",
+            "cards": [
+                "Black Lotus",
+                "Glistener Elf",
+                "Collector Ouphe"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                2,
+                2,
+                6,
+                6,
+                52,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                2,
+                0,
+                2,
+                2,
+                6,
+                0,
+                6,
+                6,
+                2,
+                6,
+                44,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                2,
+                0,
+                6,
+                6,
+                2,
+                6,
+                6,
+                0,
+                0,
+                2,
+                6,
+                42,
+                6
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                3,
+                33,
+                3
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                2,
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                6,
+                3,
+                38,
+                3
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                2,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                46,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                18,
+                3
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                2,
+                2,
+                0,
+                22,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                6,
+                34,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                2,
+                2,
+                0,
+                6,
+                6,
+                48,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                6,
+                30,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                3,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                21,
+                3
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                3,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                3,
+                18,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/168124-neuauflage-3-cards-blind-runde-38/"
+}

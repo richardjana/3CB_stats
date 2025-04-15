@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mox Sapphire",
+                "Deserted Temple",
+                "Wake Thrasher"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Words of Wilding",
+                "Sungrass Prairie",
+                "Mage's Attendant"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Factory",
+                "Thespian's Stage",
+                "Urza's Saga"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mishra's Workshop",
+                "Kaldra Compleat",
+                "Meteor Golem"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Sterni",
+            "cards": [
+                "Gingerbrute",
+                "City of Traitors",
+                "Sword of Feast and Famine"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Emrakul, the Promised End"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Mishra's Workshop",
+                "Myr Battlesphere",
+                "Myr Turbine"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Karn Liberated",
+                "Chronomaton"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lordfire",
+            "cards": [
+                "Mishra's Workshop",
+                "Kaldra Compleat",
+                "Meteor Golem"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Sol Ring",
+                "Thought-Knot Seer"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "IMP",
+            "cards": [
+                "Mishra's Workshop",
+                "Wurmcoil Engine",
+                "Wurmcoil Engine"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Workshop",
+                "Stuffy Doll",
+                "Phyrexian Revoker"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                1,
+                6,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                4,
+                0,
+                0,
+                0,
+                6,
+                3,
+                3,
+                3,
+                0,
+                2,
+                0,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                21
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                6,
+                2,
+                6,
+                52
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                6,
+                0,
+                3,
+                0,
+                6,
+                3,
+                0,
+                0,
+                3,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                3,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                6,
+                6,
+                6,
+                3,
+                3,
+                0,
+                6,
+                6,
+                6,
+                3,
+                54
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                52
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                2,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                6,
+                2,
+                6,
+                3,
+                6,
+                0,
+                2,
+                6,
+                0,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                3,
+                0,
+                0,
+                3,
+                3,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172954-neuauflage-3-cards-blind-runde-84/"
+}

@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Wasteland",
+                "Aboleth Spawn"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Chancellor of the Annex",
+                "Wasteland",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Dark Depths",
+                "Thespian's Stage",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Chancellor of the Annex",
+                "Chancellor of the Forge",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lordfire",
+            "cards": [
+                "Chancellor of the Annex",
+                "Wasteland",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Chancellor of the Annex",
+                "Icatian Store",
+                "Strip Mine"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Chancellor of the Annex",
+                "Chancellor of the Forge",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Thassa's Oracle",
+                "Cavern of Souls"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "BlackHole",
+            "cards": [
+                "Chancellor of the Annex",
+                "Fountain of Cho",
+                "Maze of Ith"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                3,
+                0,
+                6,
+                50
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                2,
+                6,
+                2,
+                0,
+                2,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                11
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                2,
+                6,
+                0,
+                2,
+                6,
+                2,
+                0,
+                2,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                0,
+                6,
+                2,
+                0,
+                2,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                2,
+                16
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                2,
+                6,
+                0,
+                0,
+                2,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                6,
+                2,
+                2,
+                0,
+                2,
+                6,
+                0,
+                0,
+                35
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                0,
+                6,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171139-neuauflage-3-cards-blind-runde-65/"
+}

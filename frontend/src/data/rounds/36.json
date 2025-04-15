@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Pendelhaven",
+                "Black Lotus",
+                "Arlinn Kord // Arlinn, Embraced by the Moon"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "QKey",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Bongoking",
+            "cards": [
+                "Instigator Gang // Wildblood Pack",
+                "Black Lotus",
+                "Llanowar Reborn"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The green one",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "NumiChan",
+            "cards": [
+                "Brutal Cathar // Moonrage Brute",
+                "Black Lotus",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "lollonator",
+            "cards": [
+                "Mountain",
+                "Village Messenger // Moonrise Intruder",
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Chalice of Life // Chalice of Death"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                3,
+                6,
+                3,
+                3,
+                6,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                4,
+                2,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                3,
+                3,
+                6,
+                3,
+                3,
+                6,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                0,
+                3,
+                0,
+                3,
+                6,
+                3,
+                3,
+                6,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                0,
+                6,
+                3,
+                3,
+                6,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                7
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                3,
+                6,
+                0,
+                3,
+                6,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                3,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                7
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                4,
+                0,
+                0,
+                6,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                3,
+                6,
+                3,
+                3,
+                6,
+                6,
+                0,
+                36
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/167942-neuauflage-3-cards-blind-runde-36/"
+}

@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Swamp",
+                "Hopeless Nightmare",
+                "Tel-Jilad Stylus"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lordfire",
+            "cards": [
+                "Inkmoth Nexus",
+                "Pendelhaven",
+                "Cathedral of War"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Vraska the Unseen",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Elspeth, Sun's Champion"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Peat Bog",
+                "Sanctum of Stone Fangs",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Davriel, Rogue Shadowmage",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "The Restoration of Eiganjo // Architect of Restoration",
+                "Pithing Needle"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Ashiok, Nightmare Muse"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "IMP",
+            "cards": [
+                "Bitterblossom",
+                "Bitterblossom",
+                "Peat Bog"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Pithing Needle",
+                "Bitterblossom"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                6,
+                6,
+                0,
+                0,
+                3,
+                6,
+                1,
+                31
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                3,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                1,
+                2,
+                0,
+                4,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                1,
+                1,
+                6,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                3,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                3,
+                4,
+                6,
+                0,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                2,
+                4,
+                0,
+                0,
+                0,
+                0,
+                1,
+                3,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                3,
+                6,
+                4,
+                6,
+                6,
+                3,
+                4,
+                0,
+                6,
+                0,
+                41
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                1,
+                0,
+                0,
+                3,
+                0,
+                3,
+                0,
+                0,
+                6,
+                19
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                4,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                34
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173398-neuauflage-3-cards-blind-runde-90/"
+}

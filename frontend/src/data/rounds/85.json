@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Mystic Gate",
+                "Meddling Mage"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Orochi Leafcaller",
+                "Exsanguinate",
+                "Darkmoss Bridge"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Ayula's Influence",
+                "Black Lotus",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "Darkwater Catacombs",
+                "Thopter Foundry",
+                "Sword of the Meek"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Kargan Dragonlord",
+                "Pithing Needle"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Pithing Needle"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Iksquadrat",
+            "cards": [
+                "Emrakul, the Aeons Torn",
+                "Lion's Eye Diamond",
+                "Shelldock Isle"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Twilight Mire",
+                "Hexdrinker",
+                "Dread Fugue"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "IMP",
+            "cards": [
+                "Dryad Arbor",
+                "Snapback",
+                "Vizzerdrix"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Geothermal Crevice",
+                "Lampad of Death's Vigil",
+                "Barrage of Expendables"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "City of Traitors",
+                "Spawning Pit",
+                "The Filigree Sylex"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                3,
+                6,
+                6,
+                6,
+                3,
+                6,
+                0,
+                0,
+                39
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                3,
+                6,
+                3,
+                0,
+                6,
+                3,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                0,
+                3,
+                4,
+                6,
+                3,
+                6,
+                6,
+                2,
+                36
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                3,
+                6,
+                0,
+                3,
+                3,
+                6,
+                3,
+                6,
+                3,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                0,
+                4,
+                6,
+                3,
+                0,
+                3,
+                3,
+                28
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                1,
+                3,
+                1,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                6,
+                3,
+                3,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                3,
+                3,
+                3,
+                6,
+                3,
+                0,
+                6,
+                0,
+                1,
+                34
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                3,
+                0,
+                3,
+                3,
+                6,
+                3,
+                6,
+                6,
+                0,
+                3,
+                39
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                3,
+                2,
+                0,
+                3,
+                6,
+                3,
+                4,
+                6,
+                3,
+                0,
+                36
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173020-neuauflage-3-cards-blind-runde-85/"
+}

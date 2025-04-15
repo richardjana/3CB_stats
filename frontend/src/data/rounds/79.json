@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Bottomless Vault",
+                "Spawning Pool"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Dwarven Hold",
+                "Searing Touch",
+                "Searing Touch"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Subterranean Hangar",
+                "Cavern of Souls",
+                "Prodigal Sorcerer"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lordfire",
+            "cards": [
+                "Rushwood Grove",
+                "Skylasher",
+                "Leaf Arrow"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Dwarven Hold",
+                "Dark Depths"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Yavimaya Hollow",
+                "Rushwood Grove",
+                "Wilson, Refined Grizzly"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Chancellor of the Annex",
+                "Rushwood Grove",
+                "Toski, Bearer of Secrets"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Dwarven Hold",
+                "Torch Breath",
+                "Chandra, Awakened Inferno"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Nightshade Stinger",
+                "Chancellor of the Annex",
+                "Cavern of Souls"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172542-neuauflage-3-cards-blind-runde-79/"
+}

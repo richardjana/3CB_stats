@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Myr Superion",
+                "Summary Dismissal",
+                "The Kami War // O-Kagachi Made Manifest"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Tidehollow Sculler",
+                "Summary Dismissal",
+                "Callidus Assassin"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Tidehollow Sculler",
+                "Sorin, Lord of Innistrad",
+                "Elspeth, Sun's Champion"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "hoempes",
+            "cards": [
+                "Steely Resolve",
+                "Bloodletter of Aclazotz",
+                "Blood Tribute"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Silver Seraph",
+            "cards": [
+                "Deep-Cavern Bat",
+                "Summary Dismissal",
+                "Demonic Covenant"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Crystalline Sliver",
+                "Bonescythe Sliver",
+                "Megantic Sliver"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Valki, God of Lies // Tibalt, Cosmic Impostor",
+                "Summary Dismissal",
+                "The Kami War // O-Kagachi Made Manifest"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Assassin's Trophy",
+                "Advent of the Wurm",
+                "Torrential Gearhulk"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Daeron",
+            "cards": [
+                "Bitterblossom",
+                "Stoic Sphinx",
+                "Time Stop"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Void Mirror",
+                "Dragonlord Dromoka"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Sterni",
+            "cards": [
+                "Cruelclaw's Heist",
+                "Minsc & Boo, Timeless heroes",
+                "Time Stop"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Deep-Cavern Bat",
+                "Summary Dismissal",
+                "Quagnoth"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                2,
+                2,
+                36
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                2,
+                6,
+                0,
+                2,
+                44
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                3,
+                0,
+                0,
+                0,
+                2,
+                17
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                3,
+                2,
+                6,
+                6,
+                6,
+                6,
+                53
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                3,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                47
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                2,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                2,
+                0,
+                0,
+                6,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                2,
+                2,
+                2,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175676-neuauflage-3-cards-blind-runde-120/"
+}

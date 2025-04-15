@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                " Force of Will",
+                " Misdirection",
+                " Vraska the Unseen"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                " Lavinia, Azorius Renegade",
+                " Force of Will",
+                " Meddling Mage"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                " Memnite",
+                " Deputy of Detention",
+                " Mesmeric Fiend"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                " Ratchet Bomb",
+                " City of Traitors",
+                "Chandra, Awakened Inferno"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                " Cavern of Souls",
+                " Leyline of Sanctity",
+                "Frost Titan"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Kratos Aurion",
+            "cards": [
+                " Cavern of Souls",
+                " Sigarda, Host of Herons",
+                "Myr Scrapling"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                " Black Lotus",
+                " Fist of Suns",
+                " Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                " Savage Summoning",
+                " Vampire Hexmage",
+                " Dark Depths"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                " Hullbreaker Horror",
+                " Black Lotus",
+                " Noxious Revival"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                " Surrak Dragonclaw",
+                " Snapback",
+                " Force of Negation"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                6,
+                2,
+                4,
+                3,
+                6,
+                0,
+                6,
+                4,
+                34
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                3,
+                3,
+                3,
+                6,
+                3,
+                6,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                3,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                15
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                1,
+                3,
+                6,
+                6,
+                0,
+                1,
+                2,
+                0,
+                3,
+                2,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                4,
+                0,
+                0,
+                0,
+                0,
+                4,
+                26
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                2,
+                6,
+                0,
+                6,
+                0,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                1,
+                3,
+                6,
+                1,
+                2,
+                1,
+                6,
+                6,
+                6,
+                0,
+                32
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/168848-neuauflage-3-cards-blind-runde-45/"
+}

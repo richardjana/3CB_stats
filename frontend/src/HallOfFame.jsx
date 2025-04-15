@@ -1,21 +1,26 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router';
 
-import use3cbApi from './Axios3cbApi';
 import TableContainer from './TableContainer';
 
 const HallOfFame = () => {
   const [roundWinners, setRoundWinners] = useState([]);
   const [tableData, setTableData] = useState([]);
 
-  const { data, isLoading, errorMessage } = use3cbApi('hall_of_fame');
-
-  useEffect(() => {
-    if (data) {
-        setRoundWinners(data.rounds);
-        setTableData(data.table);
-    }
-  }, [data]);
+  useEffect(() => {      
+        const loadData = async () => {
+          try {
+            const data = await import(`./data/hall_of_fame.json`);
+    
+            setRoundWinners(data.rounds);
+            setTableData(data.table);
+          } catch (err) {
+            console.error('Popular cards data not found:', err);
+          }
+        };
+    
+        loadData();
+      }, []);
 
   const columns = [
     {Header: 'Name', accessor: 'player'},
@@ -25,9 +30,6 @@ const HallOfFame = () => {
     {Header: 'Punkte (Mittel)', accessor: 'score_mean', infoHover: 'score'},
     {Header: 'Punkte (Summe)', accessor: 'score_sum', infoHover: 'score'}
   ];
-
-  if (errorMessage) return <div>Error: {errorMessage}</div>;
-  if (!errorMessage && isLoading) return <div>Loading...</div>;
 
   return (
     <div>

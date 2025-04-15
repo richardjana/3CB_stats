@@ -1,0 +1,457 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Scrubland",
+                "Duress",
+                "Serra Ascendant"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Daeron",
+            "cards": [
+                "Kabira Crossroads",
+                "Black Lotus",
+                "Aetherflux Reservoir"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hoempes",
+            "cards": [
+                "Serra Ascendant",
+                "Pick Your Poison",
+                "Savannah"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Vraska, Relic Seeker"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "GoDJi8",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Vryn Wingmare"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Sheltered Valley",
+                "Black Lotus",
+                "Aetherflux Reservoir"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Serra Ascendant",
+                "Serra Ascendant"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Michael W",
+            "cards": [
+                "Wasteland",
+                "Inferno of the Star Mounts",
+                "Dwarven Hold"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Sorin Markov"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "lordfire",
+            "cards": [
+                "Kabira Crossroads",
+                "Aetherflux Reservoir",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Bongoking",
+            "cards": [
+                "Meekstone",
+                "Scalding Tongs",
+                "Mishra's Workshop"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Thoradin",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Icatian Store",
+                "Sand Silos",
+                "Ulamog, the Infinite Gyre"
+            ]
+        },
+        {
+            "index": 15,
+            "player": "thiefAaron",
+            "cards": [
+                "Black Lotus",
+                "Blossoming Sands",
+                "Aetherflux Reservoir"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                2,
+                3,
+                6,
+                0,
+                3,
+                0,
+                2,
+                3,
+                6,
+                4,
+                47,
+                6,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                4,
+                3,
+                0,
+                0,
+                3,
+                3,
+                0,
+                0,
+                2,
+                6,
+                29,
+                0,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                1,
+                0,
+                0,
+                6,
+                0,
+                1,
+                2,
+                2,
+                3,
+                1,
+                2,
+                25,
+                2,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                3,
+                6,
+                0,
+                0,
+                0,
+                3,
+                4,
+                6,
+                0,
+                3,
+                6,
+                43,
+                0,
+                6,
+                3
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                42,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                66,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                4,
+                3,
+                0,
+                0,
+                0,
+                3,
+                2,
+                0,
+                3,
+                4,
+                34,
+                0,
+                6,
+                3
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                2,
+                1,
+                6,
+                0,
+                3,
+                0,
+                2,
+                3,
+                3,
+                2,
+                40,
+                6,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                6,
+                2,
+                0,
+                6,
+                6,
+                2,
+                2,
+                0,
+                0,
+                6,
+                6,
+                50,
+                6,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                3,
+                6,
+                0,
+                6,
+                6,
+                57,
+                0,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                2,
+                4,
+                3,
+                0,
+                0,
+                3,
+                3,
+                0,
+                0,
+                0,
+                6,
+                29,
+                0,
+                6,
+                2
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                1,
+                0,
+                2,
+                0,
+                0,
+                0,
+                1,
+                2,
+                0,
+                0,
+                0,
+                0,
+                11,
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                56,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                44,
+                6,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 15,
+            "values": [
+                0,
+                2,
+                3,
+                3,
+                0,
+                0,
+                3,
+                3,
+                0,
+                0,
+                2,
+                3,
+                25,
+                0,
+                6,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174164-neuauflage-3-cards-blind-runde-100/"
+}

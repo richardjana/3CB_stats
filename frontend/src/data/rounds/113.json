@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Meddling Mage",
+                "Counterspell",
+                "An Offer You Can't Refuse"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Crashing Footfalls",
+                "An Offer You Can't Refuse",
+                "Spell Queller"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Tidehollow Sculler",
+                "Thalia, Guardian of Thraben",
+                "Mother of Runes"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Invisible Stalker",
+                "Taste for Mayhem",
+                "Counterspell"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Meddling Mage",
+                "Plumecreed Escort",
+                "Savage Summoning"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The green one",
+            "cards": [
+                "Sanctum of Stone Fangs",
+                "Sanctum of Stone Fangs",
+                "Sanctum of Tranquil Light"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Collective Brutality",
+                "Iona, Shield of Emeria",
+                "Exhume"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Smallpox",
+                "Nether Spirit",
+                "Counterflux"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Nyxathid",
+                "Spell Snare",
+                "An Offer You Can't Refuse"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Old-Growth Dryads",
+                "Aven Interrupter",
+                "Savage Summoning"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                1,
+                6,
+                0,
+                6,
+                6,
+                2,
+                3,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                4,
+                0,
+                0,
+                3,
+                0,
+                6,
+                3,
+                4,
+                2,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                42
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                3,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                0,
+                1,
+                6,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                11
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                2,
+                6,
+                0,
+                6,
+                6,
+                2,
+                0,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                48
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175348-neuauflage-3-cards-blind-runde-113/"
+}

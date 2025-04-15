@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Brudiclad, Telchor Engineer"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Wurmcoil Engine"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Ancient Den",
+                "Court Homunculus",
+                "Court Homunculus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Wasteland",
+                "Inkmoth Nexus",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Oko, Thief of Crowns",
+                "Teferi's Isle",
+                "Pendelhaven"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Golgari Rot Farm",
+                "Treetop Village"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Yavimaya Hollow",
+                "Yavimaya, Cradle of Growth",
+                "Go-Shintai of Boundless Vigor"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Brudiclad, Telchor Engineer"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Inkmoth Nexus",
+                "Inkmoth Nexus",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Subterranean Hangar",
+                "Maze of Ith",
+                "Blackbloom Rogue // Blackbloom Bog"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                5
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                3,
+                0,
+                2,
+                6,
+                6,
+                0,
+                2,
+                2,
+                27
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                6,
+                2,
+                0,
+                6,
+                3,
+                0,
+                0,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                2,
+                6,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                2,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                22
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169194-neuauflage-3-cards-blind-runde-48/"
+}

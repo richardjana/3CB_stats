@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Guerrilla Tactics"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Karakas",
+                "Aether Vial",
+                "Mangara of Corondor"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "NumiChan",
+            "cards": [
+                "City of Traitors",
+                "Phyrexian Dreadnought",
+                "Eldrazi Mimic"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Subterranean Hangar",
+                "Dark Depths",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hoempes",
+            "cards": [
+                "Fountain of Cho",
+                "Gideon of the Trials",
+                "Gideon, Ally of Zendikar"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Aether Hub",
+                "Goblin Guide",
+                "Flayer Husk"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Dreadship Reef",
+                "Thespian's Stage",
+                "Dark Depths"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "City of Traitors",
+                "Mana Vault",
+                "Thought-Knot Seer"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "City of Traitors",
+                "Ichorclaw Myr",
+                "Neglected Heirloom // Ashmouth Blade"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                3,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                23
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                6,
+                0,
+                3,
+                6,
+                6,
+                3,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                3,
+                0,
+                6,
+                6,
+                2,
+                0,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                3,
+                6,
+                15
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                3,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165002-neuauflage-3-cards-blind-runde-8/"
+}

@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Force of Will",
+                "Force Spike",
+                "Wurmcalling"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Collector Ouphe"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Collector Ouphe"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Sprout Swarm",
+                "Capsize",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Tolarian Academy",
+                "Urza's Saga",
+                "Brazen Borrower"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Cenn's Tactician"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Blot out the Sky",
+                "Assassin's Trophy",
+                "An Offer You Can't Refuse"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Peat Bog",
+                "Nezumi Shortfang // Stabwhisker the Odious",
+                "Infernal Grasp"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lordfire",
+            "cards": [
+                "Collector Ouphe",
+                "Old-Growth Dryads",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Blot out the Sky"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Force of Negation",
+                "Supply // Demand",
+                "Far // Away"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Sterni",
+            "cards": [
+                "Teething Wurmlet",
+                "Elvish Archivist",
+                "Havenwood Battleground"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                0,
+                6,
+                6,
+                0,
+                2,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                20
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                20
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                6,
+                6,
+                6,
+                63
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                6,
+                6,
+                2,
+                0,
+                0,
+                2,
+                4,
+                6,
+                2,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                3,
+                2,
+                0,
+                6,
+                0,
+                3,
+                6,
+                3,
+                35
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                0,
+                1,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                25
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                2,
+                3,
+                6,
+                6,
+                0,
+                6,
+                3,
+                50
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                20
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                3,
+                6,
+                0,
+                42
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173847-neuauflage-3-cards-blind-runde-97/"
+}

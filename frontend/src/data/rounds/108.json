@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Lotus Bloom",
+                "Rotting Regisaur"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Elite Spellbinder"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Magus of the Tabernacle",
+                "Mox Pearl"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Thalia, Guardian of Thraben",
+                "Giver of Runes"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Mother of Runes",
+                "Skrelv's Hive"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "IMP",
+            "cards": [
+                "Black Lotus",
+                "Deadeye Harpooner",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lordfire",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Hydroelectric Specimen // Hydroelectric Laboratory",
+                "Seal of Removal",
+                "Chronomaton"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Strength of the Harvest // Haven of the Harvest",
+                "Drop of Honey",
+                "Cenn's Tactician"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                1,
+                0,
+                2,
+                6,
+                6,
+                0,
+                2,
+                29
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                2,
+                2,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                3,
+                6,
+                2,
+                0,
+                0,
+                0,
+                2,
+                19
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                2,
+                6,
+                0,
+                6,
+                6,
+                6,
+                2,
+                2,
+                0,
+                2,
+                32
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                4,
+                0,
+                3,
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                3,
+                6,
+                25
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                3,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                2,
+                0,
+                2,
+                32
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                6,
+                6,
+                6,
+                2,
+                0,
+                0,
+                2,
+                32
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                41
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                0,
+                2,
+                2,
+                0,
+                6,
+                6,
+                2,
+                2,
+                2,
+                0,
+                24
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174831-neuauflage-3-cards-blind-runde-108/"
+}

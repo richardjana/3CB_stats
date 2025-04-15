@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Countersquall",
+                "Gut Shot",
+                "Nicol Bolas, Dragon-God"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Wasteland",
+                "Chandra's Regulator",
+                "Chandra, Awakened Inferno"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Isamaru, Hound of Konda",
+                "Dovin, Hand of Control"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Pithing Needle",
+                "The Tabernacle at Pendrell Vale",
+                "Nissa, Who Shakes the World"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lordfire",
+            "cards": [
+                "Elvish Spirit Guide",
+                "Ranger's Guile",
+                "Garruk, Apex Predator"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Force of Will",
+                "The Tabernacle at Pendrell Vale",
+                "Karn Liberated"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "The Elderspell",
+                "Liliana's Triumph",
+                "Liliana, the Necromancer"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Unmask",
+                "Sultai Emissary",
+                "Ugin, the Spirit Dragon"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Swamp",
+                "Price of Betrayal",
+                "Davriel, Rogue Shadowmage"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "IMP",
+            "cards": [
+                "Triskaidekaphobia",
+                "Vault of the Archangel",
+                "Sorin Markov"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Prison Realm",
+                "Nicol Bolas, Dragon-God"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                4,
+                6,
+                3,
+                3,
+                3,
+                6,
+                3,
+                6,
+                4,
+                4,
+                42
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                1,
+                0,
+                6,
+                1,
+                0,
+                1,
+                4,
+                0,
+                6,
+                0,
+                0,
+                19
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                4,
+                6,
+                0,
+                4,
+                0,
+                2,
+                3,
+                3,
+                3,
+                2,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                6,
+                1,
+                0,
+                3,
+                6,
+                4,
+                6,
+                6,
+                3,
+                44
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                4,
+                6,
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                6,
+                3,
+                49
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                1,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                1,
+                6,
+                1,
+                11
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                6,
+                3,
+                1,
+                0,
+                6,
+                0,
+                6,
+                6,
+                2,
+                39
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                4,
+                0,
+                0,
+                3,
+                2,
+                12
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                1,
+                6,
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                19
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                1,
+                6,
+                6,
+                2,
+                3,
+                3,
+                4,
+                2,
+                2,
+                6,
+                0,
+                35
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171032-neuauflage-3-cards-blind-runde-64/"
+}

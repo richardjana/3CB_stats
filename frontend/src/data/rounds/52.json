@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Boseiju, Who Endures",
+                "Crashing Footfalls",
+                "Collector Ouphe"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Cavern of Souls",
+                "Permeating Mass",
+                "Kataki, War's Wage"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "IMP",
+            "cards": [
+                "Gut Shot",
+                "Gorilla Shaman",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Mutavault",
+                "Stony Silence"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Collector Ouphe"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Force of Will",
+                "Misthollow Griffin",
+                "Collector Ouphe"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Tolarian Academy",
+                "Master of Etherium",
+                "Titania's Song"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Workshop",
+                "Null Rod",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Plains",
+                "Toolcraft Exemplar",
+                "Toolcraft Exemplar"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "SoulCollector",
+            "cards": [
+                "Hall of Storm Giants",
+                "Ensoul Artifact",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Collector Ouphe",
+                "Endurance",
+                "Force of Vigor"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                1,
+                6,
+                6,
+                6,
+                57
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                4,
+                2,
+                2,
+                6,
+                0,
+                0,
+                2,
+                6,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                3,
+                6,
+                6,
+                6,
+                2,
+                6,
+                6,
+                0,
+                43
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                1,
+                2,
+                0,
+                2,
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                6,
+                19
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                3,
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                2,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                16
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                2,
+                6,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                4,
+                6,
+                2,
+                6,
+                6,
+                6,
+                2,
+                6,
+                0,
+                4,
+                2,
+                0,
+                44
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                0,
+                2,
+                6,
+                6,
+                2,
+                0,
+                1,
+                0,
+                0,
+                0,
+                19
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                36
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169766-neuauflage-3-cards-blind-runde-52/"
+}

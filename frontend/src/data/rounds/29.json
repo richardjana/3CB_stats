@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Tidehollow Sculler",
+                "Counterspell",
+                "Assassin's Trophy"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Leyline of Anticipation",
+                "Thalia, Guardian of Thraben",
+                "Tidehollow Sculler"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Illusions of Grandeur",
+                "Donate",
+                "Counterspell"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Bongoking",
+            "cards": [
+                "Meddling Mage",
+                "Grief",
+                "Flash"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Meddling Mage",
+                "Counterspell",
+                "Diabolic Edict"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Disallow",
+                "Thespian's Stage",
+                "Dark Depths"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hoempes",
+            "cards": [
+                "Sneak Attack",
+                "Emrakul, the Aeons Torn",
+                "Children of Korlis"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "NumiChan",
+            "cards": [
+                "Leyline of Anticipation",
+                "Memnite",
+                "Demonfire"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Unmask"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Death's Shadow",
+                "Death's Shadow",
+                "Archmage's Charm"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "BlackHole",
+            "cards": [
+                "Chancellor of the Dross",
+                "Force of Will",
+                "Misdirection"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Savage Summoning",
+                "Lavinia, Azorius Renegade",
+                "Spell Queller"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                6,
+                4,
+                1,
+                6,
+                6,
+                6,
+                4,
+                4,
+                4,
+                0,
+                43
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                4,
+                6,
+                0,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                1,
+                0,
+                3,
+                0,
+                1,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                4,
+                2,
+                3,
+                4,
+                0,
+                6,
+                6,
+                6,
+                4,
+                3,
+                4,
+                0,
+                42
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                1,
+                6,
+                1,
+                0,
+                1,
+                0,
+                3,
+                6,
+                0,
+                0,
+                2,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                1,
+                6,
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                1,
+                0,
+                6,
+                6,
+                1,
+                0,
+                6,
+                6,
+                2,
+                0,
+                0,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                42
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/167186-neuauflage-3-cards-blind-runde-29/"
+}

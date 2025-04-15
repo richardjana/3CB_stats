@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Brass",
+                "Death's Shadow",
+                "Death's Shadow"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Unmask",
+                "Contagion",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Providence",
+                "Speaker of the Heavens",
+                "Karakas"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Bongoking",
+            "cards": [
+                "Soul Spike",
+                "Chancellor of the Dross",
+                "Chancellor of the Dross"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Chancellor of the Forge",
+                "Island",
+                "Foil"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Ulamog, the Infinite Gyre",
+                "Shelldock Isle"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lordfire",
+            "cards": [
+                "Chancellor of the Dross",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Death's Shadow",
+                "Cavern of Souls",
+                "Dismember"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Leyline of Singularity",
+                "Cenn's Tactician"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Chancellor of the Forge",
+                "Pyrokinesis",
+                "Wasteland"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                0,
+                4,
+                0,
+                1,
+                4,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                2,
+                3,
+                3,
+                1,
+                2,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                2,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                1,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                2,
+                2,
+                31
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                3,
+                2,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                4,
+                3,
+                6,
+                6,
+                0,
+                6,
+                0,
+                3,
+                4,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                1,
+                4,
+                6,
+                0,
+                6,
+                0,
+                3,
+                0,
+                2,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                2,
+                0,
+                2,
+                0,
+                1,
+                2,
+                0,
+                2,
+                17
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                2,
+                6,
+                0,
+                0,
+                2,
+                0,
+                20
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172267-neuauflage-3-cards-blind-runde-76/"
+}

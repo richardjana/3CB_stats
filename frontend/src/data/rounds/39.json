@@ -1,0 +1,261 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Subterranean Hangar"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Ensnaring Bridge",
+                "Mishra's Workshop",
+                "Strixhaven Stadium",
+                "Thermal Navigator"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Chancellor of the Dross",
+                "Chancellor of the Dross",
+                "Black Lotus",
+                "Sorin, Imperious Bloodlord"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Death's Shadow",
+                "Death's Shadow",
+                "Cavern of Souls",
+                "Not of this World"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Forest",
+                "Old-Growth Dryads",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Magus of the Moon"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Force of Will",
+                "Snapback",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "thiefAaron",
+            "cards": [
+                "Cavern of Souls",
+                "Serra Ascendant"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Chaplain of Alms"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Minicreepers",
+                "Inkmoth Nexus",
+                "Mishra's Factory"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                2,
+                6,
+                22
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                32
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/168235-neuauflage-3-cards-blind-runde-39/"
+}

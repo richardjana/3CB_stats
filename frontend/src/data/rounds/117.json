@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mox Ruby",
+                "Mishra's Factory",
+                "Lightning Bolt"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Preacher",
+                "Pendelhaven"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Forest",
+                "Mishra's Factory",
+                "Drop of Honey"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Moët",
+            "cards": [
+                "Mishra's Workshop",
+                "Yotian Soldier",
+                "Yotian Soldier"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Sterni",
+            "cards": [
+                "Black Lotus",
+                "White Knight",
+                "Spirit Link"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hoempes",
+            "cards": [
+                "Black Lotus",
+                "Preacher",
+                "Diamond Valley"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Mahamoti Djinn"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Factory",
+                "The Tabernacle at Pendrell Vale",
+                "Hammerheim"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lollonator",
+            "cards": [
+                "Kird Ape",
+                "Taiga",
+                "Berserk"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Taiga",
+                "Kird Ape",
+                "Kird Ape"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Swords to Plowshares",
+                "Plains",
+                "Savannah Lions"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Michael W",
+            "cards": [
+                "Karakas",
+                "Savannah Lions",
+                "Swords to Plowshares"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                2,
+                0,
+                6,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                2,
+                3,
+                6,
+                2,
+                2,
+                6,
+                0,
+                0,
+                23
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                6,
+                0,
+                2,
+                6,
+                6,
+                6,
+                2,
+                2,
+                2,
+                2,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                2,
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2,
+                2,
+                6,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                2,
+                0,
+                2,
+                2,
+                14
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                2,
+                0,
+                6,
+                0,
+                2,
+                6,
+                0,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                2,
+                2,
+                6,
+                6,
+                6,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                2,
+                0,
+                2,
+                2,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                2,
+                2,
+                0,
+                6,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                6,
+                2,
+                0,
+                2,
+                6,
+                6,
+                2,
+                2,
+                0,
+                0,
+                2,
+                30
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                2,
+                6,
+                2,
+                0,
+                2,
+                6,
+                6,
+                2,
+                2,
+                0,
+                2,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175530-neuauflage-3-cards-blind-runde-117/"
+}

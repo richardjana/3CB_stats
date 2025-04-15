@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Orzhov Basilica",
+                "Volrath's Stronghold",
+                "Necrotic Sliver"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Elvish Spirit Guide",
+                "Elvish Spirit Guide",
+                "Mayor of Avabruck // Howlpack Alpha"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Tropical Island",
+                "Daze",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The green one",
+            "cards": [
+                "Peat Bog",
+                "Bitterblossom",
+                "Sanctum of Stone Fangs"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Chancellor of the Forge",
+                "Force of Will",
+                "Snapback"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Memnite",
+                "Snapback",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hoempes",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Wasteland",
+                "Mishra's Factory",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Bottomless Vault",
+                "Maze of Ith",
+                "Emrakul, the Aeons Torn"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                0,
+                1,
+                6,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                20
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                4,
+                0,
+                2,
+                0,
+                4,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                6,
+                13
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166294-neuauflage-3-cards-blind-runde-20/"
+}

@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Maze of Ith",
+                "Inkmoth Nexus",
+                "Leyline of the Guildpact"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lordfire",
+            "cards": [
+                "Sorin, Imperious Bloodlord",
+                "Exsanguinator Cavalry",
+                "Vein Ripper"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Daze",
+                "Reanimate",
+                "Archon of Cruelty"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Lurrus of the Dream-Den",
+                "Liliana of the Veil",
+                "Leyline of the Void"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Isamaru, Hound of Konda",
+                "Path to Exile",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The green one",
+            "cards": [
+                "Grafted Wargear",
+                "Mishra's Workshop",
+                "Nyxborn Behemoth"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Crashing Footfalls",
+                "Force of Will",
+                "Enter the Infinite"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Cenn's Tactician",
+                "Skrelv, Defector Mite",
+                "Leyline of Singularity"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mox Jet",
+                "Oath of Druids",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Factory",
+                "Karakas",
+                "Leyline of Singularity"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                2,
+                6,
+                6,
+                6,
+                3,
+                6,
+                37
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                1,
+                0,
+                0,
+                19
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                1,
+                6,
+                6,
+                6,
+                2,
+                6,
+                0,
+                39
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                6,
+                4,
+                0,
+                2,
+                6,
+                6,
+                2,
+                6,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                2,
+                6,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                3,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                4,
+                2,
+                2,
+                2,
+                6,
+                6,
+                0,
+                6,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                6,
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                48
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174982-neuauflage-3-cards-blind-runde-110/"
+}

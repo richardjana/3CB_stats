@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "Empty the Warrens"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "BlackHole",
+            "cards": [
+                "Urborg, Tomb of Yawgmoth",
+                "Exhume",
+                "It That Betrays"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Empty the Warrens",
+                "Gaea's Cradle"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Urza's Saga",
+                "The Tabernacle at Pendrell Vale",
+                "Tolarian Academy"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Swamp",
+                "Culling the Weak",
+                "Phyrexian Obliterator"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Urborg, Tomb of Yawgmoth",
+                "Phylactery Lich",
+                "Ego Drain"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Daeron",
+            "cards": [
+                "Karakas",
+                "Cathedral of War",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Argivian Find",
+                "Aeve, Progenitor Ooze"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                6,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                6,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                2,
+                3,
+                6,
+                23
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                1,
+                6,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                6,
+                3,
+                2,
+                4,
+                0,
+                3,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                3,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                0,
+                33
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175714-neuauflage-3-cards-blind-runde-121/"
+}

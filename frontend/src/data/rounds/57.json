@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Ensnaring Bridge",
+                "Chancellor of the Dross",
+                "Elspeth, Knight-Errant Emblem"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Elspeth, Knight-Errant Emblem"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Kiln Fiend",
+                "Brute Force",
+                "Domri Rade Emblem"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Windborn Muse",
+                "Domri Rade Emblem"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Island",
+                "Foil",
+                "3/3-Token mit Lifelink"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Bongoking",
+            "cards": [
+                "Illusionary Mask",
+                "City of Traitors",
+                "Domri Rade Emblem"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Ensnaring Bridge",
+                "Bottle Gnomes",
+                "Liliana, Defiant Necromancer Emblem"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Ensnaring Bridge",
+                "Bottle Gnomes",
+                "Liliana, Defiant Necromancer Emblem"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lollonator",
+            "cards": [
+                "Torpor Orb",
+                "Phyrexian Dreadnought",
+                "Elspeth, Knight-Errant Emblem"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leonin Squire",
+                "Tendrils of Agony",
+                "3/3-Token mit Lifelink"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Urborg, Tomb of Yawgmoth",
+                "Hunted Horror",
+                "Domri Rade Emblem"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                1,
+                1,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                4,
+                0,
+                1,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                4,
+                4,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                15
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                60
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                4,
+                6,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                51
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                51
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                4,
+                6,
+                17
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/170344-neuauflage-3-cards-blind-runde-57/"
+}

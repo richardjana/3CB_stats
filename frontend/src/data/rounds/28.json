@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of Anticipation",
+                "Super Lotus",
+                "Grief"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Super Lotus",
+                "Black Lotus",
+                "Ugin, the Spirit Dragon"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Super Lotus",
+                "Entomber Exarch"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Super Lotus",
+                "Noxious Revival",
+                "Shifting Ceratops"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hoempes",
+            "cards": [
+                "Force of Will",
+                "Dryad Arbor",
+                "Slippery Bogle"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The green one",
+            "cards": [
+                "Super Lotus",
+                "Thalia, Guardian of Thraben",
+                "Elite Spellbinder"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Voidstone Gargoyle",
+                "Super Lotus"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Force of Will",
+                "Slippery Bogle",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "NumiChan",
+            "cards": [
+                "Leyline of Anticipation",
+                "Super Lotus",
+                "Elite Spellbinder"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Super Lotus",
+                "Noxious Revival",
+                "Thrun, the Last Troll"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                2,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                11
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                6,
+                1,
+                0,
+                6,
+                6,
+                0,
+                2,
+                35
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                2,
+                2,
+                6,
+                0,
+                40
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                13
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                2,
+                6,
+                6,
+                0,
+                2,
+                6,
+                0,
+                40
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                2,
+                6,
+                6,
+                2,
+                0,
+                6,
+                0,
+                40
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                26
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/167061-neuauflage-3-cards-blind-runde-28/"
+}

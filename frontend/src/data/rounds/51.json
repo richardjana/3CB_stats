@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Dark Depths",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Helix Pinnacle",
+                "Black Lotus",
+                "Angelic Purge"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Metamorphose",
+                "Cathartic Adept"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Tree of Tales",
+                "Oko, Thief of Crowns"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Trinisphere",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Elite Spellbinder"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Gideon of the Trials",
+                "Dovin, Hand of Control"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Hickory Woodlot",
+                "Tempting Wurm",
+                "Tempting Wurm"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Path to Exile",
+                "Spiritual Visit"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Workshop",
+                "Trinisphere",
+                "Walking Ballista"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Black Lotus",
+                "Curse of Silence",
+                "Thalia, Guardian of Thraben"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                1,
+                6,
+                3,
+                0,
+                3,
+                6,
+                0,
+                3,
+                3,
+                31
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                4,
+                0,
+                0,
+                3,
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                3,
+                0,
+                3,
+                0,
+                6,
+                6,
+                0,
+                3,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                6,
+                3,
+                0,
+                0,
+                3,
+                6,
+                6,
+                0,
+                3,
+                36
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                6,
+                3,
+                0,
+                3,
+                0,
+                0,
+                2,
+                2,
+                1,
+                3,
+                23
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                2,
+                40
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                6,
+                3,
+                6,
+                6,
+                4,
+                6,
+                6,
+                0,
+                3,
+                49
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                6,
+                6,
+                3,
+                3,
+                0,
+                3,
+                6,
+                2,
+                3,
+                0,
+                35
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169589-neuauflage-3-cards-blind-runde-51/"
+}

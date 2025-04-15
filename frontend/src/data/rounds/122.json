@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Wasteland",
+                "Rotting Regisaur",
+                "Spiketail Drakeling"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Elvish Spirit Guide",
+                "Thalia, Guardian of Thraben"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Leyline of Anticipation",
+                "Force of Will",
+                "Frost Titan"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Schniggi",
+            "cards": [
+                "Anointed Peacekeeper",
+                "Leyline of Anticipation",
+                "Sink into Stupor // Soporific Springs"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Hypergenesis",
+                "Emrakul, the Aeons Torn",
+                "Progenitus"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Anointed Peacekeeper",
+                "Aven Interrupter"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Leyline of Anticipation",
+                "Chalice of the Void",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Sterni",
+            "cards": [
+                "Davriel, Rogue Shadowmage",
+                "Sorin, Lord of Innistrad",
+                "Karakas"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Dark Depths",
+                "Thespian's Stage"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Force of Will",
+                "Subtlety",
+                "Carnage Tyrant"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                6,
+                2,
+                17
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                2,
+                6,
+                0,
+                6,
+                6,
+                6,
+                2,
+                40
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                2,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                2,
+                42
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                6,
+                2,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                6,
+                2,
+                2,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175771-neuauflage-3-cards-blind-runde-122/"
+}

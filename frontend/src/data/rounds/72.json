@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Myr Superion",
+                "Myr Superion",
+                "Myr Superion"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Sol Ring",
+                "Anointed Peacekeeper",
+                "Soul Partition"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Aether Channeler",
+                "Tidehollow Sculler",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Goblin Welder",
+                "Eon Hub",
+                "The Underworld Cookbook"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Curse of Silence",
+                "Assassin's Trophy",
+                "Stonehoof Chieftain"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Gaddock Teeg",
+                "Sanctum Prelate",
+                "Gideon Blackblade"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Curse of Silence",
+                "Anointed Peacekeeper",
+                "Nicol Bolas, Dragon-God"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Sphere of Resistance",
+                "Clockspinning",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Wasteland",
+                "Anointed Peacekeeper",
+                "Anointed Peacekeeper"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                1,
+                3,
+                3,
+                10
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                1,
+                0,
+                6,
+                19
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                4,
+                6,
+                3,
+                1,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                6,
+                1,
+                0,
+                6,
+                3,
+                3,
+                6,
+                37
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                4,
+                4,
+                3,
+                3,
+                6,
+                0,
+                3,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                6,
+                4,
+                3,
+                6,
+                3,
+                0,
+                0,
+                31
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                15
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171822-neuauflage-3-cards-blind-runde-72/"
+}

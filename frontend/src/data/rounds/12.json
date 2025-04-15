@@ -1,0 +1,413 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Cavern of Souls",
+                "Old-Growth Dryads",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "hoempes",
+            "cards": [
+                "The Rack",
+                "Fountain of Cho",
+                "Chancellor of the Annex"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Chancellor of the Annex",
+                "Wasteland",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Wasteland",
+                "Dryad Arbor",
+                "Chancellor of the Annex"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Urborg, Tomb of Yawgmoth",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The green one",
+            "cards": [
+                "Wasteland",
+                "Fountain of Cho",
+                "Chancellor of the Annex"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "»Arcanis«",
+            "cards": [
+                "Warping Wail",
+                "The Rack",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Chancellor of the Annex",
+                "Fountain of Cho",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Chancellor of the Annex",
+                "Wasteland",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Bongoking",
+            "cards": [
+                "Chancellor of the Annex",
+                "Maze of Ith",
+                "Icatian Store"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "NumiChan",
+            "cards": [
+                "Dryad Arbor",
+                "Wasteland",
+                "Chancellor of the Annex"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Icatian Store",
+                "Chancellor of the Annex",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Fountain of Cho",
+                "Chancellor of the Annex",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "thiefAaron",
+            "cards": [
+                "Karakas",
+                "Fountain of Cho",
+                "Chancellor of the Annex"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                72,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                21,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                2,
+                60,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                2,
+                2,
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                28,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                0,
+                13,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                6,
+                0,
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                32,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                72,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                6,
+                2,
+                0,
+                0,
+                2,
+                2,
+                2,
+                2,
+                32,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                2,
+                2,
+                0,
+                2,
+                0,
+                2,
+                2,
+                2,
+                28,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                2,
+                2,
+                6,
+                2,
+                0,
+                2,
+                2,
+                0,
+                2,
+                2,
+                24,
+                2,
+                2
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                2,
+                2,
+                0,
+                2,
+                2,
+                2,
+                0,
+                2,
+                28,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                2,
+                2,
+                6,
+                2,
+                0,
+                2,
+                2,
+                2,
+                2,
+                0,
+                24,
+                2,
+                2
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                6,
+                2,
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                32,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                6,
+                0,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165439-forenliga-3-cards-blind-runde-12/"
+}

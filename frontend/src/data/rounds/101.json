@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of the Guildpact",
+                "City of Traitors",
+                "Scion of Draco"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "The Modern Age // Vector Glider",
+                "Chain of Vapor"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lordfire",
+            "cards": [
+                "Swamp",
+                "Divest",
+                "Nullhide Ferox"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Swamp",
+                "Hopeless Nightmare",
+                "Nullhide Ferox"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Phyrexia's Core",
+                "Mana Crypt",
+                "Mana Crypt"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Shelldock Isle",
+                "Lion's Eye Diamond",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Inkmoth Nexus",
+                "Wasteland",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Daeron",
+            "cards": [
+                "Cathedral of War",
+                "Inkmoth Nexus",
+                "Warping Wail"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "IMP",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Vraska the Unseen"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Bongoking",
+            "cards": [
+                "Chancellor of the Forge",
+                "Karakas",
+                "Leyline of Singularity"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Swamp",
+                "Nullhide Ferox",
+                "Hopeless Nightmare"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Saprazzan Cove",
+                "Illusions of Grandeur",
+                "Capsize"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Karakas",
+                "Cenn's Tactician",
+                "Skrelv, Defector Mite"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                3,
+                6,
+                3,
+                6,
+                48,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                2,
+                1,
+                3,
+                2,
+                2,
+                6,
+                6,
+                6,
+                1,
+                6,
+                44,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                2,
+                0,
+                2,
+                1,
+                0,
+                0,
+                0,
+                1,
+                0,
+                2,
+                0,
+                9,
+                1
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                4,
+                2,
+                0,
+                3,
+                0,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                50,
+                6
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                4,
+                3,
+                0,
+                3,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                52,
+                6
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                3,
+                0,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                51,
+                2
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                0,
+                2,
+                0,
+                2,
+                6,
+                6,
+                0,
+                2,
+                36,
+                4
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                6,
+                6,
+                0,
+                6,
+                32,
+                6
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                25,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                14,
+                2
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                4,
+                2,
+                2,
+                3,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                50,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                6,
+                0,
+                0,
+                20,
+                6
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                0,
+                4,
+                0,
+                0,
+                2,
+                1,
+                0,
+                0,
+                2,
+                0,
+                0,
+                9,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174277-neuauflage-3-cards-blind-runde-101/"
+}

@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Approach of the Second Sun",
+                "Ashiok's Erasure",
+                "Ashiok's Erasure"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "thiefAaron",
+            "cards": [
+                "Emrakul, the Promised End",
+                "Ulamog, the Ceaseless Hunger",
+                "Summary Dismissal"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hug77",
+            "cards": [
+                "Ulamog, the Infinite Gyre",
+                "Aethersnatch",
+                "Mindbreak Trap"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "Progenitus",
+                "Draining Whelk",
+                "Time Stop"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Emrakul, the Promised End",
+                "Ulamog, the Infinite Gyre",
+                "Ulamog, the Ceaseless Hunger"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Surrak Dragonclaw",
+                "Ashen Rider",
+                "Ulamog, the Infinite Gyre"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Felidar Sovereign",
+                "Beacon of Immortality",
+                "Last Word"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Blazing Archon",
+                "Spelljack",
+                "Sublime Epiphany"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Bongoking",
+            "cards": [
+                "Summary Dismissal",
+                "Summary Dismissal",
+                "Chandra, Awakened Inferno"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Time Stop",
+                "Scholar of the Ages",
+                "Cryptic Command"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                0,
+                3,
+                6,
+                4,
+                0,
+                2,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                0,
+                6,
+                6,
+                2,
+                2,
+                6,
+                37
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                2,
+                28
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                2,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                1,
+                2,
+                6
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                2,
+                6,
+                6,
+                0,
+                2,
+                0,
+                1,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                2,
+                2,
+                2,
+                0,
+                2,
+                4,
+                4,
+                0,
+                2,
+                18
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                2,
+                0,
+                2,
+                0,
+                24
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/167408-neuauflage-3-cards-blind-runde-31/"
+}

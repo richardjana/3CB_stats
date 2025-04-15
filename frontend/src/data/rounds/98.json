@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of the Guildpact",
+                "City of Traitors",
+                "Scion of Draco"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Forest",
+                "Pick Your Poison",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Novice Inspector",
+                "Kuldotha Rebirth",
+                "Plateau"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Hedge Maze",
+                "Drop of Honey",
+                "Helix Pinnacle"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Silver Seraph",
+            "cards": [
+                "Saprazzan Skerry",
+                "Phantasmal Image",
+                "Watcher of Hours"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Saprazzan Cove",
+                "The Tabernacle at Pendrell Vale",
+                "Living Conundrum"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Karakas",
+                "Black Lotus",
+                "Kaya, Spirits' Justice"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Branch of Vitu-Ghazi",
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Extract a Confession",
+                "Bitterblossom",
+                "Peat Bog"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                2,
+                6,
+                0,
+                2,
+                2,
+                26
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                2,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                2,
+                20
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                2,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                22
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173895-neuauflage-3-cards-blind-runde-98/"
+}

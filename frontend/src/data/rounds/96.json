@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Dryad Arbor",
+                "Force of Will",
+                "Snapback"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Plains",
+                "Tethered Griffin",
+                "Ethereal Armor"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lordfire",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Memnite",
+                "Force of Will",
+                "Snapback"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Leyline of the Meek",
+                "Chancellor of the Forge",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Forest",
+                "Old-Growth Dryads",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Bayou",
+                "Swarm Shambler",
+                "Dread Fugue"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Anointed Peacekeeper"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Sterni",
+            "cards": [
+                "Cenn's Tactician",
+                "Portable Hole",
+                "Karakas"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Forest",
+                "Old-Growth Dryads",
+                "Crashing Footfalls"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                0,
+                2,
+                6,
+                6,
+                2,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                2,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                32
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                2,
+                0,
+                0,
+                0,
+                4,
+                10
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                0,
+                2,
+                6,
+                6,
+                2,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                6,
+                1,
+                2,
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                19
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                20
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                1,
+                6,
+                37
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                0,
+                6,
+                2,
+                0,
+                2,
+                6,
+                6,
+                0,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                4,
+                0,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                1,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                43
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/173768-neuauflage-3-cards-blind-runde-96/"
+}

@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Forest",
+                "Durkwood Baloth",
+                "Durkwood Baloth"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Sandstone Needle",
+                "City of Traitors",
+                "Yidaro, Wandering Monster"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Mishra's Workshop",
+                "Leveler"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Bongoking",
+            "cards": [
+                "Maze of Ith",
+                "Pardic Dragon",
+                "Sandstone Needle"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Chancellor of the Forge",
+                "Island",
+                "Foil"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Mountain",
+                "Keldon Halberdier",
+                "Keldon Halberdier"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Forest",
+                "Durkwood Baloth",
+                "Durkwood Baloth"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mercadian Bazaar",
+                "Ravenous Baboons",
+                "Fury"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Darksteel Reactor",
+                "The Tabernacle at Pendrell Vale",
+                "Mercadian Bazaar"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                2,
+                2,
+                6,
+                6,
+                22
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                2,
+                6,
+                6,
+                0,
+                0,
+                32
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                4,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                6,
+                16
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                6,
+                6,
+                22
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                1,
+                0,
+                0,
+                0,
+                0,
+                13
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/167634-neuauflage-3-cards-blind-runde-33/"
+}

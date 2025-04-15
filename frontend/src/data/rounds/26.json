@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Wasteland",
+                "Plains",
+                "Isamaru, Hound of Konda"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Urborg, Tomb of Yawgmoth",
+                "The Tabernacle at Pendrell Vale",
+                "Aphemia, the Cacophony"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Jeweled Lotus",
+                "Lion's Eye Diamond",
+                "Iona, Shield of Emeria"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "thiefAaron",
+            "cards": [
+                "Saprazzan Cove",
+                "Fierce Guardianship",
+                "Dragonlord Silumgar"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Cavern of Souls",
+                "Rampaging Ferocidon",
+                "Ashling the Pilgrim"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Rushwood Grove",
+                "Beast Within",
+                "Thrun, the Last Troll"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Snapback",
+                "Black Lotus",
+                "Kira, Great Glass-Spinner"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Ensnaring Bridge",
+                "Scalding Tongs",
+                "Hope of Ghirapur"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Detention Vortex",
+                "Isamaru, Hound of Konda"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Wasteland",
+                "Bounty Agent",
+                "Thalia, Guardian of Thraben"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "NumiChan",
+            "cards": [
+                "Mox Pearl",
+                "Leyline of Anticipation",
+                "Grand Arbiter Augustin IV"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                6,
+                6,
+                6,
+                2,
+                2,
+                2,
+                2,
+                2,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                4,
+                6,
+                6,
+                0,
+                0,
+                6,
+                3,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                1,
+                0,
+                2,
+                1,
+                0,
+                0,
+                0,
+                1,
+                6,
+                11
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                6,
+                0,
+                4,
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                2,
+                6,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                2,
+                6,
+                6,
+                6,
+                6,
+                2,
+                0,
+                2,
+                3,
+                0,
+                35
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                2,
+                3,
+                4,
+                6,
+                6,
+                0,
+                3,
+                6,
+                0,
+                2,
+                34
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                32
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166851-neuauflage-3-cards-blind-runde-26/"
+}

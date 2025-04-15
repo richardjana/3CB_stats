@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mountain",
+                "Alpine Moon",
+                "Kumano Faces Kakkazan // Etching of Kumano"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Peat Bog",
+                "Tribute to Horobi // Echo of Death's Wail",
+                "Tribute to Horobi // Echo of Death's Wail"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Sunken Citadel",
+                "Treetop Village",
+                "Boseiju, Who Endures"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "hoempes",
+            "cards": [
+                "Remote Farm",
+                "Seal of Cleansing",
+                "Skrelv's Hive"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Seal of Fire",
+                "Boros Garrison",
+                "Hall of Heliod's Generosity"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lordfire",
+            "cards": [
+                "Remote Farm",
+                "Skrelv's Hive",
+                "Skrelv's Hive"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Swamp",
+                "Hopeless Nightmare",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Daeron",
+            "cards": [
+                "Mountain",
+                "Alpine Moon",
+                "Kumano Faces Kakkazan // Etching of Kumano"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Sand Silos",
+                "Saprazzan Cove",
+                "Kiora Bests the Sea God"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Volatile Fault",
+                "Sunken Citadel",
+                "Treetop Village"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Hollow Trees",
+                "Rushwood Grove",
+                "Garruk, Primal Hunter"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Dimir Aqueduct",
+                "Davriel, Rogue Shadowmage",
+                "Mishra's Factory"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                2,
+                6,
+                0,
+                2,
+                0,
+                6,
+                0,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                1,
+                0,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                6,
+                3,
+                6,
+                0,
+                6,
+                3,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                2,
+                0,
+                0,
+                0,
+                6,
+                16
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                6,
+                0,
+                6,
+                0,
+                3,
+                3,
+                3,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                6,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                3,
+                6,
+                6,
+                0,
+                1,
+                6,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                3,
+                4,
+                3,
+                6,
+                3,
+                6,
+                0,
+                4,
+                0,
+                0,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                3,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                45
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                12
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174504-neuauflage-3-cards-blind-runde-104/"
+}

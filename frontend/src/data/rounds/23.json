@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Meddling Mage",
+                "Volrath's Stronghold",
+                "Necrotic Sliver"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "NumiChan",
+            "cards": [
+                "Vampire Hexmage",
+                "Dark Depths",
+                "Urborg, Tomb of Yawgmoth"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Vhaleru",
+            "cards": [
+                "Mana Leak",
+                "Mirari's Wake",
+                "Progenitus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "hoempes",
+            "cards": [
+                "Standard Bearer",
+                "Saheeli Rai",
+                "Felidar Guardian"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Silent Departure",
+                "Lingering Souls",
+                "Firebolt"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Saheeli Rai",
+                "Felidar Guardian",
+                "Rip Apart"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Anurid Scavenger",
+                "Castigate",
+                "Vindicate"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Raven's Crime",
+                "Sneak Attack",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Lightning Bolt",
+                "Angrath's Rampage",
+                "Snapcaster Mage"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                3,
+                0,
+                0,
+                2,
+                23
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                6,
+                3,
+                6,
+                0,
+                0,
+                0,
+                2,
+                23
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                2,
+                2,
+                37
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                0,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                6,
+                2,
+                0,
+                2,
+                2,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166599-neuauflage-3-cards-blind-runde-23/"
+}

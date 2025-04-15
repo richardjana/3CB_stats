@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Traitors",
+                "Painter's Servant",
+                "Demon of Death's Gate"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Scalding Tongs",
+                "Ensnaring Bridge",
+                "Mishra's Workshop"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hug77",
+            "cards": [
+                "Dark Depths",
+                "Vampire Hexmage",
+                "Urborg, Tomb of Yawgmoth"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Dread Return",
+                "Iona, Shield of Emeria"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Factory",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Cathedral of War",
+                "Porcelain Legionnaire"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Gaea's Cradle",
+                "Retrofitter Foundry",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Huatli, the Sun's Heart",
+                "Gaea's Cradle",
+                "Nissa, Voice of Zendikar"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Gaea's Cradle",
+                "Trinisphere",
+                "Hexdrinker"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Mishra's Workshop",
+                "Jinxed Choker",
+                "Ensnaring Bridge"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                1,
+                2,
+                6,
+                6,
+                3,
+                3,
+                0,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                1,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                4,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                0,
+                31
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                0,
+                2,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                6,
+                2,
+                26
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                3,
+                0,
+                0,
+                0,
+                6,
+                17
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                2,
+                7
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                0,
+                0,
+                2,
+                6,
+                6,
+                0,
+                3,
+                0,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                6,
+                3,
+                2,
+                6,
+                6,
+                3,
+                0,
+                6,
+                2,
+                37
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                4,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                2,
+                6,
+                2,
+                0,
+                2,
+                0,
+                2,
+                0,
+                0,
+                20
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/170510-neuauflage-3-cards-blind-runde-59/"
+}

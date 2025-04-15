@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Snow-Covered Wastes",
+                " Disruptor Flute",
+                " Lupine Prototype"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lordfire",
+            "cards": [
+                "Razorgrass Ambush // Razorgrass Field",
+                " White Orchid Phantom",
+                " Kudo, King Among Bears"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                " Harbinger of the Seas",
+                " Flare of Denial"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                " Strength of the Harvest // Haven of the Harvest",
+                " Assassin's Trophy"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Silver Seraph",
+            "cards": [
+                "Snow-Covered Wastes",
+                " Disruptor Flute",
+                " Idol of False Gods"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                " Indebted Spirit",
+                " Path to Exile"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                " Bridgeworks Battle // Tanglespan Bridgeworks",
+                " Assassin's Trophy"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Ocelot Pride",
+                " Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                " Snow-Covered Wastes"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Snow-Covered Wastes",
+                " Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                " Thraben Charm"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Michael W",
+            "cards": [
+                "Disruptor Flute, Ajani",
+                " Nacatl Pariah // Ajani, Nacatl Avenger",
+                " Snow-Covered Wastes"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                " Flare of Fortitude",
+                " Snow-Covered Wastes"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                3,
+                6,
+                3,
+                3,
+                3,
+                3,
+                3,
+                39
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                3,
+                6,
+                6,
+                0,
+                6,
+                1,
+                2,
+                33
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                0,
+                1,
+                1,
+                1,
+                3,
+                0,
+                3,
+                18
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                2,
+                0,
+                1,
+                2,
+                0,
+                3,
+                11
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                0,
+                6,
+                3,
+                3,
+                3,
+                3,
+                3,
+                39
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                4,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                8
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                0,
+                4,
+                6,
+                3,
+                6,
+                0,
+                3,
+                3,
+                1,
+                3,
+                32
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                6,
+                4,
+                4,
+                3,
+                6,
+                3,
+                0,
+                3,
+                3,
+                3,
+                38
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                3,
+                2,
+                3,
+                6,
+                3,
+                3,
+                0,
+                1,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                4,
+                6,
+                6,
+                3,
+                6,
+                4,
+                3,
+                4,
+                0,
+                4,
+                43
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                2,
+                3,
+                3,
+                3,
+                2,
+                3,
+                3,
+                3,
+                1,
+                0,
+                26
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/174739-neuauflage-3-cards-blind-runde-107/"
+}

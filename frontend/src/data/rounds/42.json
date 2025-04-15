@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Vampire Hexmage",
+                "Dark Depths"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Vraska the Unseen"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Gaea's Cradle",
+                "Shield Sphere",
+                "Assault Formation"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Factory",
+                "Mountain",
+                "Yidaro, Wandering Monster"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Copper Tablet"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Bongoking",
+            "cards": [
+                "Davriel, Rogue Shadowmage",
+                "Black Lotus",
+                "Quicksand"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "GoDJi8",
+            "cards": [
+                "Forest",
+                "Crashing Footfalls",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Hollow Trees",
+                "Shield Sphere",
+                "Assault Formation"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "BlackHole",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Magus of the Moon"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "thiefAaron",
+            "cards": [
+                "Urborg, Tomb of Yawgmoth",
+                "Dark Depths",
+                "Thespian's Stage"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Isamaru, Hound of Konda"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "lollonator",
+            "cards": [
+                "Swamp",
+                "Culling the Weak",
+                "Phyrexian Obliterator"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                0,
+                4,
+                6,
+                6,
+                6,
+                4,
+                0,
+                6,
+                47
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                6,
+                0,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                2,
+                3,
+                0,
+                2,
+                31
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                4,
+                6,
+                0,
+                2,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                0,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                1,
+                6,
+                6,
+                0,
+                2,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                0,
+                6,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                23
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                1,
+                6,
+                0,
+                2,
+                0,
+                2,
+                0,
+                0,
+                2,
+                13
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                1,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                2,
+                0,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                0,
+                0,
+                6,
+                6,
+                2,
+                6,
+                0,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                0,
+                22
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/168539-neuauflage-3-cards-blind-runde-42/"
+}

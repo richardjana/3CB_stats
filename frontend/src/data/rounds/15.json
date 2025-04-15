@@ -1,0 +1,413 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Wasteland",
+                "Crashing Footfalls",
+                "Mox Emerald"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Hasran Ogress",
+            "cards": [
+                "Chancellor of the Tangle",
+                "Master of the Feast",
+                "Aether Vial"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hoempes",
+            "cards": [
+                "Savannah",
+                "Old-Growth Dryads",
+                "Path to Exile"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Bongoking",
+            "cards": [
+                "Crystal Vein",
+                "Mana Vault",
+                "Thought-Knot Seer"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Force of Negation",
+                "Snapback",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "thiefAaron",
+            "cards": [
+                "Forest",
+                "Crashing Footfalls",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Crystal Vein",
+                "Mana Vault",
+                "Lodestone Golem"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Quicksand",
+                "Vault Skirge"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Tropical Island",
+                "Daze",
+                "Hexdrinker"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Wasteland",
+                "Mox Jet",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Island",
+                "Slither Blade",
+                "Sigil of Sleep"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Forest",
+                "Crashing Footfalls",
+                "Durkwood Baloth"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "»Arcanis«",
+            "cards": [
+                "Forest",
+                "Old-Growth Dryads",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Cauldron Familiar",
+                "Witch's Oven",
+                "Swamp"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                36,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                0,
+                0,
+                1,
+                6,
+                6,
+                3,
+                6,
+                6,
+                4,
+                53,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                1,
+                6,
+                0,
+                3,
+                2,
+                0,
+                0,
+                6,
+                0,
+                21,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                6,
+                4,
+                0,
+                0,
+                0,
+                3,
+                6,
+                3,
+                3,
+                6,
+                3,
+                46,
+                3,
+                6
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                32,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                4,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                2,
+                63,
+                6,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                0,
+                3,
+                0,
+                0,
+                3,
+                3,
+                6,
+                3,
+                33,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                26,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                3,
+                6,
+                3,
+                6,
+                0,
+                3,
+                0,
+                0,
+                3,
+                6,
+                0,
+                36,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                3,
+                0,
+                0,
+                3,
+                6,
+                3,
+                0,
+                0,
+                0,
+                24,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                30,
+                6,
+                0
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                1,
+                6,
+                3,
+                6,
+                2,
+                3,
+                6,
+                6,
+                6,
+                6,
+                0,
+                61,
+                4,
+                6
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                6,
+                0,
+                6,
+                3,
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                1,
+                49,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                3,
+                6,
+                0,
+                3,
+                6,
+                0,
+                26,
+                0,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165777-forenliga-3-cards-blind-runde-15/"
+}

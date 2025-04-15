@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Tundra",
+                "Daze",
+                "Healer's Hawk"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Choke",
+            "cards": [
+                "Subterranean Hangar",
+                "Gifted Aetherborn",
+                "Hooded Blightfang"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hoempes",
+            "cards": [
+                "Black Lotus",
+                "Lurrus of the Dream-Den",
+                "Liliana of the Veil"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The green one",
+            "cards": [
+                "Plains",
+                "Vault Skirge",
+                "Vault Skirge"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Elspeth, Sun's Champion",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Vryn Wingmare"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mishra's Workshop",
+                "Reinforced Bulwark",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Fallen Azrael",
+            "cards": [
+                "Black Lotus",
+                "Cryptolith Fragment // Aurora of Emrakul",
+                "Soulmender"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                3,
+                2,
+                3,
+                2,
+                4,
+                3,
+                17
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                6,
+                0,
+                6,
+                3,
+                0,
+                6,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                7
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                9
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165123-neuauflage-3-cards-blind-runde-9/"
+}

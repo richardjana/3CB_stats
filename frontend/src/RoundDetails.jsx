@@ -1,10 +1,7 @@
-import Chart from 'chart.js/auto';
 import React, { useEffect, useState } from 'react';
-import { Bar, Line } from 'react-chartjs-2';
 import { Link } from 'react-router';
 import { useParams } from 'react-router-dom';
 
-import use3cbApi from './Axios3cbApi';
 import CardHover from './CardHover';
 
 const RoundDetails = () => {
@@ -13,17 +10,22 @@ const RoundDetails = () => {
   const [decks, setDecks] = useState([]);
   const [results, setResults] = useState([]);
 
-  const { data, isLoading, errorMessage } = use3cbApi(`round/${number}`);
-
   useEffect(() => {
-    if (data) {
-      setDecks(data.decks);
-      setResults(data.results);
-    }
-  }, [data]);
-
-  if (errorMessage) return <div>Error: {errorMessage}</div>;
-  if (!errorMessage && isLoading) return <div>Loading...</div>;
+      if (!number) return;
+      
+      const loadData = async () => {
+        try {
+          const data = await import(`./data/round/${number}.json`);
+  
+          setDecks(data.decks);
+          setResults(data.results);
+        } catch (err) {
+          console.error('Round data not found:', err);
+        }
+      };
+  
+      loadData();
+    }, [number]);
 
   return (
     <div>

@@ -1,23 +1,25 @@
 import React, { useEffect, useState } from 'react';
 
-import use3cbApi from './Axios3cbApi';
 import CardHover from './CardHover';
 
 const BannedList = () => {
     const [regularList, setRegularList] = useState([]);
     const [introList, setIntroList] = useState([]);
 
-    const { data, isLoading, errorMessage } = use3cbApi('banned_list');
-
-    useEffect(() => {
-      if (data) {
-        setRegularList(data.regular);
-        setIntroList(data.introducing);
-      }
-    }, [data]);
-
-    if (errorMessage) return <div>Error: {errorMessage}</div>;
-    if (!errorMessage && isLoading) return <div>Loading...</div>;
+    useEffect(() => {      
+            const loadData = async () => {
+              try {
+                const data = await import(`./data/banned_list.json`);
+        
+                setRegularList(data.regular);
+                setIntroList(data.introducing);
+              } catch (err) {
+                console.error('Popular cards data not found:', err);
+              }
+            };
+        
+            loadData();
+          }, []);
 
     return (
         <div>

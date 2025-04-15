@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Tibalt's Trickery",
+                "Vex",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Propaganda",
+                "Force of Will",
+                "Curse of the Pierced Heart"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "NumiChan",
+            "cards": [
+                "Chromanticore",
+                "Snapback",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "Dark Depths",
+                "Thespian's Stage",
+                "Soul's Fire"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Wrenn and Six",
+                "Smokestack",
+                "Gods' Eye, Gate to the Reikai"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mana Short",
+                "Force of Will",
+                "Skylasher"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Funeral Charm",
+                "Skylasher",
+                "Unsubstantiate"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Fist of Suns",
+                "Emrakul, the Promised End"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Savage Summoning",
+                "Lavinia, Azorius Renegade",
+                "Red Elemental Blast"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hoempes",
+            "cards": [
+                "Emrakul, the Aeons Torn",
+                "Sneak Attack",
+                "Mountain"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Surrak Dragonclaw",
+                "Memnite",
+                "Memnite"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                6,
+                0,
+                4,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                1,
+                0,
+                3,
+                0,
+                0,
+                2,
+                6,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                5
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                2,
+                6,
+                2,
+                6,
+                2,
+                42
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                0,
+                6,
+                6,
+                6,
+                6,
+                56
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                14
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                0,
+                6,
+                0,
+                6,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166393-neuauflage-3-cards-blind-runde-21/"
+}

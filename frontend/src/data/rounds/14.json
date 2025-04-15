@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Lurrus of the Dream-Den",
+                "Liliana of the Veil"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Elephant Graveyard",
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "hoempes",
+            "cards": [
+                "Force of Will",
+                "Misthollow Griffin",
+                "Sand Silos"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "»Arcanis«",
+            "cards": [
+                "Black Lotus",
+                "Lurrus of the Dream-Den",
+                "Liliana of the Veil"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Anurid Scavenger",
+                "Black Lotus",
+                "Misguided Rage"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The green one",
+            "cards": [
+                "Urborg, Tomb of Yawgmoth",
+                "The Tabernacle at Pendrell Vale",
+                "Snuff Out"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Dryad Arbor",
+                "Archmage's Charm"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Lurrus of the Dream-Den",
+                "Black Lotus",
+                "Council's Judgment"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Liliana of the Veil",
+                "Lurrus of the Dream-Den"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Hasran Ogress",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "City of Traitors",
+                "Lupine Prototype"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                2,
+                2,
+                6,
+                4,
+                2,
+                1,
+                2,
+                2,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                2,
+                6,
+                2,
+                0,
+                6,
+                1,
+                2,
+                1,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                0,
+                0,
+                2,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                2,
+                20
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                2,
+                2,
+                0,
+                6,
+                4,
+                2,
+                1,
+                2,
+                2,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                6,
+                1,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                1,
+                2,
+                6,
+                1,
+                4,
+                0,
+                0,
+                2,
+                1,
+                1,
+                2,
+                20
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                6,
+                2,
+                2,
+                0,
+                6,
+                0,
+                4,
+                0,
+                2,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                0,
+                2,
+                4,
+                4,
+                2,
+                1,
+                0,
+                4,
+                4,
+                2,
+                27
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                4,
+                2,
+                2,
+                6,
+                4,
+                6,
+                1,
+                0,
+                2,
+                2,
+                31
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                2,
+                2,
+                2,
+                6,
+                4,
+                2,
+                1,
+                2,
+                0,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                4,
+                2,
+                2,
+                6,
+                2,
+                0,
+                2,
+                2,
+                2,
+                0,
+                24
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/165680-forenliga-3-cards-blind-runde-14/"
+}

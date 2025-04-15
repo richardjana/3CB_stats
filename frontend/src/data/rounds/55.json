@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Yavimaya, Cradle of Growth",
+                "Wall of Junk"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Nomads en-Kor",
+                "Daru Spiritualist"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "SoulCollector",
+            "cards": [
+                "Wasteland",
+                "Mishra's Workshop",
+                "Weathered Sentinels"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Harmonious Archon"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Shield Sphere",
+                "Shield Sphere",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "IMP",
+            "cards": [
+                "Triskaidekaphobia",
+                "Subterranean Hangar",
+                "Tree of Perdition"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Geth's Verdict"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Wasteland",
+                "Charix, the Raging Isle"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Chalice of the Void",
+                "Shield Sphere"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Black Lotus",
+                "Dwarven Thaumaturgist",
+                "Shield Sphere"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Karakas",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Shelldock Isle",
+                "Emrakul, the Aeons Torn",
+                "Lion's Eye Diamond"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "NumiChan",
+            "cards": [
+                "Shield Sphere",
+                "Force of Will",
+                "Snapback"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                1,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                35,
+                2
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                3,
+                6,
+                0,
+                1,
+                0,
+                3,
+                37,
+                0
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                4,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                37,
+                0
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                6,
+                0,
+                6,
+                0,
+                0,
+                33,
+                0
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                39,
+                3
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                6,
+                0,
+                8,
+                0
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                3,
+                0,
+                3,
+                0,
+                2,
+                0,
+                1,
+                6,
+                6,
+                6,
+                1,
+                34,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                4,
+                0,
+                0,
+                0,
+                2,
+                4,
+                34,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                44,
+                2
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                4,
+                3,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                30,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                6,
+                0,
+                2,
+                34,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                0,
+                6,
+                4,
+                1,
+                0,
+                6,
+                2,
+                0,
+                34,
+                0
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                2,
+                6,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                2,
+                3,
+                0,
+                6,
+                52,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/170137-neuauflage-3-cards-blind-runde-55/"
+}

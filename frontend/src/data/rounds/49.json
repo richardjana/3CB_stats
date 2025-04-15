@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Exhume",
+                "Colossal Skyturtle"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "IMP",
+            "cards": [
+                "Dauthi Voidwalker",
+                "Dokuchi Silencer",
+                "Peat Bog"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "SoulCollector",
+            "cards": [
+                "Island",
+                "Stifle",
+                "Thousand-Faced Shadow"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Fountain of Cho",
+                "Parhelion II",
+                "Hotshot Mechanic"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Swamp",
+                "Okiba Reckoner Raid // Nezumi Road Captain",
+                "Funeral Charm"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Tribute to Horobi // Echo of Death's Wail",
+                "Distress",
+                "Peat Bog"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "City of Traitors",
+                "The Tabernacle at Pendrell Vale",
+                "Reckoner Bankbuster"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "The Long Reach of Night // Animus of Night's Reach",
+                "Black Lotus",
+                "Cathedral of War"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "The Wandering Emperor"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Phyrexian Revoker",
+                "The Restoration of Eiganjo // Architect of Restoration"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Dryad Arbor",
+                "The Long Reach of Night // Animus of Night's Reach"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                4,
+                6,
+                4,
+                6,
+                2,
+                2,
+                4,
+                3,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                6,
+                0,
+                3,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                1,
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                2,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                1,
+                0,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                1,
+                0,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                1,
+                6,
+                0,
+                1,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                2,
+                6,
+                2,
+                6,
+                0,
+                4,
+                0,
+                2,
+                2,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                2,
+                8
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                1,
+                6,
+                6,
+                6,
+                4,
+                6,
+                2,
+                6,
+                0,
+                1,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                3,
+                2,
+                6,
+                6,
+                4,
+                0,
+                6,
+                4,
+                0,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                14
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169312-neuauflage-3-cards-blind-runde-49/"
+}

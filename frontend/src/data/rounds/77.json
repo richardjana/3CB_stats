@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Traitors",
+                "Void Mirror",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Misthollow Griffin",
+                "Force of Will",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Galerider Sliver",
+                "Predatory Sliver",
+                "Tempered Sliver"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Urza's Saga",
+                "Sol Ring",
+                "Power Conduit"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lordfire",
+            "cards": [
+                "Old-Growth Dryads",
+                "City of Traitors",
+                "Sphere of Resistance"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "City of Traitors",
+                "Sphere of Resistance",
+                "True-Name Nemesis"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Anointed Peacekeeper",
+                "Meddling Mage",
+                "Cabal Therapist"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Meddling Mage",
+                "Anointed Peacekeeper",
+                "Grand Arbiter Augustin IV"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Lavinia, Azorius Renegade",
+                "Sphinx of the Final Word"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Bongoking",
+            "cards": [
+                "Maze of Ith",
+                "Sheltered Valley",
+                "Emrakul, the Aeons Torn"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                1,
+                6,
+                1,
+                2,
+                2,
+                3,
+                4,
+                0,
+                0,
+                19
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                4,
+                0,
+                2,
+                6,
+                4,
+                6,
+                0,
+                0,
+                0,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                2,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                11
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                4,
+                0,
+                3,
+                0,
+                3,
+                3,
+                6,
+                6,
+                0,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                1,
+                6,
+                3,
+                0,
+                2,
+                6,
+                6,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                6,
+                3,
+                2,
+                0,
+                4,
+                6,
+                0,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                6,
+                6,
+                0,
+                0,
+                1,
+                0,
+                6,
+                3,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                1,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                19
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                3,
+                6,
+                0,
+                6,
+                47
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                18
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172391-neuauflage-3-cards-blind-runde-77/"
+}

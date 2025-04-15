@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Copperline Gorge",
+                "Crashing Footfalls",
+                "Crack the Earth"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Workshop",
+                "Mishra's Workshop",
+                "Myr Turbine"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "NumiChan",
+            "cards": [
+                "Mox Pearl",
+                "Mox Sapphire",
+                "Meddling Mage"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "City of Traitors",
+                "Chalice of the Void",
+                "Cryptic Trilobite"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Brudiclad, Telchor Engineer",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hoempes",
+            "cards": [
+                "Mayor of Avabruck // Howlpack Alpha",
+                "Mishra's Factory",
+                "Mox Emerald"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Vhaleru",
+            "cards": [
+                "Mishra's Factory",
+                "Mishra's Factory",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Peat Bog",
+                "Plague Stinger",
+                "Phyrexian Revoker"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "thiefAaron",
+            "cards": [
+                "Cragcrown Pathway // Timbercrown Pathway",
+                "Crashing Footfalls",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "City of Brass",
+                "Crashing Footfalls",
+                "Chain of Vapor"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "lollonator",
+            "cards": [
+                "Okina, Temple to the Grandfathers",
+                "Old-Growth Dryads",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Factory",
+                "Mishra's Factory",
+                "Mishra's Factory"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                1,
+                2,
+                3,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                1,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                3,
+                3,
+                6,
+                25
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                3,
+                3,
+                3,
+                0,
+                6,
+                6,
+                0,
+                3,
+                0,
+                36
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                3,
+                0,
+                3,
+                3,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                3,
+                3,
+                0,
+                1,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                3,
+                3,
+                4,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                58
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                1,
+                2,
+                2,
+                17
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                4,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                37
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                3,
+                6,
+                0,
+                6,
+                0,
+                4,
+                6,
+                0,
+                0,
+                3,
+                4,
+                34
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                3,
+                3,
+                0,
+                0,
+                0,
+                2,
+                6,
+                3,
+                3,
+                0,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                1,
+                2,
+                0,
+                17
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166488-neuauflage-3-cards-blind-runde-22/"
+}

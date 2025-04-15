@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Sunken Ruins",
+                "Oildeep Gearhulk"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Black Lotus",
+                "Riverpyre Verge",
+                "Minsc & Boo, Timeless Heroes"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Oildeep Gearhulk",
+                "Black Lotus",
+                "Sunken Ruins"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Karakas",
+                "Basri, Tomorrow's Champion",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "City of Traitors",
+                "Guidelight Matrix",
+                "Consulate Dreadnought"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Momentum Breaker",
+                "Vampire of the Dire Moon"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Oildeep Gearhulk"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Mox Jet",
+                "Mishra's Factory",
+                "Momentum Breaker"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "Ripclaw Wrangler"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                6,
+                3,
+                3,
+                3,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                2,
+                6,
+                3,
+                3,
+                3,
+                3,
+                26
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                3,
+                6,
+                3,
+                3,
+                3,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                2,
+                3,
+                0,
+                6,
+                2,
+                3,
+                2,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                3,
+                3,
+                2,
+                6,
+                0,
+                3,
+                2,
+                1,
+                23
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                6,
+                3,
+                0,
+                3,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                3,
+                2,
+                6,
+                2,
+                3,
+                0,
+                1,
+                23
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                3,
+                3,
+                0,
+                6,
+                4,
+                3,
+                4,
+                0,
+                26
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175886-neuauflage-3-cards-blind-runde-124/"
+}

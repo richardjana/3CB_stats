@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Forest",
+                "Crashing Footfalls",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Boseiju, Who Endures",
+                "Wrenn and Six",
+                "Gruul Turf"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Swamp",
+                "Illness in the Ranks",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Fountain of Cho",
+                "The Book of Exalted Deeds",
+                "Mutavault"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Havenwood Battleground",
+                "Crashing Footfalls",
+                "Seal of Primordium"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lordfire",
+            "cards": [
+                "Rushwood Grove",
+                "Rhonas's Last Stand",
+                "Paradox Zone"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Rishadan Port",
+                "Mox Jet",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Davriel, Rogue Shadowmage",
+                "Mox Jet",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Oran-Rief, the Vastwood",
+                "Crashing Footfalls",
+                "Crashing Footfalls"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                42
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                2,
+                0,
+                0,
+                6,
+                6,
+                0,
+                17
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                2,
+                1,
+                0,
+                3,
+                1,
+                9
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                6,
+                2,
+                0,
+                6,
+                1,
+                3,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                4,
+                6,
+                0,
+                3,
+                4,
+                29
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                3,
+                3,
+                6,
+                3,
+                0,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                6,
+                4,
+                6,
+                6,
+                1,
+                3,
+                0,
+                38
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/172702-neuauflage-3-cards-blind-runde-81/"
+}

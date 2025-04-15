@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Mishra's Factory",
+                "Wasteland",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Imodane's Recruiter // Train Troops",
+                "Burning-Tree Emissary",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Fountain of Cho",
+                "Realm-Cloaked Giant // Cast Off",
+                "Shepherd of the Flock // Usher to Safety"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Spellscorn Coven // Take It Back",
+                "City of Traitors",
+                "Retrofitter Foundry"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Bramble Familiar // Fetch Quest",
+                "Bazaar of Baghdad",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Sterni",
+            "cards": [
+                "Bottomless Vault",
+                "Murderous Rider // Swift End",
+                "Aclazotz, Deepest Betrayal // Temple of the Dead"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Optimiert",
+            "cards": [
+                "Brazen Borrower // Petty Theft",
+                "Force of Will",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Flaxen Intruder // Welcome Home"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "BlackHole",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Boromir, Warden of the Tower"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Murderous Rider // Swift End",
+                "Spellscorn Coven // Take It Back",
+                "Subterranean Hangar"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Sedris",
+            "cards": [
+                "Black Lotus",
+                "Predator Ooze",
+                "Sapphire Dragon // Psionic Pulse"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                1,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                4,
+                0,
+                6,
+                6,
+                2,
+                6,
+                2,
+                6,
+                6,
+                6,
+                2,
+                0,
+                46
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                53
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                2,
+                47
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                12
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                0,
+                6,
+                2,
+                6,
+                0,
+                6,
+                0,
+                0,
+                40
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                2,
+                6,
+                6,
+                0,
+                50
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/175972-neuauflage-3-cards-blind-runde-126/"
+}

@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Mox Sapphire",
+                "Mechanized Production"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Island",
+                "Mana Crypt",
+                "Donate"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "SoulCollector",
+            "cards": [
+                "Subterranean Hangar",
+                "Cruel Reality",
+                "Feed the Swarm"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Sanctity",
+                "Subterranean Hangar",
+                "Palace Siege"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Leyline of Sanctity",
+                "Fountain of Cho",
+                "Approach of the Second Sun"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mishra's Workshop",
+                "Pithing Needle",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Bottomless Vault",
+                "Torment of Hailfire",
+                "Sanctum of Stone Fangs"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Rushwood Grove",
+                "Boseiju, Who Endures",
+                "Darksteel Reactor"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Davriel, Rogue Shadowmage",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Bongoking",
+            "cards": [
+                "Sanctum of Stone Fangs",
+                "Black Lotus",
+                "Leyline of Sanctity"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Black Lotus",
+                "Davriel, Rogue Shadowmage",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "IMP",
+            "cards": [
+                "Helix Pinnacle",
+                "Boseiju, Who Endures",
+                "Okina, Temple to the Grandfathers"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                3,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                3,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                2,
+                6,
+                0,
+                3,
+                0,
+                0,
+                2,
+                0,
+                6,
+                25
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                6,
+                2,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                0,
+                2,
+                0,
+                0,
+                2,
+                6,
+                2,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                2,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                3,
+                0,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                3,
+                6,
+                2,
+                2,
+                0,
+                6,
+                6,
+                0,
+                2,
+                3,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                2,
+                0,
+                0,
+                6,
+                0,
+                0,
+                2,
+                0,
+                2,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                3,
+                6,
+                2,
+                2,
+                0,
+                6,
+                6,
+                3,
+                2,
+                0,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/170018-neuauflage-3-cards-blind-runde-54/"
+}

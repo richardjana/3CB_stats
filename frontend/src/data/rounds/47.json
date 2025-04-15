@@ -1,0 +1,304 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Soltari Visionary",
+                "Wasteland",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "NumiChan",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Nevermore",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "IMP",
+            "cards": [
+                "Maze of Ith",
+                "Infernal Grasp",
+                "Urborg, Tomb of Yawgmoth",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Power Conduit",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Daze",
+                "Underground Sea",
+                "Mishra's Factory",
+                "Tribute to Horobi // Echo of Death's Wail"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Brazen Borrower // Petty Theft",
+                "Saprazzan Cove",
+                "Maze of Ith",
+                "Kiora Bests the Sea God"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Rushwood Grove",
+                "Dryad Arbor",
+                "Force of Vigor",
+                "Tales of Master Seshiro // Seshiro's Living Legacy"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Black Lotus",
+                "Nyxathid",
+                "Shining Shoal",
+                "The Kami War // O-Kagachi Made Manifest"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Black Lotus",
+                "Black Lotus",
+                "Kiora Bests the Sea God"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "lollonator",
+            "cards": [
+                "Misdirection",
+                "Snapback",
+                "Memnite",
+                "Okiba Reckoner Raid // Nezumi Road Captain"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                3,
+                2,
+                6,
+                6,
+                6,
+                0,
+                2,
+                0,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                2,
+                2,
+                6,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                2,
+                0,
+                0,
+                0,
+                0,
+                2,
+                2,
+                0,
+                0,
+                2,
+                11
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                2,
+                6,
+                0,
+                1,
+                0,
+                0,
+                6,
+                6,
+                2,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                6,
+                4,
+                0,
+                6,
+                3,
+                3,
+                4,
+                3,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                3,
+                2,
+                6,
+                6,
+                6,
+                41
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                2,
+                6,
+                3,
+                3,
+                0,
+                0,
+                2,
+                0,
+                6,
+                28
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                2,
+                2,
+                0,
+                3,
+                2,
+                6,
+                0,
+                0,
+                2,
+                0,
+                23
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                2,
+                6,
+                0,
+                1,
+                0,
+                2,
+                6,
+                0,
+                6,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                3,
+                0,
+                6,
+                2,
+                0,
+                0,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                20
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/169094-neuauflage-3-cards-blind-runde-47/"
+}

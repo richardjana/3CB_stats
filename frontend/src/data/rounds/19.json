@@ -1,0 +1,413 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Smallpox",
+                "Nether Spirit"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "hoempes",
+            "cards": [
+                "Black Lotus",
+                "Threads of Disloyalty",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "NumiChan",
+            "cards": [
+                "Black Lotus",
+                "Archmage's Charm",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Aether Vial",
+                "Mangara of Corondor"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Mishra's Factory",
+                "Karakas",
+                "Disenchant"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Tree of Tales",
+                "Oko, Thief of Crowns"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "thiefAaron",
+            "cards": [
+                "Black Lotus",
+                "Dominate",
+                "Force of Will"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Seat of the Synod",
+                "Curfew",
+                "Thriving Turtle"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Bongoking",
+            "cards": [
+                "Not of This World",
+                "Black Lotus",
+                "Entrancing Melody"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Archmage's Charm"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Archmage's Charm"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Karakas",
+                "Inkmoth Nexus",
+                "Ratchet Bomb"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "The Beast",
+            "cards": [
+                "Not of This World",
+                "Black Lotus",
+                "Entrancing Melody"
+            ]
+        },
+        {
+            "index": 14,
+            "player": "»Arcanis«",
+            "cards": [
+                "Snapback",
+                "Force of Will",
+                "Memnite"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                6,
+                4,
+                3,
+                3,
+                4,
+                6,
+                3,
+                3,
+                3,
+                50,
+                6,
+                3
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                1,
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                31,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                1,
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                31,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                4,
+                4,
+                0,
+                0,
+                0,
+                4,
+                6,
+                0,
+                4,
+                4,
+                0,
+                29,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                1,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                2,
+                0,
+                6,
+                6,
+                6,
+                54,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                3,
+                3,
+                6,
+                3,
+                0,
+                3,
+                3,
+                0,
+                3,
+                3,
+                6,
+                39,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                3,
+                1,
+                0,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                0,
+                31,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                1,
+                3,
+                3,
+                0,
+                2,
+                3,
+                3,
+                0,
+                4,
+                3,
+                3,
+                0,
+                32,
+                4,
+                3
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                3,
+                1,
+                0,
+                3,
+                3,
+                6,
+                46,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                3,
+                3,
+                1,
+                0,
+                3,
+                3,
+                3,
+                3,
+                0,
+                3,
+                0,
+                31,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                3,
+                3,
+                3,
+                1,
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                0,
+                31,
+                3,
+                3
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                51,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                3,
+                1,
+                3,
+                3,
+                3,
+                6,
+                46,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 14,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                33,
+                3,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/166202-neuauflage-3-cards-blind-runde-19/"
+}

@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Glistener Elf",
+                "Colossus Hammer",
+                "Sigarda's Aid"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Hushbringer",
+                "Phyrexian Dreadnought",
+                "Phyrexian Dreadnought"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Exhume",
+                "Iona, Shield of Emeria",
+                "Miasmic Mummy"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "The Beast",
+            "cards": [
+                "One with Nothing",
+                "Reanimate",
+                "Serra's Emissary"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lordfire",
+            "cards": [
+                "Hushbringer",
+                "Phyrexian Dreadnought",
+                "Lightning Greaves"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Vindicate",
+                "Blightsteel Colossus"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Kratos Aurion",
+            "cards": [
+                "Clockspinning",
+                "Fury Charm",
+                "Murk Strider"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Soulless Jailer",
+                "Clockspinning",
+                "Banisher Priest"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "P0LTERGEIST",
+            "cards": [
+                "Glistener Elf",
+                "Berserk",
+                "Scale Up"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Iona, Shield of Emeria",
+                "Reanimate",
+                "Bazaar of Baghdad"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                3,
+                3,
+                3,
+                42
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                2,
+                6,
+                0,
+                0,
+                23
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                4,
+                6,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                3,
+                39
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                11
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                2,
+                1,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                1,
+                8
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                3,
+                1,
+                9
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                6,
+                6,
+                3,
+                6,
+                6,
+                6,
+                3,
+                0,
+                3,
+                42
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                6,
+                3,
+                6,
+                0,
+                4,
+                4,
+                3,
+                0,
+                35
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/171937-neuauflage-3-cards-blind-runde-73/"
+}
