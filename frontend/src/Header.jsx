@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom'; // Use 'react-router-dom' instead of 'react-router'
+import { Link } from 'react-router-dom';
 
-import use3cbApi from './Axios3cbApi';
 import './Header.css';
 
 const Header = () => {
@@ -10,13 +9,21 @@ const Header = () => {
   const [isRoundDropdownOpen, setIsRoundDropdownOpen] = useState(false);
   const [isPlayerDropdownOpen, setIsPlayerDropdownOpen] = useState(false);
 
-  const { data } = use3cbApi('players_rounds_lists');
   useEffect(() => {
-    if (data) {
-        setRoundNumbers(data.round_numbers);
-        setPlayerNames(data.player_names);
-    }
-  }, [data]);
+        
+        const loadData = async () => {
+          try {
+            const data = await import(`./data/players_rounds_lists.json`);
+    
+            setRoundNumbers(data.round_numbers);
+            setPlayerNames(data.player_names);
+          } catch (err) {
+            console.error('Player names and round numbers data not found:', err);
+          }
+        };
+    
+        loadData();
+      }, []);
 
   return (
     <header className='header'>
