@@ -4,7 +4,7 @@ import numpy as np
 from numpy.typing import NDArray
 import pandas as pd
 import re
-from typing import Dict, List, Tuple, Union
+from typing import Dict, List, Literal, TypedDict, Tuple, Union
 
 # consume all the raw data and prepare info ready to serve for the API
 # hall of fame
@@ -18,6 +18,21 @@ from typing import Dict, List, Tuple, Union
 # Regeln?, decks, Ergebnisse, Link zum thread
 
 # calculate derivatives per round (sum of points, % of max points, place)
+
+
+class BaseBadge(TypedDict):
+    """ Basic Badge class, holding only the type of badge. This ensures that the type is always
+        given.
+    """
+    type: str
+
+
+class Badge(BaseBadge, total=False):
+    """ Actual Badge class for usage, defining all optional fields of the different badge types.
+    """
+    length: int
+    round: int
+    rounds: List[int]
 
 
 def add_derivates_to_round(df: pd.DataFrame) -> None:
@@ -61,9 +76,9 @@ def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, f
 
         unique_cards = all_cards.stack().dropna().value_counts()
 
-        mp_cards[player] = [{'card': c, 'count': int(
+        mp_cards[str(player)] = [{'card': c, 'count': int(
             n), '%': n/sum(unique_cards.values)*100} for c, n in zip(unique_cards.index, unique_cards.values)]
-        mp_cards[player].sort(key=lambda cc: (-cc['count'], cc['card']))
+        mp_cards[str(player)].sort(key=lambda cc: (-cc['count'], cc['card']))
 
     return mp_cards
 
@@ -126,19 +141,19 @@ def find_nemesis(df: pd.DataFrame, player: str, n: int = 5) -> List[Dict[str, Un
         Sorted list of opponents, each as a dictionary with name of the opponent,
         aggregate score and number of matches played.
     """
-    data_dict: Dict[str, NDArray[np.int_]] = {}
+    data_dict: Dict[str, NDArray[np.float_]] = {}
     for round_data in df.groupby('round', group_keys=False):
         player_names = round_data[1]['player'].to_list()
         results = round_data[1].dropna(axis=1)
         results = results.loc[results['player'] == player]
         try:  # not everyone in every round
-            results = results.loc[:, results.columns.str.startswith('result_')].to_numpy()[
+            results_array = results.loc[:, results.columns.str.startswith('result_')].to_numpy()[
                 0, :]
-            for p, r in zip(player_names, results):
+            for p, r in zip(player_names, results_array):
                 try:
                     data_dict[p][int(r)] += 1
                 except:
-                    data_dict[p] = np.zeros(7, dtype=int)
+                    data_dict[p] = np.zeros(7, dtype=float)
                     data_dict[p][int(r)] += 1
         except:
             pass
@@ -146,8 +161,8 @@ def find_nemesis(df: pd.DataFrame, player: str, n: int = 5) -> List[Dict[str, Un
     del data_dict[player]  # remove the target player
 
     for p in data_dict:  # [score, times played]
-        data_dict[p] = [np.dot(data_dict[p], [-6, -3, 0, 0, 3, 0, 6]) /
-                        np.sum(data_dict[p]), np.sum(data_dict[p])]  # [-2,-1,0,0,1,0,2]
+        data_dict[p] = np.array([np.dot(data_dict[p], [-6, -3, 0, 0, 3, 0, 6]) /
+                                 np.sum(data_dict[p]), np.sum(data_dict[p])])  # [-2,-1,0,0,1,0,2]
 
     data = [{'player': p, 'score': data_dict[p][0],
              'n_matches': int(data_dict[p][1])} for p in data_dict]
@@ -170,11 +185,11 @@ def get_scores(df: pd.DataFrame) -> Dict[str, Dict[str, Union[float, List[Dict[i
     # datagroup = data.groupby('player')['%'].agg(['mean', 'sum'])
 
     scores = {}
-    for player, player_data in data[['player', 'round', '%']].groupby('player'):
-        scores[player] = {'average': player_data['%'].mean(),
-                          'total': player_data['%'].sum(),
-                          'list': [{'round': int(sl[1]), 'score': sl[2]} for sl in player_data.to_numpy().tolist()]}
-        scores[player]['list'].sort(key=lambda d: d['round'])
+    for player, player_data in df[['player', 'round', '%']].groupby('player'):
+        scores[str(player)] = {'average': player_data['%'].mean(),
+                               'total': player_data['%'].sum(),
+                               'list': [{'round': int(sl[1]), 'score': sl[2]} for sl in player_data.to_numpy().tolist()]}
+        scores[str(player)]['list'].sort(key=lambda d: d['round'])
 
     return scores
 
@@ -199,11 +214,11 @@ def compute_Elo_scores(df: pd.DataFrame) -> List[Dict[str, float]]:
         """
         return 1 / (1 + 10**((rating_opponent-rating_player)/512))
 
-    start_Elo = 1600
+    start_Elo = 1600.
     update_factor = 8
 
     # initialize list with start_Elo for all players in data "state before the first round"
-    Elo = [{player: start_Elo for player in df['player'].unique()}]
+    Elo = [{str(player): start_Elo for player in df['player'].unique()}]
 
     # iterate through rounds to update the scores
     for round, round_data in df.groupby('round'):
@@ -239,9 +254,9 @@ def count_rounds(df: pd.DataFrame) -> Dict[str, Dict[str, int]]:
         and number of rounds won.
     """
     rounds_played_won = {}
-    for player, player_data in data[['player', 'place']].groupby('player'):
-        rounds_played_won[player] = {'played': len(player_data),
-                                     'won': int(np.sum(player_data['place'] == 1))}  # int64 vs JSON
+    for player, player_data in df[['player', 'place']].groupby('player'):
+        rounds_played_won[str(player)] = {'played': len(player_data),
+                                          'won': int(np.sum(player_data['place'] == 1))}  # int64 vs JSON
 
     return rounds_played_won
 
