@@ -4,7 +4,7 @@ import numpy as np
 from numpy.typing import NDArray
 import pandas as pd
 import re
-from typing import Dict, List, Literal, TypedDict, Tuple, Union
+from typing import cast, Dict, List, Literal, TypedDict, Tuple, Union
 
 # consume all the raw data and prepare info ready to serve for the API
 # hall of fame
@@ -261,6 +261,56 @@ def count_rounds(df: pd.DataFrame) -> Dict[str, Dict[str, int]]:
     return rounds_played_won
 
 
+def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
+    """ From the data, generate a dictionary of all players with the badges they earned.
+    Args:
+        df (pd.DataFrame): Data to crunch.
+    Returns:
+        Dict[str, List[Dict[str, Union[str, int, List[int]]]]]: List of badges for each player.
+    """
+    badges: Dict[str, List[Badge]] = {player: []
+                                      for player in df['player'].unique()}
+
+    # 1) prefect round: 100% score in a round
+    perfect_rounds = df[np.isclose(df['%'], 100.0, atol=0.001)].groupby('player')[
+        'round'].apply(list)
+
+    for player, pr_list in perfect_rounds.items():
+        badges[str(player)] += cast(List[Badge], [{'type': 'perfect_round',
+                                                   'round': pr} for pr in pr_list])
+
+    # 2) all draws in a round (02 and 03)
+
+    # 3) win streak (watch out for tied wins!)
+    def group_consecutive(nums: List[int]) -> List[List[int]]:
+        """ From a sorted, unique list of integers, create a list of lists of consecutive integers.
+        Args:
+            nums (List[int]): List of integers, sorted and unique.
+        Returns:
+            List[List[int]]: List of lists of consecutive integers.
+        """
+        result = [[nums[0]]]
+
+        for num in nums[1:]:
+            if num == result[-1][-1] + 1:
+                result[-1].append(num)
+            else:
+                result.append([num])
+
+        return result
+
+    rounds_winners = df[['round', 'player', 'place']].loc[df['place'] == 1]
+    for player, rounds in rounds_winners.groupby('player')['round'].apply(lambda x: sorted(x)).items():
+        streaks = group_consecutive(rounds)
+        badges[str(player)] += cast(List[Badge], [{'type': 'streak',
+                                                   'length': len(s),
+                                                   'rounds': s} for s in streaks if len(s) > 1])
+
+    # 4) something with the player index in each round?
+
+    return badges
+
+
 if __name__ == '__main__':
     data = load_data()
 
@@ -269,6 +319,7 @@ if __name__ == '__main__':
     scores = get_scores(data)
     rounds_played_won = count_rounds(data)
     mp_cards = most_played_cards(data)
+    badges = check_for_badges(data)
 
     with open('data/popular_cards.json', 'w', encoding='utf-8') as file:
         json.dump(mp_cards['overall'][:50], file, ensure_ascii=False, indent=4)
@@ -323,7 +374,8 @@ if __name__ == '__main__':
                        'elo': Elo[-1][player],
                        'score_average': scores[player]['average'],
                        'score_total': scores[player]['total'],
-                       'elo_list': [e[player] for e in Elo]}
+                       'elo_list': [e[player] for e in Elo],
+                       'badges': badges[player]}
 
         # possibly also with pandas.DataFrame.to_json (?)
         with open(f"data/players/{player}.json", 'w', encoding='utf-8') as file:
