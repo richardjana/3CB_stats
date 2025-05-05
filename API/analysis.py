@@ -1,10 +1,11 @@
 import glob
 import json
+import re
+from typing import cast, Dict, List, TypedDict, Union
+
 import numpy as np
 from numpy.typing import NDArray
 import pandas as pd
-import re
-from typing import cast, Dict, List, Literal, TypedDict, Tuple, Union
 
 # consume all the raw data and prepare info ready to serve for the API
 # hall of fame
@@ -16,8 +17,6 @@ from typing import cast, Dict, List, Literal, TypedDict, Tuple, Union
 
 # Pro runde:
 # Regeln?, decks, Ergebnisse, Link zum thread
-
-# calculate derivatives per round (sum of points, % of max points, place)
 
 
 class BaseBadge(TypedDict):
@@ -51,8 +50,6 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     df['place'] = df['sum'].map(lambda s: sum(df['sum'] > s)+1)
     # not accounting for the tie breaker. rule since when? round 30?
 
-# calculate global derivates (most played card per player)
-
 
 def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, float]]]]:
     """ Find the most-played cards for all players and overall from a pandas
@@ -66,8 +63,8 @@ def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, f
 
     unique_cards = df.loc[:, df.columns.str.startswith(
         'card_')].stack().dropna().value_counts()
-    mp_cards = {'overall': [{'card': c, 'count': int(
-        n), '%': n/sum(unique_cards.values)*100} for c, n in zip(unique_cards.index, unique_cards.values)]}
+    mp_cards = {'overall': [{'card': c, 'count': int(n), '%': n/sum(unique_cards.values)*100}
+                            for c, n in zip(unique_cards.index, unique_cards.values)]}
     mp_cards['overall'].sort(key=lambda cc: (-cc['count'], cc['card']))
 
     for player, player_data in df.groupby('player'):
@@ -76,8 +73,8 @@ def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, f
 
         unique_cards = all_cards.stack().dropna().value_counts()
 
-        mp_cards[str(player)] = [{'card': c, 'count': int(
-            n), '%': n/sum(unique_cards.values)*100} for c, n in zip(unique_cards.index, unique_cards.values)]
+        mp_cards[str(player)] = [{'card': c, 'count': int(n), '%': n/sum(unique_cards.values)*100}
+                                 for c, n in zip(unique_cards.index, unique_cards.values)]
         mp_cards[str(player)].sort(key=lambda cc: (-cc['count'], cc['card']))
 
     return mp_cards
@@ -108,7 +105,9 @@ def validate_results(df: pd.DataFrame) -> bool:
             for j in range(i+1, res_table.shape[1]):
                 if (res_table[i, j], res_table[j, i]) not in valid_results:
                     print(
-                        f"Error in results ({round_number}): {i+1} {j+1}: {res_table[i,j]}-{res_table[j,i]}")
+                        f"Error in results ({round_number}): "
+                        f"{i + 1} {j + 1}: {res_table[i, j]}-{res_table[j, i]}"
+                    )
                     is_valid = False
 
     return is_valid
@@ -126,8 +125,6 @@ def load_data() -> pd.DataFrame:
             data_cumu = pd.concat([data_cumu, data])
 
     return data_cumu
-
-# find the strongest opponents for a player (top n)
 
 
 def find_nemesis(df: pd.DataFrame, player: str, n: int = 5) -> List[Dict[str, Union[str, float, int]]]:
@@ -164,8 +161,8 @@ def find_nemesis(df: pd.DataFrame, player: str, n: int = 5) -> List[Dict[str, Un
         data_dict[p] = np.array([np.dot(data_dict[p], [-6, -3, 0, 0, 3, 0, 6]) /
                                  np.sum(data_dict[p]), np.sum(data_dict[p])])  # [-2,-1,0,0,1,0,2]
 
-    data = [{'player': p, 'score': data_dict[p][0],
-             'n_matches': int(data_dict[p][1])} for p in data_dict]
+    data = [{'player': p, 'score': snm[0], 'n_matches': int(
+        snm[1])} for p, snm in data_dict.items()]
     data.sort(key=lambda d: (d['score'], -d['n_matches']))
 
     return data[:n]
@@ -188,7 +185,8 @@ def get_scores(df: pd.DataFrame) -> Dict[str, Dict[str, Union[float, List[Dict[i
     for player, player_data in df[['player', 'round', '%']].groupby('player'):
         scores[str(player)] = {'average': player_data['%'].mean(),
                                'total': player_data['%'].sum(),
-                               'list': [{'round': int(sl[1]), 'score': sl[2]} for sl in player_data.to_numpy().tolist()]}
+                               'list': [{'round': int(sl[1]), 'score': sl[2]}
+                                        for sl in player_data.to_numpy().tolist()]}
         scores[str(player)]['list'].sort(key=lambda d: d['round'])
 
     return scores
@@ -256,7 +254,7 @@ def count_rounds(df: pd.DataFrame) -> Dict[str, Dict[str, int]]:
     rounds_played_won = {}
     for player, player_data in df[['player', 'place']].groupby('player'):
         rounds_played_won[str(player)] = {'played': len(player_data),
-                                          'won': int(np.sum(player_data['place'] == 1))}  # int64 vs JSON
+                                          'won': int(np.sum(player_data['place'] == 1))}
 
     return rounds_played_won
 
@@ -300,7 +298,8 @@ def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
         return result
 
     rounds_winners = df[['round', 'player', 'place']].loc[df['place'] == 1]
-    for player, rounds in rounds_winners.groupby('player')['round'].apply(lambda x: sorted(x)).items():
+    for player, rounds in (rounds_winners.groupby('player')['round']
+                           .apply(lambda x: sorted(x)).items()):
         streaks = group_consecutive(rounds)
         badges[str(player)] += cast(List[Badge], [{'type': 'streak',
                                                    'length': len(s),
@@ -354,7 +353,8 @@ if __name__ == '__main__':
         'round')['player'].aggregate(lambda x: list(x))
     round_winners = [{'round': r,
                       'winner': sorted(w, key=lambda x: re.sub(r'[^a-zA-Z0-9]', '', x).lower())
-                      } for r, w in zip(round_winners_df.index.to_numpy(dtype=int).tolist(), round_winners_df.to_list())]
+                      } for r, w in zip(round_winners_df.index.to_numpy(dtype=int).tolist(),
+                                        round_winners_df.to_list())]
     round_winners.sort(key=lambda x: -x['round'])
 
     # possibly also with pandas.DataFrame.to_json (?)
@@ -394,7 +394,8 @@ if __name__ == '__main__':
         deck_list = data_df.loc[:, data_df.columns.str.startswith(
             'card_')].to_numpy().tolist()
         round_data = {'decks': [{'index': i+1, 'player': p, 'cards': [
-            c for c in d if isinstance(c, str)]} for i, (p, d) in enumerate(zip(players, deck_list))]}
+            c for c in d if isinstance(c, str)]}
+            for i, (p, d) in enumerate(zip(players, deck_list))]}
 
         results_list = data_df.loc[:, data_df.columns.str.startswith(
             ('result_', 'sum'))].dropna(how='any', axis=1).to_numpy(dtype=int).tolist()
