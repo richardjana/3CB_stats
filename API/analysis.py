@@ -278,8 +278,18 @@ def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
                                                    'round': pr} for pr in pr_list])
 
     # 2) all draws in a round (02 and 03)
+    for round, round_df in df.groupby('round'):
+        player_names = round_df['player'].tolist()
+        results = round_df[[f"result_{i}" for i in range(
+            len(player_names))]].to_numpy()
+
+        for player, res in zip(player_names, results):
+            if np.isin(res, [2, 3]).all():
+                badges[str(player)] += cast(List[Badge], [{'type': 'all_draws',
+                                                           'round': round}])
 
     # 3) win streak (watch out for tied wins!)
+
     def group_consecutive(nums: List[int]) -> List[List[int]]:
         """ From a sorted, unique list of integers, create a list of lists of consecutive integers.
         Args:
