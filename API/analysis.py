@@ -319,8 +319,6 @@ if __name__ == '__main__':
     ### prepare round data ###
     with open('data/urls.json') as file:
         urls = json.load(file)
-    with open('../frontend/src/data/urls.json') as file:
-        urls = json.load(file)
 
     for round in data['round'].unique():
         data_df = data.loc[data['round'] == round]
