@@ -331,9 +331,9 @@ if __name__ == '__main__':
     badges = check_for_badges(data)
 
     with open('data/popular_cards.json', 'w', encoding='utf-8') as file:
-        json.dump(mp_cards['overall'][:50], file, ensure_ascii=False, indent=4)
+        json.dump(mp_cards['overall'], file, ensure_ascii=False, indent=4)
     with open('../frontend/src/data/popular_cards.json', 'w', encoding='utf-8') as file:
-        json.dump(mp_cards['overall'][:50], file, ensure_ascii=False, indent=4)
+        json.dump(mp_cards['overall'], file, ensure_ascii=False, indent=4)
 
     ### prepare list of all players and round numbers ###
     all_players_sorted = all_players.tolist()
