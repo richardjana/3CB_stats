@@ -37,11 +37,9 @@
 .badge-text strong {
   display: block;
   font-size: 16px;
-  color: #007bff; /* Blue color for the label */
 }
 
 /* Badge description (small text below the label) */
 .badge-text p {
   font-size: 12px;
-  color: #777; /* Slightly lighter text for description */
 }

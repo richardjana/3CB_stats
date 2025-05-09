@@ -275,7 +275,8 @@ def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
 
     for player, pr_list in perfect_rounds.items():
         badges[str(player)] += cast(List[Badge], [{'type': 'perfect_round',
-                                                   'round': pr} for pr in pr_list])
+                                                   'label': 'Perfekte Runde',
+                                                   'description': f"Runde {pr}"} for pr in pr_list])
 
     # 2) all draws in a round (02 and 03)
     for round, round_df in df.groupby('round'):
@@ -286,7 +287,8 @@ def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
         for player, res in zip(player_names, results):
             if np.isin(res, [2, 3]).all():
                 badges[str(player)] += cast(List[Badge], [{'type': 'all_draws',
-                                                           'round': round}])
+                                                           'label': 'Unentschieden!',
+                                                           'description': f"Runde {round}"}])
 
     # 3) win streak (watch out for tied wins!)
 
@@ -312,8 +314,9 @@ def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
                            .apply(lambda x: sorted(x)).items()):
         streaks = group_consecutive(rounds)
         badges[str(player)] += cast(List[Badge], [{'type': 'streak',
-                                                   'length': len(s),
-                                                   'rounds': s} for s in streaks if len(s) > 1])
+                                                   'label': f"Gewinnserie {len(s)}",
+                                                   'description': f"{s[0]} - {s[-1]}"}
+                                                   for s in streaks if len(s) > 1])
 
     # 4) something with the player index in each round?
 

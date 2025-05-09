@@ -207,12 +207,12 @@
         {
             "type": "streak",
             "label": "Gewinnserie 2",
-            "description": "8, 9"
+            "description": "8 - 9"
         },
         {
             "type": "streak",
             "label": "Gewinnserie 4",
-            "description": "46, 47, 48, 49"
+            "description": "46 - 49"
         }
     ]
 }

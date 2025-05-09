@@ -197,22 +197,22 @@
         {
             "type": "streak",
             "label": "Gewinnserie 2",
-            "description": "50, 51"
+            "description": "50 - 51"
         },
         {
             "type": "streak",
             "label": "Gewinnserie 2",
-            "description": "69, 70"
+            "description": "69 - 70"
         },
         {
             "type": "streak",
             "label": "Gewinnserie 3",
-            "description": "92, 93, 94"
+            "description": "92 - 94"
         },
         {
             "type": "streak",
             "label": "Gewinnserie 2",
-            "description": "110, 111"
+            "description": "110 - 111"
         }
     ]
 }
