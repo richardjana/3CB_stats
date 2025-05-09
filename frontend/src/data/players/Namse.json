@@ -191,35 +191,23 @@
     "badges": [
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                1,
-                2
-            ]
+            "label": "Gewinnserie 2",
+            "description": "1, 2"
         },
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                11,
-                12
-            ]
+            "label": "Gewinnserie 2",
+            "description": "11, 12"
         },
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                73,
-                74
-            ]
+            "label": "Gewinnserie 2",
+            "description": "73, 74"
         },
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                114,
-                115
-            ]
+            "label": "Gewinnserie 2",
+            "description": "114, 115"
         }
     ]
 }

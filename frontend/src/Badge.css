@@ -1,0 +1,47 @@
+.badge-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; /* Allow wrapping for multiple badges */
+  margin-top: 20px; /* Add spacing above badges */
+}
+
+/* Individual badge styling */
+.badge-item {
+  display: flex;
+  flex-direction: column; /* Stack image on top of text */
+  align-items: center; /* Center image and text */
+  margin: 10px; /* Space between badges */
+  padding: 10px;
+  background-color: #f4f4f4; /* Light background */
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 120px; /* Fixed width for each badge */
+}
+
+/* Badge icon (image) */
+.badge-icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 10px; /* Space between image and text */
+}
+
+/* Badge text section */
+.badge-text {
+  font-size: 14px;
+  color: #333;
+  text-align: center;
+}
+
+/* Badge label (strong text) */
+.badge-text strong {
+  display: block;
+  font-size: 16px;
+  color: #007bff; /* Blue color for the label */
+}
+
+/* Badge description (small text below the label) */
+.badge-text p {
+  font-size: 12px;
+  color: #777; /* Slightly lighter text for description */
+}

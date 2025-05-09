@@ -191,40 +191,28 @@
     "badges": [
         {
             "type": "perfect_round",
-            "round": 70
+            "label": "Perfekte Runde",
+            "description": "Runde 70"
         },
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                50,
-                51
-            ]
+            "label": "Gewinnserie 2",
+            "description": "50, 51"
         },
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                69,
-                70
-            ]
+            "label": "Gewinnserie 2",
+            "description": "69, 70"
         },
         {
             "type": "streak",
-            "length": 3,
-            "rounds": [
-                92,
-                93,
-                94
-            ]
+            "label": "Gewinnserie 3",
+            "description": "92, 93, 94"
         },
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                110,
-                111
-            ]
+            "label": "Gewinnserie 2",
+            "description": "110, 111"
         }
     ]
 }

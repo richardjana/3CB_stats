@@ -191,11 +191,13 @@
     "badges": [
         {
             "type": "perfect_round",
-            "round": 57
+            "label": "Perfekte Runde",
+            "description": "Runde 57"
         },
         {
             "type": "perfect_round",
-            "round": 79
+            "label": "Perfekte Runde",
+            "description": "Runde 79"
         }
     ]
 }

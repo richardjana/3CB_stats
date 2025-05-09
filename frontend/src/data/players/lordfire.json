@@ -191,11 +191,8 @@
     "badges": [
         {
             "type": "streak",
-            "length": 2,
-            "rounds": [
-                91,
-                92
-            ]
+            "label": "Gewinnserie 2",
+            "description": "91, 92"
         }
     ]
 }

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router';
 import { useParams } from 'react-router-dom';
 
+import Badge from './Badge';
 import CardHover from './CardHover';
 import formatFloat from './utilities/formatFloat';
 import InfoHover from './InfoHover';
@@ -18,6 +19,7 @@ const PlayerStats = () => {
   const [eloList, setEloList] = useState([]);
   const [elo, setElo] = useState(0);
   const [nemesis, setNemesis] = useState([]);
+  const [badgesData, setBadgesData] = useState([]);
 
   useEffect(() => {
     if (!name) return;
@@ -34,6 +36,7 @@ const PlayerStats = () => {
         setEloList(data.elo_list);
         setElo(data.elo);
         setNemesis(data.nemesis[0]);
+        setBadgesData(data.badges);
       } catch (err) {
         console.error('Player data not found:', err);
       }
@@ -56,6 +59,13 @@ const PlayerStats = () => {
             Elo <InfoHover type="elo" />: {formatFloat(elo)}
           </div>
         </div>
+
+        <div className="badges" style={{ display: 'flex', flexWrap: 'wrap' }}>
+          {badgesData.map((badge, index) => (
+            <Badge key={index} {...badge} />
+          ))}
+        </div>
+
         <div className="mp_cards">
           <h3>Meistgespielte Karten</h3>
           <table className="mp_cards_table">
