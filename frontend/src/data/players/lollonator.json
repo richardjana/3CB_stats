@@ -3,37 +3,32 @@
         {
             "card": "Karakas",
             "count": 16,
-            "%": 4.545454545454546
+            "%": 4.507042253521127
         },
         {
             "card": "Wasteland",
             "count": 15,
-            "%": 4.261363636363636
+            "%": 4.225352112676056
         },
         {
             "card": "Force of Will",
             "count": 13,
-            "%": 3.6931818181818183
+            "%": 3.6619718309859155
         },
         {
             "card": "Black Lotus",
             "count": 12,
-            "%": 3.4090909090909087
+            "%": 3.3802816901408446
         },
         {
             "card": "Isamaru, Hound of Konda",
             "count": 11,
-            "%": 3.125
+            "%": 3.0985915492957745
         }
     ],
-    "n_rounds_played": 116,
+    "n_rounds_played": 117,
     "n_wins": 1,
     "nemesis": [
-        {
-            "player": "Schniggi",
-            "score": -6.0,
-            "n_matches": 5
-        },
         {
             "player": "Pepega",
             "score": -6.0,
@@ -45,19 +40,24 @@
             "n_matches": 1
         },
         {
-            "player": "Sedris",
-            "score": -6.0,
-            "n_matches": 1
+            "player": "Schniggi",
+            "score": -4.0,
+            "n_matches": 6
         },
         {
             "player": "Silver Seraph",
-            "score": -3.6857142857142855,
-            "n_matches": 35
+            "score": -3.4166666666666665,
+            "n_matches": 36
+        },
+        {
+            "player": "Hasran Ogress",
+            "score": -3.230769230769231,
+            "n_matches": 13
         }
     ],
-    "elo": 1501.069766746791,
-    "score_average": 36.31647487250936,
-    "score_total": 4212.711085211085,
+    "elo": 1522.8574664259806,
+    "score_average": 36.511128156427304,
+    "score_total": 4271.8019943019945,
     "elo_list": [
         1600.0,
         1600.0,
@@ -185,7 +185,8 @@
         1535.6247511812185,
         1512.344164776787,
         1512.344164776787,
-        1501.069766746791
+        1501.069766746791,
+        1522.8574664259806
     ],
     "badges": []
 }

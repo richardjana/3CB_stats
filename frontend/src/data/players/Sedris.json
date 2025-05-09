@@ -3,51 +3,61 @@
         {
             "card": "Black Lotus",
             "count": 1,
-            "%": 33.33333333333333
+            "%": 16.666666666666664
+        },
+        {
+            "card": "Cavern of Souls",
+            "count": 1,
+            "%": 16.666666666666664
+        },
+        {
+            "card": "Glacial Chasm",
+            "count": 1,
+            "%": 16.666666666666664
         },
         {
             "card": "Predator Ooze",
             "count": 1,
-            "%": 33.33333333333333
+            "%": 16.666666666666664
         },
         {
             "card": "Sapphire Dragon // Psionic Pulse",
             "count": 1,
-            "%": 33.33333333333333
+            "%": 16.666666666666664
         }
     ],
-    "n_rounds_played": 1,
+    "n_rounds_played": 2,
     "n_wins": 0,
     "nemesis": [
         {
-            "player": "Namse",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "Michael W",
-            "score": -6.0,
-            "n_matches": 1
+            "score": -3.0,
+            "n_matches": 2
         },
         {
             "player": "hug77",
-            "score": 0.0,
-            "n_matches": 1
+            "score": -3.0,
+            "n_matches": 2
         },
         {
-            "player": "Schniggi",
-            "score": 6.0,
-            "n_matches": 1
+            "player": "Namse",
+            "score": 0.0,
+            "n_matches": 2
         },
         {
             "player": "lollonator",
-            "score": 6.0,
-            "n_matches": 1
+            "score": 0.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Schniggi",
+            "score": 3.0,
+            "n_matches": 2
         }
     ],
-    "elo": 1627.820122140194,
-    "score_average": 75.75757575757576,
-    "score_total": 75.75757575757576,
+    "elo": 1644.7514354448679,
+    "score_average": 69.6969696969697,
+    "score_total": 139.3939393939394,
     "elo_list": [
         1600.0,
         1600.0,
@@ -175,7 +185,8 @@
         1600.0,
         1600.0,
         1600.0,
-        1627.820122140194
+        1627.820122140194,
+        1644.7514354448679
     ],
     "badges": []
 }

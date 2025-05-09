@@ -2,251 +2,5666 @@
     {
         "card": "Black Lotus",
         "count": 376,
-        "%": 9.014624790218173
+        "%": 8.93748514380794
     },
     {
         "card": "Wasteland",
-        "count": 89,
-        "%": 2.1337808678973866
+        "count": 90,
+        "%": 2.1392916567625386
     },
     {
         "card": "Force of Will",
         "count": 82,
-        "%": 1.9659554063773677
+        "%": 1.9491323983836462
+    },
+    {
+        "card": "City of Traitors",
+        "count": 78,
+        "%": 1.8540527691942001
     },
     {
         "card": "Mishra's Workshop",
         "count": 77,
-        "%": 1.846080076720211
-    },
-    {
-        "card": "City of Traitors",
-        "count": 76,
-        "%": 1.8221050107887795
+        "%": 1.8302828618968388
     },
     {
         "card": "Leyline of Anticipation",
         "count": 73,
-        "%": 1.7501798129944857
+        "%": 1.7352032327073923
     },
     {
         "card": "The Tabernacle at Pendrell Vale",
         "count": 66,
-        "%": 1.5823543514744667
+        "%": 1.5688138816258617
     },
     {
         "card": "Karakas",
-        "count": 63,
-        "%": 1.5104291536801726
+        "count": 64,
+        "%": 1.5212740670311384
     },
     {
         "card": "Mishra's Factory",
         "count": 59,
-        "%": 1.4145288899544475
+        "%": 1.4024245305443308
     },
     {
         "card": "Snapback",
         "count": 41,
-        "%": 0.9829777031886838
+        "%": 0.9745661991918231
     },
     {
         "card": "Crashing Footfalls",
         "count": 39,
-        "%": 0.9350275713258211
+        "%": 0.9270263845971001
     },
     {
         "card": "Dark Depths",
-        "count": 36,
-        "%": 0.8631023735315272
+        "count": 37,
+        "%": 0.8794865700023771
+    },
+    {
+        "card": "Cavern of Souls",
+        "count": 35,
+        "%": 0.8319467554076538
     },
     {
         "card": "Dryad Arbor",
         "count": 35,
-        "%": 0.8391273076000958
+        "%": 0.8319467554076538
     },
     {
         "card": "Inkmoth Nexus",
         "count": 35,
-        "%": 0.8391273076000958
+        "%": 0.8319467554076538
     },
     {
         "card": "Chancellor of the Forge",
         "count": 34,
-        "%": 0.8151522416686646
+        "%": 0.8081768481102924
     },
     {
         "card": "Forest",
         "count": 34,
-        "%": 0.8151522416686646
-    },
-    {
-        "card": "Cavern of Souls",
-        "count": 32,
-        "%": 0.767202109805802
+        "%": 0.8081768481102924
     },
     {
         "card": "Ensnaring Bridge",
         "count": 32,
-        "%": 0.767202109805802
+        "%": 0.7606370335155692
     },
     {
         "card": "Anointed Peacekeeper",
         "count": 31,
-        "%": 0.7432270438743707
+        "%": 0.7368671262182077
     },
     {
         "card": "Lupine Prototype",
         "count": 30,
-        "%": 0.7192519779429393
+        "%": 0.7130972189208462
     },
     {
         "card": "Maze of Ith",
         "count": 27,
-        "%": 0.6473267801486454
+        "%": 0.6417874970287616
     },
     {
         "card": "Memnite",
         "count": 27,
-        "%": 0.6473267801486454
+        "%": 0.6417874970287616
     },
     {
         "card": "Lion's Eye Diamond",
         "count": 26,
-        "%": 0.6233517142172141
+        "%": 0.6180175897314001
     },
     {
         "card": "Meddling Mage",
         "count": 25,
-        "%": 0.5993766482857827
+        "%": 0.5942476824340386
     },
     {
         "card": "Emrakul, the Aeons Torn",
         "count": 24,
-        "%": 0.5754015823543515
+        "%": 0.570477775136677
     },
     {
         "card": "Old-Growth Dryads",
         "count": 22,
-        "%": 0.5274514504914889
+        "%": 0.5229379605419539
     },
     {
         "card": "Swamp",
         "count": 22,
-        "%": 0.5274514504914889
+        "%": 0.5229379605419539
+    },
+    {
+        "card": "Pact of Negation",
+        "count": 21,
+        "%": 0.49916805324459235
+    },
+    {
+        "card": "Urborg, Tomb of Yawgmoth",
+        "count": 21,
+        "%": 0.49916805324459235
     },
     {
         "card": "Plains",
         "count": 20,
-        "%": 0.4795013186286262
-    },
-    {
-        "card": "Urborg, Tomb of Yawgmoth",
-        "count": 20,
-        "%": 0.4795013186286262
+        "%": 0.47539814594723084
     },
     {
         "card": "Vampire Hexmage",
         "count": 20,
-        "%": 0.4795013186286262
+        "%": 0.47539814594723084
     },
     {
         "card": "Chancellor of the Annex",
         "count": 19,
-        "%": 0.4555262526971949
+        "%": 0.45162823864986923
     },
     {
         "card": "Chancellor of the Dross",
         "count": 19,
-        "%": 0.4555262526971949
+        "%": 0.45162823864986923
     },
     {
         "card": "Lurrus of the Dream-Den",
         "count": 19,
-        "%": 0.4555262526971949
+        "%": 0.45162823864986923
     },
     {
         "card": "Scalding Tongs",
         "count": 19,
-        "%": 0.4555262526971949
+        "%": 0.45162823864986923
     },
     {
         "card": "Bitterblossom",
         "count": 18,
-        "%": 0.4315511867657636
+        "%": 0.4278583313525077
     },
     {
         "card": "Island",
         "count": 18,
-        "%": 0.4315511867657636
+        "%": 0.4278583313525077
     },
     {
-        "card": "Pact of Negation",
+        "card": "Phyrexian Dreadnought",
         "count": 18,
-        "%": 0.4315511867657636
+        "%": 0.4278583313525077
     },
     {
         "card": "Thalia, Guardian of Thraben",
         "count": 18,
-        "%": 0.4315511867657636
+        "%": 0.4278583313525077
     },
     {
         "card": "Mountain",
         "count": 17,
-        "%": 0.4075761208343323
+        "%": 0.4040884240551462
     },
     {
         "card": "Shelldock Isle",
         "count": 17,
-        "%": 0.4075761208343323
+        "%": 0.4040884240551462
+    },
+    {
+        "card": "Isochron Scepter",
+        "count": 15,
+        "%": 0.3565486094604231
     },
     {
         "card": "Peat Bog",
         "count": 15,
-        "%": 0.35962598897146963
+        "%": 0.3565486094604231
     },
     {
         "card": "Isamaru, Hound of Konda",
         "count": 14,
-        "%": 0.3356509230400384
-    },
-    {
-        "card": "Isochron Scepter",
-        "count": 14,
-        "%": 0.3356509230400384
+        "%": 0.33277870216306155
     },
     {
         "card": "Tidehollow Sculler",
         "count": 14,
-        "%": 0.3356509230400384
+        "%": 0.33277870216306155
     },
     {
         "card": "Ulamog, the Infinite Gyre",
         "count": 14,
-        "%": 0.3356509230400384
+        "%": 0.33277870216306155
     },
     {
         "card": "Elite Spellbinder",
         "count": 13,
-        "%": 0.31167585710860707
+        "%": 0.30900879486570004
     },
     {
         "card": "Liliana of the Veil",
         "count": 13,
-        "%": 0.31167585710860707
+        "%": 0.30900879486570004
     },
     {
         "card": "Phyrexian Revoker",
         "count": 13,
-        "%": 0.31167585710860707
+        "%": 0.30900879486570004
     },
     {
         "card": "Pithing Needle",
         "count": 13,
-        "%": 0.31167585710860707
+        "%": 0.30900879486570004
     },
     {
         "card": "Serra Ascendant",
         "count": 13,
-        "%": 0.31167585710860707
+        "%": 0.30900879486570004
+    },
+    {
+        "card": "Curse of Silence",
+        "count": 12,
+        "%": 0.2852388875683385
+    },
+    {
+        "card": "Davriel, Rogue Shadowmage",
+        "count": 12,
+        "%": 0.2852388875683385
+    },
+    {
+        "card": "Fountain of Cho",
+        "count": 12,
+        "%": 0.2852388875683385
+    },
+    {
+        "card": "Hexdrinker",
+        "count": 12,
+        "%": 0.2852388875683385
+    },
+    {
+        "card": "Leyline of Singularity",
+        "count": 12,
+        "%": 0.2852388875683385
+    },
+    {
+        "card": "Thespian's Stage",
+        "count": 12,
+        "%": 0.2852388875683385
+    },
+    {
+        "card": "Ancient Tomb",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Assassin's Trophy",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Cenn's Tactician",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Death's Shadow",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Durkwood Baloth",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Iona, Shield of Emeria",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Nether Spirit",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Sanctum of Stone Fangs",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Subterranean Hangar",
+        "count": 11,
+        "%": 0.2614689802709769
+    },
+    {
+        "card": "Anurid Scavenger",
+        "count": 10,
+        "%": 0.23769907297361542
+    },
+    {
+        "card": "Archmage's Charm",
+        "count": 10,
+        "%": 0.23769907297361542
+    },
+    {
+        "card": "Chalice of Life // Chalice of Death",
+        "count": 10,
+        "%": 0.23769907297361542
+    },
+    {
+        "card": "Daze",
+        "count": 10,
+        "%": 0.23769907297361542
+    },
+    {
+        "card": "Dread Fugue",
+        "count": 10,
+        "%": 0.23769907297361542
+    },
+    {
+        "card": "Slippery Bogle",
+        "count": 10,
+        "%": 0.23769907297361542
+    },
+    {
+        "card": "Chromatic Orrery",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Collector Ouphe",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Cruelclaw's Heist",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Gideon of the Trials",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Karn Liberated",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Lodestone Golem",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Magus of the Moon",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Misthollow Griffin",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Nicol Bolas, Dragon-God",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Okiba Reckoner Raid // Nezumi Road Captain",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Oko, Thief of Crowns",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Pendelhaven",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Saprazzan Cove",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Trinisphere",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Urza's Saga",
+        "count": 9,
+        "%": 0.21392916567625386
+    },
+    {
+        "card": "Boseiju, Who Endures",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Bottomless Vault",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Helix Pinnacle",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Leyline of Sanctity",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Mayor of Avabruck // Howlpack Alpha",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Mox Jet",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Rushwood Grove",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Summary Dismissal",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Super Lotus",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Vault Skirge",
+        "count": 8,
+        "%": 0.1901592583788923
+    },
+    {
+        "card": "Chalice of the Void",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Elspeth, Knight-Errant Emblem",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Frost Titan",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Geth's Verdict",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Glistener Elf",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Icatian Store",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Lavinia, Azorius Renegade",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Leonin Squire",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Mana Crypt",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Misguided Rage",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Pick Your Poison",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Retrofitter Foundry",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Shield Sphere",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Sneak Attack",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Sol Ring",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Unburial Rites",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Walking Ballista",
+        "count": 7,
+        "%": 0.16638935108153077
+    },
+    {
+        "card": "Argivian Find",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Cathedral of War",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Counterspell",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Destructive Flow",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Dwarven Hold",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Empty the Warrens",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Foil",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Force of Negation",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Kiora Bests the Sea God",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Leyline of the Guildpact",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Mana Vault",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Mono Land",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Mox Pearl",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Myr Superion",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Phyrexian Soulgorger",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Ratchet Bomb",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Reanimate",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Savannah",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Skrelv's Hive",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Smallpox",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Sunken Citadel",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Treetop Village",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Wurmcoil Engine",
+        "count": 6,
+        "%": 0.14261944378416924
+    },
+    {
+        "card": "Approach of the Second Sun",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Ashiok, Nightmare Muse",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Chandra, Awakened Inferno",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Counterflux",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Crystal Vein",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Darksteel Reactor",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Exhume",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Gaea's Cradle",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Glacial Chasm",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Hopeless Nightmare",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Ichorclaw Myr",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Leyline of the Meek",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Lightning Bolt",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Lightning Helix",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Path to Exile",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Power Conduit",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Progenitus",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Scion of Draco",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Swords to Plowshares",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Thought-Knot Seer",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Thrun, the Last Troll",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Tribute to Horobi // Echo of Death's Wail",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Volatile Fault",
+        "count": 5,
+        "%": 0.11884953648680771
+    },
+    {
+        "card": "Aether Vial",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Aetherflux Reservoir",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Akroan Horse",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Alpine Moon",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "An Offer You Can't Refuse",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Boromir, Warden of the Tower",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Brago's Favor",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Brazen Borrower // Petty Theft",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Brutal Cathar // Moonrage Brute",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Cavernous Maw",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Commandeer",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Dark Ritual",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Detention Vortex",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Domri Rade Emblem",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Drop of Honey",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Elemental Eruption",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Elspeth, Sun's Champion",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Elvish Spirit Guide",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Emrakul, the Promised End",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Force of Vigor",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Funeral Charm",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Garruk, Cursed Huntsman",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Grand Arbiter Augustin IV",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Grief",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Hunted Horror",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Mental Misstep",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Mercadian Bazaar",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Misdirection",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Mox Sapphire",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Mutavault",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Myr Servitor",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Nezumi Shortfang // Stabwhisker the Odious",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Nullhide Ferox",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Plateau",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Portable Hole",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Remote Farm",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Runed Halo",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Sandstone Needle",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Savage Summoning",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Sheltered Valley",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Sleep-Cursed Faerie",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Sphere of Resistance",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Subtlety",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "The Kami War // O-Kagachi Made Manifest",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Time Stop",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Tolarian Academy",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Tropical Island",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Unmask",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Vindicate",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Vryn Wingmare",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Yavimaya, Cradle of Growth",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": "Yidaro, Wandering Monster",
+        "count": 4,
+        "%": 0.09507962918944615
+    },
+    {
+        "card": " Snow-Covered Wastes",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Aeve, Progenitor Ooze",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Bazaar of Baghdad",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Beast Within",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Berserk",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Brudiclad, Telchor Engineer",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Ceremonious Rejection",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Chronomaton",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Clockspinning",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Court of Grace",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Demonfire",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Demonic Covenant",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Desert",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Dismember",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Distress",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Divest",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Dovin, Hand of Control",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Duress",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Eater of Days",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Epochrasite",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Forgotten Monument",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Galvanic Blast",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Golgari Rot Farm",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Grove of the Burnwillows",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Hex Parasite",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Hypnotic Sprite // Mesmeric Glare",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Kataki, War's Wage",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Khalni Garden",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Kird Ape",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Mangara of Corondor",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Meekstone",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Minsc & Boo, Timeless Heroes",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Mistcutter Hydra",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Mox Ruby",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Murderous Rider // Swift End",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Necrotic Sliver",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Noxious Revival",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Oildeep Gearhulk",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Oran-Rief, the Vastwood",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Platinum Angel",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Preacher",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Punishing Fire",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Quicksand",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Rotting Regisaur",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Samwise the Stouthearted",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Sand Silos",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Season of the Burrow",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Serra's Emissary",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Shadrix Silverquill",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Skylasher",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Snow-Covered Wastes",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Sorin, Lord of Innistrad",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Spell Queller",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Stifle",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Stuffy Doll",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Surrak Dragonclaw",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Swarm Shambler",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Sword of the Meek",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Teferi's Isle",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Thopter Foundry",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Torpor Orb",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Transcendence",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Village Messenger // Moonrise Intruder",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Void Mirror",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Volcanic Island",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Volrath's Stronghold",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Vraska the Unseen",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Wastes",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Will Kenrith Emblem",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Windborn Muse",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Wrenn and Six",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": "Yavimaya Hollow",
+        "count": 3,
+        "%": 0.07130972189208462
+    },
+    {
+        "card": " Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": " Assassin's Trophy",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": " Black Lotus",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": " Cavern of Souls",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": " Disruptor Flute",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": " Force of Will",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "3/3-Token mit Lifelink",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Acidic Slime",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Aether Channeler",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ancient Den",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Angel of Jubilation",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Angrath's Rampage",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Artifact Mutation",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ashiok's Erasure",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Assault Formation",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Aven Interrupter",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ayara's Oathsworn",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Basking Rootwalla",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Bayou",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Blazing Rootwalla",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Blightsteel Colossus",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Blot out the Sky",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Bottle Gnomes",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Capsize",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Carnage Tyrant",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Carnophage",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Castigate",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Cauldron Familiar",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Chain of Vapor",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Chimeric Idol",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Circle of Protection: Red",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "City of Brass",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Collective Brutality",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Colossus Hammer",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Contagion",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Copper Tablet",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Council's Judgment",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Court Homunculus",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Crucible of Worlds",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Cruel Reality",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Crystalline Giant",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Culling the Weak",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Daretti, Scrap Savant Emblem",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Dauthi Voidwalker",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Deep-Cavern Bat",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Deputy of Detention",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Disenchant",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Donate",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Double Stroke",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Drannith Ruins",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ego Drain",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Elephant Grass",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Endurance",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ensoul Artifact",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Entrancing Melody",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Erratic Portal",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Eternal Scourge",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Evolved Sleeper",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Felidar Guardian",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Feudkiller's Verdict",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Flash",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Force Spike",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Frilled Mystic",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Fury Charm",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Garruk, Apex Predator",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Garth One-Eye",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Geothermal Crevice",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Gifted Aetherborn",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Goblin Fireslinger",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Goblin Guide",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Goblin Tomb Raider",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Great Furnace",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Grim Monolith",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Gruul Turf",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Gut Shot",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Hagra Mauling // Hagra Broodpit",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Hammerheim",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Havenwood Battleground",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Hickory Woodlot",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Hollow Trees",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Hope of Ghirapur",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Hushbringer",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Illness in the Ranks",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Illusions of Grandeur",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Infernal Grasp",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Invisible Stalker",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Iron Maiden",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Irrigation Ditch",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "It That Betrays",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Izzet Boilerworks",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Judge's Familiar",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Kabira Crossroads",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Kaldra Compleat",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Kaya, Ghost Assassin",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Keldon Halberdier",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Koma, Cosmos Serpent",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Krosan Grip",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Kuldotha Rebirth",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Kumano Faces Kakkazan // Etching of Kumano",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Leveler",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Leyline of the Void",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Lightning Greaves",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Liliana, Defiant Necromancer Emblem",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Living Conundrum",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Lotus Bloom",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Lotus Petal",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Loyal Pegasus",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Lux Cannon",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Maha, Its Feathers Night",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Master Splicer",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Meteor Golem",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Mishra's Foundry",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Momentum Breaker",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Mother of Runes",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Mox Emerald",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Myr Turbine",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Near-Death Experience",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Not of This World",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Nyxathid",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Okina, Temple to the Grandfathers",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Omnath, Locus of Mana",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Orzhov Basilica",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Pardic Dragon",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Phylactery Lich",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Phyrexian Obliterator",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Phyrexian Walker",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Porcelain Legionnaire",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Power Play",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Predatory Sliver",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Prodigal Sorcerer",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Pulse of the Dross",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Pyrite Spellbomb",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Reality Smasher",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Reckless Assault",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Rhonas's Last Stand",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Rip Apart",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Saheeli Rai",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Saprazzan Skerry",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Savannah Lions",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Searing Touch",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Seat of the Synod",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Selesnya Charm",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Serra the Benevolent Emblem",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Serra's Sanctum",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Skrelv, Defector Mite",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Skyshroud Cutter",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Smokestack",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Smuggler's Copter",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Snow-Covered Swamp",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Solemnity",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Sorin Markov",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Sorin, Imperious Bloodlord",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Soul Spike",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Soulless Jailer",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Speaker of the Heavens",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Spellscorn Coven // Take It Back",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Storm Herd",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Stormchaser's Talent",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Strixhaven Stadium",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Sulfuric Vortex",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Sunken Ruins",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Taiga",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Tainted Remedy",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Taste for Mayhem",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Tel-Jilad Stylus",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Tempting Wurm",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Tendrils of Agony",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "The Long Reach of Night // Animus of Night's Reach",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "The Rack",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "The Restoration of Eiganjo // Architect of Restoration",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Thorn of Amethyst",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Time Vault",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Timecrafting",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Toolcraft Exemplar",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Tree of Tales",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Triskaidekaphobia",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Troll of Khazad-dûm",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "True-Name Nemesis",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ugin, the Spirit Dragon",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Ulamog, the Ceaseless Hunger",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Underground Sea",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Unwanted Remake",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Vampire of the Dire Moon",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Vedalken Certarch",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Vizzerdrix",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Vraska, Relic Seeker",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Wandering Archaic // Explore the Vastlands",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Warping Wail",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Witch's Oven",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Yotian Soldier",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": "Young Wolf",
+        "count": 2,
+        "%": 0.047539814594723076
+    },
+    {
+        "card": " Bridgeworks Battle // Tanglespan Bridgeworks",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " City of Traitors",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Dark Depths",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Deputy of Detention",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Emrakul, the Aeons Torn",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Fist of Suns",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Flare of Denial",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Flare of Fortitude",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Force of Negation",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Harbinger of the Seas",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Hullbreaker Horror",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Idol of False Gods",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Indebted Spirit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Kudo, King Among Bears",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Lavinia, Azorius Renegade",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Leyline of Sanctity",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Lupine Prototype",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Meddling Mage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Memnite",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Mesmeric Fiend",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Misdirection",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Nacatl Pariah // Ajani, Nacatl Avenger",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Noxious Revival",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Path to Exile",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Ratchet Bomb",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Savage Summoning",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Sigarda, Host of Herons",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Snapback",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Strength of the Harvest // Haven of the Harvest",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Surrak Dragonclaw",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Thraben Charm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Vampire Hexmage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " Vraska the Unseen",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": " White Orchid Phantom",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Abandon Hope",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Aboleth Spawn",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Abrupt Decay",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Academy Ruins",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Aclazotz, Deepest Betrayal // Temple of the Dead",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Adanto Vanguard",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Adaptive Automaton",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Admonition Angel",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Advent of the Wurm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Aether Hub",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Aethersnatch",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ajani Vengeant",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ali from Cairo",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "All That Glitters",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Allosaurus Shepherd",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Alpha Deathclaw",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Altar of Bhaal // Bone Offering",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Angel of Sanctions",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Angel's Grace",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Angelic Purge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Animist's Might",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Annul",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ant Queen",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Anvil of Bogardan",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Aphemia, the Cacophony",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Apocalypse",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Arcbound Mouser",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Arcbound Stinger",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Archon of Coronation",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Archon of Cruelty",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Archon of Valor's Reach",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Arlinn Kord // Arlinn, Embraced by the Moon",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Arlinn, Voice of the Pack",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "As Foretold",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ascendant Packleader",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ashen Rider",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ashling the Pilgrim",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Assemble the Rank and Vile",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Aura Mutation",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Avarice Totem",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ayula's Influence",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Azorius Chancery",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Badlands",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Baneful Omen",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Banisher Priest",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Barbed Wire",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Barkchannel Pathway // Tidechannel Pathway",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Barkform Harvester",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Barrage of Expendables",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Basri, Tomorrow's Champion",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Battle of Wits",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bayou Groff",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Beacon of Immortality",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Big Game Hunter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blackbloom Rogue // Blackbloom Bog",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blast Zone",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blazing Archon",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blighted Agent",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bloated Contaminator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blood Tribute",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blood on the Snow",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bloodletter of Aclazotz",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blooming Marsh",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blossoming Sands",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Blot Out",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bojuka Bog",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bonescythe Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Boomerang",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Boros Garrison",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Borrowed Time",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Boseiju, Who Shelters All",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bounty Agent",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Brain Pry",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bramble Familiar // Fetch Quest",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Branch of Vitu-Ghazi",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Brass Man",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Brazen Borrower",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Brindle Shoat",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bringer of the Green Dawn",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Brushland",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Brute Force",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Burglar Rat",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Burning-Tree Emissary",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Bushi Tenderfoot // Kenzo the Hardhearted",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cabal Interrogator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cabal Pit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cabal Therapist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Callidus Assassin",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Captivating Cave",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Carrion Feeder",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cartouche of Solidarity",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cascading Cataracts",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cathartic Adept",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chamber Sentry",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chancellor of the Spires",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chancellor of the Tangle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chandra's Regulator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chandra, Flame's Fury",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Change of Heart",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Channel the Suns",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chaplain of Alms",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chaplain of Alms // Chapel Shieldgeist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Charix, the Raging Isle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Charmed Stray",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chatter of the Squirrel",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Children of Korlis",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chromanticore",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Chronatog",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Circle of Flame",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Claim the Firstborn",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cloudshredder Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Colossal Skyturtle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Composite Golem",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Consulate Dreadnought",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Copperline Gorge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Countersquall",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Covetous Urge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Crack the Earth",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cragcrown Pathway // Timbercrown Pathway",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cruel Sadist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cryptic Command",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cryptic Trilobite",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cryptolith Fragment // Aurora of Emrakul",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Crystalline Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Curfew",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Curse of the Pierced Heart",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Cut Down",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dack Fayden",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Damping Sphere",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Danitha, Benalia's Hope",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Darkmoss Bridge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Darkwater Catacombs",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Daru Spiritualist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Deadeye Harpooner",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Deceiver Exarch",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Demon of Death's Gate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Descent into Avernus",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Deserted Temple",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Diabolic Edict",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Diamond Valley",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Diffusion Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dimir Aqueduct",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Disallow",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Disciple of the Vault",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dismiss into Dream",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Disruptor Flute",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Disruptor Flute, Ajani",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dokuchi Silencer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dominate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Doomed Traveler",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dormant Volcano",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dragon Tempest",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dragonlord Dromoka",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dragonlord Silumgar",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Draining Whelk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dread Return",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dreadship Reef",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dreams of Steel and Oil",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dryad's Revival",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dualcaster Mage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dwarven Ruins",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Dwarven Thaumaturgist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Eldrazi Conscription",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Eldrazi Mimic",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Elephant Graveyard",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Elvish Archivist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Elvish Piper",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Embereth Shieldbreaker // Battle Display",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Emerald Charm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Emergency Weld",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Enter the Infinite",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Entomber Exarch",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Eon Hub",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Esika's Chariot",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Eternal Witness",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ethereal Armor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Exsanguinate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Exsanguinator Cavalry",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Extract a Confession",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Faith's Fetters",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Faithbound Judge // Sinner's Judgment",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fanning the Flames",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Far // Away",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Feed the Cycle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Feed the Swarm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Felidar Sovereign",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fell",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ferropede",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fierce Guardianship",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Filigree Sages",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Firebolt",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fist of Suns",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Flaxen Intruder // Welcome Home",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Flayer Husk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Flooded Woodlands",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Forced Adaptation",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Forth Eorlingas!",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fractured Identity",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fragmentize",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Fury",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gaddock Teeg",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Galerider Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Galewind Moose",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Garruk Relentless // Garruk, the Veil-Cursed",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Garruk, Primal Hunter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gatekeeper of Malakir",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Generous Gift",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gideon Blackblade",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gideon's Lawkeeper",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gideon, Ally of Zendikar",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gigantomancer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gigantosaurus",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gilded Lotus",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gingerbrute",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Giver of Runes",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gleeful Demolition",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Glint Hawk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Glowrider",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Go-Shintai of Boundless Vigor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Goblin Bombardment",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Goblin Welder",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Godhead of Awe",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gods' Eye, Gate to the Reikai",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gorgon Recluse",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gorilla Shaman",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Grafted Wargear",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Grapeshot",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Grave Titan",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Gravecrawler",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Great Hall of the Citadel",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Great Sable Stag",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Greater Harvester",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Grey Land",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Grist, the Hunger Tide",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Guerrilla Tactics",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Guidelight Matrix",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Guilty Conscience",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Halimar Wavewatch",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hall of Heliod's Generosity",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hall of Storm Giants",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hall of the Bandit Lord",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hangarback Walker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hapatra, Vizier of Poisons",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Harmonious Archon",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hatchery Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Healer's Flock",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Healer's Hawk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hedge Maze",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Heliod's Intervention",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Heroes' Bane",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "High Market",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hooded Blightfang",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Horn of Gondor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hotshot Mechanic",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Huatli, the Sun's Heart",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Humiliate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hunted Phantasm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hushwood Verge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hydroelectric Specimen // Hydroelectric Laboratory",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hymn of the Wilds",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Hypergenesis",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Icatian Javelineers",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Icehide Golem",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Idyllic Beachfront",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Illusion // Reality",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Illusionary Mask",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Imodane's Recruiter // Train Troops",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Imotekh the Stormlord",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Implement of Combustion",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Inferno of the Star Mounts",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Instigator Gang // Wildblood Pack",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Into the Flood Maw",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Introduction to Annihilation",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Inventors' Fair",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Jared Carthalion",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Jeweled Lotus",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Jhoira's Timebug",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Jinxed Choker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Journey to Nowhere",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kargan Dragonlord",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Karplusan Forest",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kavu Predator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kaya's Guile",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kaya, Spirits' Justice",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kazandu Tuskcaller",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kenrith, the Returned King",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kher Keep",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kiki-Jiki, Mirror Breaker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kiln Fiend",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kiora, the Crashing Wave",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kira, Great Glass-Spinner",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kitnap",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kor Firewalker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Kor Outfitter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Lair of the Hydra",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Lampad of Death's Vigil",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Last Word",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Leaf Arrow",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Leatherback Baloth",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Leyline of Lifeforce",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Leyline of Punishment",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Liberator, Urza's Battlethopter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Lighthouse Chronologist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Liliana's Specter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Liliana's Triumph",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Liliana, the Last Hope",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Liliana, the Necromancer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Lingering Souls",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Llanowar Reborn",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Loam Lion",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Long River's Pull",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Longhorn Sharpshooter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Lost Jitte",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Loxodon Smiter",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Loyal Retainers",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Maelstrom Pulse",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mage's Attendant",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Magus of the Tabernacle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mahamoti Djinn",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mana Drain",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mana Leak",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mana Short",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mana Tithe",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Manifold Key",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "March of the Canonized",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Markov Baron",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Martyrs' Tomb",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Master of Etherium",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Master of the Feast",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Masterful Replication",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mechanized Production",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Megantic Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Merciless Eviction",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Metamorphose",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Miasmic Mummy",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mindbreak Trap",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Minicreepers",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Minsc & Boo, Timeless heroes",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mirari's Wake",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mire in Misery",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mischievous Pup",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mogg Fanatic",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Molten Tributary",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Moltensteel Dragon",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Monastery Mentor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Monastery Swiftspear",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Multiple Choice",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Murk Strider",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Muzzio's Preparations",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Myr Battlesphere",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Myr Scrapling",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Mystic Gate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Natural Unity",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nature's Claim",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Neglected Heirloom // Ashmouth Blade",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nevermore",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nexus of Fate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nightshade Peddler",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nightshade Stinger",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nine Lives",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nissa, Voice of Zendikar",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nissa, Who Shakes the World",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nomads en-Kor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Not of this World",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nourishing Shoal",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Novice Inspector",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Null Rod",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Nyxborn Behemoth",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Oath of Druids",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ocelot Pride",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "One with Nothing",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Orochi Leafcaller",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Outrider en-Kor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Overlord of the Mistmoors",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Oxidize",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Pact of the Titan",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Painter's Servant",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Palace Siege",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Palani's Hatcher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Paradox Zone",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Parhelion II",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Patron Wizard",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Permeating Mass",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Phantasmal Bear",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Phantasmal Image",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Phyrexia's Core",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Phyrexian Crusader",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Phyrexian Fleshgorger",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Phyrexian Snowcrusher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Pilfer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Piracy Charm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Plague Engineer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Plague Stinger",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Platinum Emperion",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Plumecreed Escort",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Porphyry Nodes",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Prayer of Binding",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Predator Ooze",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Price of Betrayal",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Primordial Hydra",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Prison Realm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Pristine Angel",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Professor Onyx",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Propaganda",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Providence",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Pyroblast",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Pyrokinesis",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Quagnoth",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rainbow Vale",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rakdos Carnarium",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rampaging Ferocidon",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ranger's Guile",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Raven's Crime",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ravenous Baboons",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ravenous Squirrel",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Razorgrass Ambush // Razorgrass Field",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Razorkin Hordecaller",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Reality Strobe",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Realm-Cloaked Giant // Cast Off",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Reckoner Bankbuster",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Reconstruction",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Red Elemental Blast",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Reflector Mage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Reinforced Bulwark",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Replicating Ring",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Restless Reef",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Restless Vinestalk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Retraction Helix",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Reverent Silence",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rhys the Redeemed",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ricochet Trap",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rimebound Dead",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rimefeather Owl",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Ripclaw Wrangler",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rishadan Cutpurse",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rishadan Footpad",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rishadan Port",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Riverpyre Verge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rogue Elephant",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Roiling Vortex",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rose Tyler",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rosie Cotton of South Lane",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rowan Kenrith Emblem",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Rustvale Bridge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Saheeli, the Sun's Brilliance",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Salvage Scout",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sanctum Prelate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sanctum of Tranquil Light",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sapphire Dragon // Psionic Pulse",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Saproling Burst",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scalding Viper // Steam Clean",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scale Up",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scavenger Folk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scholar of the Ages",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scourge of the Skyclaves",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scrubland",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Scurry Oak",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Seal of Cleansing",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Seal of Fire",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Seal of Primordium",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Seal of Removal",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Selesnya Sanctuary",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shady Traveler // Stalking Predator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shelob, Child of Ungoliant",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sheoldred's Edict",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shepherd of the Flock // Usher to Safety",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shifting Ceratops",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shining Shoal",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shire Shirriff",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shivan Devastator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shivan Sand-Mage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shrieking Affliction",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Shrieking Drake",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sibsig Icebreakers",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sigarda's Aid",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sigil of Sleep",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Silent Departure",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Silhana Ledgewalker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Simian Simulacrum",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Simian Spirit Guide",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sink into Stupor // Soporific Springs",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Skyclave Apparition",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Skystrike Officer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Slaughter Specialist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Slimebind",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Slither Blade",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Snapcaster Mage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Snuff Out",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sol Talisman",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Soldier of the Pantheon",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Solitude",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Soltari Visionary",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Soul Partition",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Soul's Fire",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Soulmender",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sparkhunter Masticore",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spawning Pit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spawning Pool",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spear Spewer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spell Pierce",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spell Snare",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spelljack",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sphinx of the Final Word",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spikefield Hazard // Spikefield Cave",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spiketail Drakeling",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spirit Link",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Spiritual Visit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sprout Swarm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sprouting Renewal",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Standard Bearer",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Star Athlete",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Starfield of Nyx",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Steely Resolve",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Stern Dismissal",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Stoic Sphinx",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Stonehoof Chieftain",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Stony Silence",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Strength of the Harvest // Haven of the Harvest",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Strip Mine",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Stronghold Gambit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sublime Epiphany",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sulfurous Springs",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sultai Emissary",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Summer Bloom",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Summoning Station",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sundial of the Infinite",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sungrass Prairie",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Supply // Demand",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sustaining Spirit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Swarmyard",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Sword of Feast and Famine",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tale's End",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tales of Master Seshiro // Seshiro's Living Legacy",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tanglepool Bridge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Task Force",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Teething Wurmlet",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tempered Sliver",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tender Wildguide",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tethered Griffin",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tezzeret's Simulacrum",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tezzeret, Betrayer of Flesh",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Thassa's Oracle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Balrog, Durin's Bane",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Book of Exalted Deeds",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Elderspell",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Filigree Sylex",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Modern Age // Vector Glider",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Scarab God",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Torment of Gollum",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Underworld Cookbook",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "The Wandering Emperor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Thermal Navigator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Thermo-Alchemist",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Thousand-Faced Shadow",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Threads of Disloyalty",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Thriving Turtle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Thrun, Breaker of Silence",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tibalt's Trickery",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Timberline Ridge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tin Street Dodger",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tinder Farm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tinybones Joins Up",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Titania's Command",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Titania's Song",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tithing Blade // Consuming Sepulcher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Torch Breath",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Torment of Hailfire",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Torrential Gearhulk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Toski, Bearer of Secrets",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Toxic Deluge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tree of Perdition",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Triton Shorestalker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Troll Ascetic",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Trygon Predator",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Tundra",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Twilight Mire",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Twitching Doll",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Umbral Juke",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Unstable Mutation",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Unstoppable Slasher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Unsubstantiate",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Urborg",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Valentin, Dean of the Vein // Lisette, Dean of the Root",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Valgavoth, Terror Eater",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Valki, God of Lies // Tibalt, Cosmic Impostor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Valley Floodcaller",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vault of the Archangel",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vein Ripper",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vendetta",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vengeful Reaper",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Verdant Command",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vex",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vexing Shusher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Viscerid Deepwalker",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vodalian Hexcatcher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Void Rend",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Voidstone Gargoyle",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Voltaic Key",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Vronos, Masked Inquisitor",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wake Thrasher",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wall of Junk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "War Priest of Thune",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wasteland Viper",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Watcher of Hours",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Weathered Sentinels",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Weatherseed Treefolk",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Weight Advantage",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wheel of Torture",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "White Knight",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wild Magic Surge",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wilson, Refined Grizzly",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wipe Away",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Witherbloom Command",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Woodcaller Automaton",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Words of Wilding",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Worldknit",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Worldspine Wurm",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wretched Banquet",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Wurmcalling",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Yotian Frontliner",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Zabaz, the Glimmerwasp",
+        "count": 1,
+        "%": 0.023769907297361538
+    },
+    {
+        "card": "Zur, Eternal Schemer",
+        "count": 1,
+        "%": 0.023769907297361538
     }
 ]

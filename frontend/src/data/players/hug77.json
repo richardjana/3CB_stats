@@ -3,41 +3,36 @@
         {
             "card": "Black Lotus",
             "count": 38,
-            "%": 10.27027027027027
+            "%": 10.187667560321715
         },
         {
             "card": "Leyline of Anticipation",
             "count": 12,
-            "%": 3.2432432432432434
+            "%": 3.2171581769436997
         },
         {
             "card": "Lion's Eye Diamond",
             "count": 10,
-            "%": 2.7027027027027026
+            "%": 2.680965147453083
         },
         {
             "card": "Shelldock Isle",
             "count": 10,
-            "%": 2.7027027027027026
+            "%": 2.680965147453083
         },
         {
             "card": "Wasteland",
             "count": 10,
-            "%": 2.7027027027027026
+            "%": 2.680965147453083
         }
     ],
-    "n_rounds_played": 122,
-    "n_wins": 23,
+    "n_rounds_played": 123,
+    "n_wins": 24,
     "nemesis": [
         {
             "player": "Thoradin",
             "score": -6.0,
             "n_matches": 1
-        },
-        {
-            "player": "Schniggi",
-            "score": -3.0,
-            "n_matches": 6
         },
         {
             "player": "Lethal",
@@ -53,11 +48,16 @@
             "player": "Moët",
             "score": -2.25,
             "n_matches": 4
+        },
+        {
+            "player": "Schniggi",
+            "score": -1.7142857142857142,
+            "n_matches": 7
         }
     ],
-    "elo": 1757.185519588548,
-    "score_average": 58.80974349724349,
-    "score_total": 7174.788706663706,
+    "elo": 1788.8644078207499,
+    "score_average": 59.144623631412244,
+    "score_total": 7274.788706663706,
     "elo_list": [
         1600.0,
         1600.0,
@@ -185,7 +185,8 @@
         1755.5344015363555,
         1748.941711615193,
         1748.7418027748527,
-        1757.185519588548
+        1757.185519588548,
+        1788.8644078207499
     ],
     "badges": [
         {
@@ -195,6 +196,10 @@
         {
             "type": "perfect_round",
             "round": 46
+        },
+        {
+            "type": "perfect_round",
+            "round": 128
         },
         {
             "type": "streak",

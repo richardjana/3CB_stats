@@ -3,32 +3,37 @@
         {
             "card": "Black Lotus",
             "count": 20,
-            "%": 5.730659025787966
+            "%": 5.681818181818182
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 13,
-            "%": 3.7249283667621778
+            "%": 3.6931818181818183
         },
         {
             "card": "Mishra's Factory",
             "count": 10,
-            "%": 2.865329512893983
+            "%": 2.840909090909091
         },
         {
             "card": "Mishra's Workshop",
             "count": 9,
-            "%": 2.5787965616045847
+            "%": 2.556818181818182
         },
         {
             "card": "City of Traitors",
             "count": 7,
-            "%": 2.005730659025788
+            "%": 1.9886363636363635
         }
     ],
-    "n_rounds_played": 115,
+    "n_rounds_played": 116,
     "n_wins": 13,
     "nemesis": [
+        {
+            "player": "Sedris",
+            "score": -6.0,
+            "n_matches": 2
+        },
         {
             "player": "Haakon, Geißel der anderen",
             "score": -6.0,
@@ -40,24 +45,19 @@
             "n_matches": 1
         },
         {
-            "player": "Optimiert",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
-            "player": "Sedris",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "Schniggi",
-            "score": -4.0,
-            "n_matches": 6
+            "score": -4.285714285714286,
+            "n_matches": 7
+        },
+        {
+            "player": "»Arcanis«",
+            "score": -3.0,
+            "n_matches": 9
         }
     ],
-    "elo": 1604.232298427625,
-    "score_average": 50.60657478592261,
-    "score_total": 5819.756100381101,
+    "elo": 1599.623383772799,
+    "score_average": 50.50991413599173,
+    "score_total": 5859.150039775041,
     "elo_list": [
         1600.0,
         1596.0,
@@ -185,7 +185,8 @@
         1628.8581946502782,
         1634.4479408332052,
         1636.204028013313,
-        1604.232298427625
+        1604.232298427625,
+        1599.623383772799
     ],
     "badges": []
 }

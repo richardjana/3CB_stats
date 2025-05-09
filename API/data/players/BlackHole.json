@@ -3,61 +3,61 @@
         {
             "card": "Black Lotus",
             "count": 39,
-            "%": 11.818181818181818
+            "%": 11.711711711711711
         },
         {
             "card": "Iona, Shield of Emeria",
             "count": 10,
-            "%": 3.0303030303030303
+            "%": 3.003003003003003
         },
         {
             "card": "Lion's Eye Diamond",
             "count": 8,
-            "%": 2.4242424242424243
+            "%": 2.4024024024024024
         },
         {
             "card": "Unburial Rites",
             "count": 6,
-            "%": 1.8181818181818181
+            "%": 1.8018018018018018
         },
         {
             "card": "Wasteland",
             "count": 6,
-            "%": 1.8181818181818181
+            "%": 1.8018018018018018
         }
     ],
-    "n_rounds_played": 109,
+    "n_rounds_played": 110,
     "n_wins": 5,
     "nemesis": [
+        {
+            "player": "Sedris",
+            "score": -6.0,
+            "n_matches": 2
+        },
         {
             "player": "Thoradin",
             "score": -6.0,
             "n_matches": 1
         },
         {
-            "player": "Optimiert",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
-            "player": "Sedris",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "Schniggi",
-            "score": -5.0,
-            "n_matches": 6
+            "score": -5.142857142857143,
+            "n_matches": 7
         },
         {
             "player": "Namse",
-            "score": -3.110091743119266,
-            "n_matches": 109
+            "score": -3.1363636363636362,
+            "n_matches": 110
+        },
+        {
+            "player": "Silver Seraph",
+            "score": -2.1315789473684212,
+            "n_matches": 38
         }
     ],
-    "elo": 1502.2826160411446,
-    "score_average": 39.31780990840624,
-    "score_total": 4285.64128001628,
+    "elo": 1511.9537002467537,
+    "score_average": 39.34605020400475,
+    "score_total": 4328.065522440522,
     "elo_list": [
         1600.0,
         1600.0,
@@ -185,7 +185,8 @@
         1511.966942748833,
         1527.2103922311226,
         1518.123962485511,
-        1502.2826160411446
+        1502.2826160411446,
+        1511.9537002467537
     ],
     "badges": [
         {
