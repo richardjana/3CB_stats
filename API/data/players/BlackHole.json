@@ -2,37 +2,37 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 39,
-            "%": 11.711711711711711
+            "count": 40,
+            "%": 11.904761904761903
         },
         {
             "card": "Iona, Shield of Emeria",
             "count": 10,
-            "%": 3.003003003003003
+            "%": 2.976190476190476
         },
         {
             "card": "Lion's Eye Diamond",
             "count": 8,
-            "%": 2.4024024024024024
+            "%": 2.380952380952381
         },
         {
             "card": "Unburial Rites",
             "count": 6,
-            "%": 1.8018018018018018
+            "%": 1.7857142857142856
         },
         {
             "card": "Wasteland",
             "count": 6,
-            "%": 1.8018018018018018
+            "%": 1.7857142857142856
         }
     ],
-    "n_rounds_played": 110,
+    "n_rounds_played": 111,
     "n_wins": 5,
     "nemesis": [
         {
             "player": "Sedris",
             "score": -6.0,
-            "n_matches": 2
+            "n_matches": 3
         },
         {
             "player": "Thoradin",
@@ -41,23 +41,23 @@
         },
         {
             "player": "Schniggi",
-            "score": -5.142857142857143,
-            "n_matches": 7
+            "score": -4.5,
+            "n_matches": 8
         },
         {
             "player": "Namse",
-            "score": -3.1363636363636362,
-            "n_matches": 110
+            "score": -3.108108108108108,
+            "n_matches": 111
         },
         {
             "player": "Silver Seraph",
-            "score": -2.1315789473684212,
-            "n_matches": 38
+            "score": -2.0,
+            "n_matches": 39
         }
     ],
-    "elo": 1511.9537002467537,
-    "score_average": 39.34605020400475,
-    "score_total": 4328.065522440522,
+    "elo": 1526.4397238761576,
+    "score_average": 39.4420317336984,
+    "score_total": 4378.065522440523,
     "elo_list": [
         1600.0,
         1600.0,
@@ -186,7 +186,8 @@
         1527.2103922311226,
         1518.123962485511,
         1502.2826160411446,
-        1511.9537002467537
+        1518.3537002467538,
+        1526.4397238761576
     ],
     "badges": [
         {

@@ -2,35 +2,40 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 5,
-            "%": 10.416666666666668
+            "count": 6,
+            "%": 11.76470588235294
         },
         {
             "card": "Karakas",
             "count": 3,
-            "%": 6.25
+            "%": 5.88235294117647
         },
         {
             "card": "Lupine Prototype",
             "count": 3,
-            "%": 6.25
+            "%": 5.88235294117647
         },
         {
             "card": "City of Traitors",
             "count": 2,
-            "%": 4.166666666666666
+            "%": 3.9215686274509802
         },
         {
             "card": "Cruelclaw's Heist",
             "count": 2,
-            "%": 4.166666666666666
+            "%": 3.9215686274509802
         }
     ],
-    "n_rounds_played": 16,
+    "n_rounds_played": 17,
     "n_wins": 1,
     "nemesis": [
         {
             "player": "Daeron",
+            "score": -6.0,
+            "n_matches": 3
+        },
+        {
+            "player": "Sedris",
             "score": -6.0,
             "n_matches": 3
         },
@@ -40,24 +45,19 @@
             "n_matches": 2
         },
         {
-            "player": "Sedris",
-            "score": -6.0,
-            "n_matches": 2
-        },
-        {
             "player": "hug77",
-            "score": -3.5625,
-            "n_matches": 16
+            "score": -3.7058823529411766,
+            "n_matches": 17
         },
         {
-            "player": "Schniggi",
-            "score": -2.4,
-            "n_matches": 5
+            "player": "Master_of_Desaster",
+            "score": -1.875,
+            "n_matches": 16
         }
     ],
-    "elo": 1595.6619882914024,
-    "score_average": 43.832596801346796,
-    "score_total": 701.3215488215487,
+    "elo": 1594.7020851822026,
+    "score_average": 43.74975242622301,
+    "score_total": 743.7457912457912,
     "elo_list": [
         1600.0,
         1600.0,
@@ -186,7 +186,8 @@
         1601.3085623335733,
         1609.9604254003375,
         1608.7399951193186,
-        1595.6619882914024
+        1607.6619882914024,
+        1594.7020851822026
     ],
     "badges": []
 }

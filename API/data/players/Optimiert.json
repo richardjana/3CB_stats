@@ -1,63 +1,63 @@
 {
     "cards": [
         {
+            "card": "Court Homunculus",
+            "count": 2,
+            "%": 22.22222222222222
+        },
+        {
+            "card": "Ancient Den",
+            "count": 1,
+            "%": 11.11111111111111
+        },
+        {
             "card": "Brazen Borrower // Petty Theft",
             "count": 1,
-            "%": 16.666666666666664
+            "%": 11.11111111111111
         },
         {
             "card": "Force of Will",
             "count": 1,
-            "%": 16.666666666666664
+            "%": 11.11111111111111
         },
         {
             "card": "Karakas",
             "count": 1,
-            "%": 16.666666666666664
-        },
-        {
-            "card": "Memnite",
-            "count": 1,
-            "%": 16.666666666666664
-        },
-        {
-            "card": "Mutavault",
-            "count": 1,
-            "%": 16.666666666666664
+            "%": 11.11111111111111
         }
     ],
-    "n_rounds_played": 2,
+    "n_rounds_played": 3,
     "n_wins": 0,
     "nemesis": [
         {
             "player": "Namse",
             "score": -6.0,
-            "n_matches": 2
-        },
-        {
-            "player": "Schniggi",
-            "score": -6.0,
-            "n_matches": 2
+            "n_matches": 3
         },
         {
             "player": "lollonator",
             "score": -6.0,
-            "n_matches": 2
+            "n_matches": 3
         },
         {
             "player": "Silver Seraph",
             "score": -6.0,
-            "n_matches": 2
+            "n_matches": 3
         },
         {
             "player": "Michael W",
             "score": -6.0,
-            "n_matches": 2
+            "n_matches": 3
+        },
+        {
+            "player": "Sterni",
+            "score": -6.0,
+            "n_matches": 3
         }
     ],
-    "elo": 1538.149671933359,
+    "elo": 1511.4827123572268,
     "score_average": 9.09090909090909,
-    "score_total": 18.18181818181818,
+    "score_total": 27.27272727272727,
     "elo_list": [
         1600.0,
         1600.0,
@@ -186,7 +186,8 @@
         1600.0,
         1600.0,
         1575.820122140194,
-        1538.149671933359
+        1546.149671933359,
+        1511.4827123572268
     ],
     "badges": []
 }

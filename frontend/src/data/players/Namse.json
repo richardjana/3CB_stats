@@ -2,31 +2,31 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 37,
-            "%": 9.635416666666668
+            "count": 38,
+            "%": 9.819121447028424
         },
         {
             "card": "City of Traitors",
             "count": 10,
-            "%": 2.604166666666667
+            "%": 2.5839793281653747
         },
         {
             "card": "Crashing Footfalls",
             "count": 9,
-            "%": 2.34375
+            "%": 2.3255813953488373
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 9,
-            "%": 2.34375
+            "%": 2.3255813953488373
         },
         {
             "card": "Wasteland",
             "count": 9,
-            "%": 2.34375
+            "%": 2.3255813953488373
         }
     ],
-    "n_rounds_played": 127,
+    "n_rounds_played": 128,
     "n_wins": 24,
     "nemesis": [
         {
@@ -35,14 +35,14 @@
             "n_matches": 1
         },
         {
-            "player": "Schniggi",
-            "score": -3.857142857142857,
-            "n_matches": 7
-        },
-        {
             "player": "Lethal",
             "score": -3.0,
             "n_matches": 1
+        },
+        {
+            "player": "Schniggi",
+            "score": -2.625,
+            "n_matches": 8
         },
         {
             "player": "Choke",
@@ -50,14 +50,14 @@
             "n_matches": 3
         },
         {
-            "player": "»Arcanis«",
-            "score": -1.3333333333333333,
-            "n_matches": 9
+            "player": "Sedris",
+            "score": -2.0,
+            "n_matches": 3
         }
     ],
-    "elo": 1675.6885227929802,
-    "score_average": 54.75468429208587,
-    "score_total": 6953.844905094906,
+    "elo": 1667.8193966750146,
+    "score_average": 54.65835271499334,
+    "score_total": 6996.269147519148,
     "elo_list": [
         1600.0,
         1628.0,
@@ -186,7 +186,8 @@
         1695.839732321963,
         1664.2059111407084,
         1682.8989187542195,
-        1675.6885227929802
+        1674.0885227929803,
+        1667.8193966750146
     ],
     "badges": [
         {

@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Bitterblossom",
+                "Signal Pest"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Sterni",
+            "cards": [
+                "Black Lotus",
+                "Bitterblossom",
+                "Signal Pest"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Black Lotus",
+                "Eyeblight's Ending",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Master of the Feast",
+                "Dryad Arbor"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Silver Seraph",
+            "cards": [
+                "Tree of Tales",
+                "Urza's Saga",
+                "Twitching Doll"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Optimiert",
+            "cards": [
+                "Ancient Den",
+                "Court Homunculus",
+                "Court Homunculus"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Darksteel Citadel",
+                "Akroan Horse"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Bitterblossom",
+                "Myr Scrapling"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Eater of Days",
+                "Darksteel Citadel"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Bitterblossom",
+                "Vault Skirge"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Bitterblossom",
+                "Signal Pest"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Sedris",
+            "cards": [
+                "Black Lotus",
+                "Phyrexian Dreadnought",
+                "Repudiate // Replicate"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                0,
+                0,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                0,
+                0,
+                2,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                3,
+                2,
+                0,
+                4,
+                6,
+                6,
+                3,
+                0,
+                3,
+                3,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                0,
+                1,
+                0,
+                6,
+                6,
+                6,
+                3,
+                6,
+                6,
+                0,
+                46
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                6,
+                3,
+                0,
+                6,
+                6,
+                0,
+                0,
+                3,
+                3,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                3,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                51
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                0,
+                0,
+                6,
+                0,
+                42
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                2,
+                2,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                0,
+                0,
+                0,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                60
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176035-neuauflage-3-cards-blind-runde-127/"
+}

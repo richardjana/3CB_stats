@@ -1,38 +1,38 @@
 {
     "cards": [
         {
+            "card": "Black Lotus",
+            "count": 2,
+            "%": 8.333333333333332
+        },
+        {
             "card": "Anointed Peacekeeper",
             "count": 1,
-            "%": 4.761904761904762
+            "%": 4.166666666666666
         },
         {
             "card": "Archon of Valor's Reach",
             "count": 1,
-            "%": 4.761904761904762
-        },
-        {
-            "card": "Black Lotus",
-            "count": 1,
-            "%": 4.761904761904762
+            "%": 4.166666666666666
         },
         {
             "card": "Callidus Assassin",
             "count": 1,
-            "%": 4.761904761904762
+            "%": 4.166666666666666
         },
         {
             "card": "Cavern of Souls",
             "count": 1,
-            "%": 4.761904761904762
+            "%": 4.166666666666666
         }
     ],
-    "n_rounds_played": 7,
+    "n_rounds_played": 8,
     "n_wins": 2,
     "nemesis": [
         {
             "player": "Sedris",
-            "score": -3.0,
-            "n_matches": 2
+            "score": 0.0,
+            "n_matches": 3
         },
         {
             "player": "P0LTERGEIST",
@@ -40,24 +40,24 @@
             "n_matches": 1
         },
         {
-            "player": "Silver Seraph",
-            "score": 1.7142857142857142,
-            "n_matches": 7
-        },
-        {
             "player": "hug77",
-            "score": 1.7142857142857142,
-            "n_matches": 7
+            "score": 0.75,
+            "n_matches": 8
         },
         {
             "player": "Sterni",
-            "score": 2.4,
-            "n_matches": 5
+            "score": 1.0,
+            "n_matches": 6
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": 1.7142857142857142,
+            "n_matches": 7
         }
     ],
-    "elo": 1725.3500043304118,
-    "score_average": 72.61904761904762,
-    "score_total": 508.3333333333333,
+    "elo": 1710.673019607981,
+    "score_average": 68.4659090909091,
+    "score_total": 547.7272727272727,
     "elo_list": [
         1600.0,
         1600.0,
@@ -186,7 +186,8 @@
         1676.0891520285654,
         1702.184440282814,
         1717.7342716513183,
-        1725.3500043304118
+        1701.3500043304118,
+        1710.673019607981
     ],
     "badges": []
 }
