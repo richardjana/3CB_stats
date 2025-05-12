@@ -48,12 +48,17 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     if 'bonus' in df.columns:  # e.g. round 65
         df['sum'] = df['sum'] + df['bonus']
 
-    df['place'] = df['sum'].rank(method='min', ascending=False).astype(int)
+    if df.at[0, 'round'] == 75:  # least points win
+        ascending = True
+    else:
+        ascending = False
+
+    df['place'] = df['sum'].rank(method='min', ascending=ascending).astype(int)
     if df.at[0, 'round'] >= 30:  # introduction of tiebreaker rule in round 30
         for pl in df['place'].unique():
             indices = df.index[df['place'] == pl]
             row_sums = df.loc[indices, [f"result_{idx}" for idx in indices]].sum(axis=1)
-            ranks = row_sums.rank(method='min', ascending=False).astype(int)
+            ranks = row_sums.rank(method='min', ascending=ascending).astype(int)
             df.loc[indices, 'place'] = ranks + pl - 1
 
 
@@ -227,8 +232,7 @@ def compute_Elo_scores(df: pd.DataFrame) -> List[Dict[str, float]]:
     # iterate through rounds to update the scores
     for round, round_data in df.groupby('round'):
         player_list = round_data['player'].to_list()
-        results = round_data.loc[:, round_data.columns.str.startswith(
-            'result_')].to_numpy()
+        results = round_data.loc[:, round_data.columns.str.startswith('result_')].to_numpy()
         # round 65 has additional column 'bonus'
         results = results[:results.shape[0], :results.shape[0]]
         # fix diagonal values (also important for self vs. self!)
@@ -297,7 +301,6 @@ def check_for_badges(df: pd.DataFrame) -> Dict[str, List[Badge]]:
                                                            'description': f"Runde {round}"}])
 
     # 3) win streak (watch out for tied wins!)
-
     def group_consecutive(nums: List[int]) -> List[List[int]]:
         """ From a sorted, unique list of integers, create a list of lists of consecutive integers.
         Args:
