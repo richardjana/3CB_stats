@@ -41,6 +41,10 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     """
     # to apply this to the whole of all data, use groupby 'round'?
     df['sum'] = df.loc[:, df.columns.str.startswith('result_')].sum(axis=1)
+
+    df['%'] = df['sum'] / (len(df)-1) / 6 * 100
+
+    # has to be done after computing '%'
     if 'bonus' in df.columns:  # e.g. round 65
         df['sum'] = df['sum'] + df['bonus']
 
