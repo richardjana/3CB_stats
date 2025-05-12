@@ -48,11 +48,13 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     if 'bonus' in df.columns:  # e.g. round 65
         df['sum'] = df['sum'] + df['bonus']
 
-    df['%'] = df['sum'] / \
-        (sum(df.columns.str.startswith('result_'))-1) / 6 * 100
-
-    df['place'] = df['sum'].map(lambda s: sum(df['sum'] > s)+1)
-    # not accounting for the tie breaker. rule since when? round 30?
+    df['place'] = df['sum'].rank(method='min', ascending=False).astype(int)
+    if df.at[0, 'round'] >= 30:  # introduction of tiebreaker rule in round 30
+        for pl in df['place'].unique():
+            indices = df.index[df['place'] == pl]
+            row_sums = df.loc[indices, [f"result_{idx}" for idx in indices]].sum(axis=1)
+            ranks = row_sums.rank(method='min', ascending=False).astype(int)
+            df.loc[indices, 'place'] = ranks + pl - 1
 
 
 def most_played_cards(df: pd.DataFrame) -> Dict[str, List[Dict[str, Union[int, float]]]]:
