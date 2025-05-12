@@ -48,7 +48,7 @@ def add_derivates_to_round(df: pd.DataFrame) -> None:
     if 'bonus' in df.columns:  # e.g. round 65
         df['sum'] = df['sum'] + df['bonus']
 
-    if df.at[0, 'round'] == 75:  # least points win
+    if df.at[0, 'round'] in [75, 79]:  # least points win
         ascending = True
     else:
         ascending = False
