@@ -2,38 +2,33 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 45,
-            "%": 12.5
+            "count": 46,
+            "%": 12.672176308539946
         },
         {
             "card": "Leyline of Anticipation",
             "count": 9,
-            "%": 2.5
+            "%": 2.479338842975207
         },
         {
             "card": "Anointed Peacekeeper",
             "count": 8,
-            "%": 2.2222222222222223
+            "%": 2.203856749311295
         },
         {
             "card": "Force of Will",
             "count": 8,
-            "%": 2.2222222222222223
+            "%": 2.203856749311295
         },
         {
             "card": "Karakas",
             "count": 8,
-            "%": 2.2222222222222223
+            "%": 2.203856749311295
         }
     ],
-    "n_rounds_played": 119,
+    "n_rounds_played": 120,
     "n_wins": 11,
     "nemesis": [
-        {
-            "player": "Sedris",
-            "score": -6.0,
-            "n_matches": 3
-        },
         {
             "player": "Fallen Azrael",
             "score": -6.0,
@@ -53,11 +48,16 @@
             "player": "Lethal",
             "score": -6.0,
             "n_matches": 1
+        },
+        {
+            "player": "Sedris",
+            "score": -4.5,
+            "n_matches": 4
         }
     ],
-    "elo": 1628.5842080197024,
-    "score_average": 50.15387157193881,
-    "score_total": 5968.310717060718,
+    "elo": 1627.288656982275,
+    "score_average": 50.09703375328375,
+    "score_total": 6011.64405039405,
     "elo_list": [
         1600.0,
         1624.0,
@@ -187,7 +187,8 @@
         1626.5880343939386,
         1639.5939814072096,
         1639.263530037576,
-        1628.5842080197024
+        1628.5842080197024,
+        1627.288656982275
     ],
     "badges": []
 }

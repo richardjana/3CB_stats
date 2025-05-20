@@ -2,47 +2,47 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 2,
-            "%": 8.333333333333332
+            "count": 3,
+            "%": 11.11111111111111
+        },
+        {
+            "card": "Aeve, Progenitor Ooze",
+            "count": 1,
+            "%": 3.7037037037037033
         },
         {
             "card": "Anointed Peacekeeper",
             "count": 1,
-            "%": 4.166666666666666
+            "%": 3.7037037037037033
         },
         {
             "card": "Archon of Valor's Reach",
             "count": 1,
-            "%": 4.166666666666666
+            "%": 3.7037037037037033
         },
         {
             "card": "Callidus Assassin",
             "count": 1,
-            "%": 4.166666666666666
-        },
-        {
-            "card": "Cavern of Souls",
-            "count": 1,
-            "%": 4.166666666666666
+            "%": 3.7037037037037033
         }
     ],
-    "n_rounds_played": 8,
+    "n_rounds_played": 9,
     "n_wins": 2,
     "nemesis": [
         {
+            "player": "hug77",
+            "score": 0.0,
+            "n_matches": 9
+        },
+        {
             "player": "Sedris",
             "score": 0.0,
-            "n_matches": 3
+            "n_matches": 4
         },
         {
             "player": "P0LTERGEIST",
             "score": 0.0,
             "n_matches": 1
-        },
-        {
-            "player": "hug77",
-            "score": 0.75,
-            "n_matches": 8
         },
         {
             "player": "Sterni",
@@ -51,13 +51,13 @@
         },
         {
             "player": "Master_of_Desaster",
-            "score": 1.7142857142857142,
-            "n_matches": 7
+            "score": 1.5,
+            "n_matches": 8
         }
     ],
-    "elo": 1710.503712769533,
-    "score_average": 68.4659090909091,
-    "score_total": 547.7272727272727,
+    "elo": 1701.4804875639368,
+    "score_average": 65.67340067340068,
+    "score_total": 591.0606060606061,
     "elo_list": [
         1600.0,
         1600.0,
@@ -187,7 +187,8 @@
         1702.0649774512112,
         1717.5962639405705,
         1701.1955866571318,
-        1710.503712769533
+        1710.503712769533,
+        1701.4804875639368
     ],
     "badges": []
 }

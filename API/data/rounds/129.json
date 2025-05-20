@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Tarnished Citadel",
+                "Duress",
+                "Death's Shadow"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Elemental Eruption"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Reconstruction",
+                "Aeve, Progenitor Ooze"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Schniggi",
+            "cards": [
+                "Black Lotus",
+                "Fossil Find",
+                "Aeve, Progenitor Ooze"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Sedris",
+            "cards": [
+                "Black Lotus",
+                "Reconstruction",
+                "Aeve, Progenitor Ooze"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Optimiert",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "Empty the Warrens"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Isochron Scepter",
+                "City of Traitors",
+                "Callous Dismissal"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Dwarven Hold",
+                "Devil's Play"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Michael W",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Mishra's Factory",
+                "Bridgeworks Battle // Tanglespan Bridgeworks"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "BlackHole",
+            "cards": [
+                "Maze of Ith",
+                "Rushwood Grove",
+                "Crush of Wurms"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Force of Negation",
+                "Dryad Arbor",
+                "Sea Gate Restoration // Sea Gate, Reborn"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                6,
+                6,
+                6,
+                0,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                4,
+                4,
+                4,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                1,
+                0,
+                2,
+                2,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                1,
+                2,
+                0,
+                2,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                1,
+                2,
+                2,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                2,
+                38
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                2,
+                26
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                2,
+                0,
+                2,
+                0,
+                40
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176172-neuauflage-3-cards-blind-runde-129/"
+}

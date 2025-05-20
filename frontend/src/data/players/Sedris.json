@@ -2,62 +2,62 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 2,
-            "%": 22.22222222222222
+            "count": 3,
+            "%": 25.0
+        },
+        {
+            "card": "Aeve, Progenitor Ooze",
+            "count": 1,
+            "%": 8.333333333333332
         },
         {
             "card": "Cavern of Souls",
             "count": 1,
-            "%": 11.11111111111111
+            "%": 8.333333333333332
         },
         {
             "card": "Glacial Chasm",
             "count": 1,
-            "%": 11.11111111111111
+            "%": 8.333333333333332
         },
         {
             "card": "Phyrexian Dreadnought",
             "count": 1,
-            "%": 11.11111111111111
-        },
-        {
-            "card": "Predator Ooze",
-            "count": 1,
-            "%": 11.11111111111111
+            "%": 8.333333333333332
         }
     ],
-    "n_rounds_played": 3,
+    "n_rounds_played": 4,
     "n_wins": 1,
     "nemesis": [
         {
-            "player": "Schniggi",
-            "score": 0.0,
-            "n_matches": 3
-        },
-        {
             "player": "Michael W",
-            "score": 0.0,
-            "n_matches": 3
+            "score": -1.5,
+            "n_matches": 4
         },
         {
             "player": "hug77",
+            "score": -1.5,
+            "n_matches": 4
+        },
+        {
+            "player": "Schniggi",
             "score": 0.0,
-            "n_matches": 3
+            "n_matches": 4
         },
         {
             "player": "Namse",
-            "score": 2.0,
-            "n_matches": 3
+            "score": 1.5,
+            "n_matches": 4
         },
         {
-            "player": "lollonator",
-            "score": 2.0,
-            "n_matches": 3
+            "player": "Silver Seraph",
+            "score": 2.25,
+            "n_matches": 4
         }
     ],
-    "elo": 1677.7665828436361,
-    "score_average": 76.76767676767678,
-    "score_total": 230.3030303030303,
+    "elo": 1671.810303157067,
+    "score_average": 68.4090909090909,
+    "score_total": 273.6363636363636,
     "elo_list": [
         1600.0,
         1600.0,
@@ -187,7 +187,8 @@
         1600.0,
         1627.7889457984788,
         1664.692249952857,
-        1677.7665828436361
+        1677.7665828436361,
+        1671.810303157067
     ],
     "badges": []
 }

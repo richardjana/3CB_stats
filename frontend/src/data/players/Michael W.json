@@ -3,31 +3,31 @@
         {
             "card": "Black Lotus",
             "count": 28,
-            "%": 8.092485549132949
+            "%": 8.022922636103152
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
-            "count": 11,
-            "%": 3.1791907514450863
+            "count": 12,
+            "%": 3.4383954154727796
         },
         {
             "card": "City of Traitors",
             "count": 10,
-            "%": 2.8901734104046244
+            "%": 2.865329512893983
         },
         {
             "card": "Mishra's Factory",
-            "count": 9,
-            "%": 2.601156069364162
+            "count": 10,
+            "%": 2.865329512893983
         },
         {
             "card": "Wasteland",
             "count": 8,
-            "%": 2.312138728323699
+            "%": 2.292263610315186
         }
     ],
-    "n_rounds_played": 114,
-    "n_wins": 14,
+    "n_rounds_played": 115,
+    "n_wins": 15,
     "nemesis": [
         {
             "player": "Lethal",
@@ -45,19 +45,19 @@
             "n_matches": 4
         },
         {
-            "player": "Schniggi",
-            "score": -3.0,
-            "n_matches": 8
-        },
-        {
             "player": "Moët",
             "score": -3.0,
             "n_matches": 4
+        },
+        {
+            "player": "MagicStorm",
+            "score": -3.0,
+            "n_matches": 2
         }
     ],
-    "elo": 1678.2155952673204,
-    "score_average": 48.8932637781322,
-    "score_total": 5573.832070707071,
+    "elo": 1698.6169595492706,
+    "score_average": 49.16375713658322,
+    "score_total": 5653.832070707071,
     "elo_list": [
         1600.0,
         1600.0,
@@ -187,7 +187,8 @@
         1648.9535062905636,
         1675.6126661140045,
         1695.5266202456867,
-        1678.2155952673204
+        1678.2155952673204,
+        1698.6169595492706
     ],
     "badges": [
         {

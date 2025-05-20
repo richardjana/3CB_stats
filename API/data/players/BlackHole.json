@@ -3,36 +3,36 @@
         {
             "card": "Black Lotus",
             "count": 40,
-            "%": 11.904761904761903
+            "%": 11.799410029498524
         },
         {
             "card": "Iona, Shield of Emeria",
             "count": 10,
-            "%": 2.976190476190476
+            "%": 2.949852507374631
         },
         {
             "card": "Lion's Eye Diamond",
             "count": 8,
-            "%": 2.380952380952381
+            "%": 2.359882005899705
         },
         {
             "card": "Unburial Rites",
             "count": 6,
-            "%": 1.7857142857142856
+            "%": 1.7699115044247788
         },
         {
             "card": "Wasteland",
             "count": 6,
-            "%": 1.7857142857142856
+            "%": 1.7699115044247788
         }
     ],
-    "n_rounds_played": 111,
+    "n_rounds_played": 112,
     "n_wins": 4,
     "nemesis": [
         {
             "player": "Sedris",
             "score": -6.0,
-            "n_matches": 3
+            "n_matches": 4
         },
         {
             "player": "Thoradin",
@@ -41,23 +41,23 @@
         },
         {
             "player": "Schniggi",
-            "score": -4.5,
-            "n_matches": 8
+            "score": -4.666666666666667,
+            "n_matches": 9
         },
         {
             "player": "Namse",
-            "score": -3.108108108108108,
-            "n_matches": 111
+            "score": -3.0267857142857144,
+            "n_matches": 112
         },
         {
             "player": "Silver Seraph",
-            "score": -2.0,
-            "n_matches": 39
+            "score": -2.1,
+            "n_matches": 40
         }
     ],
-    "elo": 1526.0799437775902,
-    "score_average": 39.4420317336984,
-    "score_total": 4378.065522440523,
+    "elo": 1532.7051280275255,
+    "score_average": 39.47677549798085,
+    "score_total": 4421.398855773856,
     "elo_list": [
         1600.0,
         1600.0,
@@ -187,7 +187,8 @@
         1517.7422908591745,
         1501.9091339536558,
         1517.9873789565147,
-        1526.0799437775902
+        1526.0799437775902,
+        1532.7051280275255
     ],
     "badges": [
         {
