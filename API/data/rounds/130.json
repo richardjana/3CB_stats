@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Maze of Ith",
+                "Bane of Bala Ged",
+                "Saprazzan Cove"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Optimiert",
+            "cards": [
+                "Island of Wak-Wak",
+                "City of Traitors",
+                "Idol of False Gods"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mishra's Workshop",
+                "Phyrexian Revoker",
+                "Wheel of Torture"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Maze of Ith",
+                "Cathedral of War",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Schniggi",
+            "cards": [
+                "City of Traitors",
+                "Disruptor Flute",
+                "Idol of False Gods"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Reality Hemorrhage"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "City of Traitors",
+                "The Tabernacle at Pendrell Vale",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Mishra's Workshop",
+                "Wurmcoil Engine"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                27
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                1,
+                6,
+                6,
+                2,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                4,
+                0,
+                6,
+                0,
+                6,
+                6,
+                4,
+                32
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                2,
+                3,
+                0,
+                1,
+                6,
+                0,
+                0,
+                12
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176211-neuauflage-3-cards-blind-runde-130/"
+}
