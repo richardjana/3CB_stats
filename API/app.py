@@ -5,6 +5,7 @@ import logging
 from flask import Flask, jsonify, make_response, request, send_file
 from flask_cors import cross_origin
 from PIL import Image, ImageDraw, ImageFont
+import requests
 
 app = Flask(__name__)
 
@@ -159,6 +160,21 @@ def popular_cards():
         app.logger.warning('Get popular cards list failed!')
         return make_response('An error occurred.', 404)
 
+def get_card_image(card_name):
+    # get list of prints
+    response = requests.get(f"https://api.scryfall.com/cards/named?exact={card_name}", stream=True)
+    if response.status_code == 200:
+        prints_uri = response.json()['prints_search_uri']
+
+    # get image of oldest print
+    response = requests.get(prints_uri, stream=True)
+    if response.status_code == 200:
+        img_uri = response.json()['data'][-1]['image_uris']['art_crop']
+
+    response = requests.get(img_uri, stream=True)
+    if response.status_code == 200:
+        return Image.open(BytesIO(response.content))
+
 @app.route('/badge/<player>.png')
 @cross_origin(origin=ORIGIN, headers='Content-Type')
 def badge(player: str):
@@ -174,8 +190,15 @@ def badge(player: str):
     if player not in player_list:
         return make_response('Player does not exist', 404)
 
-    image = Image.new('RGB', (300, 150), color='white')
+    image = Image.new('RGB', (600, 125), color='#888')
     draw = ImageDraw.Draw(image)
+
+    with open(f"data/players/{player}.json", 'r', encoding='utf-8') as file:
+        top3_cards = [entry['card'] for entry in json.load(file)['cards'][:3]]
+
+    fetched_image = get_card_image(top3_cards[0])
+    fetched_image.thumbnail((100, 100))  # Resize if needed (max sizes)
+    image.paste(fetched_image, (180, 10))  # Paste onto the badge
 
     # Load a font (make sure to have a .ttf file in your directory or use a default one)
     try:
@@ -207,7 +230,7 @@ def badge_embedding(player: str):
     Returns:
         (responce): The HTML embedding code.
     """
-    embed_code = f'<img src="{request.host_url}badge/{player}" alt="3CB_stats info badge">'
+    embed_code = f'<img src="{request.host_url}badge/{player}.png" alt="3CB_stats info badge">'
     return jsonify({'embed_code': embed_code}), 200
 
 if __name__ == '__main__':
