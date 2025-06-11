@@ -159,7 +159,7 @@ def popular_cards():
         app.logger.warning('Get popular cards list failed!')
         return make_response('An error occurred.', 404)
 
-@app.route('/badge/<player>')
+@app.route('/badge/<player>.png')
 @cross_origin(origin=ORIGIN, headers='Content-Type')
 def badge(player: str):
     """ Create a badge to use on social media for the player.
