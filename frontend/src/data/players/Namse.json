@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 38,
-            "%": 9.669211195928753
+            "%": 9.523809523809524
         },
         {
             "card": "City of Traitors",
             "count": 10,
-            "%": 2.5445292620865136
+            "%": 2.506265664160401
         },
         {
             "card": "Crashing Footfalls",
             "count": 9,
-            "%": 2.2900763358778624
+            "%": 2.2556390977443606
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 9,
-            "%": 2.2900763358778624
+            "%": 2.2556390977443606
         },
         {
             "card": "Wasteland",
             "count": 9,
-            "%": 2.2900763358778624
+            "%": 2.2556390977443606
         }
     ],
-    "n_rounds_played": 130,
+    "n_rounds_played": 132,
     "n_wins": 24,
     "nemesis": [
         {
@@ -35,29 +35,29 @@
             "n_matches": 1
         },
         {
+            "player": "Schniggi",
+            "score": -3.25,
+            "n_matches": 12
+        },
+        {
             "player": "Lethal",
             "score": -3.0,
             "n_matches": 1
         },
         {
-            "player": "Schniggi",
-            "score": -2.7,
-            "n_matches": 10
+            "player": "Sedris",
+            "score": -2.4,
+            "n_matches": 5
         },
         {
             "player": "Choke",
             "score": -2.0,
             "n_matches": 3
-        },
-        {
-            "player": "Sedris",
-            "score": -1.5,
-            "n_matches": 4
         }
     ],
-    "elo": 1683.7072830285244,
-    "score_average": 54.68375534721689,
-    "score_total": 7108.888195138195,
+    "elo": 1668.679139020728,
+    "score_average": 54.52861427293246,
+    "score_total": 7197.777084027084,
     "elo_list": [
         1600.0,
         1628.0,
@@ -189,7 +189,9 @@
         1673.7159492620603,
         1667.4543585561137,
         1676.8724177791762,
-        1683.7072830285244
+        1683.7072830285244,
+        1675.9054156850684,
+        1668.679139020728
     ],
     "badges": [
         {

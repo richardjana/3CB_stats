@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Starting Town",
+                "Inkmoth Nexus",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Starting Town",
+                "Black Lotus",
+                "Minsc & Boo, Timeless Heroes"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Hraesvelgr of the First Brood",
+                "Black Lotus",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Maze of Ith",
+                "Hollow Trees",
+                "Jumbo Cactuar"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Adventurer's Inn",
+                "Retrofitter Foundry"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Karakas",
+                "Portable Hole",
+                "Stiltzkin, Moogle Merchant"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Optimiert",
+            "cards": [
+                "Sazh's Chocobo",
+                "Undiscovered Paradise",
+                "Iridescent Vinelasher"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Summon: Good King Mog XII",
+                "Black Lotus",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Black Lotus",
+                "Hecteyes"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Inkmoth Nexus",
+                "Sphere Grid",
+                "Mox Emerald"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                6,
+                0,
+                0,
+                6,
+                3,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                3,
+                6,
+                6,
+                21
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                6,
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                0,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                6,
+                6,
+                20
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                0,
+                3,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                24
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                21
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176413-neuauflage-3-cards-blind-runde-132/"
+}

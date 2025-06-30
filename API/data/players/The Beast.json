@@ -2,31 +2,31 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 21,
-            "%": 5.865921787709497
+            "count": 22,
+            "%": 6.043956043956044
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 13,
-            "%": 3.6312849162011176
+            "%": 3.571428571428571
         },
         {
             "card": "Mishra's Factory",
             "count": 10,
-            "%": 2.793296089385475
+            "%": 2.7472527472527473
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 9,
+            "%": 2.4725274725274726
         },
         {
             "card": "Mishra's Workshop",
             "count": 9,
-            "%": 2.5139664804469275
-        },
-        {
-            "card": "City of Traitors",
-            "count": 7,
-            "%": 1.9553072625698324
+            "%": 2.4725274725274726
         }
     ],
-    "n_rounds_played": 118,
+    "n_rounds_played": 120,
     "n_wins": 13,
     "nemesis": [
         {
@@ -40,6 +40,11 @@
             "n_matches": 1
         },
         {
+            "player": "Sedris",
+            "score": -3.6,
+            "n_matches": 5
+        },
+        {
             "player": "»Arcanis«",
             "score": -3.0,
             "n_matches": 9
@@ -48,16 +53,11 @@
             "player": "Moët",
             "score": -3.0,
             "n_matches": 4
-        },
-        {
-            "player": "Sedris",
-            "score": -3.0,
-            "n_matches": 4
         }
     ],
-    "elo": 1618.6354430215274,
-    "score_average": 49.90740917118036,
-    "score_total": 5889.074282199283,
+    "elo": 1631.9300066219216,
+    "score_average": 49.97839679610513,
+    "score_total": 5997.407615532616,
     "elo_list": [
         1600.0,
         1596.0,
@@ -189,7 +189,9 @@
         1603.2375282528235,
         1598.705357691346,
         1618.6354430215274,
-        1618.6354430215274
+        1618.6354430215274,
+        1635.70825423393,
+        1631.9300066219216
     ],
     "badges": []
 }

@@ -1,0 +1,371 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Dismember",
+                "Inquisition of Kozilek",
+                "Hexdrinker"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Old-Growth Dryads",
+                "Old-Growth Dryads",
+                "Consulate Dreadnought"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Crack the Earth",
+                "Crashing Footfalls",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Sanctity",
+                "Crashing Footfalls",
+                "Portable Hole"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Sterni",
+            "cards": [
+                "Fervent Champion",
+                "Bloodforged Battle-Axe",
+                "Judge's Familiar"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Old-Growth Dryads",
+                "Crack the Earth",
+                "Leyline of Anticipation"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Silver Seraph",
+            "cards": [
+                "Dark Depths",
+                "Aether Vial",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "BlackHole",
+            "cards": [
+                "Maze of Ith",
+                "Innocent Blood",
+                "Helix Pinnacle"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Optimiert",
+            "cards": [
+                "Sleep-Cursed Faerie",
+                "Force of Will",
+                "Judge's Familiar"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Leyline of Anticipation",
+                "Crack the Earth",
+                "Sleep-Cursed Faerie"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Sedris",
+            "cards": [
+                "Leyline of Anticipation",
+                "Crack the Earth",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "hoempes",
+            "cards": [
+                "Swarm Shambler",
+                "Path to Exile",
+                "Funeral Charm"
+            ]
+        },
+        {
+            "index": 13,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Hexdrinker",
+                "Ragavan, Nimble Pilferer",
+                "Detention Vortex"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                2,
+                0,
+                0,
+                2,
+                32,
+                4
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                8,
+                3
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                2,
+                6,
+                58,
+                6
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                60,
+                6
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                2,
+                2,
+                2,
+                0,
+                2,
+                38,
+                6
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                6,
+                6,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                32,
+                0
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                2,
+                2,
+                6,
+                6,
+                2,
+                6,
+                6,
+                0,
+                2,
+                2,
+                2,
+                38,
+                0
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                6,
+                2,
+                0,
+                0,
+                6,
+                46,
+                6
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                2,
+                0,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                0,
+                6,
+                58,
+                6
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                2,
+                6,
+                0,
+                0,
+                6,
+                2,
+                6,
+                0,
+                2,
+                0,
+                0,
+                0,
+                26,
+                2
+            ]
+        },
+        {
+            "index": 13,
+            "values": [
+                1,
+                3,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                2,
+                30,
+                0
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176312-neuauflage-3-cards-blind-runde-131/"
+}

@@ -3,61 +3,61 @@
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 25.0
+            "%": 20.0
         },
         {
             "card": "Aeve, Progenitor Ooze",
             "count": 1,
-            "%": 8.333333333333332
+            "%": 6.666666666666667
         },
         {
             "card": "Cavern of Souls",
             "count": 1,
-            "%": 8.333333333333332
+            "%": 6.666666666666667
         },
         {
-            "card": "Glacial Chasm",
+            "card": "Crack the Earth",
             "count": 1,
-            "%": 8.333333333333332
+            "%": 6.666666666666667
         },
         {
-            "card": "Phyrexian Dreadnought",
+            "card": "Crashing Footfalls",
             "count": 1,
-            "%": 8.333333333333332
+            "%": 6.666666666666667
         }
     ],
-    "n_rounds_played": 4,
+    "n_rounds_played": 5,
     "n_wins": 1,
     "nemesis": [
         {
-            "player": "Michael W",
-            "score": -1.5,
-            "n_matches": 4
-        },
-        {
             "player": "hug77",
-            "score": -1.5,
-            "n_matches": 4
+            "score": -2.4,
+            "n_matches": 5
         },
         {
             "player": "Schniggi",
             "score": 0.0,
-            "n_matches": 4
+            "n_matches": 5
+        },
+        {
+            "player": "Michael W",
+            "score": 0.0,
+            "n_matches": 5
         },
         {
             "player": "Namse",
-            "score": 1.5,
-            "n_matches": 4
+            "score": 2.4,
+            "n_matches": 5
         },
         {
             "player": "Silver Seraph",
-            "score": 2.25,
-            "n_matches": 4
+            "score": 3.0,
+            "n_matches": 5
         }
     ],
-    "elo": 1671.810303157067,
-    "score_average": 68.4090909090909,
-    "score_total": 273.6363636363636,
+    "elo": 1698.9292380136637,
+    "score_average": 70.83838383838383,
+    "score_total": 354.19191919191917,
     "elo_list": [
         1600.0,
         1600.0,
@@ -189,7 +189,9 @@
         1664.692249952857,
         1677.7665828436361,
         1671.810303157067,
-        1671.810303157067
+        1671.810303157067,
+        1698.9292380136637,
+        1698.9292380136637
     ],
     "badges": []
 }
