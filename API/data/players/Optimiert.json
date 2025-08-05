@@ -1,32 +1,32 @@
 {
     "cards": [
         {
+            "card": "Sazh's Chocobo",
+            "count": 3,
+            "%": 11.11111111111111
+        },
+        {
+            "card": "Black Lotus",
+            "count": 2,
+            "%": 7.4074074074074066
+        },
+        {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 9.523809523809524
+            "%": 7.4074074074074066
         },
         {
             "card": "Force of Will",
             "count": 2,
-            "%": 9.523809523809524
+            "%": 7.4074074074074066
         },
         {
-            "card": "Ancient Den",
-            "count": 1,
-            "%": 4.761904761904762
-        },
-        {
-            "card": "Black Lotus",
-            "count": 1,
-            "%": 4.761904761904762
-        },
-        {
-            "card": "Brazen Borrower // Petty Theft",
-            "count": 1,
-            "%": 4.761904761904762
+            "card": "Undiscovered Paradise",
+            "count": 2,
+            "%": 7.4074074074074066
         }
     ],
-    "n_rounds_played": 7,
+    "n_rounds_played": 9,
     "n_wins": 0,
     "nemesis": [
         {
@@ -36,28 +36,28 @@
         },
         {
             "player": "Master_of_Desaster",
-            "score": -4.285714285714286,
-            "n_matches": 7
-        },
-        {
-            "player": "hug77",
-            "score": -3.4285714285714284,
-            "n_matches": 7
-        },
-        {
-            "player": "Schniggi",
-            "score": -3.0,
-            "n_matches": 7
+            "score": -4.0,
+            "n_matches": 9
         },
         {
             "player": "lollonator",
-            "score": -3.0,
-            "n_matches": 6
+            "score": -3.75,
+            "n_matches": 8
+        },
+        {
+            "player": "Schniggi",
+            "score": -3.375,
+            "n_matches": 8
+        },
+        {
+            "player": "Sterni",
+            "score": -2.4,
+            "n_matches": 5
         }
     ],
-    "elo": 1555.3914703358307,
-    "score_average": 31.10698824984539,
-    "score_total": 217.74891774891773,
+    "elo": 1563.233405316851,
+    "score_average": 33.633624605846826,
+    "score_total": 302.70262145262143,
     "elo_list": [
         1600.0,
         1600.0,
@@ -191,7 +191,9 @@
         1503.3294682413346,
         1519.3451222028189,
         1543.3462575797655,
-        1555.3914703358307
+        1555.3914703358307,
+        1557.8131896649918,
+        1563.233405316851
     ],
     "badges": []
 }

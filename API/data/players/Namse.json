@@ -3,31 +3,31 @@
         {
             "card": "Black Lotus",
             "count": 38,
-            "%": 9.523809523809524
+            "%": 9.382716049382717
         },
         {
             "card": "City of Traitors",
             "count": 10,
-            "%": 2.506265664160401
+            "%": 2.4691358024691357
         },
         {
             "card": "Crashing Footfalls",
             "count": 9,
-            "%": 2.2556390977443606
+            "%": 2.2222222222222223
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 9,
-            "%": 2.2556390977443606
+            "%": 2.2222222222222223
         },
         {
             "card": "Wasteland",
             "count": 9,
-            "%": 2.2556390977443606
+            "%": 2.2222222222222223
         }
     ],
-    "n_rounds_played": 132,
-    "n_wins": 24,
+    "n_rounds_played": 134,
+    "n_wins": 26,
     "nemesis": [
         {
             "player": "Yaloron",
@@ -35,14 +35,14 @@
             "n_matches": 1
         },
         {
-            "player": "Schniggi",
-            "score": -3.25,
-            "n_matches": 12
-        },
-        {
             "player": "Lethal",
             "score": -3.0,
             "n_matches": 1
+        },
+        {
+            "player": "Schniggi",
+            "score": -2.5384615384615383,
+            "n_matches": 13
         },
         {
             "player": "Sedris",
@@ -55,9 +55,9 @@
             "n_matches": 3
         }
     ],
-    "elo": 1668.679139020728,
-    "score_average": 54.52861427293246,
-    "score_total": 7197.777084027084,
+    "elo": 1693.2087574401205,
+    "score_average": 54.75642102507775,
+    "score_total": 7337.360417360418,
     "elo_list": [
         1600.0,
         1628.0,
@@ -191,7 +191,9 @@
         1676.8724177791762,
         1683.7072830285244,
         1675.9054156850684,
-        1668.679139020728
+        1668.679139020728,
+        1681.3765171224736,
+        1693.2087574401205
     ],
     "badges": [
         {
@@ -213,6 +215,11 @@
             "type": "streak",
             "label": "Gewinnserie 2",
             "description": "114 - 115"
+        },
+        {
+            "type": "streak",
+            "label": "Gewinnserie 2",
+            "description": "133 - 134"
         }
     ]
 }
