@@ -1,0 +1,223 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Tropical Island",
+                "Daze",
+                "Edge Rover"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Thrumming Hivepool"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Exploration Broodship",
+                "Old-Growth Dryads",
+                "Forest"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Archenemy's Charm",
+                "Memnite"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Optimiert",
+            "cards": [
+                "Black Lotus",
+                "Frenzied Baloth",
+                "Spider Umbra"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Lightstall Inquisitor",
+                "Luminarch Aspirant"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Thalia, Guardian of Thraben",
+                "Lightstall Inquisitor"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Mishra's Workshop",
+                "Thrumming Hivepool"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Eumidian Hatchery",
+                "Wasteland",
+                "Worthy Cost"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                6,
+                3,
+                3,
+                3,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                4,
+                0,
+                1,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                0,
+                6,
+                0,
+                6,
+                0,
+                1,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                0,
+                1,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                7
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                6,
+                0,
+                3,
+                0,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                4,
+                4,
+                3,
+                3,
+                0,
+                3,
+                0,
+                23
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                6,
+                6,
+                3,
+                0,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176888-neuauflage-3-cards-blind-runde-137/"
+}

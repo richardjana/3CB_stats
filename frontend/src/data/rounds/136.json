@@ -1,0 +1,191 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mox Jet",
+                "Eumidian Hatchery",
+                "Smallpox"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Retrofitter Foundry",
+                "Field of Ruin",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "Pendelhaven",
+                "Karakas",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Optimiert",
+            "cards": [
+                "Pendelhaven",
+                "Glistener Elf",
+                "Glistener Elf"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Silver Seraph",
+            "cards": [
+                "Peat Bog",
+                "Cruelclaw's Heist",
+                "Thieving Varmint"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "hug77",
+            "cards": [
+                "Bayou",
+                "Swarm Shambler",
+                "Divest"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "BlackHole",
+            "cards": [
+                "Maze of Ith",
+                "Icatian Store",
+                "Iona, Shield of Emeria"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mana Crypt",
+                "The Mycosynth Gardens",
+                "Phyrexian Dreadnought"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                3,
+                3,
+                6,
+                6,
+                33
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                6,
+                3,
+                6,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                2,
+                0,
+                14
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                3,
+                0,
+                6,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                0,
+                0,
+                3,
+                0,
+                1,
+                2,
+                3,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                3,
+                0,
+                6,
+                4,
+                0,
+                2,
+                3,
+                21
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                6,
+                12
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                3,
+                3,
+                0,
+                0,
+                24
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176831-neuauflage-3-cards-blind-runde-136/"
+}
