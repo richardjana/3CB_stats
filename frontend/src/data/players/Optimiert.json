@@ -1,32 +1,32 @@
 {
     "cards": [
         {
-            "card": "Sazh's Chocobo",
+            "card": "Black Lotus",
             "count": 3,
-            "%": 10.0
+            "%": 8.333333333333332
         },
         {
-            "card": "Black Lotus",
-            "count": 2,
-            "%": 6.666666666666667
+            "card": "Sazh's Chocobo",
+            "count": 3,
+            "%": 8.333333333333332
         },
         {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 5.555555555555555
         },
         {
             "card": "Force of Will",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 5.555555555555555
         },
         {
-            "card": "Karakas",
+            "card": "Glistener Elf",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 5.555555555555555
         }
     ],
-    "n_rounds_played": 10,
+    "n_rounds_played": 12,
     "n_wins": 0,
     "nemesis": [
         {
@@ -36,8 +36,8 @@
         },
         {
             "player": "Master_of_Desaster",
-            "score": -4.2,
-            "n_matches": 10
+            "score": -4.5,
+            "n_matches": 12
         },
         {
             "player": "Schniggi",
@@ -45,19 +45,19 @@
             "n_matches": 8
         },
         {
-            "player": "lollonator",
+            "player": "The Beast",
             "score": -2.6666666666666665,
             "n_matches": 9
         },
         {
-            "player": "Sterni",
-            "score": -2.4,
-            "n_matches": 5
+            "player": "Michael W",
+            "score": -2.5,
+            "n_matches": 12
         }
     ],
-    "elo": 1562.650189871937,
-    "score_average": 34.020262145262144,
-    "score_total": 340.20262145262143,
+    "elo": 1541.9754561679645,
+    "score_average": 32.541686708353375,
+    "score_total": 390.50024050024047,
     "elo_list": [
         1600.0,
         1600.0,
@@ -194,7 +194,9 @@
         1555.3914703358307,
         1557.8131896649918,
         1563.233405316851,
-        1562.650189871937
+        1562.650189871937,
+        1559.0194787539374,
+        1541.9754561679645
     ],
     "badges": []
 }
