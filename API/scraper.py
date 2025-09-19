@@ -145,7 +145,7 @@ def find_data_in_round(url, round_number):
         results = np.array(results)
         if not check_results(results):
             print(f"Problem with results in round {round_number}")
-            return False
+            #return False
         results[results=='xx'] = '00'
         for i in range(results.shape[1]):
             data_dict[f"result_{i}"] = results[:, i]
