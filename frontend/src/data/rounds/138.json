@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Dark Ritual",
+                "Valgavoth, Terror Eater"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Lightstall Inquisitor",
+                "Karakas",
+                "Leyline of Singularity"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The green one",
+            "cards": [
+                "Plains",
+                "Angel's Grace",
+                "Pact of the Titan"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Dark Ritual",
+                "Archon of Cruelty"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Chatterstorm"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Sandstone Needle",
+                "Impact Tremors",
+                "Pact of the Titan"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Silver Seraph",
+            "cards": [
+                "Fountain of Cho",
+                "The Tabernacle at Pendrell Vale",
+                "Archangel Elspeth"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Optimiert",
+            "cards": [
+                "Karakas",
+                "Lightstall Inquisitor",
+                "Lightstall Inquisitor"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Pact of the Titan",
+                "Sandstone Needle",
+                "Ashling's Prerogative"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Wasteland",
+                "Inkmoth Nexus",
+                "Mutagenic Growth"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                2,
+                6,
+                0,
+                2,
+                2,
+                6,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                6,
+                3,
+                0,
+                6,
+                6,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                6,
+                6,
+                2,
+                6,
+                6,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                3,
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                1,
+                37
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                2,
+                6,
+                2,
+                6,
+                0,
+                0,
+                6,
+                0,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                7
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                3,
+                6,
+                6,
+                0,
+                1,
+                28
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                3,
+                0,
+                6,
+                4,
+                6,
+                2,
+                4,
+                0,
+                37
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/176989-neuauflage-3-cards-blind-runde-138/"
+}

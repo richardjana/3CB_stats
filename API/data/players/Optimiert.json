@@ -3,32 +3,37 @@
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 8.333333333333332
+            "%": 7.6923076923076925
+        },
+        {
+            "card": "Karakas",
+            "count": 3,
+            "%": 7.6923076923076925
         },
         {
             "card": "Sazh's Chocobo",
             "count": 3,
-            "%": 8.333333333333332
+            "%": 7.6923076923076925
         },
         {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 5.555555555555555
+            "%": 5.128205128205128
         },
         {
             "card": "Force of Will",
             "count": 2,
-            "%": 5.555555555555555
-        },
-        {
-            "card": "Glistener Elf",
-            "count": 2,
-            "%": 5.555555555555555
+            "%": 5.128205128205128
         }
     ],
-    "n_rounds_played": 12,
+    "n_rounds_played": 13,
     "n_wins": 0,
     "nemesis": [
+        {
+            "player": "The green one",
+            "score": -6.0,
+            "n_matches": 1
+        },
         {
             "player": "Sedris",
             "score": -4.8,
@@ -36,8 +41,8 @@
         },
         {
             "player": "Master_of_Desaster",
-            "score": -4.5,
-            "n_matches": 12
+            "score": -4.615384615384615,
+            "n_matches": 13
         },
         {
             "player": "Schniggi",
@@ -46,18 +51,13 @@
         },
         {
             "player": "The Beast",
-            "score": -2.6666666666666665,
-            "n_matches": 9
-        },
-        {
-            "player": "Michael W",
-            "score": -2.5,
-            "n_matches": 12
+            "score": -3.0,
+            "n_matches": 10
         }
     ],
-    "elo": 1541.9754561679645,
-    "score_average": 32.541686708353375,
-    "score_total": 390.50024050024047,
+    "elo": 1524.0209317460328,
+    "score_average": 31.035631035631038,
+    "score_total": 403.4632034632035,
     "elo_list": [
         1600.0,
         1600.0,
@@ -196,7 +196,8 @@
         1563.233405316851,
         1562.650189871937,
         1559.0194787539374,
-        1541.9754561679645
+        1541.9754561679645,
+        1524.0209317460328
     ],
     "badges": []
 }
