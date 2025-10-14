@@ -1,39 +1,34 @@
 {
     "cards": [
         {
-            "card": "Black Lotus",
-            "count": 3,
-            "%": 7.6923076923076925
+            "card": "Karakas",
+            "count": 4,
+            "%": 9.523809523809524
         },
         {
-            "card": "Karakas",
+            "card": "Black Lotus",
             "count": 3,
-            "%": 7.6923076923076925
+            "%": 7.142857142857142
         },
         {
             "card": "Sazh's Chocobo",
             "count": 3,
-            "%": 7.6923076923076925
+            "%": 7.142857142857142
         },
         {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 5.128205128205128
+            "%": 4.761904761904762
         },
         {
             "card": "Force of Will",
             "count": 2,
-            "%": 5.128205128205128
+            "%": 4.761904761904762
         }
     ],
-    "n_rounds_played": 13,
-    "n_wins": 0,
+    "n_rounds_played": 14,
+    "n_wins": 1,
     "nemesis": [
-        {
-            "player": "The green one",
-            "score": -6.0,
-            "n_matches": 1
-        },
         {
             "player": "Sedris",
             "score": -4.8,
@@ -41,8 +36,8 @@
         },
         {
             "player": "Master_of_Desaster",
-            "score": -4.615384615384615,
-            "n_matches": 13
+            "score": -4.714285714285714,
+            "n_matches": 14
         },
         {
             "player": "Schniggi",
@@ -51,13 +46,18 @@
         },
         {
             "player": "The Beast",
-            "score": -3.0,
-            "n_matches": 10
+            "score": -2.727272727272727,
+            "n_matches": 11
+        },
+        {
+            "player": "Sterni",
+            "score": -2.4,
+            "n_matches": 5
         }
     ],
-    "elo": 1524.0209317460328,
-    "score_average": 31.035631035631038,
-    "score_total": 403.4632034632035,
+    "elo": 1551.5681883882492,
+    "score_average": 34.2420806706521,
+    "score_total": 479.3891293891294,
     "elo_list": [
         1600.0,
         1600.0,
@@ -197,7 +197,8 @@
         1562.650189871937,
         1559.0194787539374,
         1541.9754561679645,
-        1524.0209317460328
+        1524.0209317460328,
+        1551.5681883882492
     ],
     "badges": []
 }

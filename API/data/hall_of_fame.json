@@ -2,11 +2,11 @@
     "table": [
         {
             "player": "Namse",
-            "score_mean": "54.44",
-            "score_sum": "7512.46",
-            "rounds_played": 138,
+            "score_mean": "54.39",
+            "score_sum": "7560.61",
+            "rounds_played": 139,
             "wins": 27,
-            "elo": "1658.08"
+            "elo": "1654.16"
         },
         {
             "player": "Schniggi",
@@ -19,34 +19,34 @@
         {
             "player": "lollonator",
             "score_mean": "35.59",
-            "score_sum": "4520.24",
-            "rounds_played": 127,
+            "score_sum": "4555.43",
+            "rounds_played": 128,
             "wins": 1,
-            "elo": "1458.93"
+            "elo": "1463.72"
         },
         {
             "player": "Silver Seraph",
-            "score_mean": "55.99",
-            "score_sum": "2743.47",
-            "rounds_played": 49,
+            "score_mean": "55.61",
+            "score_sum": "2780.51",
+            "rounds_played": 50,
             "wins": 6,
-            "elo": "1678.81"
+            "elo": "1665.13"
         },
         {
             "player": "Michael W",
-            "score_mean": "49.28",
-            "score_sum": "6110.25",
-            "rounds_played": 124,
+            "score_mean": "49.24",
+            "score_sum": "6154.69",
+            "rounds_played": 125,
             "wins": 15,
-            "elo": "1682.55"
+            "elo": "1674.95"
         },
         {
             "player": "The Beast",
-            "score_mean": "50.31",
-            "score_sum": "6238.84",
-            "rounds_played": 124,
+            "score_mean": "50.33",
+            "score_sum": "6290.69",
+            "rounds_played": 125,
             "wins": 14,
-            "elo": "1658.06"
+            "elo": "1662.14"
         },
         {
             "player": "Sterni",
@@ -58,35 +58,35 @@
         },
         {
             "player": "Optimiert",
-            "score_mean": "31.04",
-            "score_sum": "403.46",
-            "rounds_played": 13,
-            "wins": 0,
-            "elo": "1524.02"
+            "score_mean": "34.24",
+            "score_sum": "479.39",
+            "rounds_played": 14,
+            "wins": 1,
+            "elo": "1551.57"
         },
         {
             "player": "hug77",
-            "score_mean": "58.92",
-            "score_sum": "7895.61",
-            "rounds_played": 134,
+            "score_mean": "58.94",
+            "score_sum": "7956.72",
+            "rounds_played": 135,
             "wins": 26,
-            "elo": "1743.27"
+            "elo": "1744.26"
         },
         {
             "player": "BlackHole",
-            "score_mean": "39.45",
-            "score_sum": "4773.28",
-            "rounds_played": 121,
+            "score_mean": "39.26",
+            "score_sum": "4789.95",
+            "rounds_played": 122,
             "wins": 4,
-            "elo": "1559.29"
+            "elo": "1545.47"
         },
         {
             "player": "Master_of_Desaster",
-            "score_mean": "50.43",
-            "score_sum": "6506.09",
-            "rounds_played": 129,
+            "score_mean": "50.29",
+            "score_sum": "6537.57",
+            "rounds_played": 130,
             "wins": 13,
-            "elo": "1671.62"
+            "elo": "1654.55"
         },
         {
             "player": "Sedris",
@@ -114,11 +114,11 @@
         },
         {
             "player": "The green one",
-            "score_mean": "38.09",
-            "score_sum": "2399.84",
-            "rounds_played": 63,
+            "score_mean": "38.31",
+            "score_sum": "2451.69",
+            "rounds_played": 64,
             "wins": 4,
-            "elo": "1485.77"
+            "elo": "1504.44"
         },
         {
             "player": "»Arcanis«",
@@ -354,6 +354,12 @@
         }
     ],
     "rounds": [
+        {
+            "round": 139,
+            "winner": [
+                "Optimiert"
+            ]
+        },
         {
             "round": 138,
             "winner": [
