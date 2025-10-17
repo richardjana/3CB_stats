@@ -2,42 +2,42 @@
     "cards": [
         {
             "card": "Karakas",
-            "count": 4,
-            "%": 9.523809523809524
+            "count": 5,
+            "%": 11.11111111111111
         },
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 7.142857142857142
+            "%": 6.666666666666667
         },
         {
             "card": "Sazh's Chocobo",
             "count": 3,
-            "%": 7.142857142857142
+            "%": 6.666666666666667
+        },
+        {
+            "card": "Wasteland",
+            "count": 3,
+            "%": 6.666666666666667
         },
         {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 4.761904761904762
-        },
-        {
-            "card": "Force of Will",
-            "count": 2,
-            "%": 4.761904761904762
+            "%": 4.444444444444445
         }
     ],
-    "n_rounds_played": 14,
+    "n_rounds_played": 15,
     "n_wins": 1,
     "nemesis": [
+        {
+            "player": "Master_of_Desaster",
+            "score": -4.8,
+            "n_matches": 15
+        },
         {
             "player": "Sedris",
             "score": -4.8,
             "n_matches": 5
-        },
-        {
-            "player": "Master_of_Desaster",
-            "score": -4.714285714285714,
-            "n_matches": 14
         },
         {
             "player": "Schniggi",
@@ -46,18 +46,18 @@
         },
         {
             "player": "The Beast",
-            "score": -2.727272727272727,
-            "n_matches": 11
+            "score": -2.5,
+            "n_matches": 12
         },
         {
-            "player": "Sterni",
-            "score": -2.4,
-            "n_matches": 5
+            "player": "Michael W",
+            "score": -2.0,
+            "n_matches": 15
         }
     ],
-    "elo": 1551.5681883882492,
-    "score_average": 34.2420806706521,
-    "score_total": 479.3891293891294,
+    "elo": 1534.4036775064426,
+    "score_average": 32.95927529260862,
+    "score_total": 494.3891293891294,
     "elo_list": [
         1600.0,
         1600.0,
@@ -198,7 +198,8 @@
         1559.0194787539374,
         1541.9754561679645,
         1524.0209317460328,
-        1551.5681883882492
+        1551.5681883882492,
+        1534.4036775064426
     ],
     "badges": []
 }
