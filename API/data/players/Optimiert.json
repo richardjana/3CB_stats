@@ -3,36 +3,36 @@
         {
             "card": "Karakas",
             "count": 5,
-            "%": 11.11111111111111
+            "%": 10.416666666666668
         },
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 6.666666666666667
+            "%": 6.25
         },
         {
             "card": "Sazh's Chocobo",
             "count": 3,
-            "%": 6.666666666666667
+            "%": 6.25
         },
         {
             "card": "Wasteland",
             "count": 3,
-            "%": 6.666666666666667
+            "%": 6.25
         },
         {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 4.444444444444445
+            "%": 4.166666666666666
         }
     ],
-    "n_rounds_played": 15,
+    "n_rounds_played": 16,
     "n_wins": 1,
     "nemesis": [
         {
-            "player": "Master_of_Desaster",
-            "score": -4.8,
-            "n_matches": 15
+            "player": "IMP",
+            "score": -6.0,
+            "n_matches": 1
         },
         {
             "player": "Sedris",
@@ -40,24 +40,24 @@
             "n_matches": 5
         },
         {
+            "player": "Master_of_Desaster",
+            "score": -4.125,
+            "n_matches": 16
+        },
+        {
             "player": "Schniggi",
             "score": -3.375,
             "n_matches": 8
         },
         {
-            "player": "The Beast",
-            "score": -2.5,
-            "n_matches": 12
-        },
-        {
-            "player": "Michael W",
-            "score": -2.0,
-            "n_matches": 15
+            "player": "The green one",
+            "score": -3.0,
+            "n_matches": 4
         }
     ],
-    "elo": 1534.4036775064426,
-    "score_average": 32.95927529260862,
-    "score_total": 494.3891293891294,
+    "elo": 1523.3524822553507,
+    "score_average": 32.56598725348725,
+    "score_total": 521.055796055796,
     "elo_list": [
         1600.0,
         1600.0,
@@ -199,7 +199,8 @@
         1541.9754561679645,
         1524.0209317460328,
         1551.5681883882492,
-        1534.4036775064426
+        1534.4036775064426,
+        1523.3524822553507
     ],
     "badges": []
 }
