@@ -2,11 +2,11 @@
     "table": [
         {
             "player": "Namse",
-            "score_mean": "54.34",
-            "score_sum": "7662.27",
-            "rounds_played": 141,
+            "score_mean": "54.43",
+            "score_sum": "7728.94",
+            "rounds_played": 142,
             "wins": 27,
-            "elo": "1648.49"
+            "elo": "1657.13"
         },
         {
             "player": "Schniggi",
@@ -19,34 +19,34 @@
         {
             "player": "lollonator",
             "score_mean": "35.76",
-            "score_sum": "4648.76",
-            "rounds_played": 130,
+            "score_sum": "4683.95",
+            "rounds_played": 131,
             "wins": 1,
-            "elo": "1485.87"
+            "elo": "1488.34"
         },
         {
             "player": "Silver Seraph",
-            "score_mean": "55.68",
-            "score_sum": "2895.51",
-            "rounds_played": 52,
-            "wins": 7,
-            "elo": "1679.04"
+            "score_mean": "56.06",
+            "score_sum": "2971.44",
+            "rounds_played": 53,
+            "wins": 8,
+            "elo": "1693.07"
         },
         {
             "player": "Michael W",
-            "score_mean": "49.50",
-            "score_sum": "6286.36",
-            "rounds_played": 127,
+            "score_mean": "49.68",
+            "score_sum": "6358.58",
+            "rounds_played": 128,
             "wins": 16,
-            "elo": "1694.35"
+            "elo": "1703.10"
         },
         {
             "player": "The Beast",
-            "score_mean": "50.12",
-            "score_sum": "6365.69",
-            "rounds_played": 127,
+            "score_mean": "50.02",
+            "score_sum": "6402.73",
+            "rounds_played": 128,
             "wins": 14,
-            "elo": "1638.48"
+            "elo": "1631.98"
         },
         {
             "player": "Sterni",
@@ -58,35 +58,35 @@
         },
         {
             "player": "Optimiert",
-            "score_mean": "32.57",
-            "score_sum": "521.06",
-            "rounds_played": 16,
+            "score_mean": "31.63",
+            "score_sum": "537.72",
+            "rounds_played": 17,
             "wins": 1,
-            "elo": "1523.35"
+            "elo": "1506.74"
         },
         {
             "player": "hug77",
-            "score_mean": "59.25",
-            "score_sum": "8116.72",
-            "rounds_played": 137,
+            "score_mean": "59.27",
+            "score_sum": "8179.68",
+            "rounds_played": 138,
             "wins": 27,
-            "elo": "1767.83"
+            "elo": "1770.63"
         },
         {
             "player": "BlackHole",
             "score_mean": "38.88",
-            "score_sum": "4821.62",
-            "rounds_played": 124,
+            "score_sum": "4860.51",
+            "rounds_played": 125,
             "wins": 4,
-            "elo": "1507.81"
+            "elo": "1508.49"
         },
         {
             "player": "Master_of_Desaster",
-            "score_mean": "50.01",
-            "score_sum": "6600.90",
-            "rounds_played": 132,
+            "score_mean": "49.88",
+            "score_sum": "6634.24",
+            "rounds_played": 133,
             "wins": 13,
-            "elo": "1616.43"
+            "elo": "1607.84"
         },
         {
             "player": "Sedris",
@@ -114,11 +114,11 @@
         },
         {
             "player": "The green one",
-            "score_mean": "38.86",
-            "score_sum": "2565.02",
-            "rounds_played": 66,
+            "score_mean": "38.70",
+            "score_sum": "2592.80",
+            "rounds_played": 67,
             "wins": 4,
-            "elo": "1535.93"
+            "elo": "1530.26"
         },
         {
             "player": "»Arcanis«",
@@ -354,6 +354,12 @@
         }
     ],
     "rounds": [
+        {
+            "round": 142,
+            "winner": [
+                "Silver Seraph"
+            ]
+        },
         {
             "round": 141,
             "winner": [

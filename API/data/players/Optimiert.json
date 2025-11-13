@@ -3,30 +3,30 @@
         {
             "card": "Karakas",
             "count": 5,
-            "%": 10.416666666666668
+            "%": 9.803921568627452
+        },
+        {
+            "card": "Wasteland",
+            "count": 4,
+            "%": 7.8431372549019605
         },
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 6.25
+            "%": 5.88235294117647
         },
         {
             "card": "Sazh's Chocobo",
             "count": 3,
-            "%": 6.25
-        },
-        {
-            "card": "Wasteland",
-            "count": 3,
-            "%": 6.25
+            "%": 5.88235294117647
         },
         {
             "card": "Court Homunculus",
             "count": 2,
-            "%": 4.166666666666666
+            "%": 3.9215686274509802
         }
     ],
-    "n_rounds_played": 16,
+    "n_rounds_played": 17,
     "n_wins": 1,
     "nemesis": [
         {
@@ -41,23 +41,23 @@
         },
         {
             "player": "Master_of_Desaster",
-            "score": -4.125,
-            "n_matches": 16
+            "score": -4.235294117647059,
+            "n_matches": 17
+        },
+        {
+            "player": "The green one",
+            "score": -3.6,
+            "n_matches": 5
         },
         {
             "player": "Schniggi",
             "score": -3.375,
             "n_matches": 8
-        },
-        {
-            "player": "The green one",
-            "score": -3.0,
-            "n_matches": 4
         }
     ],
-    "elo": 1523.3524822553507,
-    "score_average": 32.56598725348725,
-    "score_total": 521.055796055796,
+    "elo": 1506.7378896703406,
+    "score_average": 31.63073310132134,
+    "score_total": 537.7224627224628,
     "elo_list": [
         1600.0,
         1600.0,
@@ -200,7 +200,8 @@
         1524.0209317460328,
         1551.5681883882492,
         1534.4036775064426,
-        1523.3524822553507
+        1523.3524822553507,
+        1506.7378896703406
     ],
     "badges": []
 }
