@@ -10,7 +10,7 @@ st.title('PvP match history')
 
 @st.cache_data
 def load_data() -> Tuple[pd.DataFrame, List[str]]:
-    data = pd.read_csv('match_data.csv', sep=';')
+    data = pd.read_csv('data/pvp_match_data.csv', sep=';')
     all_players = natsorted(data['player_1'].unique(), alg=ns.IGNORECASE)
 
     return data, all_players
