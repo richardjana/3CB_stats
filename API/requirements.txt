@@ -11,3 +11,4 @@ MarkupSafe==2.1.1
 packaging==24.2
 Pillow==9.0.1
 requests==2.32.3
+plotly
