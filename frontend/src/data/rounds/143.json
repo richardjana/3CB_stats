@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Leyline of the Void",
+                "City of Traitors",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Eumidian Hatchery",
+                "Specter's Shriek",
+                "Zuran Orb"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "lollonator",
+            "cards": [
+                "City of Traitors",
+                "Geth's Verdict",
+                "Isochron Scepter"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Optimiert",
+            "cards": [
+                "Surgical Extraction",
+                "Kuldotha Rebirth",
+                "Great Furnace"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Trinisphere",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "Shelldock Isle",
+                "Lion's Eye Diamond",
+                "Progenitus"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Bayou",
+                "Ruthless Negotiation",
+                "Swarm Shambler"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Leyline of the Void",
+                "Urza's Saga",
+                "City of Traitors"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Dark Depths",
+                "Urborg, Tomb of Yawgmoth",
+                "Vampire Hexmage"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Forest",
+                "Tenacious Pup",
+                "Old-Growth Dryads"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                4,
+                0,
+                6,
+                1,
+                6,
+                6,
+                6,
+                0,
+                4,
+                33
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                1,
+                0,
+                6,
+                0,
+                3,
+                3,
+                6,
+                0,
+                6,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                3,
+                6,
+                6,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                3,
+                0,
+                0,
+                6,
+                6,
+                2,
+                0,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                4,
+                3,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                12
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                0,
+                3,
+                0,
+                3,
+                6,
+                6,
+                21
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                0,
+                2,
+                0,
+                6,
+                3,
+                0,
+                0,
+                6,
+                23
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                1,
+                0,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                4
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177140-neuauflage-3-cards-blind-runde-143/"
+}
