@@ -33,7 +33,8 @@ def fix_player_name_typos(df):
                  'TheBeast': 'The Beast',
                  'the green one': 'The green one',
                  'Lollonator': 'lollonator',
-                 'Hoempes': 'hoempes'}
+                 'Hoempes': 'hoempes',
+                 'Moët': 'Schniggi'}
 
     for name_typo, name_correct in typo_dict.items():
         df.replace(name_typo, name_correct, inplace=True)
