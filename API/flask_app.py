@@ -2,7 +2,7 @@ from io import BytesIO
 import json
 import logging
 
-from flask import Blueprint, Flask, jsonify, make_response, request, send_file
+from flask import Blueprint, Flask, jsonify, make_response, request, send_file, redirect
 from flask_cors import cross_origin
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
