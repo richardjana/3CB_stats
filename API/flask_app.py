@@ -2,7 +2,7 @@ from io import BytesIO
 import json
 import logging
 
-from flask import Blueprint, Flask, jsonify, make_response, request, send_file, redirect
+from flask import Blueprint, Flask, jsonify, make_response, request, send_file, redirect, Response
 from flask_cors import cross_origin
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
@@ -243,13 +243,10 @@ reverse_proxy = Blueprint("reverse_proxy", __name__)
 
 STREAMLIT_URL = "http://127.0.0.1:8501"
 
-@app.route("/dashboard")
-def dashboard_redirect():
-    return redirect("/dashboard/", code=302)
-
 @reverse_proxy.route("/dashboard/", defaults={"path": ""})
 @reverse_proxy.route("/dashboard/<path:path>")
 def dashboard_proxy(path):
+    # Build the full Streamlit URL including baseUrlPath
     target_url = f"{STREAMLIT_URL}/dashboard/{path}"
 
     resp = requests.request(
