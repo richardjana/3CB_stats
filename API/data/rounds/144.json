@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Duress",
+                "Izzet Charm",
+                "Fleecemane Lion"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Leyline of Mutation",
+                "Desolation Twin",
+                "Karakas"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Optimiert",
+            "cards": [
+                "Mutavault",
+                "Wasteland",
+                "Cosmic Spider-Man"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Schniggi",
+            "cards": [
+                "Leyline of Singularity",
+                "Ezio Auditore da Firenze",
+                "Cavern of Souls"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Hypergenesis",
+                "Progenitus",
+                "Counterspell"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Tidehollow Sculler",
+                "Lavinia, Azorius Renegade",
+                "Guttural Response"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Leyline of Mutation",
+                "Emrakul, the Aeons Torn",
+                "Urza's Saga"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The green one",
+            "cards": [
+                "Leyline of Mutation",
+                "Leyline of Anticipation",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Chamber Sentry"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Tolarian Academy",
+                "Crystal Quarry",
+                "Door to Nothingness"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Inkmoth Nexus",
+                "The Kami War // O-Kagachi Made Manifest"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                1,
+                1,
+                0,
+                0,
+                0,
+                3,
+                6,
+                11
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                2,
+                6,
+                3,
+                4,
+                4,
+                2,
+                3,
+                0,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                6,
+                0,
+                15
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                44
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                4,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2,
+                6,
+                18
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                4,
+                3,
+                3,
+                0,
+                6,
+                0,
+                1,
+                0,
+                0,
+                3,
+                3,
+                23
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                1,
+                6,
+                0,
+                6,
+                4,
+                0,
+                0,
+                0,
+                6,
+                0,
+                29
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                1,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                37
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                50
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                3,
+                0,
+                0,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                11
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                6,
+                0,
+                45
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177157-neuauflage-3-cards-blind-runde-144/"
+}

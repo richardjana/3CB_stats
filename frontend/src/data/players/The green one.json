@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 11,
-            "%": 5.314009661835748
+            "%": 5.238095238095238
         },
         {
             "card": "Thalia, Guardian of Thraben",
             "count": 5,
-            "%": 2.4154589371980677
+            "%": 2.380952380952381
         },
         {
             "card": "Glistener Elf",
             "count": 4,
-            "%": 1.932367149758454
+            "%": 1.9047619047619049
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 4,
+            "%": 1.9047619047619049
         },
         {
             "card": "Memnite",
             "count": 4,
-            "%": 1.932367149758454
-        },
-        {
-            "card": "Mishra's Workshop",
-            "count": 4,
-            "%": 1.932367149758454
+            "%": 1.9047619047619049
         }
     ],
-    "n_rounds_played": 68,
+    "n_rounds_played": 69,
     "n_wins": 4,
     "nemesis": [
         {
@@ -41,8 +41,8 @@
         },
         {
             "player": "Silver Seraph",
-            "score": -4.0,
-            "n_matches": 12
+            "score": -3.923076923076923,
+            "n_matches": 13
         },
         {
             "player": "MagicStorm",
@@ -50,14 +50,14 @@
             "n_matches": 2
         },
         {
-            "player": "Hasran Ogress",
-            "score": -2.5714285714285716,
-            "n_matches": 14
+            "player": "Schniggi",
+            "score": -3.0,
+            "n_matches": 2
         }
     ],
-    "elo": 1507.2214422812572,
-    "score_average": 38.23833845892669,
-    "score_total": 2600.207015207015,
+    "elo": 1527.6361060962245,
+    "score_average": 38.57787944744466,
+    "score_total": 2661.8736818736816,
     "elo_list": [
         1600.0,
         1600.0,
@@ -202,7 +202,8 @@
         1524.7879143730331,
         1536.3541462210214,
         1530.767851019169,
-        1507.2214422812572
+        1507.2214422812572,
+        1527.6361060962245
     ],
     "badges": [
         {

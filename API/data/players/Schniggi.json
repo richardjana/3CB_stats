@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 7,
-            "%": 13.725490196078432
+            "%": 12.962962962962962
         },
         {
             "card": "Leyline of Anticipation",
             "count": 3,
-            "%": 5.88235294117647
+            "%": 5.555555555555555
         },
         {
             "card": "Anointed Peacekeeper",
             "count": 2,
-            "%": 3.9215686274509802
+            "%": 3.7037037037037033
+        },
+        {
+            "card": "Cavern of Souls",
+            "count": 2,
+            "%": 3.7037037037037033
         },
         {
             "card": "City of Traitors",
             "count": 2,
-            "%": 3.9215686274509802
-        },
-        {
-            "card": "Disruptor Flute",
-            "count": 2,
-            "%": 3.9215686274509802
+            "%": 3.7037037037037033
         }
     ],
-    "n_rounds_played": 17,
+    "n_rounds_played": 18,
     "n_wins": 3,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 3
         },
         {
-            "player": "The green one",
-            "score": 0.0,
-            "n_matches": 1
-        },
-        {
             "player": "hug77",
-            "score": 0.7058823529411765,
-            "n_matches": 17
+            "score": 0.3333333333333333,
+            "n_matches": 18
         },
         {
             "player": "Master_of_Desaster",
-            "score": 0.75,
-            "n_matches": 16
+            "score": 0.35294117647058826,
+            "n_matches": 17
+        },
+        {
+            "player": "Silver Seraph",
+            "score": 0.8333333333333334,
+            "n_matches": 18
         }
     ],
-    "elo": 1746.56512943945,
-    "score_average": 62.9275245451716,
-    "score_total": 1069.7679172679173,
+    "elo": 1755.1819965048533,
+    "score_average": 63.50562503340281,
+    "score_total": 1143.1012506012505,
     "elo_list": [
         1600.0,
         1600.0,
@@ -202,7 +202,8 @@
         1746.56512943945,
         1746.56512943945,
         1746.56512943945,
-        1746.56512943945
+        1746.56512943945,
+        1755.1819965048533
     ],
     "badges": []
 }
