@@ -238,10 +238,13 @@ def badge_embedding(player: str):
     return jsonify({'embed_code': embed_code}), 200
 
 # Mount Streamlit under /dashboard
-#app.register_blueprint(reverse_proxy, url_prefix="/dashboard")
 reverse_proxy = Blueprint("reverse_proxy", __name__)
 
 STREAMLIT_URL = "http://127.0.0.1:8501"
+
+@app.route("/dashboard")
+def dashboard_redirect():
+    return redirect("/dashboard/", code=302)
 
 @reverse_proxy.route("/dashboard/", defaults={"path": ""})
 @reverse_proxy.route("/dashboard/<path:path>")
@@ -273,6 +276,8 @@ def dashboard_proxy(path):
     ]
 
     return Response(resp.content, resp.status_code, headers)
+
+app.register_blueprint(reverse_proxy, url_prefix="/dashboard")
 
 if __name__ == '__main__':
     app.run()
