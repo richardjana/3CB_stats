@@ -277,7 +277,7 @@ def dashboard_proxy(path):
 
     return Response(resp.content, resp.status_code, headers)
 
-app.register_blueprint(reverse_proxy, url_prefix="/dashboard")
+app.register_blueprint(reverse_proxy)
 
 if __name__ == '__main__':
     app.run()
