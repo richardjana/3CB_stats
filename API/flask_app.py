@@ -4,11 +4,14 @@ import logging
 
 from flask import Flask, jsonify, make_response, request, send_file
 from flask_cors import cross_origin
+from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 from proxy import reverse_proxy
 import requests
 
 app = Flask(__name__)
+BASE_DIR = Path(__file__).resolve().parent
+DATA_DIR = BASE_DIR / 'data'
 
 # CORS settings
 ORIGIN = '*'
@@ -56,7 +59,7 @@ def hall_of_fame():
     app.logger.info('Get %s request from %s.', request.endpoint, request.headers.get('user-name'))
 
     try:
-        with open('data/hall_of_fame.json', 'r', encoding='utf-8') as file:
+        with open(DATA_DIR / 'hall_of_fame.json', 'r', encoding='utf-8') as file:
             return jsonify(json.load(file)), 200
     except FileNotFoundError:
         app.logger.warning('Get Hall of Fame failed!')
@@ -75,7 +78,7 @@ def banned_list():
     app.logger.info('Get %s request from %s.', request.endpoint, request.headers.get('user-name'))
 
     try:
-        with open('data/banned_list.json', 'r', encoding='utf-8') as file:
+        with open(DATA_DIR / 'banned_list.json', 'r', encoding='utf-8') as file:
             return jsonify(json.load(file)), 200
     except FileNotFoundError:
         app.logger.warning('Get banned list failed!')
@@ -94,7 +97,7 @@ def players_rounds_lists():
     app.logger.info('Get %s request from %s.', request.endpoint, request.headers.get('user-name'))
 
     try:
-        with open('data/players_rounds_lists.json', 'r', encoding='utf-8') as file:
+        with open(DATA_DIR / 'players_rounds_lists.json', 'r', encoding='utf-8') as file:
             return jsonify(json.load(file)), 200
     except FileNotFoundError:
         app.logger.warning('Get players and rounds lists failed!')
@@ -115,7 +118,7 @@ def round_details(number):
     app.logger.info('Get %s request from %s.', request.endpoint, request.headers.get('user-name'))
 
     try:
-        with open(f"data/rounds/{number}.json", 'r', encoding='utf-8') as file:
+        with open(DATA_DIR / f"rounds/{number}.json", 'r', encoding='utf-8') as file:
             return jsonify(json.load(file)), 200
     except FileNotFoundError:
         app.logger.warning('Get details for round %i failed!', number)
@@ -136,7 +139,7 @@ def player_stats(player):
     app.logger.info('Get %s request from %s.', request.endpoint, request.headers.get('user-name'))
 
     try:
-        with open(f"data/players/{player}.json", 'r', encoding='utf-8') as file:
+        with open(DATA_DIR / f"players/{player}.json", 'r', encoding='utf-8') as file:
             return jsonify(json.load(file)), 200
     except FileNotFoundError:
         app.logger.warning('Get details for round %s failed!', player)
@@ -155,7 +158,7 @@ def popular_cards():
     app.logger.info('Get %s request from %s.', request.endpoint, request.headers.get('user-name'))
 
     try:
-        with open('data/popular_cards.json', 'r', encoding='utf-8') as file:
+        with open(DATA_DIR / 'popular_cards.json', 'r', encoding='utf-8') as file:
             return jsonify(json.load(file)), 200
     except FileNotFoundError:
         app.logger.warning('Get popular cards list failed!')
@@ -185,7 +188,7 @@ def badge(player: str):
     Returns:
         (file): Badge image.
     """
-    with open('data/players_rounds_lists.json', 'r', encoding='utf-8') as file:
+    with open(DATA_DIR / 'players_rounds_lists.json', 'r', encoding='utf-8') as file:
         player_list = json.load(file)['player_names']
 
     if player not in player_list:
@@ -194,7 +197,7 @@ def badge(player: str):
     image = Image.new('RGB', (600, 125), color='#888')
     draw = ImageDraw.Draw(image)
 
-    with open(f"data/players/{player}.json", 'r', encoding='utf-8') as file:
+    with open(DATA_DIR / f"players/{player}.json", 'r', encoding='utf-8') as file:
         top3_cards = [entry['card'] for entry in json.load(file)['cards'][:3]]
 
     fetched_image = get_card_image(top3_cards[0])
