@@ -2,7 +2,7 @@ from io import BytesIO
 import json
 import logging
 
-from flask import Flask, jsonify, make_response, request, send_file
+from flask import Blueprint, Flask, jsonify, make_response, request, send_file
 from flask_cors import cross_origin
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
@@ -238,7 +238,44 @@ def badge_embedding(player: str):
     return jsonify({'embed_code': embed_code}), 200
 
 # Mount Streamlit under /dashboard
-app.register_blueprint(reverse_proxy, url_prefix="/dashboard")
+#app.register_blueprint(reverse_proxy, url_prefix="/dashboard")
+reverse_proxy = Blueprint("reverse_proxy", __name__)
+
+STREAMLIT_URL = "http://127.0.0.1:8501"
+
+@app.route("/dashboard")
+def dashboard_redirect():
+    return redirect("/dashboard/", code=302)
+
+@reverse_proxy.route("/dashboard/", defaults={"path": ""})
+@reverse_proxy.route("/dashboard/<path:path>")
+def dashboard_proxy(path):
+    target_url = f"{STREAMLIT_URL}/dashboard/{path}"
+
+    resp = requests.request(
+        method=request.method,
+        url=target_url,
+        headers={k: v for k, v in request.headers if k.lower() != "host"},
+        data=request.get_data(),
+        cookies=request.cookies,
+        allow_redirects=False,
+        stream=True,
+    )
+
+    excluded_headers = {
+        "content-encoding",
+        "content-length",
+        "transfer-encoding",
+        "connection",
+    }
+
+    headers = [
+        (name, value)
+        for name, value in resp.raw.headers.items()
+        if name.lower() not in excluded_headers
+    ]
+
+    return Response(resp.content, resp.status_code, headers)
 
 if __name__ == '__main__':
     app.run()
