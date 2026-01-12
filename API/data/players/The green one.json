@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 11,
-            "%": 5.238095238095238
+            "%": 5.164319248826291
+        },
+        {
+            "card": "Mishra's Workshop",
+            "count": 5,
+            "%": 2.3474178403755865
         },
         {
             "card": "Thalia, Guardian of Thraben",
             "count": 5,
-            "%": 2.380952380952381
+            "%": 2.3474178403755865
         },
         {
             "card": "Glistener Elf",
             "count": 4,
-            "%": 1.9047619047619049
+            "%": 1.8779342723004695
         },
         {
             "card": "Leyline of Anticipation",
             "count": 4,
-            "%": 1.9047619047619049
-        },
-        {
-            "card": "Memnite",
-            "count": 4,
-            "%": 1.9047619047619049
+            "%": 1.8779342723004695
         }
     ],
-    "n_rounds_played": 69,
+    "n_rounds_played": 70,
     "n_wins": 4,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 4
         },
         {
+            "player": "Schniggi",
+            "score": -4.0,
+            "n_matches": 3
+        },
+        {
             "player": "Silver Seraph",
-            "score": -3.923076923076923,
-            "n_matches": 13
+            "score": -3.642857142857143,
+            "n_matches": 14
         },
         {
             "player": "MagicStorm",
             "score": -3.0,
             "n_matches": 2
-        },
-        {
-            "player": "Schniggi",
-            "score": -3.0,
-            "n_matches": 2
         }
     ],
-    "elo": 1527.6361060962245,
-    "score_average": 38.57787944744466,
-    "score_total": 2661.8736818736816,
+    "elo": 1534.9899652476292,
+    "score_average": 38.66962402676688,
+    "score_total": 2706.8736818736816,
     "elo_list": [
         1600.0,
         1600.0,
@@ -203,7 +203,9 @@
         1536.3541462210214,
         1530.767851019169,
         1507.2214422812572,
-        1527.6361060962245
+        1527.6361060962245,
+        1534.9899652476292,
+        1534.9899652476292
     ],
     "badges": [
         {

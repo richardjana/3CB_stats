@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Undiscovered Paradise",
+                "Sazh's Chocobo",
+                "Lightstall Inquisitor"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Eumidian Hatchery",
+                "Wasteland",
+                "Maze of Ith"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Eumidian Hatchery",
+                "Wasteland",
+                "Cecil, Dark Knight // Cecil, Redeemed Paladin"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Karakas",
+                "Mox Sapphire",
+                "Meddling Mage"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Karakas",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Piracy Charm",
+                "Snow-Covered Island",
+                "Icehide Golem"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Forest",
+                "Durkwood Baloth",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Singularity",
+                "Karakas",
+                "Mishra's Factory"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Karakas",
+                "Student of Warfare",
+                "Ivory Giant"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Optimiert",
+            "cards": [
+                "Wasteland",
+                "Inkmoth Nexus",
+                "Karakas"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                2,
+                6,
+                2,
+                6,
+                2,
+                24
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                2,
+                6,
+                2,
+                6,
+                0,
+                2,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                2,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                44
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                3,
+                0,
+                0,
+                1,
+                3,
+                9
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                2,
+                0,
+                2,
+                0,
+                2,
+                0,
+                2,
+                2,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                0,
+                3,
+                2,
+                0,
+                0,
+                2,
+                2,
+                6,
+                17
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                2,
+                2,
+                0,
+                6,
+                2,
+                2,
+                6,
+                0,
+                6,
+                0,
+                26
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                0,
+                0,
+                4,
+                2,
+                2,
+                0,
+                0,
+                0,
+                3,
+                11
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                0,
+                0,
+                3,
+                6,
+                0,
+                0,
+                6,
+                3,
+                0,
+                20
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177194-neuauflage-3-cards-blind-runde-146/"
+}

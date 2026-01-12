@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Starting Town",
+                "Dread Fugue",
+                "Old-Growth Dryads"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mishra's Workshop",
+                "Iron Spider, Stark Upgrade",
+                "Wheel of Torture"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Mishra's Workshop",
+                "Iron Spider, Stark Upgrade",
+                "Karakas"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "lollonator",
+            "cards": [
+                "Candletrap",
+                "Karakas",
+                "Figure of Destiny"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Tundra",
+                "Figure of Fable",
+                "Daze"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Optimiert",
+            "cards": [
+                "Gifted Aetherborn",
+                "Clawing Torment",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Michael W",
+            "cards": [
+                "Starting Town",
+                "Black Lotus",
+                "Oko, Thief of Crowns"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Starnheim Unleashed",
+                "City of Traitors",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Starting Town",
+                "Swarm Shambler",
+                "Path to Exile"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Starting Town",
+                "Old-Growth Dryads",
+                "Detention Vortex"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The green one",
+            "cards": [
+                "Iron Spider, Stark Upgrade",
+                "Mishra's Workshop",
+                "Steel Golem"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                4,
+                3,
+                3,
+                1,
+                2,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                6,
+                3,
+                42
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                2,
+                3,
+                0,
+                6,
+                6,
+                6,
+                41
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                1,
+                2,
+                0,
+                0,
+                0,
+                2,
+                2,
+                13
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                4,
+                0,
+                3,
+                0,
+                0,
+                1,
+                1,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                1,
+                0,
+                2,
+                2,
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                6,
+                3,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                0,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                6,
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                51
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                4,
+                0,
+                0,
+                6,
+                4,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                0,
+                0,
+                2,
+                4,
+                6,
+                6,
+                0,
+                0,
+                0,
+                1,
+                21
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                3,
+                0,
+                2,
+                6,
+                6,
+                0,
+                0,
+                0,
+                4,
+                0,
+                27
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177177-neuauflage-3-cards-blind-runde-145/"
+}
