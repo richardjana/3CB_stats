@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 7,
-            "%": 11.666666666666666
+            "%": 11.11111111111111
         },
         {
             "card": "Leyline of Anticipation",
             "count": 3,
-            "%": 5.0
+            "%": 4.761904761904762
         },
         {
             "card": "Mishra's Workshop",
             "count": 3,
-            "%": 5.0
+            "%": 4.761904761904762
         },
         {
             "card": "Anointed Peacekeeper",
             "count": 2,
-            "%": 3.3333333333333335
+            "%": 3.1746031746031744
         },
         {
             "card": "Cavern of Souls",
             "count": 2,
-            "%": 3.3333333333333335
+            "%": 3.1746031746031744
         }
     ],
-    "n_rounds_played": 20,
+    "n_rounds_played": 21,
     "n_wins": 3,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 3
         },
         {
-            "player": "Master_of_Desaster",
-            "score": 0.3157894736842105,
-            "n_matches": 19
+            "player": "hug77",
+            "score": 0.2857142857142857,
+            "n_matches": 21
         },
         {
-            "player": "hug77",
+            "player": "Master_of_Desaster",
             "score": 0.6,
             "n_matches": 20
         },
         {
             "player": "Silver Seraph",
-            "score": 1.05,
-            "n_matches": 20
+            "score": 0.7142857142857143,
+            "n_matches": 21
         }
     ],
-    "elo": 1764.4707590600176,
-    "score_average": 63.90506253006252,
-    "score_total": 1278.1012506012505,
+    "elo": 1761.4893113776775,
+    "score_average": 63.77201722439817,
+    "score_total": 1339.2123617123616,
     "elo_list": [
         1600.0,
         1600.0,
@@ -205,7 +205,8 @@
         1746.56512943945,
         1755.1819965048533,
         1759.0280764953675,
-        1764.4707590600176
+        1764.4707590600176,
+        1761.4893113776775
     ],
     "badges": []
 }

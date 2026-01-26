@@ -3,31 +3,31 @@
         {
             "card": "Black Lotus",
             "count": 24,
-            "%": 6.0
+            "%": 5.955334987593052
         },
         {
             "card": "The Tabernacle at Pendrell Vale",
             "count": 14,
-            "%": 3.5000000000000004
+            "%": 3.4739454094292808
         },
         {
             "card": "Mishra's Workshop",
-            "count": 11,
-            "%": 2.75
+            "count": 12,
+            "%": 2.977667493796526
         },
         {
             "card": "City of Traitors",
             "count": 10,
-            "%": 2.5
+            "%": 2.481389578163772
         },
         {
             "card": "Mishra's Factory",
             "count": 10,
-            "%": 2.5
+            "%": 2.481389578163772
         }
     ],
-    "n_rounds_played": 132,
-    "n_wins": 16,
+    "n_rounds_played": 133,
+    "n_wins": 17,
     "nemesis": [
         {
             "player": "Haakon, Geißel der anderen",
@@ -51,13 +51,13 @@
         },
         {
             "player": "Schniggi",
-            "score": -2.0,
-            "n_matches": 18
+            "score": -1.5789473684210527,
+            "n_matches": 19
         }
     ],
-    "elo": 1641.3239862152516,
-    "score_average": 50.13012222766011,
-    "score_total": 6617.176134051135,
+    "elo": 1665.409800640785,
+    "score_average": 50.365846733327935,
+    "score_total": 6698.657615532616,
     "elo_list": [
         1600.0,
         1596.0,
@@ -205,7 +205,8 @@
         1661.9973544252118,
         1634.3820312039977,
         1661.3530679954208,
-        1641.3239862152516
+        1641.3239862152516,
+        1665.409800640785
     ],
     "badges": []
 }
