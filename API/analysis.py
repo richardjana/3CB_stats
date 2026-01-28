@@ -131,6 +131,10 @@ def load_data() -> pd.DataFrame:
     data_cumu = pd.DataFrame()
     for file in glob.glob('data/raw/round_*.csv'):
         data = pd.read_csv(file, sep=';')
+
+        str_cols = data.select_dtypes(include='object').columns
+        data[str_cols] = data[str_cols].apply(lambda s: s.str.strip())
+
         if validate_results(data):
             add_derivates_to_round(data)
             data_cumu = pd.concat([data_cumu, data])
