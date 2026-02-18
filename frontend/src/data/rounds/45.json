@@ -4,35 +4,35 @@
             "index": 1,
             "player": "Namse",
             "cards": [
-                " Force of Will",
-                " Misdirection",
-                " Vraska the Unseen"
+                "Force of Will",
+                "Misdirection",
+                "Vraska the Unseen"
             ]
         },
         {
             "index": 2,
             "player": "IMP",
             "cards": [
-                " Lavinia, Azorius Renegade",
-                " Force of Will",
-                " Meddling Mage"
+                "Lavinia, Azorius Renegade",
+                "Force of Will",
+                "Meddling Mage"
             ]
         },
         {
             "index": 3,
             "player": "lollonator",
             "cards": [
-                " Memnite",
-                " Deputy of Detention",
-                " Mesmeric Fiend"
+                "Memnite",
+                "Deputy of Detention",
+                "Mesmeric Fiend"
             ]
         },
         {
             "index": 4,
             "player": "Michael W",
             "cards": [
-                " Ratchet Bomb",
-                " City of Traitors",
+                "Ratchet Bomb",
+                "City of Traitors",
                 "Chandra, Awakened Inferno"
             ]
         },
@@ -40,8 +40,8 @@
             "index": 5,
             "player": "hug77",
             "cards": [
-                " Cavern of Souls",
-                " Leyline of Sanctity",
+                "Cavern of Souls",
+                "Leyline of Sanctity",
                 "Frost Titan"
             ]
         },
@@ -49,8 +49,8 @@
             "index": 6,
             "player": "Kratos Aurion",
             "cards": [
-                " Cavern of Souls",
-                " Sigarda, Host of Herons",
+                "Cavern of Souls",
+                "Sigarda, Host of Herons",
                 "Myr Scrapling"
             ]
         },
@@ -58,36 +58,36 @@
             "index": 7,
             "player": "BlackHole",
             "cards": [
-                " Black Lotus",
-                " Fist of Suns",
-                " Emrakul, the Aeons Torn"
+                "Black Lotus",
+                "Fist of Suns",
+                "Emrakul, the Aeons Torn"
             ]
         },
         {
             "index": 8,
             "player": "The Beast",
             "cards": [
-                " Savage Summoning",
-                " Vampire Hexmage",
-                " Dark Depths"
+                "Savage Summoning",
+                "Vampire Hexmage",
+                "Dark Depths"
             ]
         },
         {
             "index": 9,
             "player": "Master_of_Desaster",
             "cards": [
-                " Hullbreaker Horror",
-                " Black Lotus",
-                " Noxious Revival"
+                "Hullbreaker Horror",
+                "Black Lotus",
+                "Noxious Revival"
             ]
         },
         {
             "index": 10,
             "player": "The green one",
             "cards": [
-                " Surrak Dragonclaw",
-                " Snapback",
-                " Force of Negation"
+                "Surrak Dragonclaw",
+                "Snapback",
+                "Force of Negation"
             ]
         }
     ],

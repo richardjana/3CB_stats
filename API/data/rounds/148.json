@@ -1,0 +1,304 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Meddling Mage",
+                "Meddling Mage",
+                "Force Spike",
+                "(Wizard)"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "City of Traitors",
+                "Riling Dawnbreaker // Signaling Roar",
+                "Shadrix Silverquill",
+                "(Dragon)"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Giada, Font of Hope",
+                "Platinum Angel",
+                "(Angel)"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Weeping Angel",
+                "Fear of Impostors",
+                "Fear of Impostors",
+                "(Nightmare)"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Optimiert",
+            "cards": [
+                "Black Lotus",
+                "It That Heralds the End",
+                "Sire of Seven Deaths",
+                "(Eldrazi)"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Great Sable Stag",
+                "Oko, Thief of Crowns",
+                "Wild Magic Surge",
+                "(Elk)"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Phyrexian Dreadnought",
+                "Phyrexian Dreadnought",
+                "Torpor Orb",
+                "(Dreadnought)"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "lollonator",
+            "cards": [
+                "Meddling Mage",
+                "Curse of Silence",
+                "Brutal Cathar // Moonrage Brute",
+                "(Human)"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Cruelclaw's Heist",
+                "Murderous Rider // Swift End",
+                "Heartflame Duelist // Heartflame Slash",
+                "(Knight)"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The green one",
+            "cards": [
+                "Kellan, Planar Trailblazer",
+                "Bitterbloom Bearer",
+                "Faller's Faithful",
+                "(Faerie)"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Green Slime",
+                "Spell Queller",
+                "Spell Queller",
+                "(Spirit)"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                6,
+                2,
+                6,
+                3,
+                0,
+                0,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                2,
+                0,
+                6,
+                6,
+                3,
+                3,
+                3,
+                3,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                2,
+                6,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                2,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                2,
+                6,
+                6,
+                46
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                3,
+                6,
+                6,
+                6,
+                0,
+                3,
+                0,
+                0,
+                6,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                3,
+                6,
+                2,
+                6,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                49
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                3,
+                6,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                24
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                21
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177244-neuauflage-3-cards-blind-runde-148/"
+}

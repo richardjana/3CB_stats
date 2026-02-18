@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 7,
-            "%": 11.11111111111111
+            "%": 10.44776119402985
+        },
+        {
+            "card": "City of Traitors",
+            "count": 3,
+            "%": 4.477611940298507
         },
         {
             "card": "Leyline of Anticipation",
             "count": 3,
-            "%": 4.761904761904762
+            "%": 4.477611940298507
         },
         {
             "card": "Mishra's Workshop",
             "count": 3,
-            "%": 4.761904761904762
+            "%": 4.477611940298507
         },
         {
             "card": "Anointed Peacekeeper",
             "count": 2,
-            "%": 3.1746031746031744
-        },
-        {
-            "card": "Cavern of Souls",
-            "count": 2,
-            "%": 3.1746031746031744
+            "%": 2.9850746268656714
         }
     ],
-    "n_rounds_played": 21,
+    "n_rounds_played": 22,
     "n_wins": 3,
     "nemesis": [
         {
@@ -41,23 +41,23 @@
         },
         {
             "player": "hug77",
-            "score": 0.2857142857142857,
-            "n_matches": 21
-        },
-        {
-            "player": "Master_of_Desaster",
-            "score": 0.6,
-            "n_matches": 20
+            "score": 0.2727272727272727,
+            "n_matches": 22
         },
         {
             "player": "Silver Seraph",
-            "score": 0.7142857142857143,
+            "score": 0.4090909090909091,
+            "n_matches": 22
+        },
+        {
+            "player": "Master_of_Desaster",
+            "score": 0.8571428571428571,
             "n_matches": 21
         }
     ],
-    "elo": 1761.4893113776775,
-    "score_average": 63.77201722439817,
-    "score_total": 1339.2123617123616,
+    "elo": 1756.931977299124,
+    "score_average": 63.52480432025886,
+    "score_total": 1397.5456950456949,
     "elo_list": [
         1600.0,
         1600.0,
@@ -206,7 +206,8 @@
         1755.1819965048533,
         1759.0280764953675,
         1764.4707590600176,
-        1761.4893113776775
+        1761.4893113776775,
+        1756.931977299124
     ],
     "badges": []
 }
