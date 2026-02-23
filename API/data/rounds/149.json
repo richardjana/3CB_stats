@@ -1,0 +1,304 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Rotting Regisaur",
+                "Rotting Regisaur",
+                "Rotting Rats",
+                "(Zombie)"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Mutavault",
+                "Yidaro, Wandering Monster",
+                "Colossal Skyturtle",
+                "(Turtle)"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "BlackHole",
+            "cards": [
+                "Plague Engineer",
+                "Plague Engineer",
+                "Plague Engineer",
+                "(Carrier)"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Schniggi",
+            "cards": [
+                "Riling Dawnbreaker // Signaling Roar",
+                "Disruptive Stormbrood // Petty Revenge",
+                "Rivaz of the Claw",
+                "(Dragon)"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Cavern of Souls",
+                "Boldwyr Heavyweights",
+                "Bonecrusher Giant // Stomp",
+                "(Giant)"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Aang, Swift Savior // Aang and La, Ocean's Fury",
+                "Biting-Palm Ninja",
+                "Reflector Mage",
+                "(Human)"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Optimiert",
+            "cards": [
+                "Kellan, the Kid",
+                "Bitterblossom",
+                "Brazen Borrower",
+                "(Faerie)"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "The Beast",
+            "cards": [
+                "Gatekeeper of Malakir",
+                "Sorin, Imperious Bloodlord",
+                "Vein Ripper",
+                "(Vampire)"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The green one",
+            "cards": [
+                "Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",
+                "General Kreat, the Boltbringer",
+                "Krenko, Tin Street Kingpin",
+                "(Goblins)"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Valki, God of Lies // Tibalt, Cosmic Impostor",
+                "Mutavault",
+                "God-Eternal Kefnet",
+                "(God)"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "hug77",
+            "cards": [
+                "Brutal Cathar // Moonrage Brute",
+                "Anointed Peacekeeper",
+                "Heartflame Duelist // Heartflame Slash",
+                "(Human)"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                2,
+                3,
+                2,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                4,
+                3,
+                6,
+                0,
+                6,
+                6,
+                0,
+                37
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                2,
+                6,
+                0,
+                0,
+                2,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                28
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                0,
+                6,
+                0,
+                1,
+                0,
+                6,
+                0,
+                6,
+                6,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                2,
+                1,
+                2,
+                4,
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                3,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                4,
+                2,
+                51
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                2,
+                0,
+                44
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                4
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                2,
+                4,
+                0,
+                0,
+                13
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                0,
+                50
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177275-neuauflage-3-cards-blind-runde-149/"
+}

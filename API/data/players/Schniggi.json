@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 7,
-            "%": 10.44776119402985
+            "%": 9.859154929577464
         },
         {
             "card": "City of Traitors",
             "count": 3,
-            "%": 4.477611940298507
+            "%": 4.225352112676056
         },
         {
             "card": "Leyline of Anticipation",
             "count": 3,
-            "%": 4.477611940298507
+            "%": 4.225352112676056
         },
         {
             "card": "Mishra's Workshop",
             "count": 3,
-            "%": 4.477611940298507
+            "%": 4.225352112676056
         },
         {
-            "card": "Anointed Peacekeeper",
+            "card": "(Dragon)",
             "count": 2,
-            "%": 2.9850746268656714
+            "%": 2.8169014084507045
         }
     ],
-    "n_rounds_played": 22,
+    "n_rounds_played": 23,
     "n_wins": 3,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 3
         },
         {
-            "player": "hug77",
-            "score": 0.2727272727272727,
-            "n_matches": 22
+            "player": "Silver Seraph",
+            "score": 0.13043478260869565,
+            "n_matches": 23
         },
         {
-            "player": "Silver Seraph",
-            "score": 0.4090909090909091,
-            "n_matches": 22
+            "player": "hug77",
+            "score": 0.5217391304347826,
+            "n_matches": 23
         },
         {
             "player": "Master_of_Desaster",
-            "score": 0.8571428571428571,
-            "n_matches": 21
+            "score": 1.0909090909090908,
+            "n_matches": 22
         }
     ],
-    "elo": 1756.931977299124,
-    "score_average": 63.52480432025886,
-    "score_total": 1397.5456950456949,
+    "elo": 1750.4152599299648,
+    "score_average": 63.22662442227658,
+    "score_total": 1454.2123617123614,
     "elo_list": [
         1600.0,
         1600.0,
@@ -207,7 +207,8 @@
         1759.0280764953675,
         1764.4707590600176,
         1761.4893113776775,
-        1756.931977299124
+        1756.931977299124,
+        1750.4152599299648
     ],
     "badges": []
 }
