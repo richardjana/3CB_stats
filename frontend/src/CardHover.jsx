@@ -2,7 +2,6 @@ import React, { useEffect, useState } from 'react';
 
 const CardHover = ({ cardName }) => {
   const [cardImage, setCardImage] = useState(null);
-  const [isHovered, setIsHovered] = useState(false);
 
   cardName = cardName.replace(/&/g, ''); // protect the API URL
 
@@ -55,25 +54,12 @@ const CardHover = ({ cardName }) => {
     }
   }, [cardName]);
 
-  const handleMouseEnter = () => {
-    setIsHovered(true);
-  };
-
-  const handleMouseLeave = () => {
-    setIsHovered(false);
-    setCardImage(null); // clear the image when not hovering
-  };
-
   return (
-    <div
-      className="card-container"
-      onMouseEnter={handleMouseEnter}
-      onMouseLeave={handleMouseLeave}
-    >
+    <div className="relative inline-block group">
       <span>{cardName}</span>
-      {isHovered && cardImage && (
-        <div className="card-image">
-          <img src={cardImage} alt={cardName} />
+      {cardImage && (
+        <div className="absolute top-full left-1/2 -translate-x-1/2 z-50 w-48 opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity duration-200">
+          <img src={cardImage} alt={cardName} className="block" />
         </div>
       )}
     </div>
