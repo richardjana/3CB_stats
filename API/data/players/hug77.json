@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 41,
-            "%": 9.297052154195011
+            "%": 9.234234234234235
         },
         {
             "card": "Wasteland",
             "count": 13,
-            "%": 2.947845804988662
+            "%": 2.9279279279279278
         },
         {
             "card": "Leyline of Anticipation",
             "count": 12,
-            "%": 2.7210884353741496
+            "%": 2.7027027027027026
         },
         {
             "card": "Lion's Eye Diamond",
             "count": 11,
-            "%": 2.494331065759637
+            "%": 2.4774774774774775
         },
         {
             "card": "Force of Will",
             "count": 10,
-            "%": 2.2675736961451247
+            "%": 2.2522522522522523
         }
     ],
-    "n_rounds_played": 145,
+    "n_rounds_played": 146,
     "n_wins": 29,
     "nemesis": [
         {
@@ -46,8 +46,8 @@
         },
         {
             "player": "Schniggi",
-            "score": -0.5217391304347826,
-            "n_matches": 23
+            "score": -0.25,
+            "n_matches": 24
         },
         {
             "player": "lordfire",
@@ -55,9 +55,9 @@
             "n_matches": 39
         }
     ],
-    "elo": 1795.0495523258326,
-    "score_average": 59.64148287855185,
-    "score_total": 8648.015017390018,
+    "elo": 1792.4086894842578,
+    "score_average": 59.66423274214369,
+    "score_total": 8710.977980352978,
     "elo_list": [
         1600.0,
         1600.0,
@@ -208,14 +208,10 @@
         1752.2064211638287,
         1766.206788993445,
         1781.2427929925348,
-        1795.0495523258326
+        1795.0495523258326,
+        1792.4086894842578
     ],
     "badges": [
-        {
-            "type": "perfect_round",
-            "label": "Perfekte Runde",
-            "description": "Runde 24"
-        },
         {
             "type": "perfect_round",
             "label": "Perfekte Runde",
@@ -225,6 +221,11 @@
             "type": "perfect_round",
             "label": "Perfekte Runde",
             "description": "Runde 128"
+        },
+        {
+            "type": "perfect_round",
+            "label": "Perfekte Runde",
+            "description": "Runde 24"
         },
         {
             "type": "streak",

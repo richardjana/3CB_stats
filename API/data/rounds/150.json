@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Tinybones Joins Up",
+                "Yoshimaru, Ever Faithful",
+                "Valentin, Dean of the Vein // Lisette, Dean of the Root"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Tinybones, the Pickpocket",
+                "Geyadrone Dihada"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Goblin Bombardment",
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Schniggi",
+            "cards": [
+                "Black Lotus",
+                "Leyline of Anticipation",
+                "Grand Arbiter Augustin IV"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Optimiert",
+            "cards": [
+                "Undiscovered Paradise",
+                "Adelbert Steiner",
+                "Adventuring Gear"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "BlackHole",
+            "cards": [
+                "City of Traitors",
+                "Anafenza, the Foremost",
+                "Kalakscion, Hunger Tyrant"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Plains",
+                "Fragmentize",
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "City of Traitors",
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                "Brimaz, King of Oreskos"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Ajani, Nacatl Pariah // Ajani, Nacatl Avenger",
+                "Arahbo, the First Fang"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Koma, World-Eater"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                6,
+                6,
+                6,
+                1,
+                3,
+                3,
+                28
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                6,
+                0,
+                0,
+                6,
+                3,
+                6,
+                3,
+                3,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                3,
+                0,
+                6,
+                0,
+                6,
+                3,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                4,
+                3,
+                3,
+                6,
+                6,
+                3,
+                6,
+                0,
+                3,
+                0,
+                34
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                6,
+                3,
+                0,
+                6,
+                6,
+                6,
+                3,
+                0,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                45
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177298-neuauflage-3-cards-blind-runde-150/"
+}

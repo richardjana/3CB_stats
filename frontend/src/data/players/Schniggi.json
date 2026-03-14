@@ -2,32 +2,32 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 7,
-            "%": 9.859154929577464
+            "count": 8,
+            "%": 10.81081081081081
+        },
+        {
+            "card": "Leyline of Anticipation",
+            "count": 4,
+            "%": 5.405405405405405
         },
         {
             "card": "City of Traitors",
             "count": 3,
-            "%": 4.225352112676056
-        },
-        {
-            "card": "Leyline of Anticipation",
-            "count": 3,
-            "%": 4.225352112676056
+            "%": 4.054054054054054
         },
         {
             "card": "Mishra's Workshop",
             "count": 3,
-            "%": 4.225352112676056
+            "%": 4.054054054054054
         },
         {
             "card": "(Dragon)",
             "count": 2,
-            "%": 2.8169014084507045
+            "%": 2.7027027027027026
         }
     ],
-    "n_rounds_played": 23,
-    "n_wins": 3,
+    "n_rounds_played": 24,
+    "n_wins": 4,
     "nemesis": [
         {
             "player": "Sedris",
@@ -40,24 +40,24 @@
             "n_matches": 3
         },
         {
-            "player": "Silver Seraph",
-            "score": 0.13043478260869565,
-            "n_matches": 23
-        },
-        {
             "player": "hug77",
-            "score": 0.5217391304347826,
-            "n_matches": 23
+            "score": 0.25,
+            "n_matches": 24
         },
         {
-            "player": "Master_of_Desaster",
-            "score": 1.0909090909090908,
-            "n_matches": 22
+            "player": "Silver Seraph",
+            "score": 0.375,
+            "n_matches": 24
+        },
+        {
+            "player": "P0LTERGEIST",
+            "score": 1.2,
+            "n_matches": 5
         }
     ],
-    "elo": 1750.4152599299648,
-    "score_average": 63.22662442227658,
-    "score_total": 1454.2123617123614,
+    "elo": 1768.8635331572436,
+    "score_average": 64.29588544171878,
+    "score_total": 1543.1012506012507,
     "elo_list": [
         1600.0,
         1600.0,
@@ -208,7 +208,8 @@
         1764.4707590600176,
         1761.4893113776775,
         1756.931977299124,
-        1750.4152599299648
+        1750.4152599299648,
+        1768.8635331572436
     ],
     "badges": []
 }
