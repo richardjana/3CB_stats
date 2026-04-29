@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 46,
-            "%": 11.386138613861387
+            "%": 11.11111111111111
         },
         {
             "card": "Iona, Shield of Emeria",
             "count": 11,
-            "%": 2.722772277227723
+            "%": 2.657004830917874
         },
         {
             "card": "Lion's Eye Diamond",
             "count": 9,
-            "%": 2.2277227722772275
+            "%": 2.1739130434782608
         },
         {
             "card": "Maze of Ith",
-            "count": 7,
-            "%": 1.7326732673267329
+            "count": 8,
+            "%": 1.932367149758454
         },
         {
             "card": "Unburial Rites",
             "count": 6,
-            "%": 1.4851485148514851
+            "%": 1.4492753623188406
         }
     ],
-    "n_rounds_played": 133,
+    "n_rounds_played": 136,
     "n_wins": 4,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 1
         },
         {
+            "player": "tol",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
             "player": "Schniggi",
-            "score": -4.0,
-            "n_matches": 24
+            "score": -3.7777777777777777,
+            "n_matches": 27
         },
         {
             "player": "Namse",
-            "score": -3.180451127819549,
-            "n_matches": 133
-        },
-        {
-            "player": "Silver Seraph",
-            "score": -2.5081967213114753,
-            "n_matches": 61
+            "score": -3.2426470588235294,
+            "n_matches": 136
         }
     ],
-    "elo": 1468.9600294931831,
-    "score_average": 38.01410803760428,
-    "score_total": 5055.876369001369,
+    "elo": 1470.3375252941955,
+    "score_average": 37.80056153677477,
+    "score_total": 5140.876369001369,
     "elo_list": [
         1600.0,
         1600.0,
@@ -209,18 +209,21 @@
         1461.2827880827758,
         1451.933288351571,
         1467.309962414707,
-        1468.9600294931831
+        1468.9600294931831,
+        1472.3191692893483,
+        1470.430390079932,
+        1470.3375252941955
     ],
     "badges": [
         {
             "type": "perfect_round",
             "label": "Perfekte Runde",
-            "description": "Runde 79"
+            "description": "Runde 57"
         },
         {
             "type": "perfect_round",
             "label": "Perfekte Runde",
-            "description": "Runde 57"
+            "description": "Runde 79"
         }
     ]
 }

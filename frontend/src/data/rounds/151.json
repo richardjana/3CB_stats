@@ -1,0 +1,331 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Peat Bog",
+                "Collective Brutality",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Boseiju, Who Endures",
+                "Black Lotus",
+                "Minsc & Boo, Timeless Heroes"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "tol",
+            "cards": [
+                "Orzhov Basilica",
+                "Mishra's Factory",
+                "Vindicate"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Wasteland",
+                "Sunken Citadel",
+                "Kher Keep"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Force of Will",
+                "Snapback",
+                "Ornithopter"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Ornithopter",
+                "Gut Shot",
+                "Mental Misstep"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Silver Seraph",
+            "cards": [
+                "Black Lotus",
+                "Gut Shot",
+                "Davriel, Rogue Shadowmage"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Optimiert",
+            "cards": [
+                "Black Lotus",
+                "Duress",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Inkmoth Nexus",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Sterni",
+            "cards": [
+                "Undiscovered Paradise",
+                "Sazh's Chocobo",
+                "Swarm Shambler"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "hug77",
+            "cards": [
+                "Lion's Eye Diamond",
+                "Emrakul, the Aeons Torn",
+                "Shelldock Isle"
+            ]
+        },
+        {
+            "index": 12,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "City of Traitors",
+                "Steel Overseer",
+                "Steel Overseer"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                0,
+                0,
+                3,
+                0,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                0,
+                6,
+                3,
+                3,
+                6,
+                6,
+                2,
+                6,
+                50
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                2,
+                0,
+                0,
+                1,
+                15
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                6,
+                2,
+                6,
+                6,
+                6,
+                53
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                2,
+                2,
+                6,
+                0,
+                0,
+                6,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                0,
+                3,
+                0,
+                2,
+                6,
+                0,
+                0,
+                13
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                6,
+                3,
+                2,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                6,
+                32
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                3,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                2,
+                2,
+                6,
+                2,
+                0,
+                6,
+                0,
+                6,
+                2,
+                2,
+                34
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                0,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                27
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                2,
+                6,
+                0,
+                0,
+                6,
+                6,
+                3,
+                2,
+                6,
+                0,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 12,
+            "values": [
+                3,
+                0,
+                4,
+                0,
+                6,
+                6,
+                0,
+                6,
+                2,
+                6,
+                0,
+                0,
+                33
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177311-neuauflage-3-cards-blind-runde-151/"
+}

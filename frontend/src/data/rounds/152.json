@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Eiganjo Castle",
+                "Basri, Tomorrow's Champion",
+                "Kytheon, Hero of Akros // Gideon Battle-Forged"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Michael W",
+            "cards": [
+                "Flagstones of Trokair",
+                "Basri, Tomorrow's Champion",
+                "Kytheon, Hero of Akros // Gideon Battle-Forged"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Tinybones Joins Up",
+                "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+                "Tomb of Urami"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Silver Seraph",
+            "cards": [
+                "Phyrexian Tower",
+                "Rat King, Verminister",
+                "Rograkh, Son of Rohgahh"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Pendelhaven",
+                "Yavimaya Hollow",
+                "Wilson, Refined Grizzly"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Optimiert",
+            "cards": [
+                "Dark Depths",
+                "Urborg, Tomb of Yawgmoth",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Sterni",
+            "cards": [
+                "Eiganjo Castle",
+                "Eiganjo, Seat of the Empire",
+                "Ajani, Nacatl Pariah"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Teferi's Isle",
+                "Malcolm, Alluring Scoundrel",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "lollonator",
+            "cards": [
+                "Eiganjo Castle",
+                "Isamaru, Hound of Konda",
+                "Basri, Tomorrow's Champion"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Tinybones Joins Up",
+                "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+                "Takenuma, Abandoned Mire"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Urborg",
+                "Cecil, Dark Knight // Cecil, Redeemed Paladin",
+                "Tinybones, the Pickpocket"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                2,
+                0,
+                6,
+                2,
+                6,
+                6,
+                6,
+                6,
+                2,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                2,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                2,
+                3,
+                0,
+                2,
+                6,
+                6,
+                6,
+                2,
+                3,
+                2,
+                34
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                3,
+                2,
+                6,
+                3,
+                0,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                8
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                6,
+                3,
+                27
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                2,
+                2,
+                6,
+                2,
+                3,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                39
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                0,
+                2,
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                2,
+                25
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                2,
+                2,
+                6,
+                6,
+                6,
+                3,
+                0,
+                2,
+                0,
+                27
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177332-neuauflage-3-cards-blind-runde-152/"
+}

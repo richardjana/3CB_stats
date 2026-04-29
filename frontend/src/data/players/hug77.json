@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 41,
-            "%": 9.234234234234235
+            "%": 9.030837004405285
         },
         {
             "card": "Wasteland",
             "count": 13,
-            "%": 2.9279279279279278
+            "%": 2.8634361233480177
         },
         {
             "card": "Leyline of Anticipation",
             "count": 12,
-            "%": 2.7027027027027026
+            "%": 2.643171806167401
         },
         {
             "card": "Lion's Eye Diamond",
-            "count": 11,
-            "%": 2.4774774774774775
+            "count": 12,
+            "%": 2.643171806167401
         },
         {
-            "card": "Force of Will",
-            "count": 10,
-            "%": 2.2522522522522523
+            "card": "Shelldock Isle",
+            "count": 11,
+            "%": 2.4229074889867843
         }
     ],
-    "n_rounds_played": 146,
+    "n_rounds_played": 149,
     "n_wins": 29,
     "nemesis": [
         {
@@ -45,19 +45,19 @@
             "n_matches": 9
         },
         {
-            "player": "Schniggi",
-            "score": -0.25,
-            "n_matches": 24
-        },
-        {
             "player": "lordfire",
             "score": -0.15384615384615385,
             "n_matches": 39
+        },
+        {
+            "player": "Schniggi",
+            "score": 0.0,
+            "n_matches": 27
         }
     ],
-    "elo": 1792.4086894842578,
-    "score_average": 59.66423274214369,
-    "score_total": 8710.977980352978,
+    "elo": 1769.9970831830012,
+    "score_average": 59.59371026065658,
+    "score_total": 8879.46282883783,
     "elo_list": [
         1600.0,
         1600.0,
@@ -209,13 +209,16 @@
         1766.206788993445,
         1781.2427929925348,
         1795.0495523258326,
-        1792.4086894842578
+        1792.4086894842578,
+        1792.0421652329417,
+        1773.427733678201,
+        1769.9970831830012
     ],
     "badges": [
         {
             "type": "perfect_round",
             "label": "Perfekte Runde",
-            "description": "Runde 46"
+            "description": "Runde 24"
         },
         {
             "type": "perfect_round",
@@ -225,7 +228,7 @@
         {
             "type": "perfect_round",
             "label": "Perfekte Runde",
-            "description": "Runde 24"
+            "description": "Runde 46"
         },
         {
             "type": "streak",

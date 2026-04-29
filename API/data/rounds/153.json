@@ -1,0 +1,304 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "City of Traitors",
+                "Lupine Prototype",
+                "Lupine Prototype",
+                "Variante 4"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Helix Pinnacle",
+                "Ensnaring Bridge",
+                "Mishra's Workshop",
+                "Variante 3"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Silver Seraph",
+            "cards": [
+                "Karakas",
+                "Leyline of Singularity",
+                "Hexdrinker",
+                "Variante 3"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Karakas",
+                "Maze of Ith",
+                "Serra Ascendant",
+                "Variante 2"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Sterni",
+            "cards": [
+                "Rograkh, Son of Rohgahh",
+                "Ornithopter",
+                "Ornithopter",
+                "Variante 1"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Factory",
+                "The Tabernacle at Pendrell Vale",
+                "Wild Magic Surge",
+                "Variante 5"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Cavern of Souls",
+                "Tidehollow Sculler",
+                "Scalding Viper // Steam Clean",
+                "Variante 3"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Optimiert",
+            "cards": [
+                "Kuldotha Rebirth",
+                "Great Furnace",
+                "Ornithopter",
+                "Variante 1"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Dread Fugue",
+                "Mana Tithe",
+                "Swarm Shambler",
+                "Variante 3"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Ammit Eternal",
+                "Minor Misstep",
+                "Variante 3"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "The Beast",
+            "cards": [
+                "Spell Pierce",
+                "Troll of Khazad-dûm",
+                "Reanimate",
+                "Variante 3"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                6,
+                6,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                6,
+                6,
+                6,
+                0,
+                3,
+                6,
+                2,
+                2,
+                0,
+                37
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                0,
+                0,
+                4,
+                6,
+                2,
+                6,
+                6,
+                4,
+                2,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                1,
+                0,
+                2,
+                0,
+                2,
+                0,
+                2,
+                2,
+                6,
+                15
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                2,
+                6,
+                0,
+                3,
+                2,
+                6,
+                21
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                6,
+                6,
+                2,
+                6,
+                2,
+                0,
+                2,
+                6,
+                0,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                0,
+                2,
+                0,
+                2,
+                0,
+                1,
+                3,
+                6,
+                6,
+                23
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                4,
+                0,
+                0,
+                0,
+                0,
+                22
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                2,
+                1,
+                2,
+                3,
+                6,
+                3,
+                6,
+                0,
+                0,
+                6,
+                35
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                2,
+                2,
+                2,
+                2,
+                0,
+                0,
+                6,
+                6,
+                0,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                2,
+                0,
+                14
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177347-neuauflage-3-cards-blind-runde-153/"
+}
