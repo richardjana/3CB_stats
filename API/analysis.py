@@ -423,8 +423,17 @@ if __name__ == '__main__':
             c for c in d if isinstance(c, str)]}
             for i, (p, d) in enumerate(zip(players, deck_list))]}
 
-        results_list = data_df.loc[:, data_df.columns.str.startswith(
-            ('result_', 'sum'))].dropna(how='any', axis=1).to_numpy(dtype=int).tolist()
+        result_cols = sorted(
+            [c for c in data_df.columns if c.startswith('result_')],
+            key=lambda x: int(x.split('_')[1])
+        )
+        ordered_cols = result_cols + ['sum']
+
+        results_list = (data_df[ordered_cols]
+                        .dropna(how='any', axis=1)
+                        .to_numpy(dtype=int)
+                        .tolist()
+                        )
         round_data['results'] = [{'index': i+1, 'values': l}
                                  for i, l in enumerate(results_list)]
 
