@@ -99,6 +99,8 @@ def find_data_in_round(url, round_number):
         for line in post_body.text.splitlines():
             if (len(line.split('|')) > len(deck_lines)): # exact layout of table changes
                 table_lines += [line]
+            elif len(table_lines)>0:
+                break
 
         if len(deck_lines) + 1 == len(table_lines): # this is the results post
             results_post_body = post_body
