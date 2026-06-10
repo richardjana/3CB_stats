@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Black Lotus",
+                "Leonin Squire",
+                "Empty the Warrens"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mishra's Workshop",
+                "Lupine Prototype",
+                "Wheel of Torture"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Sorin, Imperious Bloodlord",
+                "Black Lotus",
+                "Ghalta and Mavren"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Simian Spirit Guide",
+                "Minsc & Boo, Timeless Heroes"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Funeral Charm",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Trinisphere",
+                "Lupine Prototype"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Optimiert",
+            "cards": [
+                "Wasteland",
+                "Mayor of Avabruck // Howlpack Alpha",
+                "Elvish Spirit Guide"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Nissa, Ascended Animist",
+                "Black Lotus",
+                "Argivian Find"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Sol Ring",
+                "Magus of the Tabernacle"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Anurid Scavenger",
+                "Wild Magic Surge"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                0,
+                4,
+                3,
+                3,
+                3,
+                4,
+                0,
+                6,
+                29
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                0,
+                3,
+                6,
+                6,
+                3,
+                0,
+                6,
+                0,
+                24
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                3,
+                3,
+                6,
+                6,
+                0,
+                0,
+                36
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                1,
+                3,
+                0,
+                0,
+                3,
+                3,
+                6,
+                3,
+                6,
+                0,
+                25
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                0,
+                0,
+                6,
+                3,
+                3,
+                0,
+                21
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                6,
+                0,
+                3,
+                3,
+                3,
+                4,
+                28
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                3,
+                0,
+                0,
+                0,
+                3,
+                0,
+                0,
+                2,
+                0,
+                11
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                1,
+                6,
+                0,
+                3,
+                3,
+                3,
+                6,
+                0,
+                6,
+                3,
+                31
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                6,
+                0,
+                6,
+                0,
+                3,
+                3,
+                2,
+                0,
+                0,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                1,
+                6,
+                3,
+                2,
+                0,
+                36
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177436-neuauflage-3-cards-blind-runde-157/"
+}
