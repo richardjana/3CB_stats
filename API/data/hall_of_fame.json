@@ -50,11 +50,11 @@
         },
         {
             "player": "BlackHole",
-            "score_mean": "38.02",
-            "score_sum": "5322.36",
+            "score_mean": "38.06",
+            "score_sum": "5327.91",
             "rounds_played": 140,
             "wins": 5,
-            "elo": "1514.22"
+            "elo": "1518.22"
         },
         {
             "player": "GoDJi8",
@@ -106,11 +106,11 @@
         },
         {
             "player": "hug77",
-            "score_mean": "59.62",
-            "score_sum": "9122.06",
+            "score_mean": "59.58",
+            "score_sum": "9116.50",
             "rounds_played": 153,
-            "wins": 30,
-            "elo": "1762.67"
+            "wins": 29,
+            "elo": "1758.67"
         },
         {
             "player": "hoempes",
@@ -133,7 +133,7 @@
             "score_mean": "62.54",
             "score_sum": "1938.86",
             "rounds_played": 31,
-            "wins": 5,
+            "wins": 6,
             "elo": "1742.65"
         },
         {
@@ -357,7 +357,7 @@
         {
             "round": 157,
             "winner": [
-                "hug77"
+                "Schniggi"
             ]
         },
         {
