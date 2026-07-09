@@ -2,62 +2,62 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 11,
-            "%": 11.458333333333332
+            "count": 13,
+            "%": 12.745098039215685
         },
         {
             "card": "Leyline of Anticipation",
             "count": 4,
-            "%": 4.166666666666666
+            "%": 3.9215686274509802
         },
         {
             "card": "Mishra's Workshop",
             "count": 4,
-            "%": 4.166666666666666
+            "%": 3.9215686274509802
         },
         {
             "card": "City of Traitors",
             "count": 3,
-            "%": 3.125
+            "%": 2.941176470588235
         },
         {
             "card": "Minsc & Boo, Timeless Heroes",
             "count": 3,
-            "%": 3.125
+            "%": 2.941176470588235
         }
     ],
-    "n_rounds_played": 31,
-    "n_wins": 6,
+    "n_rounds_played": 33,
+    "n_wins": 8,
     "nemesis": [
-        {
-            "player": "hug77",
-            "score": 0.0,
-            "n_matches": 31
-        },
         {
             "player": "Sedris",
             "score": 0.0,
             "n_matches": 5
         },
         {
-            "player": "Daeron",
+            "player": "Pumbaa6000",
             "score": 0.0,
-            "n_matches": 3
+            "n_matches": 1
+        },
+        {
+            "player": "hug77",
+            "score": 0.36363636363636365,
+            "n_matches": 33
         },
         {
             "player": "Silver Seraph",
-            "score": 0.4838709677419355,
-            "n_matches": 31
+            "score": 0.65625,
+            "n_matches": 32
         },
         {
-            "player": "Master_of_Desaster",
-            "score": 0.9,
-            "n_matches": 30
+            "player": "P0LTERGEIST",
+            "score": 1.2,
+            "n_matches": 5
         }
     ],
-    "elo": 1742.654388247167,
-    "score_average": 62.54383310834925,
-    "score_total": 1938.8588263588267,
+    "elo": 1795.7398923127903,
+    "score_average": 64.64555366070518,
+    "score_total": 2133.3032708032706,
     "elo_list": [
         1600.0,
         1600.0,
@@ -216,7 +216,20 @@
         1735.1201507420406,
         1745.4685155757338,
         1739.009875278308,
-        1742.654388247167
+        1742.654388247167,
+        1764.8252345320504,
+        1795.7398923127903
     ],
-    "badges": []
+    "badges": [
+        {
+            "type": "perfect_round",
+            "label": "Perfekte Runde",
+            "description": "Runde 159"
+        },
+        {
+            "type": "streak",
+            "label": "Gewinnserie 3",
+            "description": "157 - 159"
+        }
+    ]
 }

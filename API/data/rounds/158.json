@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Maze of Ith",
+                "Hammerheim",
+                "Heartfire Hero"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Stormscale Scion",
+                "Black Lotus",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Pumbaa6000",
+            "cards": [
+                "Reckless Waif // Merciless Predator",
+                "Cavern of Souls",
+                "Vexing Bauble"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Michael W",
+            "cards": [
+                "Gruul Turf",
+                "Boseiju, Who Endures",
+                "Yidaro, Wandering Monster"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "Undiscovered Paradise",
+                "Fleeting Effigy",
+                "Storm World"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Wasteland",
+                "Mox Ruby",
+                "Village Messenger // Moonrise Intruder"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Chandra Flamecaller"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Black Lotus",
+                "Seething Song",
+                "Leveler"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Optimiert",
+            "cards": [
+                "Court of Embereth",
+                "Black Lotus",
+                "Wasteland"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "Taiga",
+                "Blisterpod",
+                "Chandra's Defeat"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                6,
+                6,
+                3,
+                6,
+                0,
+                6,
+                3,
+                2,
+                32
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                51
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                4,
+                3,
+                3,
+                3,
+                0,
+                16
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                0,
+                6,
+                21
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                12
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                1,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                13
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                33
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                0,
+                1,
+                6,
+                31
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                3,
+                6,
+                6,
+                6,
+                0,
+                4,
+                0,
+                6,
+                34
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                0,
+                6,
+                0,
+                3,
+                6,
+                6,
+                0,
+                0,
+                0,
+                23
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177450-neuauflage-3-cards-blind-runde-158/"
+}

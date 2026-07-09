@@ -3,30 +3,30 @@
         {
             "card": "Black Lotus",
             "count": 3,
-            "%": 10.0
+            "%": 9.090909090909092
         },
         {
             "card": "Alpine Moon",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 6.0606060606060606
         },
         {
             "card": "Approach of the Second Sun",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 6.0606060606060606
         },
         {
             "card": "Cathedral of War",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 6.0606060606060606
         },
         {
             "card": "Inkmoth Nexus",
             "count": 2,
-            "%": 6.666666666666667
+            "%": 6.0606060606060606
         }
     ],
-    "n_rounds_played": 10,
+    "n_rounds_played": 11,
     "n_wins": 0,
     "nemesis": [
         {
@@ -40,24 +40,24 @@
             "n_matches": 1
         },
         {
+            "player": "Lord Ram",
+            "score": -6.0,
+            "n_matches": 1
+        },
+        {
             "player": "hug77",
-            "score": -4.8,
-            "n_matches": 10
+            "score": -3.8181818181818183,
+            "n_matches": 11
         },
         {
             "player": "Michael W",
-            "score": -2.0,
-            "n_matches": 9
-        },
-        {
-            "player": "Silver Seraph",
-            "score": -1.2,
+            "score": -1.8,
             "n_matches": 10
         }
     ],
-    "elo": 1618.357746878419,
-    "score_average": 44.28635253635254,
-    "score_total": 442.86352536352535,
+    "elo": 1612.1018499700103,
+    "score_average": 43.566105611560154,
+    "score_total": 479.22716172716173,
     "elo_list": [
         1600.0,
         1600.0,
@@ -216,7 +216,9 @@
         1618.357746878419,
         1618.357746878419,
         1618.357746878419,
-        1618.357746878419
+        1618.357746878419,
+        1618.357746878419,
+        1612.1018499700103
     ],
     "badges": []
 }
