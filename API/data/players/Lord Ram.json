@@ -1,53 +1,63 @@
 {
     "cards": [
         {
+            "card": "Black Lotus",
+            "count": 2,
+            "%": 33.33333333333333
+        },
+        {
             "card": "Elvish Champion",
             "count": 1,
-            "%": 33.33333333333333
+            "%": 16.666666666666664
         },
         {
             "card": "Imperious Perfect",
             "count": 1,
-            "%": 33.33333333333333
+            "%": 16.666666666666664
         },
         {
             "card": "Marwyn, the Nurturer",
             "count": 1,
-            "%": 33.33333333333333
+            "%": 16.666666666666664
+        },
+        {
+            "card": "The Coming of Galactus",
+            "count": 1,
+            "%": 16.666666666666664
         }
     ],
-    "n_rounds_played": 1,
+    "n_rounds_played": 2,
     "n_wins": 0,
     "nemesis": [
         {
-            "player": "lollonator",
-            "score": -6.0,
-            "n_matches": 1
-        },
-        {
             "player": "Schniggi",
             "score": -6.0,
-            "n_matches": 1
+            "n_matches": 2
         },
         {
             "player": "Silver Seraph",
             "score": -6.0,
-            "n_matches": 1
+            "n_matches": 2
         },
         {
             "player": "Master_of_Desaster",
             "score": -6.0,
-            "n_matches": 1
+            "n_matches": 2
         },
         {
-            "player": "Namse",
-            "score": 0.0,
-            "n_matches": 1
+            "player": "lollonator",
+            "score": -3.0,
+            "n_matches": 2
+        },
+        {
+            "player": "Michael W",
+            "score": -3.0,
+            "n_matches": 2
         }
     ],
-    "elo": 1603.6365181648878,
-    "score_average": 50.0,
-    "score_total": 50.0,
+    "elo": 1598.8585406923803,
+    "score_average": 41.666666666666664,
+    "score_total": 83.33333333333333,
     "elo_list": [
         1600.0,
         1600.0,
@@ -208,7 +218,8 @@
         1600.0,
         1600.0,
         1600.0,
-        1603.6365181648878
+        1603.6365181648878,
+        1598.8585406923803
     ],
     "badges": []
 }
