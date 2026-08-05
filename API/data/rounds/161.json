@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Wasteland",
+                "Crashing Footfalls",
+                "Mental Misstep"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Castle Doom",
+                "Wasteland",
+                "Devour Intellect"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "Tolarian Academy",
+                "Kappa Cannoneer"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Maze of Ith",
+                "Lion's Eye Diamond",
+                "Emrakul, the Aeons Torn"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Urza's Saga",
+                "Urza's Saga",
+                "Tolarian Academy"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Aether Vial",
+                "Mangara of Corondor"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Schniggi",
+            "cards": [
+                "Kataki, War's Wage",
+                "Devour Intellect",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Optimiert",
+            "cards": [
+                "Wasteland",
+                "Karakas",
+                "Kataki, War's Wage"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "hug77",
+            "cards": [
+                "Black Lotus",
+                "Tolarian Academy",
+                "Kappa Cannoneer"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "lollonator",
+            "cards": [
+                "Dryad Arbor",
+                "Unmask",
+                "Faerie Macabre"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "Daeron",
+            "cards": [
+                "Westvale Abbey // Ormendahl, Profane Prince",
+                "Bitterblossom",
+                "Greater Gargadon"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                1,
+                6,
+                0,
+                6,
+                6,
+                6,
+                1,
+                3,
+                6,
+                41
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                3,
+                3,
+                0,
+                6,
+                3,
+                6,
+                3,
+                6,
+                6,
+                36
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                4,
+                3,
+                0,
+                6,
+                6,
+                6,
+                3,
+                3,
+                3,
+                3,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                3,
+                0,
+                0,
+                0,
+                2,
+                2,
+                0,
+                0,
+                2,
+                0,
+                9
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                0,
+                0,
+                6,
+                6,
+                42
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                0,
+                6,
+                10
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                3,
+                3,
+                2,
+                0,
+                2,
+                0,
+                2,
+                3,
+                1,
+                3,
+                19
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                0,
+                3,
+                6,
+                6,
+                6,
+                2,
+                0,
+                3,
+                2,
+                1,
+                29
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                4,
+                3,
+                3,
+                6,
+                6,
+                6,
+                3,
+                3,
+                0,
+                3,
+                6,
+                43
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                0,
+                3,
+                2,
+                0,
+                6,
+                4,
+                2,
+                3,
+                0,
+                0,
+                23
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                3,
+                4,
+                0,
+                6,
+                0,
+                19
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177503-neuauflage-3-cards-blind-runde-161/"
+}
