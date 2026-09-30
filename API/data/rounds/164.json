@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Bayou",
+                "Duress",
+                "Slumbering Trudge"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "BlackHole",
+            "cards": [
+                "Quicksilver, Brash Blur",
+                "Force of Will",
+                "Giant Oyster"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Optimiert",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Geth's Verdict"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Schniggi",
+            "cards": [
+                "Caves of Koilos",
+                "Death's Shadow",
+                "Path to Exile"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "hug77",
+            "cards": [
+                "Foil",
+                "Island",
+                "Chancellor of the Forge"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "Karakas",
+                "Wasteland",
+                "Inkmoth Nexus"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "Mishra's Workshop",
+                "Trinisphere",
+                "Iron Spider, Stark Upgrade"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Boseiju, Who Endures",
+                "Treetop Village",
+                "Sunken Citadel"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Silver Seraph",
+            "cards": [
+                "Bottomless Vault",
+                "Smallpox",
+                "Ulamog, the Infinite Gyre"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Volrath's Stronghold",
+                "Orzhov Basilica",
+                "Necrotic Sliver"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                6,
+                3,
+                2,
+                6,
+                6,
+                0,
+                6,
+                6,
+                0,
+                35
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                0,
+                0,
+                6,
+                2,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                6,
+                15
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                2,
+                2,
+                0,
+                0,
+                2,
+                0,
+                0,
+                2,
+                0,
+                6,
+                14
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                2,
+                6,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                10
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                6,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                6,
+                6,
+                6,
+                6,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                6,
+                6,
+                2,
+                6,
+                0,
+                6,
+                0,
+                6,
+                6,
+                38
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                6,
+                6,
+                6,
+                6,
+                0,
+                6,
+                0,
+                0,
+                3,
+                33
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                6,
+                6,
+                0,
+                0,
+                6,
+                0,
+                6,
+                0,
+                3,
+                0,
+                27
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177564-neuauflage-3-cards-blind-runde-164/"
+}

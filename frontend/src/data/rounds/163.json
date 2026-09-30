@@ -1,0 +1,293 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Wasteland",
+                "Forest",
+                "Crashing Footfalls"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "lollonator",
+            "cards": [
+                "Black Lotus",
+                "Funeral Charm",
+                "Bitterblossom"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Schniggi",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Elspeth, Sun's Champion"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Lightning Helix"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "Michael W",
+            "cards": [
+                "Black Lotus",
+                "Black Lotus",
+                "Chandra, Awakened Inferno"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Dwarven Hold",
+                "Chandra, Awakened Inferno",
+                "The Tabernacle at Pendrell Vale"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Urborg, Tomb of Yawgmoth",
+                "Sanctum of Stone Fangs"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Optimiert",
+            "cards": [
+                "Fountain of Cho",
+                "Ghostly Prison",
+                "Sacred Mesa"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Daeron",
+            "cards": [
+                "Icatian Store",
+                "Silent Arbiter",
+                "Approach of the Second Sun"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Karakas",
+                "Leyline of Singularity",
+                "The Millennium Calendar"
+            ]
+        },
+        {
+            "index": 11,
+            "player": "hug77",
+            "cards": [
+                "Leyline of Singularity",
+                "Black Lotus",
+                "Sanctum of Stone Fangs"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                0,
+                0,
+                6,
+                0,
+                4,
+                6,
+                6,
+                6,
+                2,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                6,
+                0,
+                3,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                1,
+                1,
+                26
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                6,
+                3,
+                0,
+                3,
+                6,
+                0,
+                0,
+                6,
+                6,
+                0,
+                0,
+                30
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                3,
+                3,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                48
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                6,
+                3,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                6,
+                45
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                1,
+                3,
+                6,
+                0,
+                0,
+                0,
+                6,
+                6,
+                6,
+                6,
+                6,
+                40
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                2,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                6,
+                2,
+                22
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                2
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                0,
+                2,
+                0,
+                0,
+                0,
+                0,
+                6,
+                6,
+                0,
+                6,
+                6,
+                26
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                2,
+                4,
+                6,
+                0,
+                0,
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                18
+            ]
+        },
+        {
+            "index": 11,
+            "values": [
+                6,
+                4,
+                6,
+                0,
+                0,
+                0,
+                2,
+                6,
+                0,
+                6,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177549-neuauflage-3-cards-blind-runde-163/"
+}
