@@ -2,37 +2,37 @@
     "cards": [
         {
             "card": "Black Lotus",
-            "count": 18,
-            "%": 14.87603305785124
+            "count": 19,
+            "%": 15.32258064516129
         },
         {
             "card": "Leyline of Anticipation",
             "count": 4,
-            "%": 3.3057851239669422
+            "%": 3.225806451612903
         },
         {
             "card": "Mishra's Workshop",
             "count": 4,
-            "%": 3.3057851239669422
+            "%": 3.225806451612903
+        },
+        {
+            "card": "Anointed Peacekeeper",
+            "count": 3,
+            "%": 2.4193548387096775
         },
         {
             "card": "City of Traitors",
             "count": 3,
-            "%": 2.479338842975207
-        },
-        {
-            "card": "Minsc & Boo, Timeless Heroes",
-            "count": 3,
-            "%": 2.479338842975207
+            "%": 2.4193548387096775
         }
     ],
-    "n_rounds_played": 39,
+    "n_rounds_played": 40,
     "n_wins": 9,
     "nemesis": [
         {
             "player": "hug77",
-            "score": -0.15384615384615385,
-            "n_matches": 39
+            "score": -0.15,
+            "n_matches": 40
         },
         {
             "player": "Sedris",
@@ -46,18 +46,18 @@
         },
         {
             "player": "Silver Seraph",
-            "score": 0.3157894736842105,
-            "n_matches": 38
+            "score": 0.38461538461538464,
+            "n_matches": 39
         },
         {
             "player": "The Beast",
-            "score": 1.0833333333333333,
-            "n_matches": 36
+            "score": 1.054054054054054,
+            "n_matches": 37
         }
     ],
-    "elo": 1744.4746870118074,
-    "score_average": 62.39713989713988,
-    "score_total": 2433.4884559884554,
+    "elo": 1748.319319834359,
+    "score_average": 62.295544733044736,
+    "score_total": 2491.8217893217893,
     "elo_list": [
         1600.0,
         1600.0,
@@ -224,7 +224,8 @@
         1780.7893557974915,
         1767.7204369269368,
         1745.198022910948,
-        1744.4746870118074
+        1744.4746870118074,
+        1748.319319834359
     ],
     "badges": [
         {
