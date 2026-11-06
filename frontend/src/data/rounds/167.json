@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Mox Sapphire",
+                "Inkmoth Nexus",
+                "Fblthp, Impossibly Lost"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mana Crypt",
+                "Interplanar Beacon",
+                "Oko, Thief of Crowns"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Optimiert",
+            "cards": [
+                "Black Lotus",
+                "Innocent Blood",
+                "Animate Dead"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Forest",
+                "Durkwood Baloth"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "BlackHole",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Battle Menu"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "lollonator",
+            "cards": [
+                "City of Traitors",
+                "Isochron Scepter",
+                "Geth's Verdict"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "Schniggi",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Michael W",
+            "cards": [
+                "Mishra's Workshop",
+                "Ensnaring Bridge",
+                "Scalding Tongs"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "The Beast",
+            "cards": [
+                "The Tabernacle at Pendrell Vale",
+                "Wasteland",
+                "Mishra's Factory"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                6,
+                6,
+                6,
+                3,
+                3,
+                3,
+                4,
+                37
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                3,
+                3,
+                6,
+                6,
+                6,
+                4,
+                43
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                0,
+                0,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                3,
+                9
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                0,
+                2,
+                2,
+                2,
+                2,
+                1,
+                24
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                0,
+                3,
+                6,
+                6,
+                2,
+                0,
+                3,
+                3,
+                3,
+                1,
+                27
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                2,
+                3,
+                0,
+                3,
+                3,
+                4,
+                30
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                2,
+                3,
+                3,
+                0,
+                3,
+                4,
+                30
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                0,
+                6,
+                6,
+                2,
+                3,
+                3,
+                3,
+                0,
+                4,
+                30
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                1,
+                1,
+                6,
+                3,
+                4,
+                4,
+                1,
+                1,
+                1,
+                0,
+                22
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177601-neuauflage-3-cards-blind-runde-167/"
+}
