@@ -1,0 +1,257 @@
+{
+    "decks": [
+        {
+            "index": 1,
+            "player": "Namse",
+            "cards": [
+                "Inkmoth Nexus",
+                "Mox Jet",
+                "Salt Vampire"
+            ]
+        },
+        {
+            "index": 2,
+            "player": "Schniggi",
+            "cards": [
+                "Black Lotus",
+                "City of Traitors",
+                "U.S.S. Enterprise-A, Free Spirit"
+            ]
+        },
+        {
+            "index": 3,
+            "player": "Master_of_Desaster",
+            "cards": [
+                "Mox Jet",
+                "Mishra's Factory",
+                "Salt Vampire"
+            ]
+        },
+        {
+            "index": 4,
+            "player": "BlackHole",
+            "cards": [
+                "Black Lotus",
+                "Dr. Leonard \"Bones\" McCoy",
+                "Zero, Incorporeal Sensate"
+            ]
+        },
+        {
+            "index": 5,
+            "player": "The Beast",
+            "cards": [
+                "Black Lotus",
+                "City of Traitors",
+                "U.S.S. Enterprise-A, Free Spirit"
+            ]
+        },
+        {
+            "index": 6,
+            "player": "Silver Seraph",
+            "cards": [
+                "Mox Jet",
+                "Mishra's Factory",
+                "Salt Vampire"
+            ]
+        },
+        {
+            "index": 7,
+            "player": "lollonator",
+            "cards": [
+                "Mountain",
+                "Defense Force Aggressor",
+                "Gin'tak Charge"
+            ]
+        },
+        {
+            "index": 8,
+            "player": "Michael W",
+            "cards": [
+                "Captain Jonathan Archer",
+                "Dryad Arbor",
+                "Black Lotus"
+            ]
+        },
+        {
+            "index": 9,
+            "player": "Optimiert",
+            "cards": [
+                "Black Lotus",
+                "Salt Vampire",
+                "Storied Veteran"
+            ]
+        },
+        {
+            "index": 10,
+            "player": "hug77",
+            "cards": [
+                "Mishra's Factory",
+                "Mox Jet",
+                "Salt Vampire"
+            ]
+        }
+    ],
+    "results": [
+        {
+            "index": 1,
+            "values": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                3,
+                6,
+                3,
+                3,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 2,
+            "values": [
+                3,
+                0,
+                3,
+                3,
+                2,
+                3,
+                6,
+                6,
+                3,
+                3,
+                32
+            ]
+        },
+        {
+            "index": 3,
+            "values": [
+                3,
+                3,
+                0,
+                3,
+                3,
+                3,
+                6,
+                3,
+                3,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 4,
+            "values": [
+                3,
+                3,
+                3,
+                0,
+                3,
+                3,
+                6,
+                4,
+                3,
+                3,
+                31
+            ]
+        },
+        {
+            "index": 5,
+            "values": [
+                3,
+                2,
+                3,
+                3,
+                0,
+                3,
+                6,
+                6,
+                3,
+                3,
+                32
+            ]
+        },
+        {
+            "index": 6,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                0,
+                6,
+                3,
+                3,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 7,
+            "values": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "index": 8,
+            "values": [
+                3,
+                0,
+                3,
+                1,
+                0,
+                3,
+                6,
+                0,
+                3,
+                3,
+                22
+            ]
+        },
+        {
+            "index": 9,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                6,
+                3,
+                0,
+                3,
+                30
+            ]
+        },
+        {
+            "index": 10,
+            "values": [
+                3,
+                3,
+                3,
+                3,
+                3,
+                3,
+                6,
+                3,
+                3,
+                0,
+                30
+            ]
+        }
+    ],
+    "link": "https://www.mtg-forum.de/topic/177617-neuauflage-3-cards-blind-runde-168/"
+}
